@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+charts/_case_paths.json
+~$*.xlsx
+.~lock.*
