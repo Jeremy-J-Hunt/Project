@@ -1,0 +1,72 @@
+[
+  {
+    "charge": "Charge code 0189 9316 0007",
+    "Created": "19 October 2020",
+    "Delivered": "23 October 2020",
+    "Status": "Satisfied on 5 June 2023",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0189 9316 0006",
+    "Created": "25 March 2020",
+    "Delivered": "27 March 2020",
+    "Status": "Satisfied on 20 October 2020",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "Contains fixed charge…"
+  },
+  {
+    "charge": "Charge code 0189 9316 0005",
+    "Created": "15 January 2019",
+    "Delivered": "16 January 2019",
+    "Status": "Satisfied on 20 October 2020",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC (In Its Capacity as Security Agent for the Secured Parties)"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0189 9316 0004",
+    "Created": "22 June 2017",
+    "Delivered": "29 June 2017",
+    "Status": "Satisfied on 9 October 2020",
+    "persons_entitled": [
+      "Hsbc Bank PLC"
+    ],
+    "description": "Contains fixed charge…"
+  },
+  {
+    "charge": "Charge code 0189 9316 0003",
+    "Created": "22 June 2017",
+    "Delivered": "29 June 2017",
+    "Status": "Satisfied on 9 October 2020",
+    "persons_entitled": [
+      "Hsbc Bank PLC"
+    ],
+    "description": "Contains fixed charge…"
+  },
+  {
+    "charge": "Charge code 0189 9316 0002",
+    "Created": "17 May 2017",
+    "Delivered": "24 May 2017",
+    "Status": "Satisfied on 20 October 2020",
+    "persons_entitled": [
+      "Lloyds Bank PLC (As Security Agent)"
+    ],
+    "description": "Not applicable…"
+  },
+  {
+    "charge": "Debenture",
+    "Created": "30 June 2000",
+    "Delivered": "6 July 2000",
+    "Status": "Satisfied on 12 February 2001",
+    "persons_entitled": [
+      "Societe Generale"
+    ],
+    "description": ".. fixed and floating charges over the undertaking and all…"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "charge": "Charge code 1573 6419 0002",
+    "Created": "16 August 2024",
+    "Delivered": "21 August 2024",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Glas Trust Corporation Limited as Security Agent"
+    ],
+    "description": "Contains fixed charge…"
+  },
+  {
+    "charge": "Charge code 1573 6419 0001",
+    "Created": "12 July 2024",
+    "Delivered": "22 July 2024",
+    "Status": "Satisfied on 5 September 2024",
+    "persons_entitled": [
+      "Glas Trust Corporation Limited (As Interim Security Agent)"
+    ],
+    "description": "Contains fixed charge…"
+  }
+]

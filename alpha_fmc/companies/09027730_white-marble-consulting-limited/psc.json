@@ -1,0 +1,49 @@
+[
+  {
+    "name": "White Marble Group Limited",
+    "Correspondence address": "C/O William Sturges Llp Burwood House, 14-16 Caxton Street, London, United Kingdom, United Kingdom, SW1H 0QY",
+    "Notified on": "16 March 2021",
+    "Governing law": "United Kingdom",
+    "Legal form": "Limited By Shares",
+    "Place registered": "Companies House",
+    "Registration number": "13175157",
+    "Incorporated in": "United Kingdom",
+    "Nature of control": "Ownership of shares – 75% or more",
+    "status": "Active",
+    "natures_of_control": [
+      "Ownership of shares – 75% or more",
+      "Ownership of voting rights - 75% or more",
+      "Right to appoint or remove directors"
+    ]
+  },
+  {
+    "name": "Mrs Georgina Rosemary Jane Field",
+    "Correspondence address": "28 Queen Street, London, United Kingdom, EC4R 1BB",
+    "Notified on": "6 April 2016",
+    "Ceased on": "16 March 2021",
+    "Date of birth": "May 1977",
+    "Nationality": "British",
+    "Place of residence": "United Kingdom",
+    "Nature of control": "Ownership of shares – More than 50% but less than 75%",
+    "status": "Ceased",
+    "natures_of_control": [
+      "Ownership of shares – More than 50% but less than 75%",
+      "Ownership of voting rights - More than 50% but less than 75%"
+    ]
+  },
+  {
+    "name": "Ms Tara Mccorquodale",
+    "Correspondence address": "28 Queen Street, London, England, EC4R 1BB",
+    "Notified on": "6 April 2016",
+    "Ceased on": "30 April 2019",
+    "Date of birth": "January 1973",
+    "Nationality": "British",
+    "Place of residence": "United Kingdom",
+    "Nature of control": "Ownership of shares – More than 25% but not more than 50%",
+    "status": "Ceased",
+    "natures_of_control": [
+      "Ownership of shares – More than 25% but not more than 50%",
+      "Ownership of voting rights - More than 25% but not more than 50%"
+    ]
+  }
+]

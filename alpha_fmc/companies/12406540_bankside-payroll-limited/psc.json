@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Statement Active",
+    "Notified on": "1 January 2024",
+    "status": "Active",
+    "natures_of_control": []
+  },
+  {
+    "name": "Mr Robert Joseph Surridge",
+    "Correspondence address": "27 Old Gloucester Street, London, England, WC1N 3AX",
+    "Notified on": "16 January 2020",
+    "Ceased on": "1 January 2024",
+    "Date of birth": "November 1978",
+    "Nationality": "British",
+    "Place of residence": "England",
+    "Nature of control": "Ownership of shares – More than 25% but not more than 50%",
+    "status": "Ceased",
+    "natures_of_control": [
+      "Ownership of shares – More than 25% but not more than 50%",
+      "Ownership of voting rights - More than 25% but not more than 50%"
+    ]
+  },
+  {
+    "name": "Mr Paul James Cardosi",
+    "Correspondence address": "27 Old Gloucester Street, London, England, WC1N 3AX",
+    "Notified on": "16 January 2020",
+    "Ceased on": "1 January 2024",
+    "Date of birth": "November 1971",
+    "Nationality": "British",
+    "Place of residence": "England",
+    "Nature of control": "Has significant influence or control",
+    "status": "Ceased",
+    "natures_of_control": [
+      "Has significant influence or control"
+    ]
+  },
+  {
+    "name": "Mr Robert Joseph Surridge",
+    "Correspondence address": "27 Old Gloucester Street, London, England, WC1N 3AX",
+    "Notified on": "16 January 2020",
+    "Ceased on": "16 January 2020",
+    "Date of birth": "July 1990",
+    "Nationality": "British",
+    "Place of residence": "England",
+    "Nature of control": "Has significant influence or control",
+    "status": "Ceased",
+    "natures_of_control": [
+      "Has significant influence or control"
+    ]
+  }
+]

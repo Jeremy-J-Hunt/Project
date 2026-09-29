@@ -1,0 +1,742 @@
+[
+  {
+    "charge": "Charge code 0322 0373 0074",
+    "Created": "21 August 2026",
+    "Delivered": "24 August 2026",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Dbs Bank LTD. 300 South Grand Ave 3075, Los Angeles 90071, California, United States (As Trustee for Each of the Secured Parties)"
+    ],
+    "description": "Contains fixed charge…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0073",
+    "Created": "10 July 2026",
+    "Delivered": "14 July 2026",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Bridgepoint Europe Viii B Scsp"
+    ],
+    "description": "Contains fixed charge…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0072",
+    "Created": "10 July 2026",
+    "Delivered": "14 July 2026",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Bridgepoint Europe Viii a Scsp"
+    ],
+    "description": "Contains fixed charge…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0071",
+    "Created": "26 June 2026",
+    "Delivered": "7 July 2026",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC as Security Trustee for Itself and the Other Secured Parties"
+    ],
+    "description": "Contains fixed charge…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0070",
+    "Created": "25 June 2025",
+    "Delivered": "25 June 2025",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Kroll Trustee Services Limited"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0069",
+    "Created": "3 March 2025",
+    "Delivered": "19 March 2025",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Goldman Sachs Bank Usa (As Security Agent)"
+    ],
+    "description": "Contains fixed charge…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0065",
+    "Created": "3 March 2025",
+    "Delivered": "16 March 2025",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Goldman Sachs Bank Usa"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0068",
+    "Created": "28 February 2025",
+    "Delivered": "17 March 2025",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Goldman Sachs Bank Usa"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0067",
+    "Created": "28 February 2025",
+    "Delivered": "17 March 2025",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Goldman Sachs Bank Usa"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0066",
+    "Created": "28 February 2025",
+    "Delivered": "17 March 2025",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Goldman Sachs Bank Usa"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0064",
+    "Created": "28 February 2025",
+    "Delivered": "16 March 2025",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Goldman Sachs Bank Usa"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0063",
+    "Created": "28 February 2025",
+    "Delivered": "16 March 2025",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Goldman Sachs Bank Usa"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0062",
+    "Created": "23 January 2025",
+    "Delivered": "5 February 2025",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC (As Security Trustee)"
+    ],
+    "description": "Contains fixed charge…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0061",
+    "Created": "23 January 2025",
+    "Delivered": "30 January 2025",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "None…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0060",
+    "Created": "23 January 2025",
+    "Delivered": "30 January 2025",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "None…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0059",
+    "Created": "23 January 2025",
+    "Delivered": "30 January 2025",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "None…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0058",
+    "Created": "23 January 2025",
+    "Delivered": "30 January 2025",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "None…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0057",
+    "Created": "23 January 2025",
+    "Delivered": "29 January 2025",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "None…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0056",
+    "Created": "23 January 2025",
+    "Delivered": "29 January 2025",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "None…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0055",
+    "Created": "23 January 2025",
+    "Delivered": "29 January 2025",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "None…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0054",
+    "Created": "23 January 2025",
+    "Delivered": "29 January 2025",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "None…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0053",
+    "Created": "23 January 2025",
+    "Delivered": "29 January 2025",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "None…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0052",
+    "Created": "25 September 2024",
+    "Delivered": "7 October 2024",
+    "Status": "Satisfied on 27 December 2024",
+    "persons_entitled": [
+      "Kroll Trustee Services Limited, the News Building, Level 6, 3 London Bridge Street, London, SE1 9SG (Acting as Security Agent for Each of the Secured Parties)"
+    ],
+    "description": "Contains fixed charge…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0047",
+    "Created": "25 September 2024",
+    "Delivered": "2 October 2024",
+    "Status": "Satisfied on 27 December 2024",
+    "persons_entitled": [
+      "Kroll Trustee Services Limited, the News Building, Level 6, 3 London Bridge Street, London, SE1 9SG (Acting as Security Agent for Each of the Secured Parties)"
+    ],
+    "description": "Contains fixed charge…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0051",
+    "Created": "23 September 2024",
+    "Delivered": "2 October 2024",
+    "Status": "Satisfied on 13 November 2024",
+    "persons_entitled": [
+      "Kroll Trustee Services Limited, the News Building, Level 6, 3 London Bridge Street, London, SE1 9SG (Acting as Security Agent for Each of the Secured Parties)"
+    ],
+    "description": "Contains fixed charge…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0050",
+    "Created": "23 September 2024",
+    "Delivered": "2 October 2024",
+    "Status": "Satisfied on 13 November 2024",
+    "persons_entitled": [
+      "Kroll Trustee Services Limited, the News Building, Level 6, 3 London Bridge Street, London, SE1 9SG (Acting as Security Agent for Each of the Secured Parties)"
+    ],
+    "description": "Contains fixed charge…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0049",
+    "Created": "23 September 2024",
+    "Delivered": "2 October 2024",
+    "Status": "Satisfied on 27 December 2024",
+    "persons_entitled": [
+      "Kroll Trustee Services Limited, the News Building, Level 6, 3 London Bridge Street, London, SE1 9SG (Acting as Security Agent for Each of the Secured Parties)"
+    ],
+    "description": "Contains fixed charge…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0048",
+    "Created": "23 September 2024",
+    "Delivered": "2 October 2024",
+    "Status": "Satisfied on 27 December 2024",
+    "persons_entitled": [
+      "Kroll Trustee Services Limited, the News Building, Level 6, 3 London Bridge Street, London, SE1 9SG (Acting as Security Agent for Each of the Secured Parties)"
+    ],
+    "description": "Contains fixed charge…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0046",
+    "Created": "28 June 2024",
+    "Delivered": "5 July 2024",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Bridgepoint Europe Vii a Scsp"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0045",
+    "Created": "28 June 2024",
+    "Delivered": "5 July 2024",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0044",
+    "Created": "28 June 2024",
+    "Delivered": "5 July 2024",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0043",
+    "Created": "28 June 2024",
+    "Delivered": "5 July 2024",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0042",
+    "Created": "28 June 2024",
+    "Delivered": "5 July 2024",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0041",
+    "Created": "28 June 2024",
+    "Delivered": "5 July 2024",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0040",
+    "Created": "28 June 2024",
+    "Delivered": "5 July 2024",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Bridgepoint Advisers Limited"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0039",
+    "Created": "28 February 2024",
+    "Delivered": "13 March 2024",
+    "Status": "Satisfied on 25 June 2025",
+    "persons_entitled": [
+      "Kroll Trustee Services Limited"
+    ],
+    "description": "Contains fixed charge…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0038",
+    "Created": "15 September 2023",
+    "Delivered": "26 September 2023",
+    "Status": "Satisfied on 26 March 2024",
+    "persons_entitled": [
+      "Kroll Trustee Services Limited"
+    ],
+    "description": "Contains fixed charge…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0037",
+    "Created": "13 September 2023",
+    "Delivered": "19 September 2023",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Standard Chartered Bank"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0036",
+    "Created": "13 September 2023",
+    "Delivered": "19 September 2023",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Standard Chartered Bank"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0035",
+    "Created": "12 June 2023",
+    "Delivered": "14 June 2023",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0034",
+    "Created": "12 June 2023",
+    "Delivered": "14 June 2023",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0033",
+    "Created": "12 June 2023",
+    "Delivered": "14 June 2023",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0032",
+    "Created": "12 June 2023",
+    "Delivered": "14 June 2023",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0031",
+    "Created": "12 June 2023",
+    "Delivered": "14 June 2023",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0030",
+    "Created": "21 March 2023",
+    "Delivered": "3 April 2023",
+    "Status": "Satisfied on 6 March 2025",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0029",
+    "Created": "21 March 2023",
+    "Delivered": "3 April 2023",
+    "Status": "Satisfied on 6 March 2025",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0028",
+    "Created": "21 March 2023",
+    "Delivered": "3 April 2023",
+    "Status": "Satisfied on 6 March 2025",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0027",
+    "Created": "21 March 2023",
+    "Delivered": "3 April 2023",
+    "Status": "Satisfied on 6 March 2025",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0026",
+    "Created": "21 March 2023",
+    "Delivered": "3 April 2023",
+    "Status": "Satisfied on 6 March 2025",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0025",
+    "Created": "16 February 2023",
+    "Delivered": "1 March 2023",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Coöperatieve Rabobank U.A."
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0024",
+    "Created": "7 November 2022",
+    "Delivered": "15 November 2022",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0023",
+    "Created": "7 November 2022",
+    "Delivered": "15 November 2022",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0022",
+    "Created": "29 September 2022",
+    "Delivered": "14 October 2022",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC (As Security Agent)"
+    ],
+    "description": "Contains fixed charge…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0021",
+    "Created": "29 September 2022",
+    "Delivered": "12 October 2022",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0020",
+    "Created": "29 September 2022",
+    "Delivered": "12 October 2022",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0019",
+    "Created": "29 September 2022",
+    "Delivered": "12 October 2022",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0018",
+    "Created": "29 September 2022",
+    "Delivered": "12 October 2022",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0017",
+    "Created": "29 September 2022",
+    "Delivered": "12 October 2022",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0016",
+    "Created": "29 September 2022",
+    "Delivered": "12 October 2022",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0015",
+    "Created": "29 September 2022",
+    "Delivered": "12 October 2022",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0014",
+    "Created": "29 September 2022",
+    "Delivered": "12 October 2022",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0013",
+    "Created": "29 September 2022",
+    "Delivered": "12 October 2022",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0012",
+    "Created": "9 June 2022",
+    "Delivered": "21 June 2022",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0011",
+    "Created": "9 June 2022",
+    "Delivered": "21 June 2022",
+    "Status": "Outstanding",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0010",
+    "Created": "19 October 2020",
+    "Delivered": "23 October 2020",
+    "Status": "Satisfied on 5 June 2023",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0009",
+    "Created": "25 March 2020",
+    "Delivered": "27 March 2020",
+    "Status": "Satisfied on 20 October 2020",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC"
+    ],
+    "description": "Contains fixed charge…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0008",
+    "Created": "15 January 2019",
+    "Delivered": "16 January 2019",
+    "Status": "Satisfied on 20 October 2020",
+    "persons_entitled": [
+      "Lloyds Bank Corporate Markets PLC (In Its Capacity as Security Agent for the Secured Parties)"
+    ],
+    "description": "N/A…"
+  },
+  {
+    "charge": "Charge code 0322 0373 0007",
+    "Created": "17 May 2017",
+    "Delivered": "24 May 2017",
+    "Status": "Satisfied on 20 October 2020",
+    "persons_entitled": [
+      "Lloyds Bank PLC (As Security Agent)"
+    ],
+    "description": "Not applicable…"
+  },
+  {
+    "charge": "Collateral agreement",
+    "Created": "3 September 2008",
+    "Delivered": "10 September 2008",
+    "Status": "Satisfied on 26 May 2017",
+    "persons_entitled": [
+      "Citibank, N.A., London for Itself and on Behalf of Citigroup, Inc.,"
+    ],
+    "description": "The rights to, benefits and proceeds of anything of any…"
+  },
+  {
+    "charge": "Shares mortgage",
+    "Created": "16 March 2006",
+    "Delivered": "24 March 2006",
+    "Status": "Satisfied on 9 June 2017",
+    "persons_entitled": [
+      "Banca Nazionale Del Lavoro S.P.a as Agent and Security Agent and Trustee Fo R the Securedcreditors (The Security Trustee)"
+    ],
+    "description": "First fixed charge all the shares all related rights. See…"
+  },
+  {
+    "charge": "Shares mortgage",
+    "Created": "16 March 2006",
+    "Delivered": "24 March 2006",
+    "Status": "Satisfied on 9 June 2017",
+    "persons_entitled": [
+      "Banca Nazionale Del Lavoro S.P.a as Agent and Security Agent and Trustee for the Securedcreditors (The Security Trustee)"
+    ],
+    "description": "First fixed charge all the shares, all related rights. See…"
+  },
+  {
+    "charge": "Share mortgage",
+    "Created": "24 August 2005",
+    "Delivered": "8 September 2005",
+    "Status": "Satisfied on 9 June 2017",
+    "persons_entitled": [
+      "Banca Nanazionale Del Lavoro S.P.A. (The Security Trustee)"
+    ],
+    "description": "All the shares being (a) the 1 b ordinary share (documented…"
+  },
+  {
+    "charge": "Shares mortgage",
+    "Created": "24 August 2005",
+    "Delivered": "8 September 2005",
+    "Status": "Satisfied on 9 June 2017",
+    "persons_entitled": [
+      "Banca Nanazionale Del Lavoro S.P.A. (The Security Trustee)"
+    ],
+    "description": "All the shares being (a) the 1 b ordinary share (documented…"
+  },
+  {
+    "charge": "Debenture",
+    "Created": "30 June 2000",
+    "Delivered": "6 July 2000",
+    "Status": "Satisfied on 12 February 2001",
+    "persons_entitled": [
+      "Societe Gererale"
+    ],
+    "description": ".. fixed and floating charges over the undertaking and all…"
+  }
+]

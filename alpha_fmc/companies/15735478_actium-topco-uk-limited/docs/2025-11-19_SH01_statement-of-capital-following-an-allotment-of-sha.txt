@@ -1,0 +1,128 @@
+SH01(ef)
+ Return of Allotment of Shares
+ 
+Company Name: ACTIUM TOPCO (UK) LIMITED
+Company Number: 15735478
+Received for filing in Electronic Format on the: 19/11/2025 XEFO5O3N
+ 
+Shares Allotted (including bonus shares)
+Date or period during which 
+shares are allotted
+From To
+12/09/2025
+Class of Shares: C1 
+ORDINARY
+Currency: GBP
+Number allotted 10587
+Nominal value of each share 0.01
+Amount paid: 0.01
+Amount unpaid: 0
+No shares allotted other than for cash
+Class of Shares: C1 
+ORDINARY
+Currency: GBP
+Number allotted 32339
+Nominal value of each share 0.01
+Amount paid: 1.85
+Amount unpaid: 0
+No shares allotted other than for cash
+Class of Shares: D1 
+ORDINARY
+Currency: GBP
+Number allotted 10587
+Nominal value of each share 0.01
+Amount paid: 0.01
+Amount unpaid: 0
+No shares allotted other than for cash
+Class of Shares: D1 
+ORDINARY
+Number allotted 32339
+Nominal value of each share 0.01
+Electronically filed document for Company Number: 15735478 Page: 1
+Currency: GBP Amount paid: 0.05
+Amount unpaid: 0
+No shares allotted other than for cash
+Electronically filed document for Company Number: 15735478 Page: 2
+Statement of Capital (Share Capital)
+Class of Shares: A 
+ORDINARY
+Currency: GBP
+Number allotted 4126985
+Aggregate nominal value: 41269.85
+Prescribed particulars
+A. FULL VOTING RIGHTS B. RIGHT TO DIVIDENDS TO THE EXTENT DECLARED ON THE 
+RELEVANT CLASS OF SHARES. C. ENTITLED TO A SHARE OF THE ASSETS ON A WINDING-
+UP OR RETURN OF CAPITAL AFTER PAYMENT OF PRIORITY SHARES, MRP PRIORITY 
+SHARES, AND LOAN NOTES, AND IN ACCORDANCE WITH THE WATERFALL PROVISIONS 
+(ARTICLE 44). D. THEY DO NOT CONFER RIGHTS OF REDEMPTION
+Class of Shares: B 
+ORDINARY
+Currency: GBP
+Number allotted 255578
+Aggregate nominal value: 2555.78
+Prescribed particulars
+A. FULL VOTING RIGHTS B. RIGHT TO DIVIDENDS TO THE EXTENT DECLARED ON THE 
+RELEVANT CLASS OF SHARES. C. ENTITLED TO A SHARE OF THE ASSETS ON A WINDING-
+UP OR RETURN OF CAPITAL AFTER PAYMENT OF PRIORITY SHARES, MRP PRIORITY 
+SHARES, AND LOAN NOTES, AND IN ACCORDANCE WITH THE WATERFALL PROVISIONS 
+(ARTICLE 44). D. THEY DO NOT CONFER RIGHTS OF REDEMPTION
+Class of Shares: C1 
+ORDINARY 
+SHARES
+Currency: GBP
+Number allotted 577297
+Aggregate nominal value: 5772.97
+Prescribed particulars
+A. NO VOTING RIGHTS B. RIGHT TO DIVIDENDS TO THE EXTENT DECLARED ON THE 
+RELEVANT CLASS OF SHARES. C. ENTITLED TO A SHARE OF THE ASSETS ON A WINDING-
+UP OR RETURN OF CAPITAL AFTER PAYMENT OF PRIORITY SHARES, MRP PRIORITY 
+SHARES, AND LOAN NOTES, AND IN ACCORDANCE WITH THE WATERFALL PROVISIONS 
+(ARTICLE 44). D. THEY DO NOT CONFER RIGHTS OF REDEMPTION
+Electronically filed document for Company Number: 15735478 Page: 3
+Class of Shares: D1 
+ORDINARY 
+SHARES
+Currency: GBP
+Number allotted 577297
+Aggregate nominal value: 5772.97
+Prescribed particulars
+A. NO VOTING RIGHTS B. NO RIGHT TO DIVIDENDS C. ENTITLED TO A SHARE OF THE 
+ASSETS ON A WINDING-UP OR RETURN OF CAPITAL AFTER PAYMENT OF PRIORITY 
+SHARES, MRP PRIORITY SHARES, AND LOAN NOTES, AND IN ACCORDANCE WITH THE 
+WATERFALL PROVISIONS (ARTICLE 44). D. THEY DO NOT CONFER RIGHTS OF REDEMPTION
+Class of Shares: MRP
+Currency: GBP
+Number allotted 10618870
+Aggregate nominal value: 10.61887
+Prescribed particulars
+A. NO VOTING RIGHTS EXCEPT ON VARIATION OF CLASS RIGHTS B. NO DIVIDEND 
+RIGHTS UNLESS CONVERTED INTO MRP PRIORITY AND MRP ORDINARY SHARES UPON 
+A DISTRIBUTION CONVERSION OR BOOK UP CONVERSION, AS OUTLINED IN ARTICLES 
+45 AND 46. C. ENTITLED TO PARTICIPATE IN DISTRIBUTIONS ONLY UNDER SPECIFIC 
+CONDITIONS (E.G., A "WATERFALL EVENT" OR UPON CONVERSION TO MRP PRIORITY 
+SHARES AND MRP ORDINARY SHARES). POST-CONVERSION, MRP PRIORITY SHARES 
+RECEIVE A FIXED RETURN, AND MRP ORDINARY SHARES SHARE IN DISTRIBUTIONS AS 
+PER THE WATERFALL PROVISIONS (ARTICLE 44). D. THEY DO NOT CONFER RIGHTS OF 
+REDEMPTION
+Class of Shares: PRIORITY
+Currency: GBP
+Number allotted 233878671
+Aggregate nominal value: 2338786.71
+Prescribed particulars
+A. NO VOTING RIGHTS EXCEPT ON VARIATION OF CLASS RIGHTS B. ENTITLED TO 
+RECEIVE A FIXED PRIORITY AMOUNT (12% PER ANNUM) BEFORE DISTRIBUTIONS TO 
+OTHER SHARES, SUBJECT TO THE WATERFALL PROVISIONS (ARTICLE 44). C. ENTITLE 
+TO PRIORITY REPAYMENT PLUS THE FIXED PRIORITY AMOUNT ACCORDING TO THE 
+WATERFALL PROVISIONS (ARTICLE 44). D. THEY DO NOT CONFER RIGHTS OF REDEMPTION
+Electronically filed document for Company Number: 15735478 Page: 4
+Statement of Capital (Totals)
+Currency: GBP Total number of shares: 250034698
+Total aggregate nominal value: 2394168.89887
+Total aggregate amount unpaid: 0
+ 
+Authorisation
+Authenticated
+This form was authorised by one of the following:
+Director, Secretary, Person Authorised, Administrator, Administrative Receiver, Receiver, Receiver 
+Manager, CIC Manager.
+End of Electronically filed document for Company Number: 15735478 Page: 5

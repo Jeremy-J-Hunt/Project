@@ -1,0 +1,114 @@
+SH01(ef)
+ Return of Allotment of Shares
+ 
+Company Name: ACTIUM TOPCO (UK) LIMITED
+Company Number: 15735478
+Received for filing in Electronic Format on the: 19/02/2025 XDWQCQQW
+ 
+Shares Allotted (including bonus shares)
+Date or period during which 
+shares are allotted
+From To
+31/01/2025
+Class of Shares: C1 
+ORDINARY 
+SHARES
+Currency: GBP
+Number allotted 222571
+Nominal value of each share 0.01
+Amount paid: 0.01
+Amount unpaid: 0
+No shares allotted other than for cash
+Class of Shares: C1 
+ORDINARY 
+SHARES
+Currency: GBP
+Number allotted 252124
+Nominal value of each share 0.01
+Amount paid: 1.682
+Amount unpaid: 0
+No shares allotted other than for cash
+Class of Shares: D1 
+ORDINARY 
+SHARES
+Currency: GBP
+Number allotted 222571
+Nominal value of each share 0.01
+Amount paid: 0.01
+Amount unpaid: 0
+No shares allotted other than for cash
+Electronically filed document for Company Number: 15735478 Page: 1
+Class of Shares: D1 
+ORDINARY 
+SHARES
+Currency: GBP
+Number allotted 252124
+Nominal value of each share 0.01
+Amount paid: 0.056
+Amount unpaid: 0
+No shares allotted other than for cash
+Electronically filed document for Company Number: 15735478 Page: 2
+Statement of Capital (Share Capital)
+Class of Shares: A 
+ORDINARY
+Currency: GBP
+Number allotted 4219800
+Aggregate nominal value: 42198
+Prescribed particulars
+A. FULL VOTING RIGHTS B. RIGHT TO DIVIDENDS TO THE EXTENT DECLARED ON THE 
+RELEVANT CLASS OF SHARES C. RETURN OF CAPITAL RIGHTS ARE SET OUT IN THE 
+ARTICLES OF ASSOCIATION D. THEY DO NOT CONFER RIGHTS OF REDEMPTION
+Class of Shares: B 
+ORDINARY
+Currency: GBP
+Number allotted 162763
+Aggregate nominal value: 1627.63
+Prescribed particulars
+A. FULL VOTING RIGHTS B. RIGHT TO DIVIDENDS TO THE EXTENT DECLARED ON THE 
+RELEVANT CLASS OF SHARES C. RETURN OF CAPITAL RIGHTS ARE SET OUT IN THE 
+ARTICLES OF ASSOCIATION D. SUBJECT TO DRAG AND TAG PROVISIONS AND, IN RESPECT 
+OF MINORITY CO-INVESTORS ONLY, LEAVER PROVISIONS E. THEY DO NOT CONFER RIGHTS 
+OF REDEMPTION
+Class of Shares: PRIORITY
+Currency: GBP
+Number allotted 233878671
+Aggregate nominal value: 2338786.71
+Prescribed particulars
+A. NO VOTING RIGHTS B. NO RIGHT TO PARTICIPATE IN DISTRIBUTIONS EXCEPT IF THE 
+BOARD RECOMMENDS PAYMENT OF THE SAME (WITH INVESTOR CONSENT) C. RETURN OF 
+CAPITAL RIGHTS ARE SET OUT IN THE ARTICLES OF ASSOCIATION D. SUBJECT TO LEAVER, 
+DRAG AND TAG PROVISIONS E. THEY DO NOT CONFER RIGHTS OF REDEMPTION
+Class of Shares: C1 
+ORDINARY 
+SHARES
+Currency: GBP
+Number allotted 474695
+Aggregate nominal value: 4746.95
+Electronically filed document for Company Number: 15735478 Page: 3
+Prescribed particulars
+NO VOTING RIGHTS B. RIGHT TO DIVIDENDS TO THE EXTENT DECLARED ON THE RELEVANT 
+CLASS OF SHARES C. RETURN OF CAPITAL RIGHTS ARE SET OUT IN THE ARTICLES OF 
+ASSOCIATION D. SUBJECT TO LEAVER, DRAG AND TAG PROVISIONS E. THEY DO NOT 
+CONFER RIGHTS OF REDEMPTION
+Class of Shares: D1 
+ORDINARY 
+SHARES
+Currency: GBP
+Number allotted 474695
+Aggregate nominal value: 4746.95
+Prescribed particulars
+NO VOTING RIGHTS B. NO RIGHT TO DIVIDENDS C. RETURN OF CAPITAL RIGHTS ARE 
+SET OUT IN THE ARTICLES OF ASSOCIATION D. SUBJECT TO LEAVER, DRAG AND TAG 
+PROVISIONS E. THEY DO NOT CONFER RIGHTS OF REDEMPTION
+Electronically filed document for Company Number: 15735478 Page: 4
+Statement of Capital (Totals)
+Currency: GBP Total number of shares: 239210624
+Total aggregate nominal value: 2392106.24
+Total aggregate amount unpaid: 0
+ 
+Authorisation
+Authenticated
+This form was authorised by one of the following:
+Director, Secretary, Person Authorised, Administrator, Administrative Receiver, Receiver, Receiver 
+Manager, CIC Manager.
+End of Electronically filed document for Company Number: 15735478 Page: 5

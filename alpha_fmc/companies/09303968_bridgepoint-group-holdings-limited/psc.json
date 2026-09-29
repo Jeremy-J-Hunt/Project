@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Bridgepoint Op Gp Limited",
+    "Correspondence address": "5 Marble Arch, London, United Kingdom, W1H 7EJ",
+    "Notified on": "11 October 2024",
+    "Governing law": "United Kingdom (England And Wales)",
+    "Legal form": "Limited By Shares",
+    "Place registered": "Companies House",
+    "Registration number": "15108420",
+    "Incorporated in": "England And Wales",
+    "Nature of control": "Right to appoint or remove directors",
+    "status": "Active",
+    "natures_of_control": [
+      "Right to appoint or remove directors"
+    ]
+  },
+  {
+    "name": "Bridgepoint Advisers Limited",
+    "Correspondence address": "5 Marble Arch, London, United Kingdom, W1H 7EJ",
+    "Notified on": "11 October 2024",
+    "Governing law": "United Kingdom (England And Wales)",
+    "Legal form": "Limited By Shares",
+    "Place registered": "England And Wales.",
+    "Registration number": "3220373",
+    "Incorporated in": "England And Wales",
+    "Nature of control": "Has significant influence or control",
+    "status": "Active",
+    "natures_of_control": [
+      "Has significant influence or control"
+    ]
+  },
+  {
+    "name": "Bridgepoint Group Plc",
+    "Correspondence address": "5 Marble Arch, London, United Kingdom, W1H 7EJ",
+    "Notified on": "15 October 2018",
+    "Ceased on": "11 October 2024",
+    "Governing law": "United Kingdom (England And Wales)",
+    "Legal form": "Public Limited Company",
+    "Place registered": "Companies House",
+    "Registration number": "11443992",
+    "Incorporated in": "England And Wales",
+    "Nature of control": "Ownership of shares – 75% or more",
+    "status": "Ceased",
+    "natures_of_control": [
+      "Ownership of shares – 75% or more",
+      "Ownership of voting rights - 75% or more",
+      "Right to appoint or remove directors"
+    ]
+  },
+  {
+    "name": "Statement Withdrawn",
+    "Notified on": "10 November 2016",
+    "Withdrawn on": "15 October 2018",
+    "status": "Withdrawn",
+    "natures_of_control": [
+      "Policies Link opens in new tab",
+      "Cookies",
+      "Contact us Link opens in new tab",
+      "Accessibility statement",
+      "Developers Link opens in new tab"
+    ]
+  }
+]

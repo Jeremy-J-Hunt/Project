@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Statement Active",
+    "Notified on": "18 October 2018",
+    "status": "Active",
+    "natures_of_control": []
+  },
+  {
+    "name": "Jonathan Raoul Hughes",
+    "Correspondence address": "95 Wigmore Street, London, United Kingdom, W1U 1FB",
+    "Notified on": "2 July 2018",
+    "Ceased on": "11 October 2018",
+    "Date of birth": "January 1965",
+    "Nationality": "British",
+    "Place of residence": "United Kingdom",
+    "Nature of control": "Ownership of shares – More than 25% but not more than 50%",
+    "status": "Ceased",
+    "natures_of_control": [
+      "Ownership of shares – More than 25% but not more than 50%",
+      "Ownership of voting rights - More than 25% but not more than 50%"
+    ]
+  },
+  {
+    "name": "Charles Stuart John Barter",
+    "Correspondence address": "95 Wigmore Street, London, United Kingdom, W1U 1FB",
+    "Notified on": "2 July 2018",
+    "Ceased on": "11 October 2018",
+    "Date of birth": "April 1962",
+    "Nationality": "British",
+    "Place of residence": "United Kingdom",
+    "Nature of control": "Ownership of shares – More than 25% but not more than 50%",
+    "status": "Ceased",
+    "natures_of_control": [
+      "Ownership of shares – More than 25% but not more than 50%",
+      "Ownership of voting rights - More than 25% but not more than 50%"
+    ]
+  }
+]

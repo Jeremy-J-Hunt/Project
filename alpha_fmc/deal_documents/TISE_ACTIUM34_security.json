@@ -1,0 +1,86 @@
+{
+    "Mnemonic": "ACTIUM34",
+    "SecurityClassId": 17213,
+    "Name": "GBP200,000,000 12 per cent. unsecured non-QCB loan notes 2034",
+    "Type": "Bond",
+    "Subtype": "PrivateEquity",
+    "SubtypeDisplay": "Private Equity",
+    "CurrencyIsoCode": "GBP",
+    "Issuer": {
+        "Mnemonic": "ACTIUM",
+        "Name": "Actium Midco 1 (UK) Ltd",
+        "IndustrySector": null,
+        "IndustrySubsector": null,
+        "CountryCode": null,
+        "Sustainable": false,
+        "TiseSustainable": false,
+        "Umbrella": false
+    },
+    "IssuerDetail": {
+        "Mnemonic": "ACTIUM",
+        "Name": "Actium Midco 1 (UK) Ltd",
+        "IndustrySector": "Financial Services",
+        "IndustrySubsector": "Diversified Financial Services",
+        "Address": {
+            "Line1": "60 Gresham Street",
+            "Line2": null,
+            "Line3": "",
+            "City": "London",
+            "Postcode": "EC2V 7BB",
+            "Country": {
+                "Code": "GBR",
+                "Name": "United Kingdom"
+            }
+        },
+        "Sustainable": false,
+        "TiseSustainable": false,
+        "HasSubFunds": false,
+        "SubFunds": [],
+        "Securities": [
+            {
+                "Mnemonic": "ACTIUM34",
+                "Name": "GBP200,000,000 12 per cent. unsecured non-QCB loan notes 2034",
+                "Type": "Bond",
+                "CurrencyIsoCode": "GBP",
+                "Sustainable": false,
+                "TiseSustainable": false,
+                "SubFundMnemonic": null
+            }
+        ]
+    },
+    "Member": {
+        "Mnemonic": "OGCF",
+        "Name": "Ogier Corporate Finance Ltd",
+        "ShortName": null,
+        "IsCategory1": false,
+        "IsCategory2": false,
+        "IsCategory3": false,
+        "CountryCode": null,
+        "ListingDescription": "Listing & Trading"
+    },
+    "TiseSustainable": false,
+    "Sustainable": false,
+    "Tradeable": false,
+    "Auction": false,
+    "TradingInformation": null,
+    "ListedAt": "2024-12-10T18:00:00+00:00",
+    "HasNavs": false,
+    "MaturityDateWeb": "2034-03-31T00:00:00",
+    "CouponRate": "12%",
+    "PaymentFrequency": "Annually",
+    "CommonCode": null,
+    "Isin": null,
+    "AllIsins": [],
+    "AdditionalInformation": null,
+    "SharesInIssue": null,
+    "LatestIssue": {
+        "Price": 1.0,
+        "Amount": 200000000.0,
+        "PublishedAt": "2024-12-10T15:00:34+00:00",
+        "TotalAmount": 200000000.0,
+        "TreasuryAmount": null
+    },
+    "SubFund": null,
+    "TradingData": null,
+    "IssuerDisplay": "Actium Midco 1 (UK) Ltd"
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Alpha Financial Markets Consulting Group Limited",
+    "Correspondence address": "60 Gresham Street, London, England, EC2V 7BB",
+    "Notified on": "1 May 2026",
+    "Governing law": "Companies Act 2006",
+    "Legal form": "Private Limited Company",
+    "Place registered": "Companies House, England And Wales",
+    "Registration number": "07160664",
+    "Incorporated in": "United Kingdom",
+    "Nature of control": "Ownership of shares – 75% or more",
+    "status": "Active",
+    "natures_of_control": [
+      "Ownership of shares – 75% or more",
+      "Ownership of voting rights - 75% or more",
+      "Right to appoint or remove directors"
+    ]
+  },
+  {
+    "name": "Mr Kirandeep Singh Bhogal",
+    "Correspondence address": "60 Gresham Street, London, England, EC2V 7BB",
+    "Notified on": "9 September 2019",
+    "Ceased on": "1 May 2026",
+    "Date of birth": "December 1969",
+    "Nationality": "British",
+    "Place of residence": "England",
+    "Identity verification status": "Verified .st0 { fill: #006435; } Verification requirements complete",
+    "Nature of control": "Ownership of shares – More than 50% but less than 75%",
+    "status": "Ceased",
+    "natures_of_control": [
+      "Ownership of shares – More than 50% but less than 75%",
+      "Ownership of voting rights - More than 50% but less than 75%"
+    ]
+  }
+]

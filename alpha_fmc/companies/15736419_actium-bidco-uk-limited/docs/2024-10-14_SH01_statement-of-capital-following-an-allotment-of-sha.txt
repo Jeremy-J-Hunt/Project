@@ -1,0 +1,64 @@
+SH01(ef)
+ Return of Allotment of Shares
+ 
+Company Name: ACTIUM BIDCO (UK) LIMITED
+Company Number: 15736419
+Received for filing in Electronic Format on the: 14/10/2024 XDDQM2L6
+ 
+Shares Allotted (including bonus shares)
+Date or period during which 
+shares are allotted
+From To
+19/08/2024
+Class of Shares: REDEEMABLE 
+PREFERENCE
+Currency: USD
+Number allotted 267991843
+Nominal value of each share 0.01
+Amount paid: 267991843
+Amount unpaid: 0
+Non-cash consideration
+ISSUANCE OF A PROMISSORY NOTE FOR USD 109,100,867.27 OF THE CONSIDERATION.
+Class of Shares: REDEEMABLE 
+PREFERENCE
+Currency: USD
+Number allotted 1
+Nominal value of each share 0.01
+Amount paid: 0.89
+Amount unpaid: 0
+No shares allotted other than for cash
+Electronically filed document for Company Number: 15736419 Page: 1
+Statement of Capital (Share Capital)
+Class of Shares: ORDINARY
+Currency: GBP
+Number allotted 112745014
+Aggregate nominal value: 1127450.14
+Prescribed particulars
+THE ORDINARY SHARES HAVE ATTACHED TO THEM FULL VOTING, DIVIDEND AND CAPITAL 
+DISTRIBUTION (INCLUDING WINDING UP) RIGHTS.
+Class of Shares: REDEEMABLE 
+PREFERENCE
+Currency: USD
+Number allotted 267991844
+Aggregate nominal value: 2679918.44
+Prescribed particulars
+THE PREFERENCE SHARES SHALL CARRY NO RIGHT TO VOTE. THE PREFERENCE SHARES 
+SHALL CARRY THE RIGHT TO RECEIVE A FIXED CUMULATIVE DIVIDEND AND ON A WINDING 
+UP TO RECEIVE PRIORITY FOR REPAYMENT BUT NO FURTHER RIGHT TO PARTICIPATE IN 
+THE PROFITS OR ASSETS OF THE COMPANY. THE COMPANY MAY REDEEM SUCH TOTAL OF 
+PREFERENCE SHARES AS IT MAY WISH BY PROVIDING NOTICE IN WRITING.
+Electronically filed document for Company Number: 15736419 Page: 2
+Statement of Capital (Totals)
+Currency: GBP Total number of shares: 112745014
+Total aggregate nominal value: 1127450.14
+Total aggregate amount unpaid: 0
+Currency: USD Total number of shares: 267991844
+Total aggregate nominal value: 2679918.44
+Total aggregate amount unpaid: 0
+ 
+Authorisation
+Authenticated
+This form was authorised by one of the following:
+Director, Secretary, Person Authorised, Administrator, Administrative Receiver, Receiver, Receiver 
+Manager, CIC Manager.
+End of Electronically filed document for Company Number: 15736419 Page: 3

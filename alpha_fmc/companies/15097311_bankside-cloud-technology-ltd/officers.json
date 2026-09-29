@@ -1,0 +1,69 @@
+[
+  {
+    "name": "GOOZE ZIJL, Joannes Anthonius Willem",
+    "Correspondence address": "Moor Place, 1 Fore Street Avenue, London, United Kingdom, EC2Y 9DT",
+    "Role Active": "Director",
+    "Date of birth": "June 1968",
+    "Appointed on": "28 May 2025",
+    "Nationality": "Dutch,British",
+    "Place of residence": "United Kingdom",
+    "Identity verification status": "Verified .st0 { fill: #006435; } Verification requirements complete",
+    "status": "Active"
+  },
+  {
+    "name": "KROEGER, Christopher Peter",
+    "Correspondence address": "Moor Place, 1 Fore Street Avenue, London, United Kingdom, EC2Y 9DT",
+    "Role Active": "Director",
+    "Date of birth": "February 1989",
+    "Appointed on": "5 September 2024",
+    "Nationality": "British",
+    "Place of residence": "United Kingdom",
+    "Identity verification status": "Verified .st0 { fill: #006435; } Verification requirements complete",
+    "status": "Active"
+  },
+  {
+    "name": "SURRIDGE, Robert Joseph",
+    "Correspondence address": "27 Old Gloucester Street, London, England, WC1N 3AX",
+    "Role Active": "Director",
+    "Date of birth": "November 1978",
+    "Appointed on": "25 August 2023",
+    "Nationality": "British",
+    "Place of residence": "England",
+    "Identity verification status": "Verified .st0 { fill: #006435; } Verification requirements complete",
+    "status": "Active"
+  },
+  {
+    "name": "WALSH, Ian Laurence",
+    "Correspondence address": "Moor Place, 1 Fore Street Avenue, London, United Kingdom, EC2Y 9DT",
+    "Role Active": "Director",
+    "Date of birth": "November 1975",
+    "Appointed on": "9 June 2026",
+    "Nationality": "Irish",
+    "Place of residence": "England",
+    "Identity verification status": "Verified .st0 { fill: #006435; } Verification requirements complete",
+    "status": "Active"
+  },
+  {
+    "name": "COOK, Greg Alan",
+    "Correspondence address": "60 Gresham Street, London, United Kingdom, EC2V 7BB",
+    "Role Resigned": "Director",
+    "Date of birth": "September 1975",
+    "Appointed on": "5 September 2024",
+    "Resigned on": "30 June 2026",
+    "Nationality": "British",
+    "Place of residence": "England",
+    "Identity verification due": "7 September 2026",
+    "status": "Resigned"
+  },
+  {
+    "name": "PATON, John Campbell",
+    "Correspondence address": "60 Gresham Street, London, United Kingdom, EC2V 7BB",
+    "Role Resigned": "Director",
+    "Date of birth": "January 1973",
+    "Appointed on": "5 September 2024",
+    "Resigned on": "30 June 2025",
+    "Nationality": "British",
+    "Place of residence": "England",
+    "status": "Resigned"
+  }
+]

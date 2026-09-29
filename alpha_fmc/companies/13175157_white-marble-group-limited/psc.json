@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Alpha Financial Markets Consulting Group Limited",
+    "Correspondence address": "60 Gresham Street, London, United Kingdom, EC2V 7BB",
+    "Notified on": "2 September 2024",
+    "Governing law": "Companies Act 2006",
+    "Legal form": "Private Limited Company",
+    "Place registered": "Companies House",
+    "Registration number": "07160664",
+    "Incorporated in": "England",
+    "Nature of control": "Ownership of shares – 75% or more",
+    "status": "Active",
+    "natures_of_control": [
+      "Ownership of shares – 75% or more",
+      "Ownership of voting rights - 75% or more",
+      "Right to appoint or remove directors"
+    ]
+  },
+  {
+    "name": "Mrs Georgina Rosemary Jane Field",
+    "Correspondence address": "60 Gresham Street, London, United Kingdom, EC2V 7BB",
+    "Notified on": "2 February 2021",
+    "Ceased on": "2 September 2024",
+    "Date of birth": "May 1977",
+    "Nationality": "British",
+    "Place of residence": "England",
+    "Nature of control": "Ownership of shares – More than 50% but less than 75%",
+    "status": "Ceased",
+    "natures_of_control": [
+      "Ownership of shares – More than 50% but less than 75%",
+      "Ownership of voting rights - More than 50% but less than 75%",
+      "Right to appoint or remove directors"
+    ]
+  }
+]

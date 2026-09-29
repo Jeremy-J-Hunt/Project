@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Bridgepoint Advisers Limited",
+    "Correspondence address": "5 Marble Arch, London, England, W1H 7EJ",
+    "Notified on": "22 May 2024",
+    "Governing law": "Companies Act 2006",
+    "Legal form": "Private Limited Company",
+    "Place registered": "England And Wales",
+    "Registration number": "03220373",
+    "Incorporated in": "England",
+    "Nature of control": "Has significant influence or control",
+    "status": "Active",
+    "natures_of_control": [
+      "Has significant influence or control"
+    ]
+  },
+  {
+    "name": "Bridgepoint Europe Vii Gp Llp",
+    "Correspondence address": "5 Marble Arch, London, England, W1H 7EJ",
+    "Notified on": "22 May 2024",
+    "Governing law": "Limited Liability Partnerships Act 2000",
+    "Legal form": "Limited Liability Partnership",
+    "Place registered": "England And Wales",
+    "Registration number": "Oc438202",
+    "Incorporated in": "England",
+    "Nature of control": "Ownership of shares – 75% or more",
+    "status": "Active",
+    "natures_of_control": [
+      "Ownership of shares – 75% or more",
+      "Ownership of voting rights - 75% or more",
+      "Right to appoint or remove directors"
+    ]
+  },
+  {
+    "name": "Bridgepoint Europe Vii Nominees Limited",
+    "Correspondence address": "5 Marble Arch, London, W1H 7EJ",
+    "Notified on": "22 May 2024",
+    "Ceased on": "22 May 2024",
+    "Governing law": "England & Wales",
+    "Legal form": "Private Limited Company",
+    "Place registered": "United Kingdom",
+    "Registration number": "13793519",
+    "Incorporated in": "United Kingdom",
+    "Nature of control": "Ownership of shares – 75% or more",
+    "status": "Ceased",
+    "natures_of_control": [
+      "Ownership of shares – 75% or more",
+      "Ownership of voting rights - 75% or more",
+      "Right to appoint or remove directors"
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "charge": "Charge code 0996 3816 0002",
+    "Created": "3 February 2016",
+    "Delivered": "12 February 2016",
+    "Status": "Satisfied on 6 November 2017",
+    "persons_entitled": [
+      "Beechbrook Mezzanine Ii Jersey Limited (As Mezzanine Security Agent)"
+    ],
+    "description": "Contains fixed charge…"
+  },
+  {
+    "charge": "Charge code 0996 3816 0001",
+    "Created": "3 February 2016",
+    "Delivered": "6 February 2016",
+    "Status": "Satisfied on 6 November 2017",
+    "persons_entitled": [
+      "Lloyds Bank PLC (As Security Trustee for the Secured Parties)"
+    ],
+    "description": "Contains fixed charge…"
+  }
+]

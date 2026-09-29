@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Alpha Financial Markets Consulting Group Limited",
+    "Correspondence address": "Wework, 7th Floor, Moor Place, 1 Fore Street, Moorgate, London, United Kingdom, EC2Y 9DT",
+    "Notified on": "9 November 2019",
+    "Governing law": "Companies Act 2006",
+    "Legal form": "Limited Company",
+    "Place registered": "Companies House",
+    "Registration number": "07160664",
+    "Incorporated in": "England",
+    "Nature of control": "Ownership of shares – 75% or more",
+    "status": "Active",
+    "natures_of_control": [
+      "Ownership of shares – 75% or more",
+      "Ownership of voting rights - 75% or more",
+      "Right to appoint or remove directors"
+    ]
+  },
+  {
+    "name": "Mr Lazar Radenovic",
+    "Correspondence address": "102 Crawford Street, London, England, W1H 2HR",
+    "Notified on": "7 April 2016",
+    "Ceased on": "9 November 2019",
+    "Date of birth": "October 1980",
+    "Nationality": "Canadian",
+    "Place of residence": "England",
+    "Nature of control": "Ownership of shares – More than 25% but not more than 50%",
+    "status": "Ceased",
+    "natures_of_control": [
+      "Ownership of shares – More than 25% but not more than 50%"
+    ]
+  },
+  {
+    "name": "Miss Sasha Skerletovic",
+    "Correspondence address": "102 Crawford Street, London, England, W1H 2HR",
+    "Notified on": "7 April 2016",
+    "Ceased on": "9 November 2019",
+    "Date of birth": "February 1986",
+    "Nationality": "Canadian",
+    "Place of residence": "England",
+    "Nature of control": "Ownership of shares – More than 25% but not more than 50%",
+    "status": "Ceased",
+    "natures_of_control": [
+      "Ownership of shares – More than 25% but not more than 50%"
+    ]
+  }
+]
