@@ -1,0 +1,280 @@
+
+
+===== page 1 =====
+Registered number: 04967647
+
+AXXSYS LIMITED
+
+UNAUDITED
+ABBREVIATED ACCOUNTS
+
+FOR THE YEAR ENDED 31 DECEMBER 2015
+
+COMPANIES HOUSE.
+
+DTT
+
+~tevzore
+
+
+
+===== page 2 =====
+AXXSYS LIMITED
+REGISTERED NUMBER: 04967647
+
+ABBREVIATED BALANCE SHEET
+AS AT 31 DECEMBER 2015
+
+2015 2014
+Note £ £ £ £
+FIXED ASSETS
+Tangible assets 2 14,934 15,326
+Investments 3 1,600,006 6
+1,614,940 15,332
+CURRENT ASSETS
+Debtors 818,196 1,217,831
+Cash at bank 325,615 431,651
+1,143,811 1,649,482
+CREDITORS: amounts falling due within
+one year (760,584) (752,069)
+
+NET CURRENT ASSETS 383,227 897,413
+TOTAL ASSETS LESS CURRENT LIABILITIES 1,998,167 912,745
+CAPITAL AND RESERVES
+Called up share capital 4 49 44
+Share premium account 1,599,995 -
+Capital redemption reserve (480,624) (480,624)
+Profit and loss account 878,747 1,393,325
+SHAREHOLDERS’ FUNDS 1,998,167 912,745
+
+— ——
+
+The directors consider that the company is entitled to exemption from the requirement to have an audit under the
+provisions of section 477 of the Companies Act 2006 ("the Act") and members have not required the company to
+obtain an audit for the year in question in accordance with section 476 of the Act.
+
+The directors acknowledge their responsibilities for complying with the requirements of the Companies Act 2006
+with respect to accounting records and for preparing financial statements which give a true and fair view of the
+state of affairs of the company as at 31 December 2015 and of its profit for the year in accordance with the
+requirements of sections 394 and 395 of the Act and which otherwise comply with the requirements of the
+Companies Act 2006 relating to financial statements, so far as applicable to the company.
+
+The abbreviated accounts, which have been prepared in accordance with the special provisions relating to
+companies subject to the small companies regime within Part 15 of the Companies Act 2006, were approved
+and authorised for issue by the board and were signed on its behalf on 6 September 2016.
+
+Leos thy lo
+
+S McDermott P Ritchie
+Director Director
+
+The notes on pages 2 to 5 form part of these financial statements.
+
+Page 1
+
+
+===== page 3 =====
+AXXSYS LIMITED
+
+NOTES TO THE ABBREVIATED ACCOUNTS
+FOR THE YEAR ENDED 31 DECEMBER 2015
+
+1.
+
+ACCOUNTING POLICIES
+
+14
+
+1.2
+
+1.3
+
+1.4
+
+1.5
+
+1.6
+
+1.7
+
+Basis of preparation of financial statements
+
+The full financial statements, from which these abbreviated accounts have been extracted, have
+been prepared under the historical cost convention and in accordance with the Financial Reporting
+Standard for Smaller Entities (effective January 2015).
+
+Turnover
+
+Turnover comprises revenue recognised by the company in respect of goods and services supplied
+during the year, exclusive of Value Added Tax and trade discounts.
+
+Tangible fixed assets and depreciation
+Tangible fixed assets are stated at cost less depreciation. Depreciation is provided at rates
+calculated to write off the cost of fixed assets, less their estimated residual value, over their
+expected useful lives on the following bases:
+
+Plant and machinery . 25% on reducing balance
+Investments
+Investments held as fixed assets are shown at cost less provision for impairment.
+
+Operating leases
+
+Rentals under operating leases are charged to the Profit and Loss Account on a straight line basis
+over the lease term.
+
+Benefits received and receivable as an incentive to sign an operating lease are recognised on a
+straight line basis over the period until the date the rent is expected to be adjusted to the prevailing
+market rate.
+
+Foreign currencies
+
+Monetary assets and liabilities denominated in foreign currencies are translated into sterling at rates
+of exchange ruling at the balance sheet date.
+
+Transactions in foreign currencies are translated into sterling at the rate ruling on the date of the
+transaction.
+
+Exchange gains and losses are recognised in the Profit and Loss Account.
+Pensions
+
+The company operates a defined contribution pension scheme and the pension charge represents
+the amounts payable by the company to the fund in respect of the year.
+
+Page 2
+
+
+===== page 4 =====
+AXXSYS LIMITED
+
+NOTES TO THE ABBREVIATED ACCOUNTS
+FOR THE YEAR ENDED 31 DECEMBER 2015
+
+2. TANGIBLE FIXED ASSETS
+
+Cost
+
+At 1 January 2015
+Additions
+
+At 31 December 2015
+
+Depreciation
+
+At 1 January 2015
+Charge for the year
+
+At 31 December 2015
+
+Net book value
+At 31 December 2015
+
+At 31 December 2014
+
+3. FIXED ASSET INVESTMENTS
+
+Cost or valuation
+
+At 1 January 2015
+Additions
+
+At 31 December 2015
+
+Net book value
+At 31 December 2015
+
+At 31 December 2014
+
+Subsidiary undertakings
+
+The following were subsidiary undertakings of the company:
+
+Name Class of shares Holding
+Axxsys Financial Software
+
+Consulting Canada Ltd * Ordinary 100%
+WS Technology Consultants
+
+Ltd ** Ordinary 100%
+
+Page 3
+
+2015
+
+6
+1,600,000
+
+1,600,006
+
+47,664
+4,586
+
+52,250
+
+32,338
+4,978
+
+37,316
+
+14,934
+
+15,326
+
+6
+1,600,000
+
+1,600,006
+
+1,600,006
+
+6
+
+2014
+
+
+===== page 5 =====
+AXXSYS LIMITED
+
+NOTES TO THE ABBREVIATED ACCOUNTS
+FOR THE YEAR ENDED 31 DECEMBER 2015
+
+3. FIXED ASSET INVESTMENTS (continued)
+
+Name Business Registered office
+Axxsys Financial Software Consulting Canada Financial Consultancy Canada
+
+Ltd *
+WS Technology Consultants Ltd ** Financial Consultancy London
+
+The aggregate of the share capital and reserves as at the subsidiaries’ year end and of the profit or loss
+for the year ended on that date for the subsidiary undertakings were as follows:
+
+Aggregate of share
+capital and
+Name reserves Profit/(loss)
+£ £
+Axxsys Financial Software Consulting Canada Ltd * 130,057 13,663
+WS Technology Consultants Ltd ** 172,780 135,273
+
+* Year end 31 December
+** Year end 31 March
+
+Page 4
+
+
+===== page 6 =====
+AXXSYS LIMITED
+
+NOTES TO THE ABBREVIATED ACCOUNTS
+FOR THE YEAR ENDED 31 DECEMBER 2015
+
+4. SHARE CAPITAL
+
+2015 2014
+£ £
+Allotted, called up and fully paid
+490 (2014 - 441) Ordinary shares of £0.10 each 49 44
+— —
+
+On the 23rd July 2015, 49 Ordinary A shares of £0.10 were issued at £32,653.06 per share.
+
+Page 5

@@ -1,0 +1,1833 @@
+
+
+===== page 1 =====
+we MRO1eer
+
+Companies House
+
+Registration of a Charge
+
+Company name: ALPHA FINANCIAL MARKETS CONSULTING GROUP LIMITED
+
+Company number: 07160664
+X5303880
+
+Received for Electronic Filing: 18/03/2016
+
+Details of Charge
+
+Date of creation: 09/03/2016
+Charge code: 0716 0664 0006
+
+Persons entitled: _BEECHBROOK MEZZANINE II JERSEY LIMITED (AS MEZZANINE
+SECURITY AGENT)
+
+Brief description:
+Contains fixed charge(s).
+
+Contains negative pledge.
+
+Authentication of Form
+
+This form was authorised by: a person with an interest in the registration of the charge.
+
+Authentication of Instrument
+
+Certification statement: I CERTIFY THAT SAVE FOR MATERIAL REDACTED PURSUANT
+TO S.859G OF THE COMPANIES ACT 2006 THE ELECTRONIC
+COPY INSTRUMENT DELIVERED AS PART OF THIS APPLICATION
+FOR REGISTRATION IS A CORRECT COPY OF THE ORIGINAL
+INSTRUMENT.
+
+Electronically filed document for Company Number: 07160664 Page 1
+
+
+===== page 2 =====
+Certified by: PINSENT MASONS LLP
+
+Electronically filed document for Company Number: 07160664 Page 2
+
+
+===== page 3 =====
+6 $3
+NE Sha \
+Asa
+<
+amet F OND
+
+CERTIFICATE OF THE
+REGISTRATION OF A CHARGE
+
+rol
+
+Company number: 7160664
+
+Charge code: 0716 0664 0006
+
+The Registrar of Companies for England and Wales hereby certifies
+that a charge dated 9th March 2016 and created by ALPHA FINANCIAL
+MARKETS CONSULTING GROUP LIMITED was delivered pursuant to
+Chapter A1 Part 25 of the Companies Act 2006 on 18th March 2016 .
+
+Given at Companies House, Cardiff on 21st March 2016
+
+The above information was communicated by electronic means and authenticated
+by the Registrar of Companies under section 1115 of the Companies Act 2006
+
+sore,
+ey,
+
+ae
+“Ve
+“any xe
+
+‘THE OFFICIAL SEAL OF THE
+
+Companies House ebaTwAn oF Con RNES
+
+
+
+===== page 4 =====
+EXECUTION COPY
+STOCK PLEDGE AGREEMENT
+
+THIS STOCK PLEDGE AGREEMENT (as amended, novated, supplemented and/or
+restated from time to time, this “Agreement’), dated as of March 4, 2016, is by and between
+ALPHA FINANCIAL MARKETS CONSULTING GROUP LIMITED, a company
+organized under the laws of England and Wales with registration number 07160664 (the
+“Pledgor”), and BEECHBROOK MEZZANINE II JERSEY LIMITED, in its capacity as
+security agent (in such capacity, the “Mezzanine Security Agent”) for the Mezzanine Secured
+Parties (as defined below). Capitalized terms used but not otherwise defined herein shall have
+the meanings given to such terms in the Mezzanine Facilities Agreement (as defined below).
+
+RECITALS:
+
+A. Pursuant to that certain Mezzanine Facility Agreement dated February 3, 2016, by
+and among (1) Caelius Midco 2 Limited (“Parent”), (2) Caclius Bidco Limited as Original
+Borrower (together with any Additional Borrower from time to time a party thereto, collectively,
+“Borrowers”), (3) the companies listed in part 1 of schedule 1 thereto as Original Guarantors
+(together with Parent, Pledgor, and any Additional Guarantor from time to time a party thereto,
+collectively, the “Guarantors,” and together with the Borrowers, collectively, the “Obligors”),
+(4) Beechbrook Capital LLP as Mandated Lead Arranger (“Lead Arranger”), (5) the financial
+institution listed in part 2 of schedule 1 to it as Original Lender (“Original Mezzanine Lender"),
+(6) Beechbrook Capital LLP as Agent (“Mezzanine Agent”) and (7) the Mezzanine Security
+Agent (as amended, novated, supplemented, and/or restated from time to time the “Mezzanine
+Facilities Agreement”), the Original Lender agreed to make certain facilities available to the
+Borrowers.
+
+B. The Pledgor legally and beneficially owns all of the issued and outstanding
+Capital Stock of Alpha Financial Markets Consulting, Inc. a New York corporation (the
+“Issuer’), as described on Exhibit A attached hereto.
+
+Cc To induce the Mezzanine Security Agent and the Mezzanine Secured Parties to
+enter into and make the Loans under the Mezzanine Facilities Agreement or provide other
+extensions of credit and in order to secure the payment and performance by the Obligors of the
+Secured Obligations, the Pledgor desires to enter into this Agreement.
+
+D. Pursuant to that certain Senior Term and Revolving Senior Facilities Agreement
+dated February 3, 2016, by and among (1) Parent, (2) Original Borrower, (3) Original
+Guarantors, (4) Lloyds Bank ple as Arranger ("Senior Arranger"), (5) the financial institution
+listed in part 2 of schedule 1 to it as Original Lender (“Original Senior Lender"), (6) Lloyds
+Bank ple as Original Hedge Counterparty (“Hedge Counterparty”), (7) Lloyds Bank ple as Agent
+(Senior Agent”) and (8) Lloyds Bank plc as Senior Security Agent ("Senior Security Agent’) (as
+amended, novated, supplemented, and/or restated from time to time the “Senior Facilities
+Agreement”), the Original Senior Lender agreed to make certain facilities available to the
+Borrowers.
+
+NOW, THEREFORE, in consideration of the foregoing Recitals, and for other good and
+valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties
+
+6084400724
+
+
+
+===== page 5 =====
+hereto agree as follows:
+
+Section 1. Defined Terms. Unless otherwise defined herein, all capitalized terms used
+herein shall have the respective meanings ascribed thereto in the Mezzanine Facilities
+Agreement.
+
+“Agreement” is defined in the introductory Preamble.
+
+Applicable Law” means any applicable Federal, state, foreign or local law, ordinance,
+order, regulation, decree, rule or requirement of any governmental agency, instrumentality,
+board, commission, bureau or other authority having jurisdiction.
+
+“Borrowers” is defined in the Recitals.
+
+“Capital Stock” means shares of capital stock (whether denominated as common stock or
+preferred stock), beneficial, partnership or membership interests or other equivalents (regardless
+of how described) of or in a corporation, partnership, limited liability company or equivalent
+entity, whether voting or non-voting, and all securities convertible or exchangeable into any of
+the foregoing and all warrants, options or other rights to purchase or subscribe for any of the
+foregoing, whether or not presently convertible, exchangeable or exercisable.
+
+“Declared Default" means an Event of Default in respect of which any notice has been
+issued or rights exercised by the Mezzanine Agent under clause 23.18 (Acceleration) of the
+Mezzanine Facilities Agreement.
+
+“Guarantors” is defined in the Recitals.
+
+“Governmental Authority(ies)” means any international, Federal, state, interstate,
+provincial, focal, foreign court or governmental agency, authority, instrumentality, agency,
+bureau, board, commission, department or regulatory body.
+
+“Hedge Counterparty” is defined in the Recitals.
+“Indemnified Liabilities” is defined in Section 9(c).
+“Indemnified Person” is defined in Section 9{c).
+
+“Intercreditor Agreement” means that certain Intercreditor Agreement dated February 3,
+2016, made between, among others, the Parent, the Company, the Debtors, as defined therein,
+the Senior Security Agent, the Senior Agent, the Senior Arranger, the Hedge Counterparty, the
+Mezzanine Agent, the Original Mezzanine Lender, the Mezzanine Security Agent, the
+Mezzanine Arranger, and the Intra-Group Lenders, as defined therein, as amended, novated,
+supplemented and/or restated from time to time.
+
+“Issuer” is defined in the Recitals.
+
+“Lien” means any “Security” or “Quasi-Security” as such terms are defined in the
+Mezzanine Facilities Agreement.
+
+608440072.4 2-
+
+
+
+===== page 6 =====
+“Loan” has the meaning given to that term in the Mezzanine Facilities Agreement.
+“Mezzanine Agent” is defined in the Recitals.
+“Mezzanine Facilities Agreement” is defined in the Recitals.
+
+“Mezzanine Finance Document” means a “Finance Document” as that term is defined in
+the Mezzanine Facilities Agreement.
+
+“Mezzanine Finance Party” has the meaning given to the term “Finance Party” in the
+Mezzanine Facilities Agreement.
+
+"Mezzanine Lender" means a "Lender" as that term is defined in the Mezzanine Facilities
+Agreement.
+
+“Mezzanine Secured Parties” has the meaning given to that term in the Intercreditor
+Agreement.
+
+“Mezzanine Security Agent” is defined in the introductory Preamble.
+
+“Mezzanine Security Agreement” means that certain security agreement, dated as of the
+date hereof, executed by Issuer in favor of the Mezzanine Security Agent.
+
+“Obligors” is defined in the Recitals.
+
+“Parent” is defined in the Recitals.
+
+“Person” means any natural person, corporation, business trust, limited liability
+company, joint venture, association, company, partnership or government, or any agency or
+political subdivision thereof.
+
+“Pledged Collateral” is defined in Section 2.
+
+“Pledged Shares” is defined in Section 2.
+
+“Pledgor” is defined in the introductory Preamble.
+
+“Secured Obligations” means all present and future obligations and liabilities (whether
+actual or contingent and whether owed jointly or severally or alone or in any other capacity
+whatsoever) of cach member of the Group to the Mezzanine Security Agent and/or the other
+Mezzanine Secured Parties (or any of them) under or pursuant to any Mezzanine Finance
+Document (including all monies covenanted to be paid under this Agreement).
+
+“Securities Act’ means the United States Securities Act of 1933, as amended.
+
+“Senior Agent” is defined in the Recitals,
+
+“Senior Discharge Date” has the meaning given to that term in the Interereditor
+Agreement.
+
+608440072.4 -3-
+
+
+
+===== page 7 =====
+“Senior Facilities Agreement’ is defined in the Recitals.
+
+“Senior Finance Document” means a “Finance Document” as that term is defined in the
+Senior Facilities Agreement.
+
+“Senior Pledge Agreement” means that certain stock pledge agreement, dated as of the
+date hereof, executed by Issuer in favor of the Senior Security Agent.
+
+“Senior Security Agent” is defined in the Recitals.
+
+Special Damages” is defined in Section 20.
+
+“UCC” means the Uniform Commercial Code from time to time in effect in the State of
+New York and the State of Delaware, provided that if, by reason of mandatory provisions of law,
+the validity or perfection of the Mezzanine Security Agent’s security interest in the Pledged
+Collateral or any part thereof is governed by the Uniform Commercial Code or other similar law
+as in effect in a jurisdiction other than New York or Delaware, as applicable, the term “UCC”
+shall mean the Uniform Commercial Code or such similar law as in effect in such other
+jurisdiction for purposes of the provisions hereof relating to such validity or perfection.
+
+Terms defined in the UCC, which are not otherwise defined in this Agreement or in the
+Mezzanine Facilities Agreement ate used in this Agreement as defined in the UCC as in effect on
+the date hereof.
+
+If there is any conflict or inconsistency between any provision of this Agreement and the
+Intercreditor Agreement, the provision of the Intercreditor Agreement shall prevail.
+
+Section 2. Pledge. Subject to the Intercreditor Agreement, the Pledgor hereby pledges,
+assigns, hypothecates, delivers and grants to the Mezzanine Security Agent a lien on, and
+security interest in and to, (a) all of the Capital Stock of the Issuer now owned or hereafter
+acquired by the Pledgor (collectively, the “Pledged Shares”), (b) all other property hereafter
+delivered to, or in the possession or in the custody of, the Mezzanine Security Agent in
+substitution for or in addition to the Pledged Shares, (c) any other property of the Pledgor,
+described in Section 4 below and now or hereafter delivered to, or in the possession or custody of
+the Pledgor, and (d) all proceeds of the collateral described in the preceding clauses (a), (b) and
+(c) (the collateral described in clauses (a) through (d) of this Section 2 being collectively referred
+to as the “Pledged Collateral”), as collateral security for the prompt and complete payment when
+due (whether at the stated maturity, by acceleration or otherwise) of all the Secured Obligations.
+
+Except as otherwise expressly provided herein and subject to the Senior Pledge
+Agreement, and except to the extent previously so delivered, all of the Pledged Shares now
+owned by the Pledgor which are presently represented by stock certificates are listed on Exhibit
+A hereto, which stock certificates, with undated stock powers substantially in the form of Exhibit
+B hereto duly executed in blank by the Pledgor and irrevocable proxies, after the Senior
+Discharge Date, shall be delivered to the Mezzanine Security Agent. The Pledgor shall notify
+the Mezzanine Security Agent upon its acquisition of any Capital Stock not listed on Exhibit A.
+After the Senior Discharge Date, the Mezzanine Security Agent shall maintain possession and
+custody of the certificates representing the Pledged Shares and any additional Pledged Collateral.
+
+608440072.4 -4-
+
+
+
+===== page 8 =====
+Section 3. Representations and Warranties of the Pledgor. The Pledgor represents and
+warrants to the Mezzanine Security Agent and to each of the other Mezzanine Secured Parties,
+and covenants with the Mezzanine Security Agent, that:
+
+(a) the Pledgor is the record and beneficial owner of, and has legal title to, the
+Pledged Shares listed on Exhibit A. Such shares are and will remain, and all other shares
+of Capital Stock constituting Pledged Collateral will be, free and clear of all Liens and
+security interests whatsoever, except the Liens and security interests created by this
+Agreement or permitted under the Mezzanine Facilities Agreement;
+
+(b) the Pledgor has full power, authority and legal right to execute the pledge
+provided for herein and to pledge its Pledged Shares and any additional Pledged
+Collateral to the Mezzanine Security Agent, for the benefit of the Mezzanine Security
+Agent and the Mezzanine Secured Parties;
+
+(c) this Agreement has been duly authorized, executed and delivered by the
+Pledgor and constitutes a legal, valid and binding obligation of the Pledgor enforceable in
+accordance with its terms, except as such enforceability may be limited by applicable
+bankruptcy, moratorium, reorganization and other similar laws affecting the enforcement
+of creditors’ rights generally;
+
+(d) there are no outstanding options, warrants or other agreements with
+respect to the Pledged Shares;
+
+(e) the Pledged Shares have been, and all additional Pledged Collateral
+constituting Capital Stock will be, duly and validly authorized and issued, and are or will
+be fully paid and non-assessable and the Pledged Shares of the Issuer listed on Exhibit A
+constitute all of the issued and outstanding Capital Stock of the Issuer;
+
+(63) no consent, approval or authorization of or designation or filing with any
+Governmental Authority on the part of the Pledgor is required in connection with the
+pledge and security interest granted under this Agreement, or the exercise by the
+Mezzanine Security Agent of the voting and other rights provided for in this Agreement,
+except for the registration of this Agreement at Companies House in England under
+section 860 of the Companies Act of 2006;
+
+(g) the execution, delivery and performance of this Agreement by the Pledgor
+will not violate any provision of any Applicable Law or regulation or of any order,
+judgment, writ, award or decree of any court, arbitrator or Governmental Authority,
+domestic or foreign, or of the certificate of incorporation or other constitutive documents
+or by-laws of any Obligor or of any securities issued by the issuer of the Pledged Shares
+or of any mortgage, indenture, lease, contract, or other agreement, instrument or
+undertaking to which any Obligor is a party or which purports to be binding upon any
+Obligor or upon any of their respective assets, and will not result in the creation or
+imposition of any Lien, charge or encumbrance on or security interest in any of the assets
+of any Obligor except as contemplated by this Agreement; and
+
+(h) upon delivery to the Mezzanine Security Agent in the State of New York
+of all of the stock certificates representing the Pledged Shares together with stock powers
+
+6084400724 -5-
+
+
+
+===== page 9 =====
+duly executed in blank and the registration of this Agreement at Companies House in
+England under section 860 of the Companies Act of 2006, the pledge, assignment and
+delivery to the Mezzanine Security Agent of the Pledged Shares pursuant to this
+Agreement will create a valid lien on and a perfected security interest in the Pledged
+Shares and the proceeds thereof in favor of the Mezzanine Security Agent, for the benefit
+of the Mezzanine Security Agent and the Mezzanine Secured Parties, subject to no prior
+Lien or security interest other than to the extent permitted under the Mezzanine Facilities
+Agreement or to any agreement purporting to grant to any third party a security interest in
+the property or assets of the Pledgor which would include the Pledged Shares. The
+Pledgor covenants and agrees that it will defend the Mezzanine Security Agent’s right,
+title and security interest in and to the Pledged Shares and the proceeds thereof against
+the claims and demands of all persons whomsoever.
+
+Section 4. Stock Dividends, Distributions, etc. If, while this Agreement is in effect, the
+Pledgor shall become entitled to receive or shall receive any stock certificate (including, without
+limitation, any certificate representing a stock dividend or a stock distribution in connection with
+any reclassification, increase or reduction of capital, or issued in connection with any
+reorganization, merger or consolidation), or any options or rights, in each case issued by the
+Issuer, whether as an addition to, in substitution for, or in exchange for any of the Pledged
+Shares, or otherwise, the Pledgor agrees to accept the same as the Mezzanine Security Agent’s
+agent and to hold the same in trust for the Mezzanine Security Agent, and, except as otherwise
+provided herein and subject to the Senior Pledge Agreement, to deliver the same promptly to the
+Mezzanine Security Agent in the exact form received, with the endorsement of the Pledgor when
+necessary and/or appropriate undated stock powers duly executed in blank, to be held by the
+Mezzanine Security Agent, subject to the terms hereof, as additional Pledged Collateral. In case
+any disiribution of capital shall be made on or in respect of the Pledged Shares or any property
+shall be distributed upon or with respect to the Pledged Shares pursuant to the recapitalization or
+reclassification of the Capital Stock of the issuer thereof or pursuant to the reorganization
+thereof, the property so distributed shall be delivered promptly to the Mezzanine Security Agent,
+except as otherwise provided herein and subject fo the Senior Pledge Agreement, to be held by it
+as additional Pledged Collateral. Except as provided in subsection 5(a)(ii) below, all sums of
+money and property so paid or distributed in respect of the Pledged Shares which are received by
+the Pledgor shall, until paid or delivered to the Mezzanine Security Agent, be held by the Pledgor
+in trust as additional Pledged Collateral.
+
+Section 5. Administration of Security, The following provisions shall govern the
+administration of the Pledged Shares:
+
+(a) So Jong as no Declared Default has occurred, the Pledgor shall be entitled
+(subject to the other provisions hereof, including, without limitation, Section 8 below):
+
+Gi) to vote or consent with respect to the Pledged Shares in any
+manner not inconsistent with this Agreement, the Mezzanine Facilities Agreement
+and the other Mezzanine Finance Documents referred to therein; and.
+
+Gi) to receive cash dividends or other distributions made in respect of
+
+the Pledged Shares, to the extent permitted to be paid pursuant to the Senior
+Facilities Agreement or, after the Senior Discharge Date, the Mezzanine Facilities
+
+6084400724 -6-
+
+
+
+===== page 10 =====
+Agreement.
+
+The Pledgor hereby grants to the Mezzanine Security Agent or its nominee, on behalf of
+the Mezzanine Security Agent, an irrevocable proxy to exercise all voting and corporate
+tights relating to the Pledged Shares in any instance, including, without limitation, to
+approve any merger involving any Subsidiary as a constituent corporation, which proxy
+shall only be exercisable upon the occurrence of a Declared Default. After the
+occurrence of a Declared Default and upon the request of the Mezzanine Security Agent,
+the Pledgor agrees to deliver to the Mezzanine Security Agent such further evidence of
+such irrevocable proxy or such {further irrevocable proxies to vote the Pledged Shares as
+the Mezzanine Security Agent may request.
+
+(b) — Upon the occurrence of a Declared Default in the event that the Pledgor,
+as record and beneficial owner of any of the Pledged Shares, shall have received or shall
+have become entitled to receive, any cash dividends or other distributions in the ordinary
+course, the Pledgor shall deliver to the Mezzanine Security Agent, and the Mezzanine
+Security Agent shall be entitled to receive and retain, all such cash or other distributions
+as additional Pledged Collateral.
+
+{c) Subject to any sale or other disposition by the Senior Security Agent of the
+Pledged Shares or other property in accordance with the terms of the Senior Pledge
+Agreement and the Intercreditor Agreement, and subject to any subsequent sale or other
+disposition by the Mezzanine Security Agent of the Pledged Shares or other property in
+accordance with the terms of this Agreement, the Pledged Shares and any other Pledged
+Collateral shall be delivered to the Pledgor upon indefeasible full payment in cash,
+satisfaction and termination of all of the Secured Obligations and the termination of the
+Lien and security interest hereby granted pursuant to Section 14 hereof.
+
+Section 6. Rights of Mezzanine Security Agent. The Mezzanine Security Agent shall not
+be liable for failure to collect or realize upon the Secured Obligations or any collateral security or
+guaranty therefor, or any part thereof, or for any delay in so doing, nor shall the Mezzanine
+Security Agent be under any obligation to take any action whatsoever with regard thereto. Any
+ot all of the Pledged Shares held by the Mezzanine Security Agent hereunder may, if a Declared
+Default has occurred, be registered in the name of the Mezzanine Security Agent or its nominee
+and the Mezzanine Security Agent or its nominee may thereafter without notice exercise all
+voting and corporate rights at any meeting with respect to the Issuer of the Pledged Shares and
+exercise any and all rights of conversion, exchange, subscription or any other rights, privileges or
+options pertaining to any of the Pledged Shares as if it were the absolute owner thereof,
+including, without limitation, the right to vote in favor of, and to exchange at its discretion any
+and all of the Pledged Shares upon, the merger, consolidation, reorganization, recapitalization or
+other readjustment with respect to the issuer of the Pledged Shares or upon the exercise by the
+Pledgor or the Mezzanine Security Agent of any right, privilege or option pertaining to any of
+the Pledged Shares, and in connection therewith, to deposit and deliver any and all of the
+Pledged Shares with any committee, depository, transfer agent, registrar or other designated
+agency upon such terms and conditions as the Mezzanine Security Agent may determine, all
+without liability except to account for property actually received by the Mezzanine Security
+Agent, but the Mezzanine Security Agent shall have no duty to exercise any of the aforesaid
+rights, privileges or options and shall not be responsible for any failure to do so or delay in so
+
+608440072.4 -7]-
+
+
+
+===== page 11 =====
+doing.
+
+Section 7. Remedies. Upon the occurrence of a Declared Default, the Mezzanine
+Security Agent, without demand of performance or other demand, advertisement or notice of any
+kind (except the notice specified below of time and place of public or private sale) (all and cach
+of which demands, advertisements and/or notices are hereby expressly waived), may forthwith
+collect, receive, appropriate and realize upon the Pledged Collateral, or any part thereof, and/or
+may forthwith sell, assign, give an option or options to purchase, contract to sell or otherwise
+dispose of (including the disposition by merger) and deliver said Pledged Collateral, or any part
+thereof, in one or more portions at public or private sale or sales or transactions, at any exchange,
+broker’s board or at any of the Mezzanine Security Agent’s offices or elsewhere upon such terms
+and conditions as the Mezzanine Security Agent may deem advisable and at such prices as it may
+determine, for any combination of cash and/or securities or other property or on credit or for
+future delivery without assumption of any credit risk, with the right of the Mezzanine Security
+Agent or any Mezzanine Lender upon any such sale or sales, public or private, to purchase the
+whole or any part of said Pledged Collateral so sold, free of any right or equity of redemption in
+the Pledgor, which right or equity is hereby expressly waived or released. The Mezzanine
+Security Agent shall apply the net proceeds of any such collection, recovery, receipt,
+appropriation, realization, sale or disposition, after deducting all reasonable costs and expenses
+of every kind incurred therein or incidental to the safekeeping of any and all of the Pledged
+Collateral or in any way relating to the rights of the Mezzanine Security Agent hereunder,
+including reasonable attorneys’ fees and legal expenses, to the payment, in whole or in part, of
+the Secured Obligations in accordance with the Mezzanine Facilities Agreement and the
+Intercreditor Agreement. Only after so paying over such net proceeds and after the payment by
+the Mezzanine Security Agent of any other amount required by any provision of Applicable Law
+need the Mezzanine Security Agent account for the surplus, if any, to the Pledgor. The Obligors
+or any member of the Group shall remain liable for any deficiency remaining unpaid after such
+application pursuant to the Mezzanine Facilities Agreement. The Mezzanine Security Agent
+need not give more than 10 days’ written notice of the time and place of any public sale or of the
+time after which a private sale or other intended disposition is to take place and that such notice
+is reasonable notification of such matters. No notification need be given to the Pledgor if the
+Pledgor has signed after the occurrence of a Declared Default a statement renouncing or
+modifying any right to notification of sale or other intended disposition. In addition to the rights
+and remedies granted to the Mezzanine Security Agent in this Agreement and in any other
+instrument or agreement securing, evidencing or relating to any of the Secured Obligations, the
+Mezzanine Security Agent shall have all the rights and remedies of a secured party under the
+UCC and under any other Applicable Law.
+
+Section 8. No Disposition, etc. Without the prior written consent of the Mezzanine
+Security Agent, the Pledgor will not assign, transfer, exchange, or otherwise dispose of, or grant
+any option with respect to, the Pledged Shares or any other Pledged Collateral except as
+expressly permitted under the Mezzanine Facilities Agreement and will not create, incur or
+permit to exist any Lien or security interest with respect to any of the Pledged Shares, any other
+Pledged Collateral or any interest therein, or any proceeds thereof, except for the lien and
+security interest provided for by the Senior Finance Documents, this Agreement or as permitted
+under the Mezzanine Facilities Agreement. Except as permitted by the Mezzanine Facilities
+Agreement, the Pledgor will not vote to enable or permit, the Issuer to (a) issue any stock or
+other securities of any nature in addition to or in exchange or substitution for the Pledged Shares
+
+6084400724 8.
+
+
+
+===== page 12 =====
+or (b) dissolve, liquidate, retire any of its Capital Stock, reduce its capital or merge or
+consolidate with any other Person.
+
+Section 9. Sale of Pledged Shares.
+
+(a) The Pledgor recognizes that, after the occurrence of a Declared Default, the
+Mezzanine Security Agent may be unable to effect a public sale or disposition (including,
+without limitation, any disposition in connection with a merger of the Issuer) of any or all the
+Pledged Collateral by reason of certain prohibitions contained in the Securities Act, and
+Applicable Law, but may be compelled to resort and agrees that the Mezzanine Security Agent
+may resort to one or more private sales or dispositions thereof to a restricted group of purchasers
+who will be obliged to agree, among other things, to acquire such securities for their own
+account for investment and not with a view to the distribution or resale thereof. The Pledgor
+acknowledges and agrees that any such private sale or disposition may result in prices and other
+terms (including the terms of any securities or other property received in connection therewith)
+less favorable to the seller than if such sale or disposition were a public sale or disposition and,
+notwithstanding such circumstances, agrees that any such private sale or disposition shall be
+deemed to be reasonable and effected in a commercially reasonable manner. The Mezzanine
+Security Agent shall be under no obligation to delay a sale or disposition of any of the Pledged
+Collateral in order to permit any Obligor to register such securities for public sale under the
+Securities Act, or under Applicable Law, even if the Obligor or the Issuer would agree to do so.
+
+(b) The Pledgor shall do or cause to be done all such other acts and things as may be
+necessary to make such sale or sales or dispositions of any portion or all of the Pledged
+Collateral valid and binding and in compliance with any and all Applicable Laws, regulations,
+orders, writs, injunctions, decrees or awards of any and all courts, arbitrators or governmental
+jnstrumentalities, domestic or foreign, having jurisdiction over any such sale or sales or
+dispositions, all at the Pledgor’s expense. A breach of any of the covenants contained in
+Sections 4, 5(b), 8, 9 or 10 hereof will cause irreparable injury to the Mezzanine Security Agent
+and the Mezzanine Secured Parties, that the Mezzanine Security Agent and Mezzanine Secured
+Parties have no adequate remedy at law in respect of such breach and, as a consequence, agrees,
+without limiting the right of the Mezzanine Security Agent to seek and obtain specific
+performance of the obligations of the Pledgor contained in this Agreement, that each and every
+covenant referenced above shall be specifically enforceable against the Pledgor, and the Pledgor
+hereby waives and agrees not to assert any defenses against an action for specific performance of
+such covenants except for a defense that no Default or Event of Default has occurred and is
+continuing.
+
+(ce) In addition to other indemnification obligations under the Mezzanine Finance
+Documents, the Pledgor shall indemnify and hold harmless the Mezzanine Security Agent and
+Mezzanine Secured Parties, and each of their officers, directors, employees, agents and
+attorneys, and any Person in control of any thereof (each an “Indemnified Person”), from and
+against any loss, liability, claim, damage and expense, including, without limitation, reasonable
+counsel fees (collectively called the “/ndennified Liabilities”), under federal and state securities
+laws or otherwise insofar as such loss, liability, claim, damage or expense:
+
+(6) arises out of or is based upon any untrue statement or alleged untrue
+statement of a material fact made by any of the Obligors and contained in any registration
+
+6084400724 -9-
+
+
+
+===== page 13 =====
+statement, prospectus or offering memorandum or in any preliminary prospectus or
+preliminary offering memorandum or in any amendment or supplement to any of the
+foregoing or in any other writing prepared in connection with the offer, sale or resale of
+all or any portion of the Pledged Collateral unless such untrue statement of material fact
+was provided by the Indemnified Person specifically for inclusion therein, or
+
+(ii) arises out of or is based upon any omission or alleged omission to state
+therein a material fact required to be stated or necessary to make the statements therein
+not misleading;
+
+such indemnification to remain operative regardless of any investigation made by or on behalf of
+the Indemnified Person or any successor thereof, or any Person in control of any thereof. In
+connection with a public sale or other distribution, the Pledgor will provide customary
+indemnification to any underwriters, their respective successors and assigns, their respective
+officers and directors and each Person who controls any such underwriter (within the meaning of
+the Securities Act). If and to the extent that the foregoing undertakings in this Section 9(c) may
+be unenforceable for any reason, the Pledgor agrees to make maximum contribution to the
+payment and satisfaction of each of the Indemnified Liabilities which is permissible under
+Applicable Law. The obligations of the Pledgor under this Section 9(c) shall survive any
+termination of this Agreement.
+
+(@) — The Pledgor further agrees to waive any and all rights of subrogation it may have
+against an Obligor upon the sale or sales or dispositions of any portion or all of the Pledged
+Collateral until all of the Secured Obligations (other than surviving contingent obligations) have
+been paid in full.
+
+Section 10. Further Assurances. The Pledgor agrees that at any time and from time to
+time, upon the written request of the Mezzanine Security Agent, the Pledgor will execute and
+deliver all stock powers, financing statements and such further documents and do such further
+acts and things as the Mezzanine Security Agent may reasonably request consistent with the
+provisions hereof in order to effect the purposes of this Agreement.
+
+Section 11. Severability. Any provision of this Agreement which is prohibited or
+unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such
+prohibition or unenforceability, and any such prohibition or unenforceability in any jurisdiction
+shall not invalidate or render unenforceable such provision in any other jurisdiction.
+
+Section 12. No Waiver; Cumulative Remedies. The Mezzanine Security Agent shall not
+by any act, delay, omission or otherwise be deemed to have waived any of its remedies on behalf
+of the Mezzanine Secured Parties hereunder, and no waiver by the Mezzanine Security Agent
+shall be valid unless in writing and signed by the Mezzanine Security Agent and then only to the
+extent therein set forth. A waiver by the Mezzanine Security Agent of any right or remedy
+hereunder on any one occasion shall not be construed as a bar to any right or remedy which the
+Mezzanine Security Agent would otherwise have on any further occasion. No course of dealing
+between the Pledgor and the Mezzanine Security Agent and no failure to exercise, nor any delay
+in exercising on the part of the Mezzanine Security Agent of any right, power or privilege
+hereunder or under the Mezzanine Finance Documents shall impair such right or remedy or
+operate as a waiver thereof, nor shall any single or partial exercise of any right, power or
+
+6084400724 -10-
+
+
+
+===== page 14 =====
+privilege hereunder preclude any other or further exercise thereof or the exercise of any other
+right, power or privilege. The rights and remedies herein provided are cumulative and may be
+exercised singly or concurrently, and are not exclusive of any rights or remedies provided by
+Applicable Law.
+
+Section 13. Successors. This Agreement and all obligations of the Pledgor hereunder
+shall be binding upon its successors and assigns, and shall, together with the tights and remedies
+of Mezzanine Security Agent hereunder, inure to the benefit of the Mezzanine Security Agent on
+behalf of the Mezzanine Secured Parties and its successors and assigns, except that the Pledgor
+shall not have any right to assign its obligations under this Agreement or any interest herein
+without the prior written consent of the Mezzanine Security Agent.
+
+Section 14. Termination. This Agreement and the liens and security interests granted
+hereunder shall terminate upon the earlier of (a) the indefeasible full and complete performance
+and satisfaction of the Secured Obligations (other than contingent indemnification obligations),
+and (b) the sale, assignment, conveyance or other disposition of the Pledged Shares, or the
+release of Pledgor’s guarantee of the Secured Obligations, in each case in accordance with the
+Mezzanine Finance Documents, and promptly thereafter, the Mezzanine Security Agent shall
+sutrender the certificates evidencing the Pledged Shares to the Pledgor.
+
+Section 15. Possession of Pledged Collateral. Beyond the exercise of reasonable care to
+assure the safe custody of the Pledged Collateral in the physical possession of the Mezzanine
+Security Agent pursuant hereto, neither the Mezzanine Security Agent nor any nominee of the
+Mezzanine Security Agent shall have any duty or liability to collect any sums due in respect
+thereof or to protect, preserve or exercise any rights pertaining thereto, and shall be relieved of
+all responsibility for the Pledged Collateral upon surrendering them to the Pledgor.
+
+Section 16. Survival of Representations. All representations and warranties of the
+Pledgor contained in this Agreement shall survive the execution and delivery of this Agreement.
+
+Section 17. Intentionally Omitted.
+
+Section 18. Mezzanine Security Agent Appointed Attorney-In-Fact. In addition to any
+other appointments under the Mezzanine Finance Documents, the Pledgor hereby irrevocably
+appoints the Mezzanine Security Agent as the Pledgor’s attorney-in-fact, effective upon the
+occurrence of an Event of Default, with full authority in the place and stead of the Pledgor and in
+the name of the Pledgor or otherwise, from time to time in the Mezzanine Security Agent’s
+discretion, to take any action and to execute any instrument necessary to accomplish the
+purposes of this Agreement, including, without limitation, to receive, endorse and collect all
+instruments made payable to the Pledgor representing any dividend, interest payment or other
+distribution in respect of the Pledged Collateral or any part thereof and to give full discharge for
+the same, when and to the extent permitted by this Agreement.
+
+Section 19. Notices. Each of the Pledgor and the Mezzanine Security Agent
+acknowledges that Clause 35 (Notices) of the Mezzanine Facilities Agreement applies to this
+Agreement.
+
+Section 20. Consent to Jurisdiction and Service of Process. WITH RESPECT TO ANY
+ACTION ARISING OUT OF OR RELATING TO THIS AGREEMENT, THE PLEDGOR
+
+6084400724 -ll-
+
+
+===== page 15 =====
+SHALL AND HEREBY DOES SUBMIT TO THE NON EXCLUSIVE JURISDICTION OF
+THE COURTS OF THE STATE OF NEW YORK AND THE FEDERAL COURTS OF THE
+UNITED STATES OF AMERICA LOCATED IN NEW YORK COUNTY, IN THE STATE OF
+NEW YORK (AND ANY APPELLATE COURTS TAKING APPEALS THEREFROM). THE
+PLEDGOR HEREBY WAIVES AND AGREES NOT TO ASSERT, AS A DEFENSE IN ANY
+ACTION, SUIT OR PROCEEDING ARISING OUT OF OR RELATING TO THIS
+AGREEMENT, (A) THAT IT IS NOT SUBJECT TO SUCH JURISDICTION OR THAT
+SUCH ACTION, SUIT OR PROCEEDING MAY NOT BE BROUGHT OR IS NOT
+MAINTAINABLE IN THOSE COURTS OR THAT THIS AGREEMENT OR ANY OF THE
+OTHER MEZZANINE FINANCE DOCUMENTS MAY NOT BE ENFORCED IN OR BY
+THOSE COURTS OR THAT IT IS EXEMPT OR IMMUNE FROM EXECUTION, (B) THAT
+THE ACTION, SUIT OR PROCEEDING IS BROUGHT IN AN INCONVENIENT FORUM,
+OR (C) THAT THE VENUE OF THE ACTION, SUIT OR PROCEEDING IS IMPROPER. IN
+THE EVENT ANY SUCH ACTION, SUIT, PROCEEDING OR LITIGATION IS
+COMMENCED, THE PLEDGOR AGREES THAT SERVICE OF PROCESS MAY BE MADE,
+AND PERSONAL JURISDICTION OVER THE PLEDGOR OBTAINED, BY SERVICE OF A
+COPY OF THE SUMMONS, COMPLAINT AND OTHER PLEADINGS REQUIRED TO
+COMMENCE SUCH LITIGATION UPON THE PLEDGOR AT THE ADDRESS OF THE
+PLEDGOR AND TO TIE ATTENTION OF SUCH PERSON AS SET FORTH IN SECTION
+19.
+
+No claim may be made by the Pledgor against the Mezzanine Security Agent, its
+affiliates and its directors, officers, employees, or attorneys for any special, indirect or
+consequential damages (“Special Damages”) in respect of any breach or wrongful conduct
+(whether the claim therefor is based on contract, tort or duty imposed by law) in connection with,
+arising out of, or in any way related to the transactions contemplated or relationship established
+by this Agreement, or any act, omission or event occurring in connection herewith or therewith;
+and to the fullest extent permitted by law the Pledgor hereby waives, releases and agrees not to
+suc upon any such claim for Special Damages, whether or not accrued and whether or not known,
+or suspected to exist in its favor.
+
+Section 21. WAIVER OF JURY RIAL. EACH PARTY HERETO HEREBY
+WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT
+IT MAY HAVE TO A TRIAL BY JURY IN RESPECT OF ANY LITIGATION DIRECTLY
+OR INDIRECTLY ARISING OUT OF, UNDER OR IN CONNECTION WITH THIS
+AGREEMENT OR ANY OF THE OTHER MEZZANINE FINANCE DOCUMENTS AND
+AGREES THAT ANY SUCH LITIGATION SHALL BE TRIED ONLY BY A COURT AND
+NOT A JURY. EACH PARTY HERETO (A) CERTIFIES TUAT NO REPRESENTATIVE,
+AGENT OR ATTORNEY OF ANY OTHER PARTY HERETO HAS REPRESENTED,
+EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PARTY WOULD NOT, IN THE
+EVENT OF LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER AND (B)
+ACKNOWLEDGES THAT IT AND THE OTHER PARTIES HERETO HAVE BEEN
+INDUCED TO ENTER INTO THIS AGREEMENT AND THE OTHER LOAN
+DOCUMENTS, AS APPLICABLE, BY, AMONG OTHER THINGS, THE MUTUAL
+WAIVERS AND CERTIFICATIONS IN THIS SECTION.
+
+Section 22. Applicable Law. THIS AGREEMENT AND THE RIGHTS AND.
+OBLIGATIONS OF THE PARTIES UNDER THIS AGREEMENT SHALL BE CONSTRUED
+
+608440072.4 -12-
+
+
+===== page 16 =====
+IN ACCORDANCE WITH AND BE GOVERNED BY THE LAW OF THE STATE OF NEW
+YORK (INCLUDING, WITHOUT LIMITATION, SECTIONS 5-1401 AND 5-1402 OF THE
+GENERAL OBLIGATIONS LAW OF SAID STATE).
+
+Section 24. Changes in Writing. This Agreement may be amended only as provided in
+Section 36 of the Mezzanine Facilities Agreement, and then only to the extent specifically set
+forth in such writing.
+
+Section 25. Headings. Section and subsection headings in this Agreement are included
+herein for convenience of reference only and shall not constitute a part of this Agreement for any
+other purpose or be given any substantive effect.
+
+Section 26. Counterparts. This Agreement may be executed in any number of
+counterparts, all of which taken together shall constitute one and the same instrument and any of
+the parties hereto may execute this Agreement by signing any such counterpart. Signatures
+delivered by electronic methods shall have the same effect as signatures delivered in person.
+
+Section 27. Acknowledgement and Consent to Bail-In of EEA Financial Institutions.
+
+(a) Defined Terms, For purposes of this Section 27, capitalized terms used
+herein and not otherwise defined shall have the following meanings:
+
+“Bail-In Action” means the exercise of any Write-Down and Conversion Powers
+by the applicable EEA Resolution Authority in respect of any liability of an EEA
+Financial Institution.
+
+“Bail-In Legislation” means, with respect to any EEA Member Country
+implementing Article 55 of Directive 2014/59/EU of the European Parliament and of the
+Council of the European Union, the implementing law for such EEA Member Country
+from time to time which is described in the EU Bail-In Legislation Schedule.
+
+“FEA Financial Institution” means (a) any credit institution or investment firm
+established in any EEA Member Country which is subject (o the supervision of an EEA
+Resolution Authority, (b) any entity established in an EEA Member Country which is a
+parent of an institution described in clause (a) of this definition, or (c) any financial
+institution established in an EEA Member Country which is a subsidiary of an institution
+described in clauses (a) or (b) of this definition and is subject to consolidated supervision
+with its parent;
+
+“EEA Member Country” means any of the member states of the European Union,
+Iceland, Liechtenstein, and Norway.
+
+“EEA Resolution Authority” means any public administrative authority or any
+person entrusted with public administrative authority of any EEA Member Country
+(including any delegee) having responsibility for the resolution of any EEA Financial
+Institution.
+
+“EU Bail-In Legislation Schedule” means the EU Bail-In Legislation Schedule
+published by the Loan Market Association (or any successor person), as in effect from.
+
+608440072.4 -13-
+
+
+===== page 17 =====
+time to time.
+
+“Write-Down and Conversion Powers” means, with respect to any EEA
+Resolution Authority, the write-down and conversion powers of such EEA Resolution
+Authority from time to time under the Bail-In Legislation for the applicable EEA
+Member Country, which write-down and conversion powers are described in the EU
+Bail-In Legislation Schedule.
+
+(b} Acknowledgement and Consent. Notwithstanding anything to the
+contrary in any Mezzanine Finance Document or in any other agreement, arrangement or
+understanding among any such parties, each party hereto acknowledges that any liability
+of any EEA Financial Institution arising under any Mezzanine Finance Document, to the
+extent such liability is unsecured, may be subject to the write-down and conversion
+powers of an EEA Resolution Authority and agrees and consents to, and acknowledges
+and agrees to be bound by:
+
+@ the application of any Write-Down and Conversion Powers by an
+EEA Resolution Authority to any such liabilities arising hereunder which may be
+payable to it by any party hereto that is an EEA Financial Institution; and
+
+Gi) the effects of any Bail-in Action on any such liability, including, if
+applicable:
+
+(A) _ areduction in full or in part or cancellation of any such
+liability;
+
+(B) — aconversion of all, or a portion of, such liability into shares
+or other instruments of ownership in such EEA Financial Institution, its
+parent undertaking, or a bridge institution that may be issued to it or
+otherwise conferred on it, and that such shares or other instruments of
+ownership will be accepted by it in lieu of any rights with respect to any
+such liability under this Agreement or any other Mezzanine Finance
+Document; or
+
+(C) __ the variation of the terms of such liability in connection
+with the exercise of the write-down and conversion powers of any EEA
+Resolution Authority.
+
+SECTION 28. Second Priority Nature of Liens. Notwithstanding anything herein to the
+contrary, the lien and security interest granted to the Mezzanine Security Agent pursuant to this
+Agreement shall be a second lien on and security interest in the Pledged Collateral and the
+exercise of any right or remedy by the Mezzanine Security Agent hereunder is subject to the
+provisions of the Intercreditor Agreement. In the event of any conflict between the terms of the
+Intercreditor Agreement and this Agreement, the terms of the Intercreditor Agreement shall
+govern and control. Notwithstanding anything herein to the contrary, prior to the Senior
+Discharge Date, the requirements of this Agreement to deliver the Pledged Collateral to the
+Mezzanine Security Agent shall be deemed satisfied by delivery of such Pledged Collateral to
+the Senior Security Agent.
+
+6084400724 -14-
+
+
+
+===== page 18 =====
+JN WITNESS WHEREOF, the parties hereto have caused this Stock Pledge Agreement
+to be duly executed and delivered as of the day and year first above written.
+
+PLEDGOR:
+
+ALPHA FINANCIAL MARKETS CONSULTING
+GROUP LIMITED _
+
+MEZZANINE SECURITY AGENT:
+
+BEECHBROOK MEZZANINE II JERSEY LIMITED
+
+By:
+
+Name:
+Title:
+
+Signature Page to Stock Pledge Agreement
+084400724
+
+
+
+===== page 19 =====
+ACKNOWLEDGMENT
+
+The undersigned hereby (a) acknowledges receipt of a copy of the foregoing
+Stock Pledge Agreement (the “Pledge Agreement”), (b) waives any rights or requirement at any
+time hereafter to receive a copy of such Pledge Agreement in connection with the registration of
+any Pledged Shares or any other Pledged Collateral (as such terms are defined therein) in the
+name of the Mezzanine Security Agent or its nominee or the exercise of voting rights by the
+Mezzanine Security Agent, and (c) agrees promptly to note on its books and records the grant of
+the security interest in the stock of the undersigned as provided in such Pledge Agreement,
+including the following legend:
+
+PURSUANT TO THAT CERTAIN STOCK PLEDGE AGREEMENT DATED AS OF
+MARCH , 2016 (AS FROM TIME TO TIME AMENDED, RESTATED,
+SUPPLEMENTED OR OTHERWISE MODIFIED), ALPHA FINANCIAL MARKETS
+CONSULTING GROUP LIMITED HAS, UNDER THE CIRCUMSTANCES
+SPECIFIED IN SUCH PLEDGE AGREEMENT, EMPOWERED LLOYDS BANK
+PLC, IN ITS CAPACITY AS MEZZANINE SECURITY AGENT, TO VOTE THE
+SHARES REPRESENTED BY THIS CERTIFICATE PURSUANT TO SUCH STOCK
+PLEDGE AGREEMENT.
+
+Dated: March 52016
+ALPHA FINANCIAL MARKETS
+CONSULTING, INC.
+
+By:
+Name:
+Title:
+
+Signature Page to Acknowledgment to Stock Pledge Agreement
+608440072.4
+
+
+===== page 20 =====
+Exhibit A
+
+to Stock Pledge Agreement
+
+Issuer Class of | Certificate | Number of % of
+
+Shares | No. Shares Outstanding
+
+Class Shares
+
+Alpha Financial Class A 2 10,000 100
+Markets Voting
+Consulting, Inc. Common
+
+Stock
+
+6084400724
+
+
+
+===== page 21 =====
+Exhibit B
+to Stock Pledge Agreement
+
+STOCK POWER
+
+FOR VALUE RECEIVED, the undersigned, ALPHA FINANCIAL MARKETS
+CONSULTING GROUP LIMITED, a company organized under the laws of England and
+
+Wales (“Grantor’’), does . hereby sell, assign and transfer to
+all of its Equity Interests (as hereinafter defined)
+represented by Certificate No(s). * in ALPHA FINANCIAL MARKETS
+
+CONSULTING, INC., a New York corporation (“/ssuer’”) standing in the name of Grantor on
+the books of said Issuer. Grantor does hereby irrevocably constitute and appoint
+*, as attorney, to transfer the Equity Interests in said Issuer with
+full power of substitution in the premises. The term “Equity Interest? means any security, share,
+unit, partnership interest, membership interest, ownership interest, equity interest, option,
+warrant, participation, “equity security” (as such term is defined in Rule 3(a)11-1 of the General
+Rules and Regulations of the Securities Exchange Act of 1934, as amended, or any similar
+statute then in effect, promulgated by the Sccurities and Exchange Commission and any
+successor thereto) or analogous interest (regardless of how designated) of or in a corporation,
+partnership, limited partnership, limited liability company, business trust or other entity, of
+whatever nature, type, series or class, whether voting or nonvoting, certificated or uncertificated,
+common or preferred, and all rights and privileges incident thereto.
+
+Dated:
+GRANTOR:
+ALPHA FINANCIAL MARKETS CONSULTING
+GROUP LIMITED
+By:
+Name:
+Title:
+“To Remain Blank
+
+6084400724
+
+
+
+===== page 22 =====
+EXECUTION COPY
+STOCK PLEDGE AGREEMENT
+
+THIS STOCK PLEDGE AGREEMENT (as amended, novated, supplemented and/or
+restated from time to time, this “Agreement”), dated as of March 4a, 2016, is by and between
+ALPHA FINANCIAL MARKETS CONSULTING GROUP LIMITED, a company
+organized under the laws of England and Wales with registration number 07160664 (the
+“Pledgor"), and BEECHBROOK MEZZANINE II JERSEY LIMITED, in its capacity as
+security agent (in such capacity, the “Mezzanine Security Agent”) for the Mezzanine Secured
+Parties (as defined below). Capitalized terms used but not otherwise defined herein shall have
+the meanings given to such terms in the Mezzanine Facilities Agreement (as defined below).
+
+RECITALS:
+
+A. Pursuant to that certain Mezzanine Facility Agreement dated February 3, 2016, by
+and among (1) Caelius Midco 2 Limited (“Parent”), (2) Caelius Bidco Limited as Original
+Borrower (together with any Additional Borrower from time to time a party thereto, collectively,
+“Borrowers”), (3) the companies listed in part 1 of schedule 1 thereto as Original Guarantors
+(together with Parent, Pledgor, and any Additional Guarantor from time to time a party thereto,
+collectively, the “Guarantors,” and together with the Borrowers, collectively, the “Obligors”),
+(4) Beechbrook Capital LLP as Mandated Lead Arranger (“Lead Arranger”), (5) the financial
+institution listed in part 2 of schedule | to it as Original Lender (“Original Mezzanine Lender"),
+(6) Beechbrook Capital LLP as Agent (“Mezzanine Agent”) and (7) the Mezzanine Security
+Agent (as amended, novated, supplemented, and/or restated from time to time the “Mezzanine
+Facilities Agreement”), the Original Lender agreed to make certain facilities available to the
+Borrowers.
+
+B. The Pledgor legally and beneficially owns all of the issued and outstanding
+Capital Stock of Alpha Financial Markets Consulting, Inc., a New York corporation (the
+“Tssuer”), as described on Exhibit A attached hereto.
+
+Cc. To induce the Mezzanine Sccurity Agent and the Mezzanine Secured Parties to
+enter into and make the Loans under the Mezzanine Facilities Agreement or provide other
+extensions of credit and in order to secure the payment and performance by the Obligors of the
+Secured Obligations, the Pledgor desires to enter into this Agreement.
+
+D. Pursuant to that certain Senior Term and Revolving Senior Facilities Agreement
+dated February 3, 2016, by and among (1) Parent, (2) Original Borrower, (3) Original
+Guarantors, (4) Lloyds Bank ple as Arranger ("Senior Arranger”), (5) the financial institution
+listed in part 2 of schedule | to it as Original Lender (“Original Senior Lender"), (6) Lloyds
+Bank plc as Original Hedge Counterparty (“Hedge Counterparty”), (7) Lloyds Bank ple as Agent
+(“Senior Agent”) and (8) Lloyds Bank ple as Senior Security Agent ("Senior Security Agent”) (as
+amended, novated, supplemented, and/or restated from time to time the “Senior Facilities
+Agreement”), the Original Senior Lender agreed to make certain facilities available to the
+Borrowers.
+
+NOW, THEREFORE, in consideration of the foregoing Recitals, and for other good and
+valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties
+
+608440072.4
+
+
+
+===== page 23 =====
+hereto agree as follows:
+
+Section 1. Defined Terms. Unless otherwise defined herein, all capitalized terms used
+herein shall have the respective meanings ascribed thereto in the Mezzanine Facilities
+Agreement.
+
+“Agreement” is defined in the introductory Preamble.
+
+Applicable Law” means any applicable Federal, state, foreign or local law, ordinance,
+order, regulation, decree, rule or requirement of any governmental agency, instrumentality,
+board, commission, bureau or other authority having jurisdiction.
+
+“Borrowers” is defined in the Recitals.
+
+“Capital Stock” means shares of capital stock (whether denominated as common. stock or
+preferred stock), beneficial, partnership or membership interests or other equivalents (regardless
+of how described) of or in a corporation, partnership, limited liability company or equivalent
+entity, whether voting or non-voting, and all securities convertible or exchangeable into any of
+the foregoing and all warrants, options or other rights to purchase or subscribe for any of the
+foregoing, whether or not presently convertible, exchangeable or exercisable.
+
+"Declared Default" means an Event of Default in respect of which any notice has been
+issued or rights exercised by the Mezzanine Agent under clause 23.18 (Acceleration) of the
+Mezzanine Facilities Agreement.
+
+“Guarantors” is defined in the Recitals.
+
+“Governmental Authority(ies)” means any international, Federal, state, interstate,
+provincial, local, foreign court or governmental agency, authority, instrumentality, agency,
+bureau, board, commission, department or regulatory body.
+
+“Hedge Counterparty” is defined in the Recitals.
+“Indemnified Liabilities” is defined in Section 9(c).
+“Indemnified Person” is defined in Section 9(c).
+
+“Intercreditor Agreement” means that certain Intercreditor Agreement dated February 3,
+2016, made between, among others, the Parent, the Company, the Debtors, as defined therein,
+the Senior Security Agent, the Senior Agent, the Senior Arranger, the Hedge Counterparty, the
+Mezzanine Agent, the Original Mezzanine Lender, the Mezzanine Security Agent, the
+Mezzanine Arranger, and the Intra-Group Lenders, as defined therein, as amended, novated,
+supplemented and/or restated from time to time.
+
+“Issuer” is defined in the Recitals.
+
+“Lien” means any “Security” or “Quasi-Security” as such terms are defined in the
+Mezzanine Facilities Agreement.
+
+608440072.4 -2-
+
+
+===== page 24 =====
+“Loan” has the meaning given to that term in the Mezzanine Facilities Agreement.
+“Mezzanine Agent” is defined in the Recitals.
+“Mezzanine Facilities Agreement” is defined in the Recitals.
+
+“Mezzanine Finance Document” means a “Finance Document” as that term is defined in
+the Mezzanine Facilities Agreement,
+
+“Mezzanine Finance Party” has the meaning given to the term “Finance Party” in the
+Mezzanine Facilities Agreement.
+
+"Mezzanine Lender" means a "Lender" as that term is defined in the Mezzanine Facilities
+Agreement.
+
+“Mezzanine Secured Parties” has the meaning given to that term in the Intercreditor
+Agreement.
+
+“Mezzanine Security Agent” is defined in the introductory Preamble.
+
+“Mezzanine Security Agreement” means that certain security agreement, dated as of the
+date hereof, executed by Issuer in favor of the Mezzanine Security Agent.
+
+“Obligors” is defined in the Recitals.
+
+“Parent” is defined in the Recitals.
+
+“Person” means any natural petson, corporation, business trust, limited liability
+company, joint venture, association, company, partnership or government, or any agency or
+political subdivision thereof.
+
+“Pledged Collateral?” is defined in Section 2.
+
+“Pledged Shares” is defined in Section 2.
+
+“Pledgor” is defined in the introductory Preamble.
+
+“Secured Obligations” means all present and future obligations and liabilities (whether
+actual or contingent and whether owed jointly or severally or alone or in any other capacity
+whatsoever) of each member of the Group to the Mezzanine Security Agent and/or the other
+Mezzanine Secured Parties (or any of them) under or pursuant to any Mezzanine Finance
+Document (including all monies covenanted to be paid under this Agreement).
+
+“Securities Act’ means the United States Securities Act of 1933, as amended.
+
+“Senior Agent” is defined in the Recitals.
+
+“Senior Discharge Date” has the meaning given to that term in the Intercreditor
+Agreement.
+
+60R440072.4 -3-
+
+
+
+===== page 25 =====
+“Senior Facilities Agreement” is defined in the Recitals.
+
+“Senior Finance Document” means a “Finance Document” as that term is defined in the
+Senior Facilities Agreement.
+
+“Senior Pledge Agreement” means that certain stock pledge agreement, dated as of the
+date hereof, executed by Issuer in favor of the Senior Security Agent.
+
+“Senior Security Agent” is defined in the Recitals.
+Special Damages” is defined in Section 20.
+
+“UCC” means the Uniform Commercial Code from time to time in effect in the State of
+New York and the State of Delaware, provided that if, by reason of mandatory provisions of law,
+the validity or perfection of the Mezzanine Security Agent’s security interest in the Pledged
+Collateral or any part thereof is governed by the Uniform Commercial Code or other similar law
+as in effect in a jurisdiction other than New York or Delaware, as applicable, the term “UCC”
+shall mean the Uniform Commercial Code or such similar law as in effect in such other
+jurisdiction for purposes of the provisions hereof relating to such validity or perfection.
+
+Terms defined in the UCC, which are not otherwise defined in this Agreement or in the
+Mezzanine Facilities Agreement are used in this Agreement as defined in the UCC as in effect on
+the date hereof.
+
+If there is any conflict or inconsistency between any provision of this Agreement and the
+Intercreditor Agreement, the provision of the Intercreditor Agreement shall prevail.
+
+Section 2. Pledge. Subject to the Intercreditor Agreement, the Pledgor hereby pledges,
+assigns, hypothecates, delivers and grants to the Mezzanine Security Agent a lien on, and
+security interest in and to, (a) all of the Capital Stock of the Issuer now owned or hereafter
+acquired by the Pledgor (collectively, the “Pledged Shares”), (b) all other property hereafter
+delivered to, or in the possession or in the custody of, the Mezzanine Security Agent in
+substitution for or in addition to the Pledged Shares, (c) any other property of the Pledgor,
+described in Section 4 below and now or hereafter delivered to, or in the possession or custody of
+the Pledgor, and (d) all proceeds of the collateral described in the preceding clauses (a), (b) and
+(c) (the collateral described in clauses (a) through (d) of this Section 2 being collectively referred
+to as the “Pledged Collateral”), as collateral security for the prompt and complete payment when
+due (whether at the stated maturity, by acceleration or otherwise) of all the Secured Obligations.
+
+Except as otherwise expressly provided herein and subject to the Senior Pledge
+Agreement, and except to the extent previously so delivered, all of the Pledged Shares now
+owned by the Pledgor which are presently represented by stock certificates are listed on Exhibit
+A hereto, which stock certificates, with undated stock powers substantially in the form of Exhibit
+B hereto duly executed in blank by the Pledgor and irrevocable proxies, after the Senior
+Discharge Date, shall be delivered to the Mezzanine Security Agent. The Pledgor shall notify
+the Mezzanine Security Agent upon its acquisition of any Capital Stock not listed on Exhibit A.
+After the Senior Discharge Date, the Mezzanine Security Agent shall maintain possession and
+custody of the certificates representing the Pledged Shares and any additional Pledged Collateral.
+
+608440072.4 4.
+
+
+
+===== page 26 =====
+Section 3. Representations and Warranties of the Pledgor. The Pledgor represents and
+warrants to the Mezzanine Security Agent and to each of the other Mezzanine Secured Parties,
+and covenants with the Mezzanine Security Agent, that:
+
+(a) _ the Pledgor is the record and beneficial owner of, and has legal title to, the
+Pledged Shares listed on Exhibit A. Such shares are and will remain, and all other shares
+of Capital Stock constituting Pledged Collateral will be, free and clear of all Liens and
+security interests whatsoever, except the Liens and security interests created by this
+Agrecment or permitted under the Mezzanine Facilities Agreement;
+
+(b) the Pledgor has full power, authority and legal right to execute the pledge
+provided for herein and to pledge its Pledged Shares and any additional Pledged
+Collateral to the Mezzanine Security Agent, for the benefit of the Mezzanine Security
+Agent and the Mezzanine Secured Parties;
+
+(c) this Agreement has been duly authorized, executed and delivered by the
+Pledgor and constitutes a Jegal, valid and binding obligation of the Pledgor enforceable in
+accordance with its terms, except as such enforceability may be limited by applicable
+bankruptcy, moratorium, reorganization and other similar laws affecting the enforcement
+of creditors’ rights generally;
+
+(d) there are no outstanding options, warrants or other agreements with
+respect to the Pledged Shares;
+
+(e) the Pledged Shares have been, and all additional Pledged Collateral
+constituting Capital Stock will be, duly and validly authorized and issued, and are or will
+be fully paid and non-assessable and the Pledged Shares of the Issuer listed on Exhibit A
+constitute all of the issued and outstanding Capital Stock of the Issuer;
+
+® no consent, approval or authorization of or designation or filing with any
+Governmental Authority on the part of the Pledgor is required in connection with the
+pledge and security interest granted under this Agreement, or the exercise by the
+Mezzanine Security Agent of the voting and other rights provided for in this Agreement,
+except for the registration of this Agreement at Companies House in England under
+section 860 of the Companies Act of 2006;
+
+(g) the execution, delivery and performance of this Agreement by the Pledgor
+will not violate any provision of any Applicable Law or regulation or of any order,
+judgment, writ, award or decree of any court, arbitrator or Governmental Authority,
+domestic or foreign, or of the certificate of incorporation or other constitutive documents
+or by-laws of any Obligor or of any securities issued by the issuer of the Pledged Shares
+ot of any mortgage, indenture, lease, contract, or other agreement, instrament or
+undertaking to which any Obligor is a party or which purports to be binding upon any
+Obligor or upon any of their respective assets, and will not result in the creation or
+imposition of any Lien, charge or encumbrance on or security interest in any of the assets
+of any Obligor except as contemplated by this Agreement; and
+
+(h) upon delivery to the Mezzanine Security Agent in the State of New York
+of all of the stock certificates representing the Pledged Shares together with stock powers
+
+608440072.4 -5-
+
+
+
+===== page 27 =====
+duly executed in blank and the registration of this Agreement at Companies House in
+England under section 860 of the Companies Act of 2006, the pledge, assignment and
+delivery to the Mezzanine Security Agent of the Pledged Shares pursuant to this
+Agreement will create a valid lien on and a perfected security interest in the Pledged
+Shares and the proceeds thercof in favor of the Mezzanine Security Agent, for the benefit
+of the Mezzanine Security Agent and the Mezzanine Secured Parties, subject to no prior
+Lien or security interest other than to the extent permitted under the Mezzanine Facilities
+Agreement or to any agreement purporting to grant to any third party a security interest in
+the property or assets of the Pledgor which would include the Pledged Shares. The
+Pledgor covenants and agrees that it will defend the Mezzanine Security Agent’s right,
+title and security interest in and to the Pledged Shares and the proceeds thereof against
+the claims and demands of all persons whomsoever.
+
+Section 4. Stock Dividends, Distributions, etc. If, while this Agreement is in effect, the
+Pledgor shall become entitled to receive or shall receive any stock certificate (including, without
+limitation, any certificate representing a stock dividend or a stock distribution in connection with
+any reclassification, increase or reduction of capital, or issued in connection with any
+reorganization, merger or consolidation), or any options or rights, in each case issued by the
+Issuer, whether as an addition to, in substitution for, or in exchange for any of the Pledged
+Shares, or otherwise, the Pledgor agrees to accept the same as the Mezzanine Security Agent’s
+agent and to hold the same in trust for the Mezzanine Security Agent, and, except as otherwise
+provided herein and subject to the Senior Pledge Agreement, to deliver the same promptly to the
+Mezzanine Security Agent in the exact form received, with the endorsement of the Pledgor when
+necessary and/or appropriate undated stock powers duly executed in blank, to be held by the
+Mezzanine Security Agent, subject to the terms hereof, as additional Pledged Collateral. In case
+any distribution of capital shall be made on or in respect of the Pledged Shares or any property
+shall be distributed upon or with respect to the Pledged Shares pursuant to the recapitalization or
+reclassification of the Capital Stock of the issuer thereof or pursuant to the reorganization
+thereof, the property so distributed shall be delivered promptly to the Mezzanine Security Agent,
+except as otherwise provided herein and subject to the Senior Pledge Agreement, to be held by it
+as additional Pledged Collateral. Except as provided in subsection 5(a)(ii) below, all sums of
+money and property so paid or distributed in respect of the Pledged Shares which are received by
+the Pledgor shall, until paid or delivered to the Mezzanine Security Agent, be held by the Pledgor
+in trust as additional Pledged Collateral.
+
+Section 5. Administration of Security. The following provisions shall govern the
+administration of the Pledged Shares:
+
+(a) So long as no Declared Default has occurred, the Pledgor shall be entitled
+(subject to the other provisions hereof, including, without limitation, Section 8 below):
+
+i¢)) to vote or consent with respect to the Pledged Shares in any
+manner not inconsistent with this Agreement, the Mezzanine Facilities Agreement
+and the other Mezzanine Finance Documents referred to therein; and
+
+(ii) __ to receive cash dividends or other distributions made in respect of
+
+the Pledged Shares, to the extent permitted to be paid pursuant to the Senior
+Facilities Agreement or, after the Senior Discharge Date, the Mezzanine Facilities
+
+6084400724 -6-
+
+
+
+===== page 28 =====
+Agreement.
+
+The Pledgor hereby grants to the Mezzanine Security Agent or its nominee, on behalf of
+the Mezzanine Security Agent, an irrevocable proxy to exercise all voting and corporate
+rights relating to the Pledged Shares in any instance, including, without limitation, to
+approve any merger involving any Subsidiary as a constituent corporation, which proxy
+shall only be exercisable upon the occurrence of a Declared Default. After the
+occurrence of a Declared Default and upon the request of the Mezzanine Sccurity Agent,
+the Pledgor agrees to deliver to the Mezzanine Security Agent such further evidence of
+such itrevocable proxy or such further irrevocable proxies to vote the Pledged Shares as
+the Mezzanine Security Agent may request.
+
+(b) Upon the occurrence of a Declared Default in the event that the Pledgor,
+as record and beneficial owner of any of the Pledged Shares, shall have received or shal
+have become entitled to receive, any cash dividends or other distributions in the ordinary
+course, the Pledgor shall deliver to the Mezzanine Security Agent, and the Mezzanine
+Security Agent shall be entitled to receive and retain, all such cash or other distributions
+as additional Pledged Collateral.
+
+(c) Subject to any sale or other disposition by the Senior Security Agent of the
+Pledged Shares or other property in accordance with the terms of the Senior Pledge
+Agreement and the Intercreditor Agreement, and subject to any subsequent sale or other
+disposition by the Mezzanine Security Agent of the Pledged Shares or other property in
+accordance with the terms of this Agreement, the Pledged Shares and any other Pledged
+Collateral shall be delivered to the Pledgor upon indefeasible full payment in cash,
+satisfaction and termination of all of the Secured Obligations and the termination of the
+Lien and security interest hereby granted pursuant to Section 14 hercof.
+
+Section 6. Rights of Mezzanine Security Agent. The Mezzanine Security Agent shall not
+be liable for failure to collect or realize upon the Secured Obligations or any collateral security or
+guaranty therefor, or any part thereof, or for any delay in so doing, nor shall the Mezzanine
+Security Agent be under any obligation to take any action whatsoever with regard thereto. Any
+or all of the Pledged Shares held by the Mezzanine Security Agent hereunder may, if a Declared
+Default has occurred, be registered in the name of the Mezzanine Security Agent or its nominee
+and the Mezzanine Security Agent or its nominee may thereafter without notice exercise all
+voting and corporate rights at any meeting with respect to the Issuer of the Pledged Shares and
+exercise any and all rights of conversion, exchange, subscription or any other rights, privileges or
+options pertaining to any of the Pledged Shares as if it were the absolute owner thereof,
+including, without limitation, the right to vote in favor of, and to exchange at its discretion any
+and all of the Pledged Shares upon, the merger, consolidation, reorganization, recapitalization or
+other readjustment with respect to the issuer of the Pledged Shares or upon the exercise by the
+Pledgor or the Mezzanine Security Agent of any right, privilege or option pertaining to any of
+the Pledged Shares, and in connection therewith, to deposit and deliver any and all of the
+Pledged Shares with any committee, depository, transfer agent, registrar or other designated
+agency upon such terms and conditions as the Mezzanine Security Agent may determine, all
+without liability except to account for property actually received by the Mezzanine Security
+Agent, but the Mezzanine Security Agent shall have no duty to exercise any of the aforesaid
+tights, privileges or options and shall not be responsible for any failure to do so or delay in so
+
+608440072.4 -7-
+
+
+
+===== page 29 =====
+doing.
+
+Section 7. Remedies. Upon the occurrence of a Declared Default, the Mezzanine
+Security Agent, without demand of performance or other demand, advertisement or notice of any
+kind (except the notice specified below of time and place of public or private sale) (all and each
+of which demands, advertisements and/or notices are hereby expressly waived), may forthwith
+collect, receive, appropriate and realize upon the Pledged Collateral, or any part thereof, and/or
+may forthwith sell, assign, give an option or options to purchase, contract to sell or otherwise
+dispose of (including the disposition by merger) and deliver said Pledged Collateral, or any part
+thereof, in one or more portions at public or private sale or sales or transactions, at any exchange,
+broker’s board or at any of the Mezzanine Security Agent’s offices or elsewhere upon such terms
+and conditions as the Mezzanine Security Agent may deem advisable and at such prices as it may
+determine, for any combination of cash and/or securities or other property or on credit or for
+future delivery without assumption of any credit risk, with the right of the Mezzanine Security
+Agent or any Mezzanine Lender upon any such sale or sales, public or private, to purchase the
+whole or any part of said Pledged Collateral so sold, free of any right or equity of redemption in
+the Pledgor, which right or equity is hereby expressly waived or released. The Mezzanine
+Security Agent shall apply the net proceeds of any such collection, recovery, receipt,
+appropriation, realization, sale or disposition, after deducting all reasonable costs and expenses
+of every kind incurred therein or incidental to the safekeeping of any and all of the Pledged
+Collateral or in any way relating to the rights of the Mezzanine Security Agent hereunder,
+including reasonable attorneys’ fees and legal expenses, to the payment, in whole or in part, of
+the Secured Obligations in accordance with the Mezzanine Facilities Agreement and the
+Intercreditor Agreement. Only after so paying over such net proceeds and after the payment by
+the Mezzanine Security Agent of any other amount required by any provision of Applicable Law
+need the Mezzanine Security Agent account for the surplus, if any, to the Pledgor. The Obligors
+or any member of the Group shall remain liable for any deficiency remaining unpaid after such
+application pursuant to the Mezzanine Facilities Agreement. The Mezzanine Security Agent
+need not give more than 10 days’ written notice of the time and place of any public sale or of the
+time after which a private sale or other intended disposition is to take place and that such notice
+is reasonable notification of such matters. No notification need be given to the Pledgor if the
+Pledgor has signed after the occurrence of a Declared Default a statement renouncing or
+modifying any right to notification of sale or other intended disposition. In addition to the rights
+and remedies granted to the Mezzanine Security Agent in this Agreement and in any other
+instrument or agreement securing, evidencing or relating to any of the Secured Obligations, the
+Mezzanine Security Agent shall have all the rights and remedies of a secured party under the
+UCC and under any other Applicable Law.
+
+Section 8. No Disposition, etc. Without the prior written consent of the Mezzanine
+Security Agent, the Pledgor will not assign, transfer, exchange, or otherwise dispose of, or grant
+any option with respect to, the Pledged Shares or any other Pledged Collateral except as
+expressly permitted under the Mezzanine Facilitics Agreement and will not create, incur or
+permit to exist any Lien or security interest with respect to any of the Pledged Shares, any other
+Pledged Collateral or any interest therein, or any proceeds thereof, except for the lien and
+security interest provided for by the Senior Finance Documents, this Agreement or as permitted
+under the Mezzanine Facilities Agreement. Except as permitted by the Mezzanine Facilities
+Agrocment, the Pledgor will not vote to enable or permit, the Issuer to (a) issue any stock or
+other securities of any nature in addition to or in exchange or substitution for the Pledged Shares
+
+6084400724 -8-
+
+
+
+===== page 30 =====
+or (b) dissolve, liquidate, retire any of its Capital Stock, reduce its capital or merge or
+consolidate with any other Person.
+
+Section 9. Sale of Pledged Shares.
+
+(a) The Pledgor recognizes that, after the occurence of a Declared Default, the
+Mezzanine Security Agent may be unable to effect a public sale or disposition (including,
+without limitation, any disposition in connection with a merger of the Issuer) of any or all the
+Pledged Collateral by reason of certain prohibitions contained in the Securities Act, and
+Applicable Law, but may be compelled to resort and agrees that the Mezzanine Security Agent
+may resort to one or more private sales or dispositions thereof to a restricted group of purchasers
+who will be obliged to agree, among other things, to acquire such securities for their own
+account for investment and not with a view to the distribution or resale thereof. The Pledgor
+acknowledges and agrees that any such private sale or disposition may result in prices and other
+terms (including the terms of any securities or other property received in connection therewith)
+less favorable to the seller than if such sale or disposition were a public sale or disposition and,
+notwithstanding such circumstances, agrees that any such private sale or disposition shall be
+deemed to be reasonable and effected in a commercially reasonable manner. The Mezzanine
+Security Agent shall be under no obligation to delay a sale or disposition of any of the Pledged
+Collateral in order to permit any Obligor to register such securities for public sale under the
+Securities Act, or under Applicable Law, even if the Obligor or the Issuer would agree to do so.
+
+(b) The Pledgor shall do or cause to be done all such other acts and things as may be
+necessary to make such sale or sales or dispositions of any portion or all of the Pledged
+Collateral valid and binding and in compliance with any and all Applicable Laws, regulations,
+orders, writs, injunctions, decrees or awards of any and all courts, arbitrators or governmental
+jnstrumentalities, domestic or foreign, having jurisdiction over any such sale or sales or
+dispositions, all at the Pledgor’s expense. A breach of any of the covenants contained in
+Sections 4, 5(b), 8, 9 or 10 hereof will cause irreparable injury to the Mezzanine Security Agent
+and the Mezzanine Secured Parties, that the Mezzanine Security Agent and Mezzanine Secured
+Parties have no adequate remedy at law in respect of such breach and, as a consequence, agrees,
+without limiting the right of the Mezzanine Security Agent to seck and obtain specific
+performance of the obligations of the Pledgor contained in this Agreement, that each and every
+covenant referenced above shall be specifically enforceable against the Pledgor, and the Pledgor
+hereby waives and agrees not to assert any defenses against an action for specific performance of
+such covenants except for a defense that no Default or Event of Default has occurred and is
+continuing.
+
+(©) In addition to other indemnification obligations under the Mezzanine Finance
+Documents, the Pledgor shall indemnify and hold harmless the Mezzanine Security Agent and
+Mezzanine Secured Parties, and each of their officers, directors, employees, agents and
+attorneys, and any Person in control of any thereof (each an “indemnified Person’), from and
+against any loss, liability, claim, damage and expense, including, without limitation, reasonable
+counsel fees (collectively called the “Indemnified Liabilities”), under federal and state securities
+laws or otherwise insofar as such loss, liability, claim, damage or expense:
+
+ie) arises out of or is based upon any untrue statement or alleged untrue
+statement of a material fact made by any of the Obligors and contained in any registration
+
+6084400724 -9-
+
+
+
+===== page 31 =====
+statement, prospectus or offering memorandum or in any preliminary prospectus or
+preliminary offering memorandum or in any amendment or supplement to any of the
+foregoing or in any other writing prepared in connection with the offer, sale or resale of
+all or any portion of the Pledged Collateral unless such untrue statement of material fact
+was provided by the Indemnified Person specifically for inclusion therein; or
+
+Gi) arises out of or is based upon any omission or alleged omission to state
+therein a material fact required to be stated or necessary to make the statements therein
+not misleading;
+
+such indemnification to remain operative regardless of any investigation made by or on behalf of
+the Indemnified Person or any successor thereof, or any Person in control of any thereof. In
+connection with a public sale or other distribution, the Pledgor will provide customary
+indemnification to any underwriters, their respective successors and assigns, their respective
+officers and directors and each Person who controls any such underwriter (within the meaning of
+the Securities Act). If and to the extent that the foregoing undertakings in this Section 9(c) may
+be unenforceable for any reason, the Pledgor agrees to make maximum contribution to the
+payment and satisfaction of each of the Indemnified Liabilities which is permissible under
+Applicable Law. The obligations of the Pledgor under this Section 9(c) shall survive any
+termination of this Agreement.
+
+(d) The Pledgor further agrees to waive any and all rights of subrogation it may have
+against an Obligor upon the sale or sales or dispositions of any portion or all of the Pledged
+Collateral until all of the Secured Obligations (other than surviving contingent obligations) have
+been paid in full.
+
+Section 10. Further Assurances. The Pledgor agrees that at any time and from time to
+time, upon the written request of the Mezzanine Security Agent, the Pledgor will execute and
+deliver all stock powers, financing statements and such further documents and do such further
+acts and things as the Mezzanine Security Agent may reasonably request consistent with the
+provisions hereof in order to effect the purposes of this Agreement.
+
+Section 11. Severability. Any provision of this Agreement which is prohibited or
+unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such
+prohibition or unenforceability, and any such prohibition or unenforceability in any jurisdiction
+shall not invalidate or render unenforceable such provision in any other jurisdiction.
+
+Section 12. No Waiver: Cumulative Remedies. The Mezzanine Security Agent shall not
+by any act, delay, omission or otherwise be deemed to have waived any of its remedies on behalf
+of the Mezzanine Secured Parties hereunder, and no waiver by the Mezzanine Security Agent
+shall be valid unless in writing and signed by the Mezzanine Security Agent and then only to the
+extent therein set forth. A waiver by the Mezzanine Security Agent of any right or remedy
+hereunder on any one occasion shall not be construed as a bar to any right or remedy which the
+Mezzanine Security Agent would otherwise have on any further occasion. No course of dealing
+between the Pledgor and the Mezzanine Security Agent and no failure to exercise, nor any delay
+in exercising on the part of the Mezzanine Security Agent of any right, power or privilege
+hereunder or under the Mezzanine Finance Documents shall impair such right or remedy or
+operate as a waiver thereof; nor shall any single or partial exercise of any right, power or
+
+6084400724 -10-
+
+
+
+===== page 32 =====
+privilege hereunder preclude any other or further exercise thereof or the exercise of any other
+right, power or privilege. The rights and remedies herein provided are cumulative and may be
+exercised singly or concurrently, and are not exclusive of any rights or remedies provided by
+Applicable Law.
+
+Section 13. Successors. This Agrcement and all obligations of the Pledgor hereunder
+shall be binding upon its successors and assigns, and shall, together with the rights and remedies
+of Mezzanine Security Agent hereunder, inure to the benefit of the Mezzanine Security Agent on
+behalf of the Mezzanine Secured Parties and its successors and assigns, except that the Pledgor
+shall not have any right to assign its obligations under this Agreement or any interest herein
+without the prior written consent of the Mezzanine Security Agent.
+
+Section 14. Termination. This Agreement and the liens and security interests granted
+hereunder shall terminate upon the earlier of (a) the indefeasible full and complete performance
+and satisfaction of the Secured Obligations (other than contingent indemnification obligations),
+and (b) the sale, assignment, conveyance or other disposition of the Pledged Shares, or the
+release of Pledgor’s guarantee of the Secured Obligations, in each case in accordance with the
+Mezzanine Finance Documents, and promptly thereafter, the Mezzanine Security Agent shall
+surrender the certificates evidencing the Pledged Shares to the Pledgor.
+
+Section 15. Possession of Pledged Collateral. Beyond the exercise of reasonable care to
+assure the safe custody of the Pledged Collateral in the physical possession of the Mezzanine
+Security Agent pursuant hereto, neither the Mezzanine Security Agent nor any nominee of the
+Mezzanine Security Agent shall have any duty or liability to collect any sums due in respect
+thereof or to protect, preserve or exercise any rights pertaining thereto, and shall be relieved of
+all responsibility for the Pledged Collateral upon surrendering them to the Pledgor.
+
+Section 16. Survival of Representations. All representations and warranties of the
+Pledgor contained in this Agreement shall survive the execution and delivery of this Agreement.
+
+Section 17. Intentionally Omitted,
+
+Section 18. Mezzanine Security Agent Appointed Attorney-In-Fact. In addition to any
+other appointments under the Mezzanine Finance Documents, the Pledgor hereby irrevocably
+appoints the Mezzanine Security Agent as the Pledgor’s attorney-in-fact, effective upon the
+occurrence of an Event of Default, with full authority in the place and stead of the Pledgor and in
+the name of the Pledgor or otherwise, from time to time in the Mezzanine Security Agent’s
+discretion, to take any action and to execute any instrument necessary to accomplish the
+purposes of this Agreement, including, without limitation, to receive, endorse and collect all
+instruments made payable to the Pledgor representing any dividend, interest payment or other
+distribution in respect of the Pledged Collateral or any part thereof and to give full discharge for
+the same, when and to the extent permitted by this Agreement.
+
+Section 19. Notices. Each of the Pledgor and the Mezzanine Security Agent
+acknowledges that Clause 35 (Notices) of the Mezzanine Facilities Agreement applies to this
+Agreement.
+
+Section 20. Consent to Jurisdiction and Service of Process. WITH RESPECT TO ANY
+ACTION ARISING OUT OF OR RELATING TO THIS AGREEMENT, THE PLEDGOR
+
+608440072.4 -11-
+
+
+
+===== page 33 =====
+SHALL AND HEREBY DOES SUBMIT TO THE NON EXCLUSIVE JURISDICTION OF
+THE COURTS OF THE STATE OF NEW YORK AND THE FEDERAL COURTS OF THE
+UNITED STATES OF AMERICA LOCATED IN NEW YORK COUNTY, IN THE STATE OF
+NEW YORK (AND ANY APPELLATE COURTS TAKING APPEALS THEREFROM). THE
+PLEDGOR HEREBY WAIVES AND AGREES NOT TO ASSERT, AS A DEFENSE IN ANY
+ACTION, SUIT OR PROCEEDING ARISING OUT OF OR RELATING TO THIS
+AGREEMENT, (A) THAT IT IS NOT SUBJECT TO SUCH JURISDICTION OR THAT
+SUCH ACTION, SUIT OR PROCEEDING MAY NOT BE BROUGHT OR IS NOT
+MAINTAINABLE IN THOSE COURTS OR THAT THIS AGREEMENT OR ANY OF THE
+OTHER MEZZANINE FINANCE DOCUMENTS MAY NOT BE ENFORCED IN OR BY
+THOSE COURTS OR THAT IT IS EXEMPT OR IMMUNE FROM EXECUTION, (B) THAT
+THE ACTION, SUIT OR PROCEEDING IS BROUGHT IN AN INCONVENIENT FORUM,
+OR (C) THAT THE VENUE OF THE ACTION, SUIT OR PROCEEDING IS IMPROPER. IN
+THE EVENT ANY SUCH ACTION, SUIT, PROCEEDING OR LITIGATION IS
+COMMENCED, THE PLEDGOR AGREES THAT SERVICE OF PROCESS MAY BE MADE,
+AND PERSONAL JURISDICTION OVER THE PLEDGOR OBTAINED, BY SERVICE OF A
+COPY OF THE SUMMONS, COMPLAINT AND OTHER PLEADINGS REQUIRED TO
+COMMENCE SUCH LITIGATION UPON THE PLEDGOR AT THE ADDRESS OF THE
+PLEDGOR AND TO THE ATTENTION OF SUCH PERSON AS SET FORTH IN SECTION
+19.
+
+No claim may be made by the Pledgor against the Mezzanine Security Agent, its
+affiliates and its directors, officers, employees, or attorneys for any special, indirect or
+consequential damages (“Special Damages”) in respect of any breach or wrongful conduct
+(whether the claim therefor is based on contract, tort or duty imposed by law) in connection with,
+arising out of, or in any way related to the transactions contemplated or relationship established
+by this Agreement, or any act, omission or event occurring in connection herewith or therewith;
+and to the fullest extent permitted by law the Pledgor hereby waives, releases and agrees not to
+sue upon any such claim for Special Damages, whether or not accrued and whether or not known
+or suspected to exist in its favor.
+
+Section 21. WAIVER OF JURY TRIAL. EACH PARTY HERETO HEREBY
+WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT
+If MAY HAVE TO A TRIAL BY JURY IN RESPECT OF ANY LITIGATION DIRECTLY
+OR INDIRECTLY ARISING OUT OF, UNDER OR IN CONNECTION WITH THIS
+AGREEMENT OR ANY OF THE OTHER MEZZANINE FINANCE DOCUMENTS AND
+AGREES THAT ANY SUCH LITIGATION SHALL BE TRIED ONLY BY A COURT AND
+NOT A JURY. EACH PARTY HERETO (A) CERTIFIES THAT NO REPRESENTATIVE,
+AGENT OR ATTORNEY OF ANY OTHER PARTY HERETO HAS REPRESENTED,
+EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PARTY WOULD NOT, IN THE
+EVENT OF LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER AND (B)
+ACKNOWLEDGES THAT IT AND THE OTHER PARTIES HERETO HAVE BEEN
+INDUCED TO ENTER INTO THIS AGREEMENT AND THE OTHER LOAN
+DOCUMENTS, AS APPLICABLE, BY, AMONG OTHER THINGS, THE MUTUAL
+WAIVERS AND CERTIFICATIONS IN THIS SECTION.
+
+Section 22. Applicable Law. THIS AGREEMENT AND THE RIGHTS AND.
+OBLIGATIONS OF THE PARTIES UNDER THIS AGREEMENT SHALL BE CONSTRUED
+
+608440072.4 -12-
+
+
+
+===== page 34 =====
+IN ACCORDANCE WITH AND BE GOVERNED BY THE LAW OF THE STATE OF NEW
+YORK (INCLUDING, WITHOUT LIMITATION, SECTIONS 5-1401 AND 5-1402 OF THE
+GENERAL OBLIGATIONS LAW OF SAID STATE).
+
+Section 24. Changes in Writing. This Agreement may be amended only as provided in
+Section 36 of the Mezzanine Facilities Agreement, and then only to the extent specifically set
+forth in such writing.
+
+Section 25, Headings. Section and subsection headings in this Agreement are included
+herein for convenience of reference only and shalt not constitute a part of this Agreement for any
+other purpose or be given any substantive effect.
+
+Section 26. Counterparts. This Agreement may be executed in any number of
+counterparts, all of which taken together shall constitute one and the same instrument and any of
+the parties hereto may execute this Agreement by signing any such counterpart. Signatures
+delivered by electronic methods shall have the same effect as signatures delivered in person.
+
+Section 27. Acknowledgement and Consent to Bail-In of EEA Financial Institutions.
+
+(a) Defined Terms. For purposes of this Section 27, capitalized terms used
+herein and not otherwise defined shall have the following meanings:
+
+“Bail-In Action” means the exercise of any Write-Down and Conversion Powers
+by the applicable EEA Resolution Authority in respect of any liability of an EEA
+Financial Institution.
+
+“Bail-In Legislation” means, with respect to any EEA Member Country
+implementing Article 55 of Directive 2014/59/EU of the European Parliament and of the
+Council of the European Union, the implementing law for such EEA Member Country
+from time to time which is described in the EU Bail-In Legislation Schedule.
+
+“EEA Financial Institution” means (a) any credit institution or investment firm
+established in any EEA Member Country which is subject to the supervision of an EEA
+Resolution Authority, (b) any entity established in an EEA Member Country which is a
+parent of an institution described in clause (a) of this definition, or (c) any financial
+institution established in an EEA Member Country which is a subsidiary of an institution
+described in clauses (a) or (b) of this definition and is subject to consolidated supervision
+with its parent;
+
+“EEA Member Country” means any of the member states of the European Union,
+Iceland, Liechtenstein, and Norway.
+
+“EEA Resolution Authority” means any public administrative authority or any
+person entrusted with public administrative authority of any EEA Member Country
+(including any delegee) having responsibility for the resolution of any EEA Financial
+Institution.
+
+“EU Bail-In Legislation Schedule means the EU Bail-In Legislation Schedule
+published by the Loan Market Association {or any successor person), as in effect from
+
+6084400724 -13-
+
+
+
+===== page 35 =====
+time to time.
+
+“Write-Down and Conversion Powers” means, with respect to any EEA
+Resolution Authority, the write-down and conversion powers of such EEA Resolution
+Authority from time to time under the Bail-In Legislation for the applicable EEA
+Member Country, which write-down and conversion powers are described in the EU
+Bail-In Legislation Schedule.
+
+(b) Acknowledgement and Consent. Notwithstanding anything to the
+contrary in any Mezzanine Finance Document or in any other agreement, arrangement or
+
+understanding among any such parties, cach party hereto acknowledges that any liability
+of any EEA Financial Institution arising under any Mezzanine Finance Document, to the
+extent such liability is unsecured, may be subject to the write-down and conversion
+powers of an EEA Resolution Authority and agrees and consents to, and acknowledges
+and agrees to be bound by:
+
+{i) the application of any Write-Down and Conversion Powers by an
+EEA Resolution Authority to any such liabilities arising hereunder which may be
+payable to it by any party hereto that is an EEA Financial Institution; and
+
+Gi) the effects of any Bail-in Action on any such liability, including, if
+applicable:
+
+(A) _ areduction in full or in part or cancellation of any such
+liability;
+
+(B) — aconversion of all, or a portion of, such liability into shares
+or other instruments of ownership in such EEA Financial Institution, its
+parent undertaking, or a bridge institution that may be issued to it or
+otherwise conferred on it, and that such shares or other instruments of
+ownership will be accepted by it in lieu of any rights with respect to any
+such liability under this Agreement or any other Mezzanine Finance
+Document, or
+
+(C) _ the variation of the terms of such liability in connection
+with the exercise of the write-down and conversion powers of any EEA
+Resolution Authority.
+
+SECTION 28. Second Priority Nature of Liens. Notwithstanding anything herein to the
+contrary, the lien and security interest granted to the Mezzanine Security Agent pursuant to this —
+Agreement shall be a second lien on and security interest in the Pledged Collateral and the
+exercise of any right or remedy by the Mezzanine Security Agent hereunder is subject to the
+provisions of the Intercreditor Agreement. In the event of any conflict between the terms of the
+Intercreditor Agreement and this Agreement, the terms of the Intercreditor Agreement shall
+govern and control. Notwithstanding anything herein to the contrary, prior to the Senior
+Discharge Date, the requirements of this Agreement to deliver the Pledged Collateral to the
+Mezzanine Security Agent shall be deemed satisfied by delivery of such Pledged Collateral to
+the Senior Security Agent.
+
+6084400724 ~14-
+
+
+
+===== page 36 =====
+IN WITNESS WHEREOF, the parties hereto have caused this Stock Pledge Agreement
+to be duly executed and delivered as of the day and year first above written.
+
+PLEDGOR:
+
+ALPHA FINANCIAL MARKETS CONSULTING
+GROUP LIMITED
+
+By:
+
+Name:
+Title:
+
+MEZZANINE SECURITY AGENT:
+BEECHBROOK MEZZANINE II JERSEY LIMITED
+
+By:
+Name:
+
+Title: |
+
+Signature Page to Stock Pledge Agreement
+6084400724
+
+
+
+===== page 37 =====
+ACKNOWLEDGMENT
+
+The undersigned hereby (a) acknowledges receipt of a copy of the foregoing
+Stock Pledge Agreement (the “Pledge Agreement”), (b) waives any rights or requirement at any
+time hereafter to receive a copy of such Pledge Agreement in connection with the registration of
+any Pledged Shares or any other Pledged Collateral (as such terms are defined therein) in the
+name of the Mezzanine Security Agent or its nominee or the exercise of voting rights by the
+Mezzanine Security Agent, and (c) agrees promptly to note on its books and records the grant of
+the security interest in the stock of the undersigned as provided in such Pledge Agreement,
+including the following legend:
+
+PURSUANT TO THAT CERTAIN STOCK PLEDGE AGREEMENT DATED AS OF
+MARCH , 2016 (AS FROM TIME TO TIME AMENDED, RESTATED,
+SUPPLEMENTED OR OTHERWISE MODIFIED), ALPHA FINANCIAL MARKETS
+CONSULTING GROUP LIMITED HAS, UNDER THE CIRCUMSTANCES
+SPECIFIED IN SUCH PLEDGE AGREEMENT, EMPOWERED LLOYDS BANK
+PLC, IN ITS CAPACITY AS MEZZANINE SECURITY AGENT, TO VOTE THE
+SHARES REPRESENTED BY THIS CERTIFICATE PURSUANT TO SUCH STOCK
+PLEDGE AGREEMENT.
+
+Dated: March » 2016
+
+ALPHA FINANCIAL MARKETS
+CONSULTING, INC.
+
+By:
+Name:
+Title:
+
+Signature Page to Acknowledgment to Stock Pledge Agreement
+608440072.4
+
+
+
+===== page 38 =====
+Exhibit A
+
+to Stock Pledge Agreement
+
+‘Assuer = | Class of | Certificate | Number of %of
+: ° Shares: . |-No. - Shares" Outstanding ©-
+23 wee : -- Class Shares
+Alpha Financial Class A 2 10,000 100
+Markets Voting
+Consulting, Inc. Common
+Stock
+
+608440072.4
+
+
+
+===== page 39 =====
+Exhibit B
+to Stock Pledge Agreement
+
+STOCK POWER
+
+FOR VALUE RECEIVED, the undersigned, ALPHA FINANCIAL MARKETS
+CONSULTING GROUP LIMITED, a company organized under the laws of England and
+Wales (“Grantor”), does hereby sell, assign and transfer to
+* all of its Equity Interests (as hereinafter defined)
+represented by Certificate No(s). * in ALPHA FINANCIAL MARKETS
+CONSULTING, INC., a New York corporation (“ssuer”) standing in the name of Grantor on
+the books of said Issuer. Grantor does hereby irrevocably constitute and appoint
+*_ as attorney, to transfer the Equity Interests in said Issuer with
+full power of substitution in the premises. The term “Equity Interest” means any security, share,
+unit, partnership interest, membership interest, ownership interest, equity interest, option,
+warrant, participation, “equity security” (as such term is defined in Rule 3(a)11-1 of the General
+Rules and Regulations of the Securitics Exchange Act of 1934, as amended, or any similar
+statute then in effect, promulgated by the Securities and Exchange Commission and any
+successor thereto) or analogous interest (regardless of how designated) of or in a corporation,
+partnership, limited partnership, limited liability company, business trust or other entity, of
+whatever nature, type, series or class, whether voting or nonvoting, certificated or uncertificated,
+common or preferred, and all rights and privileges incident thereto.
+
+Dated:
+
+GRANTOR:
+
+ALPHA FINANCIAL MARKETS CONSULTING
+GROUP LIMITED
+
+By:
+Name:
+Title:
+
+“To Remain Blank
+
+6084400724
+

@@ -1,0 +1,1967 @@
+
+
+===== page 1 =====
+Docusign Envelope ID’ 5AE71661-8338-41CD-92F 4-6697CCEECCOS:
+
+THE COMPANIES ACT 2006
+
+A PRIVATE COMPANY LIMITED BY SHARES
+
+ARTICLES OF ASSOCIATION
+
+of
+ACTIUM HOLDINGS LIMITED
+
+Adopted by special resolution dated _20__ August 2024
+
+IHN
+
+21/08/2024 #165
+COMPANIES HOUSE
+
+WEDNESDAY
+
+
+===== page 2 =====
+Dacusign Envelope 1D: 5AE71661-8338-41CD-92F4-6697CCBECC0S,
+
+INDEX TO THE ARTICLES
+Article Page
+
+PRELIMINARY
+1. Model articles do not apply ..
+
+INTERPRETATION
+
+2. Defined terms..... vol
+OBJECTS
+
+3. Unrestricted objects
+
+LIMITED LIABILITY
+
+4. Liability of members .....
+
+DIRECTORS
+
+DIRECTORS’ GENERAL POWERS, DUTIES AND RESPONSIBILITIES
+
+5. Directors’ general powers
+
+6. Shareholders’ reserve power
+
+7. Directors’ dutie:
+
+8. Directors may delegate.
+
+9. Committees.
+
+DECISION-MAKING BY DIRECTORS
+
+10. Directors to take decisions collectively
+
+Mt. Unanimous decisions...
+
+12, Calling a directors' meeting.
+
+13. Participation in directors’ meetings
+
+14. Quorum for directors' meetings...
+
+15, Chairing of directors' meetings......
+
+DIRECTORS’ INTERESTS
+
+16. Directors’ interests in relation to transactions or arrangements with the company
+17. Directors’ interests other than in relation to transactions or arrangements with the company
+18. Directors’ interests generally and votin;
+
+19, Records of decisions to be kept.....
+
+20. Directors’ discretion to make further rules ......
+
+APPOINTMENT OF DIRECTORS
+
+21. Methods of appointing directors...
+
+22, Termination of director's appointment ....
+
+23. Appointment and termination of appointments of directors by majority shareholders
+24, Directors' services and remuneration
+
+25. Directors' expenses..............
+
+26. Directors' pensions and other benefit
+
+ALTERNATE DIRECTORS
+
+27. Appointment and removal of alternates...
+
+28. Rights and responsibilities of alternate directors at
+
+29, Alternates voting at directors’ meetings
+
+30. Termination of alternate directorship ....
+COMPANY NAME
+
+31. Directors’ power to change company name.....
+
+SHARES AND DISTRIBUTIONS — SHARES
+32. All shares to be fully paid up...
+33. Powers to allot shares
+34, Company not bound by less than absolute interest:
+35. Share certificates ...
+36. Replacement share ‘certificates
+
+
+
+===== page 3 =====
+Docusign Envelope ID: 5AE71661-8338-41CD-92F 4-6697CC6ECC05
+
+37. Share transfers
+
+38. Transmission of shares .
+
+39. Exercise of transmittees' rights
+
+40, Transmittees bound by prior notices ..
+DIVIDENDS AND OTHER DISTRIBUTIONS
+41. Procedure for declaring dividends
+
+42. Payment of dividends and other distributions
+43. No interest on distributions
+44, Unclaimed distributions.
+45, Non-cash distribution:
+46. Waiver of distributions .
+SHARE BUYBACKS
+
+47. Buybacks out of capital ....
+CAPITALISATION OF PROFITS
+
+48. Authority to capitalise and appropriation of capitalised sums.....
+DECISION-MAKING BY SHAREHOLDERS - ORGANISATION OF GENERAL MEETINGS
+49, Notice of general meeting 18
+
+50. Attendance and speaking at general meetings
+$1. Quorum for general meetings ......
+52. Chairing general meetings...
+$3. Attendance and speaking by directors and: non-shareholde!
+54. Adjournment....
+VOTING AT GENERAL MEETINGS
+55. Voting: general...
+56. Errors and disputes
+57. Poll votes
+
+58. Content of proxy notice:
+
+39. Delivery of proxy notices ete
+
+60. Amendments to resolutions
+
+ADMINISTRATIVE ARRANGEMENTS
+
+61. Means of communication to be used...
+
+62. When a communication from the company is deemed received ....
+
+63. Notices in writing given to the company by majority shareholder: 23
+64. Company seals.
+
+65, No right to inspect accounts and other records.
+
+66. Provision for employees on cessation of busines
+
+WINDING UP
+67. Winding up
+DIRECTORS' INDEMNITY AND INSURANCE
+68. Indemni
+69. Insurance
+
+
+
+===== page 4 =====
+Docusign Envelope ID: SAE71661-8338-41CD-92F4-6697CCEECC0S
+
+Company number
+09965297
+
+(a)
+
+THE COMPANIES ACT 2006
+A PRIVATE COMPANY LIMITED BY SHARES
+ARTICLES OF ASSOCIATION
+OF
+
+ACTIUM HOLDINGS LIMITED
+
+(adopted by special resolution dated 20 _ August 2024)
+PRELIMINARY
+Model articles do not apply
+
+None of the articles in the model articles for a private company limited by shares set out in Schedule
+| to The Companies (Model Articles) Regulations 2008 shall apply to the company.
+
+INTERPRETATION
+Defined terms
+In the articles, unless the context requires otherwise:
+alternate or alternate director has the meaning given in article 27 and article 28 respectively;
+articles means the company’s articles of association, as from time to time amended;
+
+bankruptcy includes individual insolvency proceedings in a jurisdiction other than England and
+Wales or Northern Ireland which have an effect similar to that of bankruptcy;
+
+bond holders has the meaning given in article 37;
+chair has the meaning given in article 15;
+chair of the meeting has the meaning given in article 52;
+
+Companies Act means the Companies Act 2006 including any statutory modification or re-enactment
+of it for the time being in force;
+
+company means Actium Holdings Limited (registered number 09965297);
+
+director means a director of the company, and includes any person occupying the position of director,
+by whatever name called;
+
+distribution recipient has the meaning given in article 42;
+
+document includes, unless otherwise specified, any document sent or supplied in electronic form;
+
+
+===== page 5 =====
+Docusign Envelope ID; 54E71661-8338-41CD-92F 4-6697CC6ECCOS
+
+(b)
+
+(c)
+
+(d)
+
+electronic form has the meaning given in section 1168 of the Companies Act;
+
+eligible director means a director who is entitled to vole on the relevant matter at a directors’ meeting
+but excluding any director whose vote is not to be counted in respect of the relevant matter;
+
+financial institution has the meaning given in article 37;
+
+fully paid in relation to a share, means that the nominal value and any premium to be paid to the
+company in respect of that share have been paid to the company:
+
+hard copy form has the meaning given in section 1168 of the Companies Act;
+
+holder in relation to shares means the person whose name is entered in the register of members as the
+holder of the shares;
+
+instrument means a document in hard copy form;
+
+ordinary resolution has the meaning given in section 282 of the Companies Act;
+paid means paid or credited as paid;
+
+participate, in relation to a directors’ meeting, has the meaning given in article 13;
+proxy notice has the meaning given in article 58;
+
+receiver has the meaning given in article 37;
+
+relevant situation has the meaning given in article 17;
+
+security has the meaning given in article 37;
+
+shareholder means a person who is the holder of a share;
+
+shares means shares in the company;
+
+special resolution has the meaning given in section 283 of the Companies Act:
+subsidiary has the meaning given in section 1159 of the Companies Act:
+
+transmittee means a person entitled to a share by reason of the death or bankruptcy of a shareholder
+or otherwise by operation of law; and
+
+writing means the representation or reproduction of words, symbols or other information in a visible
+form by any method or combination of methods, whether sent or supplied in electronic form or
+otherwise.
+
+Unless the context otherwise requires, other words or expressions contained in these articles bear the
+same meaning as in the Companies Act as in force on the date when these articles become binding on
+the company.
+
+Unless the contrary intention appears, words importing the singular number include the plural number
+and vice versa, words importing one gender include all genders and words importing persons include
+
+bodies corporate and unincorporated associations.
+
+Headings to the articles are inserted for convenience only and shall not affect construction.
+
+
+===== page 6 =====
+Docusign Envelope ID: 5AE71661-8338-41CD-92F4-6697CC6ECC05
+
+(a)
+
+(b)
+
+@)
+
+(b)
+
+(a)
+
+OBJECTS
+Unrestricted objects
+Nothing in the articles shall constitute a restriction on the objects of the company to do (or omit to do)
+any act and in accordance with section 31(1) of the Companies Act, the company's objects are
+unrestricted.
+LIMITED LIABILITY
+Liability of members
+The liability of the members is limited to the amount, if any, unpaid on the shares held by them.
+DIRECTORS
+DIRECTORS' GENERAL POWERS, DUTIES AND RESPONSIBILITIES
+Directors' general powers
+
+Subject to the articles, the directors are responsible for the management of the company's business, for
+which purpose they may exercise all the powers of the company.
+
+Shareholders' reserve power
+
+The shareholders may, by special resolution, direct the directors to take. or refrain from taking,
+specified action.
+
+No such special resolution invalidates anything which the directors have done before the passing of
+the resolution.
+
+Directors' duties
+The purpose of the company:
+(i) may, if and to the extent that the directors consider it appropriate; and
+
+di) shall, if directed by the holders of the majority of the shares by notice in writing to the
+company,
+
+include promoting the success of the group as a whole or of any one or more members of the group
+(and in this context group means the company, any other body corporate which is its holding company
+or subsidiary and any other body corporate which is a subsidiary of that holding company).
+
+In the exercise of a director's duties, a director shall not be restricted by any duty of confidentiality to
+the company from providing information regarding the company to a holding company of the company
+but a director who is also a director of any holding company of the company shall owe a strict duty of
+confidentiality to that holding company in retation to confidential information of the holding company.
+Directors may delegate
+
+Subject to the articles, the directors may delegate any of the powers which are conferred on them under
+the articles:
+
+(i) to such person or committee;
+
+
+===== page 7 =====
+Docusign Envelope ID: 5AE71661-8338-41CD-92F 4-6697CC6ECC05
+
+(b)
+
+10.
+
+(a)
+
+(b)
+
+11.
+
+(a)
+
+(b)
+
+(c)
+
+12.
+
+(a)
+
+(ii) by such means (including by power of attorney);
+(iii) to such an extent;
+
+(iv) in relation to such matters or territories; and
+
+(v) on such terms and conditions,
+
+as they think fit.
+
+If the directors so specify, any such delegation may authorise further delegation of the directors'
+powers by any person to whom they are delegated.
+
+The directors may revoke any delegation in whole or part, or alter its terms and conditions.
+Committees
+
+Committees to which the directors delegate any of their powers must follow procedures which are
+based as far as they are applicable on those provisions of the articles which govern the taking of
+decisions by directors.
+
+The directors may make rules of procedure for all or any committees, which prevail over rules derived
+from the articles if they are not consistent with them,
+
+DECISION-MAKING BY DIRECTORS
+Directors to take decisions collectively
+
+The general rule about decision-making by directors is that any decision of the directors must be either
+a majority decision at a meeting or a decision taken in accordance with article 11.
+
+Th
+(i) the company only has one director; and
+(ii) no provision of the articles requires it to have more than one director,
+
+the general rule does not apply, and the director may take decisions without regard to any of the
+provisions of the articles relating to directors’ decision-making.
+
+Unanimous decisions
+
+A decision of the directors is taken in accordance with this article when all eligible directors indicate
+to each other by any means that they share a common view on a matter.
+
+Such a decision may take the form of a resolution in writing, copies of which have been signed by
+each eligible director or to which each eligible director has otherwise indicated agreement in writing.
+
+A decision may not be taken in accordance with this article if the eligible directors would not have
+formed a quorum at such a meeting.
+
+Calling a directors’ meeting
+
+Any director may call a directors’ meeting by giving notice of the meeting to the directors or by
+authorising the company secretary (if any) to give such notice.
+
+
+===== page 8 =====
+Docusign Envelope ID: 5AE71661-8338-41CD-92F4-6697CCBECC0S
+
+(b)
+
+(c)
+(d)
+
+13.
+
+(a)
+
+(b)
+
+(©)
+
+14.
+
+{a)
+
+(b)
+
+(¢)
+
+(d)
+
+Notice of any directors’ meeting must indicate:
+a its proposed date and time;
+(ii) where it is to take place; and
+
+(iii) if it is anticipated that directors participating in the meeting will not be in the same place, how
+it is proposed that they should communicate with each other during the meeting.
+
+Notice of a directors' meeting must be given to each director, but need not be in writing.
+
+Notice of a directors' meeting need not be given to directors who waive their entitlement to notice of
+that meeting, by giving notice to that effect to the company not more than 7 days after the date on
+which the meeting is held. Where such notice is given after the meeting has been held, that does not
+affect the validity of the meeting. or of any business conducted at it.
+
+Participation in directors' meetings
+
+Subject to the articles, directors participate in a directors' meeting, or part of a directors’ meeting,
+when:
+
+(o) the meeting has been called and takes place in accordance with the articles; and
+
+(ii) they can each communicate to the others any information or opinions they have on any
+particular item of the business of the meeting.
+
+In determining whether directors are participating in a directors’ meeting, it is irrelevant where any
+director is or how they communicate with each other.
+
+If all the directors participating in a meeting are not in the same place, they may decide that the meeting
+is to be treated as taking place wherever any of them is. In the absence of such a decision, the meeting
+is deemed to take place at the location from where the chair participates.
+
+Quorum for directors’ meetings
+
+At a directors’ meeting, unless a quorum is participating, no proposal is to be voted on, except a
+proposal to call another meeting.
+
+The quorum for directors’ meetings may be fixed from time to time by a decision of the directors, but
+subject to paragraph (c), it must never be less than two eligible directors, and unless otherwise fixed it
+is two eligible directors.
+
+For the purpose of any directors’ meeting (or part of a meeting) held in accordance with article 17 to
+authorise a director's conflict of interest, if only one eligible director is in office, the quorum is one
+eligible director.
+
+If the total number of directors for the time being in office is less than the quorum required, the director
+or directors in office must not take any decision other than a decision:
+
+(i) to appoint further directors; or
+
+(ii) to call a general meeting so as to enable the shareholders to appoint further directors.
+
+
+===== page 9 =====
+Docusign Envelope ID: 5AE7166 1-8338-41CD-92F 4-6697CCSECC0S
+
+15.
+
+(b)
+(c)
+(d)
+
+16.
+
+17.
+
+(a)
+
+(b)
+
+Chairing of directors’ meetings
+
+The directors may appoint a director to chair their meetings.
+
+The person so appointed for the time being is known as the chair.
+The directors may terminate the chair's appointment at any time.
+
+If the chair is not participating in a directors’ meeting within ten minutes of the time at which it was to
+start, the participating directors may appoint one of themselves to chair it.
+
+DIRECTORS' INTERESTS.
+Directors’ interests in relation to transactions or arrangements with the company
+
+The relevant provisions of the Companies Act (including without limitation sections 177 and 182 of
+the Companies Act) shall apply in relation to declarations of interests in proposed and existing
+transactions or arrangements with the company.
+
+Directors’ interests other than in relation to transactions or arrangements with the company
+
+If a situation (a relevant situation) arises in which a director has, or can have, a direct or indirect
+interest that conflicts, or possibly may conflict, with the interests of the company (including, without
+limitation, in relation to the exploitation of any property, information or opportunity, whether or not
+the company could take advantage of it but excluding any situation which cannot reasonably be
+regarded as likely to give rise to a conflict of interest) the following provisions shall apply if the
+conflict of interest does not arise in relation to a transaction or arrangement with the company:
+
+(i) if the relevant situation arises from the appointment or proposed appointment of a person as a
+director of the company:
+
+(A) the directors (other than the director, and any other director with a similar interest,
+who shall not be counted in the quorum at the meeting and shall not vote on the
+resolution); or
+
+(B) the shareholders (by ordinary resolution or by notice in writing given to the company
+by the holders of a majority of the shares),
+
+may resolve to authorise the appointment of the director and the relevant situation on such
+terms as they may determine;
+
+(ii) if the relevant situation arises in circumstances other than in paragraph (i):
+(A) the directors (other than the director and any other director with a simitar interest who
+shall not be counted in the quorum at the meeting and shall not vote on the resolution);
+
+or
+
+(B) the shareholders (by ordinary resolution or by notice in writing given to the company
+by the holders of a majority of the shares),
+
+may resolve to authorise the relevant situation and the continuing performance by the director
+of the director's duties on such terms as they may determine.
+
+Any reference in paragraph (a) to a conflict of interest includes a conflict of interest and duty and a
+conflict of duties.
+
+
+===== page 10 =====
+Docusign Envelope ID: 5AE71661-8338-41CD-92F 4-6697CCBECCOS
+
+(c)
+
+(d)
+
+(e)
+
+0)
+
+(g)
+
+(h)
+
+18.
+
+{a
+
+Any terms determined by the directors or the shareholders under paragraphs (a)(i) or (a)(ii) may be
+imposed at the time of the authorisation or may be imposed or varied subsequently by either the
+directors or the shareholders and may include (without limitation):
+
+(i) whether the interested directors may vote (and be counted in the quorum at any meeting) in
+relation to any decision relating to the relevant situation;
+
+(ii) the exclusion of the interested directors from all information and discussion by the company
+of the relevant situation; and
+
+(iii) (without prejudice to the general obligations of confidentiality) the application to the
+interested directors of a strict duty of confidentiality to the company for any confidential
+information of the company in relation to the relevant situation.
+
+Any authorisation given under paragraphs (a)(i) or (aii) may be withdrawn by either the directors or
+the shareholders by giving notice to the director concerned.
+
+An interested director must act in accordance with any terms determined by the directors or the
+shareholders under paragraphs (a)(i) or (a)(ii).
+
+Except as specified in paragraph (a), any proposal made to the directors and any authorisation by the
+directors in relation to a relevant situation shall be dealt with in the same way as any other matter may
+be proposed to and decided by the directors in accordance with the articles.
+
+Any authorisation of a relevant situation given by the directors or the shareholders under paragraph (a)
+may provide that, where the interested director obtains (other than through the director's position as a
+director of the company) information that is confidential to a third party, the director will not be obliged
+to disclose it to the company or to use it in relation to the company's affairs in circumstances where to
+do so would amount to a breach of that confidence.
+
+(i) If the directors make an authorisation under paragraph (a), impose or vary the terms of an
+authorisation under paragraph (c), or withdraw an authorisation under paragraph (d), they
+shall, as soon as reasonably practicable, notify the shareholders of this fact and provide, where
+applicable, any relevant particulars regarding the authorisation or its terms.
+
+(i) If the shareholders make an authorisation under paragraph (a), impose or vary the terms of an
+authorisation under paragraph (c), or withdraw an authorisation under paragraph (d), they
+shall, as soon as reasonably practicable, notify the directors of this fact and provide, where
+applicable, any relevant particulars regarding the authorisation or its terms.
+
+{i) A director shall, as soon as reasonably practicable, declare the nature and extent of the
+director's interest in a relevant situation within paragraph (a)(i) or (a)(ii) to the other directors
+and the shareholders.
+
+Failure to comply with this requirement does not affect the underlying duty to make the
+declaration of interest.
+
+(ii) If a declaration of interest in relation to a relevant situation proves to be, or becomes,
+inaccurate or incomplete, a further declaration must be made.
+
+Directors’ interests generally and voting
+
+Subject to the Companies Act and te articles 16 and 17, a director notwithstanding holding the office
+of director;
+
+
+===== page 11 =====
+Docusign Envelope ID: 5AE71661-8338-41CD-92F 4-6697CCBECCOS
+
+(b)
+
+()
+
+(4)
+
+(b)
+
+(g)
+
+19.
+
+a may be a party to, or otherwise interested or participate in, any transaction or arrangement
+with the company or in which the company is otherwise interested, including any such
+pensions, other benefits, transactions or arrangements as are referred to in article 26;
+
+(ii) may act by personally or the director's firm in a professional capacity for the company (except
+as auditor) and the director or the director's firm shall be entitled to remuneration as if the
+director were not a director;
+
+(iii) may be a director or other officer of, or employed by, or a party to any transaction or
+arrangement with, or otherwise interested in, any body corporate promoted by the company
+or in which the company is otherwise interested; and
+
+(iv) shall not, by reason of holding the office of director (or of the fiduciary relationship established
+by holding that office), be accountable to the company for any remuneration, profit or other
+benefit resulting from any relevant situation authorised under article 17 or any interest
+permitted under paragraphs (a)(i), (a)(ii), or (aii), and no contract, transaction or
+arrangement shall be liable to be avoided on the grounds of any director having an interest
+authorised under article 17 or permitted under paragraphs (a)(i). (a){ii), or (a)(iii).
+
+Subject to articles 16 and 17 and to any contrary direction from the holders of a majority of the shares,
+a director shall be entitled to vote on any decision concerning any matter in which the director has,
+directly or indirectly, an interest or a duty.
+
+In the case of an alternate director, an interest of the alternate’s appointor shall be treated as an interest
+of the alternate in addition to any interest which the alternate otherwise has.
+
+Subject to the Companies Act, the company may, by ordinary resolution or by notice in writing given
+to the company by the holders ofa majority of the shares, suspend or relax the provisions of this article
+to any extent or ratify any contract, transaction or arrangement not duly authorised by reason of a
+contravention of this article.
+
+Where proposals are under consideration conceming the appointment of two or more directors to
+offices or employments with the company or any body corporate in which the company is interested,
+the proposals may be divided and considered in relation to each director separately and (provided a
+director is not otherwise precluded from voting) each of the directors concerned shall be entitled to
+vote (and to form part of the quorum) in respect of each proposal except that concerning that director's
+own appointment.
+
+Subject to paragraph (g), if a question arises at a meeting of directors or of a committee of directors as
+to the right of a director to participate in the meeting (or part of the meeting) for voting and quorum
+purposes, the question may, before the conclusion of the meeting, be referred to the chair whose ruling,
+in relation to any director other than the chair is to be final and conclusive.
+
+If any question as to the right to participate in the meeting (or part of the meeting) should arise in
+Tespect of the chair, the question is to be decided by a decision of the directors at that meeting, for
+which purpose the chair is not to be counted as participating in the meeting (or that part of the meeting)
+for voting and quorum purposes.
+
+Records of decisions to be kept
+
+The directors must ensure that the company keeps a record, in writing, for at least 10 years from the
+date of the decision recorded, of every unanimous or majority decision taken by the directors.
+
+
+===== page 12 =====
+Docusign Envelope ID: $AE71661-8338-41CD-92F 4-6897CC6ECCOS
+
+20.
+
+21,
+
+(a)
+
+(b)
+
+(c)
+
+22,
+
+23.
+
+24,
+
+(a)
+
+Directors’ discretion to make further rules
+
+Subject to the articles, the directors may make any rule which they think fit about how they take
+decisions, and about how such rules are to be recorded or communicated to directors.
+
+APPOINTMENT OF DIRECTORS
+Methods of appointing directors
+
+Any person who is willing to act as a director, and is permitted by law to do so, may be appointed to
+be a director:
+
+(i) by ordinary resolution; or
+
+(ii) by a decision of the directors.
+
+In any case where, as a result of death, the company has no shareholders and no directors, the personal
+representatives of the last shareholder to have died have the right, by notice in writing, to appoint a
+person to be a director,
+
+For the purposes of paragraph (b}, where 2 or more shareholders die in circumstances rendering it
+uncertain who was the last to die, a younger shareholder is deemed to have survived an older
+shareholder.
+
+Termination of director's appointment
+
+A person ceases to be a director as soon as:
+
+(a) that person ceases to be a director by virtue of any provision of the Companies Act or is
+prohibited from being a director by law;
+
+(b) a bankruptcy order is made against that person;
+
+{c) a composition is made with that person's creditors generally in satisfaction of that person's
+debts;
+
+(d) a registered medical practitioner who has examined the director gives a written opinion to the
+company stating that that person has become physically or mentally incapable of acting as a
+director and may remain so for more than three months; or
+
+(e) notification is received by the company from the director that the director is resigning from
+office, and such resignation has taken effect in accordance with its terms.
+
+Appointment and termination of appointments of directors by majority shareholders
+
+The holders of the majority of the shares may appoint any person as a director and may remove any
+director. Any appointment or removal shal! be made by notice in writing to the company signed by
+the holders or on their behalf and shall take effect when it is lodged at the registered office or produced
+at any directors' meeting. Articles 21 and 22 shall be amended accordingly.
+
+Directors’ services and remuneration
+
+Directors may undertake any services for the company that the directors decide and the company may
+enter into a contract of service with any director on such terms as the directors think fit.
+
+
+===== page 13 =====
+Docusign Envelope ID: 5AE71661-8338-41CD-92F4-6697CC6ECC0S
+
+(b)
+
+(d)
+(©)
+
+25.
+
+26.
+
+Any appointment of a director to an executive office shall terminate if that person ceases to be a
+director but without prejudice to any claim to damages for breach of contract of service between the
+director and the company.
+
+Directors are entitled to such remuneration as the directors determine:
+
+() for their services to the company as directors; and
+
+Gi) for any other service which they undertake for the company.
+
+Subject to the articles, a director's remuneration may take any form.
+
+Unless the directors decide otherwise, directors’ remuneration accrues from day to day.
+Directors’ expenses
+
+The company may pay any reasonable expenses which the directors, alternate directors and the
+company secretary (if any) properly incur in connection with their attendance at:
+
+(a) meetings of directors or committees of directors;
+(b) general meetings; or
+{c) separate meetings of the holders of any class of shares or of debentures of the company,
+
+or otherwise in connection with the exercise of their powers and the discharge of their responsibilities
+in relation to the company.
+
+Directors’ pensions and other benefits
+The directors may exercise all the powers of the company to:
+
+(a) pay, provide, arrange or procure the grant of pensions or other retirement benefits, death,
+disability or sickness benefits, health, accident and other insurances or other such benefits,
+allowances, gratuities or insurances, including in relation to the termination of employment,
+to or for the benefit of any person who is or has been at any time a director of the company or
+in the employment or service of the company or of any body corporate which is or was
+associated with the company or of the predecessors in business of the company or any such
+associated body corporate, or the relatives or dependants of any such person. For that purpose,
+the directors may procure the establishment and maintenance of, or participation in, or
+contribution to, any pension fund, scheme or arrangement and the payment of any insurance
+premiums;
+
+(b) establish, maintain, adopt and enable participation in any profit sharing or incentive scheme
+including shares, share options or cash or any similar schemes for the benefit of any director
+or employee of the company or of any associated body corporate, and to lend money to any
+such director or employee or to trustees on their behalf to enable any such schemes to be
+established, maintained or adopted; and
+
+{c) support and subscribe to any institution or association which may be for the benefit of the
+company or associated body corporate or any directors or employees of the company or
+associated body corporate or their relatives or dependants or connected with any town or place
+where the company or an associated body corporate carries on business, and to support and
+subscribe to any charitable or public object whatsoever.
+
+
+===== page 14 =====
+Docusign Envelope ID: 54£71661-8338-4 1CD-92F 4-6697CCBECCOS
+
+27.
+
+(a)
+
+(b)
+
+28.
+
+(b)
+
+(c)
+
+(d)
+
+ALTERNATE DIRECTORS
+Appointment and removal of alternates
+Any director (the appointor) may appoint as an alternate any other director, or any other person to:
+{i) exercise that director's powers; and
+(ii) carry out that director's responsibilities,
+in relation to the taking of decisions by the directors in the absence of the alternate's appointor.
+
+Any appointment or removal of an alternate must be effected by notice in writing to the company
+signed by the appointor, or in any other manner approved by the directors.
+
+The notice must:
+(i) identify the proposed alternate; and
+
+di) in the case of a notice of appointment, contain a statement signed by the proposed alternate
+that the proposed alternate is willing to act as the alternate of the director giving the notice.
+
+Rights and responsibilities of alternate directors
+
+Subject to the articles, an alternate may act as an alternate director to more than one director and has
+the same rights, in relation to any decision of the directors as the alternate's appointor.
+
+Except as the articles specify otherwise, alternate directors:
+
+(i) are deemed for all purposes to be directors;
+
+(ii) are liable for their own acts and omissions;
+
+(iii) are subject to the same restrictions as their appointors; and
+(iv) are not deemed to be agents of or for their appointors,
+
+and, in particular, each alternate director shall be entitled to receive notice of all directors’ meetings
+and of all committee meetings of directors of which the alternate director's appointor is a member.
+
+Subject to the articles, a person who is an alternate director but not a director:
+
+(i) may be counted as participating for the purposes of determining whether a quorum is present
+(but only if that person's appointor is not participating); and
+
+(ii) may otherwise participate in a unanimous decision of the directors (but only if the alternate
+director's appointor is an eligible director in relation to that decision and is not participating).
+
+No alternate may be counted as more than one director for such purposes.
+An alternate director is not entitled to receive any remuneration from the company for serving as an
+
+alternate director except such part of the alternate’s appointor’s remuneration as the appointor may
+direct by notice in writing made to the company.
+
+
+===== page 15 =====
+Docusign Envelope ID: 5AE71661-8338-41CD-92F 4-6697CCGECCOS
+
+29,
+
+30.
+
+31.
+
+32.
+
+(b)
+
+33.
+
+(a)
+
+(b)
+
+Alternates voting at directors' meetings
+
+Subject to the articles, a director who is also an alternate director has an additional vote at a directors’
+meeting on behalf of each appointor who is:
+
+(a) not participating in the directors’ meeting: and
+(b) would have been an eligible director if participating in it personally.
+
+No alternate may be counted as more than one director for the purpose of determining whether a
+quorum is present.
+
+Termination of alternate directorship
+An alternate director's appointment as an alternate terminates:
+
+(a) when the alternate's appointor revokes the appointment by notice to the company in writing
+specifying when it is to terminate;
+
+(b) on the occurrence in relation to the alternate of any event which, if it occurred in relation to
+the alternate's appointor, would result in the termination of the appointor's appointment as a
+director;
+
+(c) on the death of the alternate’s appointor;
+
+(d) when the alternate’s appointor's appointment as a director terminates; or
+
+(e) where the directors otherwise decide.
+
+COMPANY NAME
+
+Directors' power to change company name
+
+The directors may change the name of the company.
+
+SHARES AND DISTRIBUTIONS — SHARES
+
+All shares to be fully paid up
+
+No share is to be issued for less than the aggregate of its nominal value and any premium to be paid
+to the company in consideration for its issue.
+
+This does not apply to shares taken on the formation of the company by the subscribers to the
+company's memorandum.
+
+Powers to allot shares
+
+In accordance with section 550 of the Companies Act, the directors may exercise any power of the
+company to allot shares or to grant rights to subscribe for or convert any security into shares with such
+rights and restrictions as they may determine.
+
+Subject to the articles, but without prejudice to paragraph (a) or to the rights attached to any existing
+share, the company may issue further classes of shares with such rights or restrictions as may be
+determined by ordinary resolution.
+
+
+===== page 16 =====
+Docusign Envelope ID: 5AE71661-8338-41CD-92F4-6697CC6ECC0S
+
+(d)
+
+(©)
+
+34,
+
+35.
+
+(b)
+
+(©)
+(d)
+(e)
+
+36.
+
+(a)
+
+(b)
+
+Sections 561 and 562 of the Companies Act are excluded.
+
+The company may issue shares which are to be redeemed, or are liable to be redeemed at the option
+of the company or the holder, and the directors may determine the terms, conditions and manner of
+redemption of any such shares.
+
+In the event that rights and restrictions attaching to shares are determined by ordinary resolution or by
+the directors pursuant to this article, those rights and restrictions shall apply, in particular in place of
+any rights or restrictions that would otherwise apply by virtue of the Companies Act in the absence of
+any provisions in the articles of a company, as if those rights and restrictions were set out in the articles.
+Company not bound by less than absolute interests
+
+Except as required by law, no person is to be recognised by the company as holding any share upon
+any trust, and except as otherwise required by law or the articles, the company is not in any way to be
+bound by or recognise any interest in a share other than the holder's absolute ownership of it and all
+the rights attaching to it.
+
+Share certificates
+
+The company must issue each shareholder, free of charge, with one or more certificates in respect of
+the shares which that shareholder holds.
+
+Every certificate must specify:
+
+(i) in respect of how many shares, of what class, it is issued;
+
+(ii) the nominal value of those shares;
+
+(iii) that the shares are fully paid; and
+
+(iv) any distinguishing numbers assigned to them.
+
+No certificate may be issued in respect of shares of more than one class.
+
+If more than one person holds a share, only one certificate may be issued in respect of it.
+Certificates must:
+
+(i) have affixed to them the company’s common or official sea! and in the case of an official seal,
+unless otherwise determined by the directors, the certificate does not need to be signed; or
+
+(ii) be otherwise executed in accordance with the Companies Act.
+
+Replacement share certificates
+
+If'a certificate issued in respect of a sharehofder's shares is:
+
+(i) damaged or defaced; or
+
+(ii) said to be lost, stolen or destroyed.
+
+that shareholder is entitled to be issued with a replacement certificate in respect of the same shares.
+
+A shareholder exercising the right to be issued with such a replacement certificate:
+
+13
+
+
+===== page 17 =====
+Docusign Envelope !D: $AE71661-8338-41CD-92F4-6697CC6ECC0S
+
+37,
+
+(a)
+
+(b)
+
+(c)
+(d)
+
+(e)
+
+(i) may at the same time exercise the right to be issued with a single certificate or separate
+certificates;
+
+(ii) must return the certificate which is to be replaced to the company if it is damaged or defaced;
+and
+
+(iii) must comply with such conditions as to evidence, indemnity and the payment of a reasonable
+fee as the directors decide.
+
+Share transfers
+
+Shares may be transferred by means of an instrument of transfer in any usual form or any other form
+approved by the directors, which is executed by or on behalf of the transferor.
+
+No fee may be charged for registering any instrument of transfer or other document relating to or
+affecting the title to any share.
+
+The company may retain any instrument of transfer which is registered.
+
+The transferor remains the holder of a share until the transferee's name is entered in the register of
+members as holder of it.
+
+The directors may refuse to register the transfer of a share unless:
+
+(i) it is lodged at the registered office or at such place as the directors may appoint and is
+accompanied by the certificate for the shares to which it relates and such other evidence as the
+directors may reasonably require to show the right of the transferor to make the transfer;
+
+(ii) it is in respect of one class of shares only; and
+(iii) it is in favour of not more than four transferees.
+
+Notwithstanding anything contained in these articles, the directors shall not decline to register (or
+suspend the registration of) any transfer of shares where such transfer:
+
+(i) is to:
+
+(A) a bank or financial institution or to a trust, fund or other entity which is regularly
+engaged in or established for the purpose of making, purchasing or investing in loans,
+securities or other financial assets or to an affiliate thereof (any such entity a financial
+institution) or to any holders of any bonds or notes issued by the company or any of
+its subsidiaries or holding companies (bond holders) or an agent or trustee for any
+financial institution and/or any bond holders where a security interest has been or is
+purported to be granted over those shares (each a security) that benefits a financial
+institution and/or any bond holders; and/or
+
+(B) a company or other entity to whom such shares are transferred at the direction of a
+financial institution and/or any bond holders or any agent or trustee on their behalf
+and/or any administrative receiver, administrator, receiver or receiver and manager or
+similar entity (a receiver) pursuant to powers granted to it under any security; and
+
+(ti) is delivered to the company for registration in order to perfect or protect any security of a
+financial institution and/or any bond holders; or
+
+
+===== page 18 =====
+Docusign Envelope ID: 5AE71661-8338-41CD-92F4-6697CC6ECCOS:
+
+38.
+
+(a)
+
+(b)
+
+39,
+
+(a)
+
+(b)
+
+(c)
+
+40.
+
+41,
+
+(a)
+
+(b)
+
+(c)
+(d)
+
+(iii) is executed by a financial institution and/or any bond holders or any agent or trustee on their
+behalf or receiver pursuant to a power of sale or other such power under any security.
+
+Transmission of shares
+
+If title to a share passes to a transmittee, the company may only recognise the transmittee as having
+any title to that share.
+
+A transmittee who produces such evidence of entitlement to shares as the directors may properly
+require:
+
+ci) may, subject to the articles, choose either to become the holder of those shares or to have them
+transferred to another person; and
+
+(ii) subject to the articles, and pending any transfer of the shares to another person, has the same
+rights as the holder had.
+
+But transmittees do not have the right to attend or vote at a general meeting, or agree to a proposed
+written resolution, in respect of shares to which they are entitled, by reason of the holder's death or
+bankruptcy or otherwise, unless they become the holders of those shares.
+
+Exercise of transmittees' rights
+
+Transmittees who wish to become the holders of shares to which they have become entitled must notify
+the company in writing of that wish.
+
+If the transmittee wishes to have a share transferred to another person, the transmittee must execute an
+instrument of transfer in respect of it.
+
+Any transfer made or executed under this article is to be treated as if it were made or executed by the
+person from whom the transmittee has derived rights in respect of the share, and as if the event which
+gave rise to the transmission had not occurred.
+
+Transmittees bound by prior notices
+If a notice is given to a shareholder in respect of shares and a transmittee (or a transferee nominated
+by such transmittee pursuant to article 39) is entitled to those shares, the transmittee (or transferee) is
+bound by the notice if it was given to the shareholder before the transmittee's (or transferee's) name
+has been entered in the register of members.
+
+DIVIDENDS AND OTHER DISTRIBUTIONS
+
+Procedure for declaring dividends
+
+The company may by ordinary resolution declare dividends, and the directors may decide to pay
+interim dividends.
+
+A dividend must not be declared unless the directors have made a recommendation as to its amount.
+Such a dividend must not exceed the amount recommended by the directors.
+
+No dividend may be declared or paid unless it is in accordance with shareholders’ respective rights.
+Unless the shareholders’ resolution to declare or directors’ decision to pay a dividend, or the terms on
+
+which shares are issued, specify otherwise, it must be paid by reference to each shareholder's holding
+of shares on the date of the resolution or decision to declare or pay it.
+
+
+===== page 19 =====
+Docusign Envelope ID: 5AE71661-8338-41CD-92F4-6697CC6ECCOS
+
+(e)
+
+(g)
+
+42.
+
+(a)
+
+(b)
+
+43.
+
+44,
+
+(a)
+
+If the company's share capital is divided into different classes, no interim dividend may be paid on
+shares carrying deferred or non-preferred rights if, at the time of payment. any preferential dividend is
+in arrear.
+
+The directors may pay at intervals any dividend payable at a fixed rate if it appears to them that the
+profits available for distribution justify the payment.
+
+If the directors act in good faith, they do not incur any liability to the holders of shares conferring
+preferred rights for any loss they may suffer by the lawful payment of an interim dividend on shares
+with deferred or non-preferred rights.
+
+Payment of dividends and other distributions
+
+Where a dividend or other sum which is a distribution is payable in respect of a share, it must be paid
+by one or more of the following means:
+
+(i) transfer to a bank or building society account specified by the distribution recipient either in
+writing or as the directors may otherwise decide;
+
+(ii) sending a cheque made payable to the distribution recipient by post to the distribution recipient
+at the distribution recipient's registered address (if the distribution recipient is a holder of the
+share), or (in any other case) to an address specified by the distribution recipient either in
+writing or as the directors may otherwise decide;
+
+(iii) sending a cheque made payable to such person by post to such person at such address as the
+distribution recipient has specified either in writing or as the directors may otherwise decide;
+or
+
+(iv) any other means of payment as the directors agree with the distribution recipient either in
+writing or by such other means as the directors decide.
+
+In the articles, the distribution recipient means, in respect of a share in respect of which a dividend
+or other sum is payable:
+
+(i) the holder of the share; or
+
+(ii) if the share has two or more joint holders, whichever of them is named first in the register of
+members; or
+
+(iii) if the holder is no longer entitled to the share by reason of death or bankruptcy, or otherwise
+by operation of law, the transmittee.
+
+No interest on distributions
+
+The company may not pay interest on any dividend or other sum payable in respect of a share unless
+otherwise provided by:
+
+(a) the terms on which the share was issued; or
+(b) the provisions of another agreement between the holder of that share and the company.
+Unclaimed distributions
+
+All dividends or other sums which are:
+
+16
+
+
+===== page 20 =====
+Docusign Envelope ID: 5AE71661-8338-41CD-92F 4-6697CCBECCOS
+
+(b)
+
+(©)
+
+45.
+
+(b)
+
+46.
+
+{a)
+
+47,
+
+0) payable in respect of shares; and
+(ii) unclaimed after having been declared or become payable,
+may be invested or otherwise made use of by the directors for the benefit of the company until claimed.
+
+The payment of any such dividend or other sum into a separate account does not make the company a
+trustee in respect of it.
+
+If:
+
+(i) twelve years have passed from the date on which a dividend or other sum became due for
+payment; and
+
+(ii) the distribution recipient has not claimed it,
+
+the distribution recipient is no longer entitled to that dividend or other sum and it ceases to remain
+owing by the company.
+
+Non-cash distributions
+
+Subject to the terms of issue of the share in question, the company may, by ordinary resolution on the
+recommendation of the directors, decide to pay all or part of a dividend or other distribution payable
+in respect of a share by transferring non-cash assets of equivalent value (including, without limitation,
+shares or other securities in any company).
+
+For the purpeses of paying a non-cash distribution, the directors may make whatever arrangements
+they think fit, including, where any difficulty arises regarding the distribution:
+
+a) fixing the value of any assets;
+
+(ii) paying cash to any distribution recipient on the basis of that value in order to adjust the rights
+of recipients; and
+
+(iii) vesting any assets in trustees.
+Waiver of distributions
+
+Distribution recipients may waive their entitlement to a dividend or other distribution payable in
+respect of a share by giving the company notice in writing to that effect, but if:
+
+(i) the share has more than one holder: or
+
+(ii) more than one person is entitled to the share, whether by reason of the death or bankruptcy of
+one or more joint holders, or otherwise,
+
+the notice is not effective unless it is expressed to be given, and signed, by all the holders or persons
+otherwise entitled to the share.
+
+SHARE BUYBACKS
+Buybacks out of capital
+
+The company may purchase its own shares in accordance with (and up to the maximum limits set out
+in) section 692(1ZA) of the Companies Act.
+
+
+===== page 21 =====
+Docusign Envelope ID: 5AE71661-8338-41CD-92F 4-6697CC6ECC05
+
+48.
+
+(a)
+
+(b)
+
+(cy
+
+(4)
+
+49,
+
+50.
+
+(a)
+
+CAPITALISATION OF PROFITS
+Authority to capitalise and appropriation of capitalised sums
+Subject to the articles, the directors may, if they are so authorised by an ordinary resolution:
+a decide to capitalise any profits of the company (whether or not they are available for
+distribution) which are not required for paying a preferential dividend, or any sum standing to
+
+the credit of the company's share premium account or capital redemption reserve; and
+
+(ii) appropriate any sum which they so decide to capitalise (a capitalised sum) to the persons who
+would have been entitled to it if it were distributed by way of dividend (the persons entitled)
+and in the same proportions.
+
+Capitalised sums must be applied:
+(i) on behalf of the persons entitled; and
+(ii) in the same proportions as a dividend would have been distributed to them.
+
+Any capitalised sum may be applied in paying up new shares of a nominal amount equal to the
+capitalised sum which are then allotted credited as fully paid to the persons entitled or as they may
+direct.
+
+A capitalised sum which was appropriated from profits available for distribution may be applied in
+paying up new debentures of the company which are then allotted credited as fully paid to the persons
+entitled or as they may direct.
+
+Subject to the articles the directors may:
+
+(i) apply capitalised sums in accordance with paragraphs (c) and (d) partly in one way and partly
+in another;
+
+(ii) make such arrangements as they think fit to deal with shares or debentures becoming
+distributable in fractions under this article (including the issuing of fractional certificates or
+the making of cash payments); and
+
+(iii) authorise any person to enter into an agreement with the company on behalf of all the persons
+entitled which is binding on them in respect of the allotment of shares and debentures to them
+under this article.
+
+DECISION-MAKING BY SHAREHOLDERS — ORGANISATION OF GENERAL MEETINGS
+
+Notice of general meeting
+
+A shareholder present either in person or by proxy, at any general meeting of the company shall be
+deemed to have received notice of the meeting and, where requisite, of the purposes for which the
+meeting was convened.
+
+Attendance and speaking at general meetings
+A person is able to exercise the right to speak at a general meeting when that person is in a position to
+
+communicate to all those attending the meeting, during the meeting, any information or opinions which
+that person has on the business of the meeting.
+
+
+===== page 22 =====
+Docusign Envelope ID: §4E71661-8338-41CD-92F 4-6897CCEECC0S
+
+(b)
+
+(ey
+
+(d)
+
+(e)
+
+Si.
+
+32.
+
+(a)
+
+(b)
+
+(c)
+53.
+(a)
+(b)
+
+A person is able to exercise the right to vote at a general meeting when:
+
+(i) that person is able to vote, during the meeting, on resolutions put to the vote at the meeting;
+and
+
+(ii) that person’s vote can be taken into account in determining whether or not such resolutions are
+passed at the same time as the votes of all the other persons attending the meeting.
+
+The directors may make whatever arrangements they consider appropriate to enable those attending a
+general meeting to exercise their rights to speak or vote at it.
+
+In determining attendance at a general meeting, it is immaterial whether any two or more shareholders
+attending it are in the same place as each other.
+
+Two or more persons who are not in the same place as each other attend a general meeting if their
+circumstances are such that if they have (or were to have) rights to speak and vote at that meeting, they
+are (or would be) able to exercise them.
+
+Quorum for general meetings
+
+No business other than the appointment of the chair of the meeting is to be transacted at a general
+meeting if the persons attending it do not constitute a quorum.
+
+Chairing general meetings
+
+If the directors have appointed a chair, the chair shall chair general meetings if present and willing to
+do so.
+
+If the directors have not appointed a chair, or if the chair is unwilling to chair the meeting or is not
+present within ten minutes of the time at which a meeting was due to start:
+
+(i) the directors present; or
+(ii) (if no directors are present), the meeting,
+
+must appoint a director or shareholder (including a proxy or a corporate representative) to chair the
+Meeting, and the appointment of the chair of the meeting must be the first business of the meeting.
+
+The person chairing a meeting in accordance with this article is referred to as the chair of the meeting.
+Attendance and speaking by directors and non-shareholders
+
+Directors may attend and speak at general meetings, whether or not they are shareholders.
+
+The chair of the meeting may permit other persons who are not:
+
+(i) shareholders of the company; or
+
+(ii) otherwise entitled to exercise the rights of shareholders in relation to general meetings,
+
+to attend and speak at a general meeting.
+
+19
+
+
+===== page 23 =====
+Docusign Envelope ID: 5AE7166 1-8338-41CD-92F4-6697CC6ECCOS
+
+54,
+
+(a)
+
+(b)
+
+(c}
+(d)
+
+(e)
+
+()
+
+55.
+
+56.
+
+{a)
+
+(b)
+57,
+
+(a)
+
+Adjournment
+
+If the persons attending a general meeting within half an hour of the time at which the meeting was
+
+due to start do not constitute a quorum, or if during a meeting a quorum ceases to be present, the chair
+
+of the meeting must adjourn it.
+
+The chair of the meeting may adjourn a general meeting at which a quorum is present if:
+
+(i) the meeting consents to an adjournment; or
+
+(ii) it appears to the chair of the meeting that an adjournment is necessary to protect the safety of
+any person attending the meeting or ensure that the business of the meeting is conducted in an
+orderly manner.
+
+The chair of the meeting must adjourn a general meeting if directed to do so by the meeting.
+
+When adjourning a general meeting. the chair of the meeting must:
+
+a) either specify the time and place to which it is adjourned or state that it is to continue at a time
+and place to be fixed by the directors; and
+
+(ii) have regard to any directions as to the time and place of any adjournment which have been
+given by the meeting.
+
+If the continuation of an adjourned meeting is to take place more than 14 days after it was adjourned,
+the company must give at least 7 clear days' notice of it (that is, excluding the day of the adjourned
+meeting and the day on which the notice is given):
+
+(i) to the same persons to whom notice of the company's general meetings is required to be given;
+and
+
+di) containing the same information which such notice is required to contain.
+
+No business may be transacted at an adjourned general meeting which could not properly have been
+transacted at the meeting if the adjournment had not taken place.
+
+VOTING AT GENERAL MEETINGS
+Voting: general
+
+A resolution put to the vote of a general meeting must be decided on a show of hands unless a poll is
+duty demanded in accordance with the articles.
+
+Errors and disputes
+
+No objection may be raised to the qualification of any person voting at a general meeting except at the
+meeting or adjourned meeting at which the vote objected to is tendered, and every vote not disallowed
+at the meeting is valid.
+
+Any such objection must be referred to the chair of the meeting, whose decision is final.
+
+Poll votes
+
+A poll on a resolution may be demanded:
+
+20
+
+
+===== page 24 =====
+Docusign Envelope ID: 5AE71661-8338-41CD-92F 4-6697CC6ECC05
+
+(0)
+
+()
+
+(d)
+
+58.
+
+(a)
+
+(b)
+
+(d)
+
+(i) in advance of the general meeting where it is to be put to the vote; or
+
+(ii) at a general meeting, either before a show of hands on that resolution or immediately after the
+result of a show of hands on that resolution is declared.
+
+A poll may be demanded by:
+
+(i) the chair of the meeting;
+
+(id) the directors;
+
+(iii) two or more persons having the right to vote on the resolution; or
+
+(iv) a person or persons representing not less than one-tenth of the total voting rights of all the
+shareholders having the right to vote on the resolution.
+
+A demand for a poll may be withdrawn if:
+
+{i) the poll has not yet been taken; and
+
+(ii) the chair of the meeting consents to the withdrawal.
+
+Polls must be taken immediately and in such manner as the chair of the meeting directs.
+Content of proxy notices
+
+Proxies may only validly be appointed by a notice in writing (a proxy notice) which:
+a stales the name aud address of the sharcholder appointing the proxy;
+
+ii) identifies the person appointed to be that shareholder's proxy and the general meeting in
+relation to which that person is appointed;
+
+(iii) is signed by or on behalf of the shareholder appointing the proxy, or is authenticated in such
+manner as the directors may determine; and
+
+(iv) is delivered to the company in accordance with the articles and any instructions contained in
+the notice of the general meeting (or adjourned meeting) to which they relate.
+
+The company may require proxy notices to be delivered in a particular form, and may specify different
+forms for different purposes.
+
+Proxy notices may specify how the proxy appointed under them is to vote (or that the proxy is to
+abstain from voting) on one or more resolutions.
+
+Unless a proxy notice indicates otherwise, it must be treated as:
+
+@ allowing the person appointed under it as a proxy discretion as to how to vote on any ancillary
+or procedural resolutions put to the meeting; and
+
+(ii) appointing that person as a proxy in relation to any adjournment of the general meeting to
+which it relates as well as the meeting itself.
+
+21
+
+
+===== page 25 =====
+Docusign Envelope ID: 5AE71861-8333-41CD-92F 4-6697CCBECCOS
+
+59.
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+60.
+
+(a)
+
+(b)
+
+(c)
+
+61.
+
+(a)
+
+(b)
+
+(©)
+
+Delivery of proxy notices etc.
+
+A person who is entitled to attend, speak or vote (either on a show of hands or on a poll) at a general
+meeting remains so entitled in respect of that meeting or any adjournment of it, even though a valid
+proxy notice has been delivered to the company by or on behalf of that person.
+
+An appointment under a proxy notice may be revoked by delivering to the company a notice in writing
+given by or on behalf of the person by whom or on whose behalf the proxy notice was given.
+
+A notice revoking a proxy appointment only takes effect if it is delivered before the start of the meeting
+or adjourned meeting to which it relates.
+
+Ifa proxy notice is not executed by the person appointing the proxy, it must be accompanied by written
+evidence of the authority of the person who executed it to execute it on the appointor's behalf.
+
+Amendments to resolutions
+
+An ordinary resolution to be proposed at a general meeting may be amended by ordinary resolution if:
+
+(i) notice of the proposed amendment is given to the company in writing by a person entitled to
+vote at the general meeting at which it is to be proposed not less than 48 hours before the
+
+meeting is to take place (or such later time as the chair of the meeting may determine); and
+
+(ii) the proposed amendment does not, in the reasonable opinion of the chair of the meeting,
+materially alter the scope of the resolution.
+
+A special resolution to be proposed at a general meeting may be amended by ordinary resolution, if:
+
+qa the chair of the meeting proposes the amendment at the general meeting at which the resolution
+is to be proposed; and
+
+ii) the amendment does not go beyond what is necessary to correct a grammatical or other
+non-Substantive error in the resolution.
+
+If the chair of the meeting, acting in good faith, wrongly decides that an amendment to a resolution is
+out of order, the chair's error does not invalidate the vote on that resolution.
+
+ADMINISTRATIVE ARRANGEMENTS
+Means of communication to be used
+
+Subject to the articles, anything sent or supplied by or to the company under the articles may be sent
+or supplied in any way in which the Companies Act provides for documents or information which are
+authorised or required by any provision of that Act to be sent or supplied by or to the company.
+
+Subject to the articles, any notice or document to be sent or supplied to a director in connection with
+the taking of decisions by directors may also be sent or supplied by the means by which that director
+has asked to be sent or supplied with such notices or documents for the time being.
+
+A director may agree with the company that notices or documents sent to that director in a particular
+
+way are to be deemed to have been received within a specified time of their being sent, and for the
+specified time to be less than 48 hours.
+
+22
+
+
+===== page 26 =====
+Docusign Envelope ID 5AE71661-8338-41CD-92F4-6697CC6ECCOS
+
+62.
+
+@
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+(f)
+
+63.
+
+64,
+(a)
+(b)
+(c)
+
+(d)
+
+When a communication from the company is deemed received
+
+Any document or information, if sent by first class post, shall be deemed to have been received on the
+day following that on which the envelope containing it is put into the post, or, if sent by second class
+post, shall be deemed to have been received on the second day following that on which the envelope
+containing it is put into the post and in proving that a document or information has been received it
+shall be sufficient to prove that the letter, envelope or wrapper containing the document or information
+was properly addressed, prepaid and put into the post.
+
+Any document or information not sent by post but left at a registered address or address at which a
+document or information may be received shall be deemed to have been received on the day it was so
+left.
+
+Any document or information, if sent or supplied by electronic means, shall be deemed to have been
+received on the day on which the document or information was sent or supplied by or on behalf of the
+
+company.
+
+If the company receives a delivery failure notification following a communication by electronic means
+in accordance with paragraph (c), the company shall send or supply the document or information in
+hard copy or electronic form (but not by electronic means) to the shareholder either personally or by
+post addressed to the shareholder at the shareholder's registered address or by leaving it at that address.
+This shall not affect when the document or information was deemed to be received in accordance with
+
+paragraph (c).
+
+Where a document or information is sent or supplied by means of a website, it shall be deemed to have
+been received:
+
+(i) when the material was first made available on the website; or
+
+(ii) if later, when the recipient was deemed to have received notice of the fact that the material
+was available on the website.
+
+Every person who becomes entitled to a share shall be bound by every notice in respect of that share
+which before that person's name is entered in the register of members was given to the person from
+whom the person derives title to the share.
+
+Notices in writing given to the company by majority shareholders
+
+Any nolice in writing given to the company by the holders of a majority of the shares shall take effect
+when it is lodged at the registered office or produced to any directors' meeting.
+
+Company seals
+
+Any common seal may only be used by the authority of the directors or of a committee of the directors.
+The directors may decide by what means and in what form any common seal is to be used.
+
+Unless otherwise decided by the directors, if the company has a common seal and it is affixed to a
+document, the document must also be signed by at least one authorised person in the presence of a
+witness who attests the signature.
+
+For the purposes of this article, an authorised person is:
+
+(i) any director of the company;
+
+23
+
+
+===== page 27 =====
+Docusign Envelope ID: SAE7 1661-8338-41CD-92F 4-6697CC5ECCOS
+
+65.
+
+66.
+
+67.
+
+68.
+
+(a)
+
+(ii) the company secretary (if any); or
+
+(iii) any person authorised by the directors for the purpose of signing documents to which the
+common seal is applied.
+
+The company may exercise the powers conferred by the Companies Act with regard to having official
+seals and those powers shall be vested in the directors. Subject to the Companies Act, any instrument
+to which an official seal is affixed shall be signed by such persons, if any, and affixed in such manner
+as the directors may from time to time determine.
+
+No right to inspect accounts and other records
+
+Except as provided by law or authorised by the directors or an ordinary resolution of the company, no
+person is entitled to inspect any of the company's accounting or other records or documents merely by
+virtue of being a shareholder.
+
+Provision for employees on cessation of business
+
+The directors may decide to make provision for the benefit of persons employed or formerly employed
+by the company or any of its subsidiaries (other than a director or former director or shadow director)
+in connection with the cessation or transfer to any person of the whole or part of the undertaking of
+the company or that subsidiary.
+
+WINDING UP
+Winding up
+
+If the company is wound up, the liquidator may, with the sanction of a special resolution of the
+company and any other sanction required by the Companies Act, divide among the shareholders in
+specie the whole or any part of the assets of the company and may, for that purpose, value any assets
+and determine how the division shall be carried out as between the shareholders or different classes of
+shareholders. The liquidator may, with the like sanction, vest the whole or any part of the assets in
+trustees upon such trusts for the benefit of the shareholders as the liquidator with like sanction
+determines, but no shareholder shall be compelled to accept any assets upon which there is liability.
+
+DIRECTORS' INDEMNITY AND INSURANCE
+Indemnity
+
+Subject to paragraph (e), a relevant director of the company or of an associated company may be
+indemnified out of the company’s assets against:
+
+qd) any liability incurred by that director in connection with any negligence, default, breach of
+duty or breach of trust in relation to the company or an associated company;
+
+(ii) any liability incurred by that director in connection with the activities of the company or an
+associated company in its capacity as a trustee of an occupational pension scheme (as defined
+in section 235(6) of the Companies Act);
+
+(ii) any other liability incurred by that director as an officer of the company or an associated
+company.
+
+24
+
+
+===== page 28 =====
+Docusign Envelope ID: 5AE7 1661 -8338-41CD-92F 4-6697CC6ECC0S
+
+(b)
+
+(c)
+
+(d)
+
+()
+
+69.
+
+(b)
+
+The company may fund the expenditure of a relevant director of the company or of any associated
+company for the purposes permitted under the Companies Act and may do anything to enable such
+relevant director to avoid incurring such expenditure as provided in the Companies Act.
+
+No relevant director of the company or of any associated company shall be accountable to the company
+or the shareholders for any benefit provided pursuant to this article and the receipt of any such benefit
+shall not disqualify any person from being or becoming a director of the company.
+
+The powers given by this article shall not limit any general powers of the company to grant
+indemnities, purchase and maintain insurance or provide funds (whether by way of loan or otherwise)
+to any person in connection with any legal or regulatory proceedings or applications for relief.
+
+This article does not authorise any indemnity which would be prohibited or rendered void by any
+provision of the Companies Act or by any other provision of law.
+
+In this article and in article 69:
+
+(i) companies are associated if one is a subsidiary of the other or both are subsidiaries of the
+same body corporate; and
+
+{ii) a relevant director means any director or former director of the company or of an associated
+company.
+
+Insurance
+
+The directors may decide to purchase and maintain insurance, at the expense of the company, for the
+benefit of any relevant director in respect of any relevant loss.
+
+In this article, a relevant loss means any loss or liability which has been or may be incurred by a
+relevant director in connection with that director's duties or powers in relation to the company, any
+associated company or any pension fund or employees’ share scheme of the company or associated
+company.
+
+25

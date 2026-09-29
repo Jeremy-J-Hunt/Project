@@ -1,0 +1,1312 @@
+
+
+===== page 1 =====
+- - - oe -- Registered number: 11480862
+
+UNAUDITED
+
+DIRECTORS' REPORT AND FINANCIAL STATEMENTS
+
+FOR THE YEAR ENDED 31 MARCH 2025
+
+A
+
+AaB 24/12/2025 #102
+COMPANIES HOUSE
+
+WEDNESDAY
+
+
+===== page 2 =====
+AIVIQ LIMITED
+
+Directors
+
+Registered number
+
+Ragistered office
+
+COMPANY INFORMATION.
+GA Cook
+JAW Gooze 21 (appointed 28 May 2025)
+LJ Griggs
+JC Paton (resigned 30 June 2025)
+41480862
+60 Gresham Street
+London
+EC2V 7BB
+i ~ e.
+rte -, ataye TLS
+oO SP abe
+
+
+===== page 3 =====
+AIVIQ LIMITED
+
+CONTENTS
+
+Directors’ Report
+
+Directors' Responsibilities Statement
+Statement of Comprehensive Income
+Balance Sheet
+
+Statement of Changes in Equity
+Notes to the Financial Statements
+
+vee
+
+Page
+
+
+===== page 4 =====
+AIVIQ LIMITED
+
+DIRECTORS’ REPORT
+FOR THE YEAR ENDED 31 MARCH 2025
+
+The Directors present their report and the financial statements for the year ended 31 March 2025
+Principal activity
+The Company ts a subsidiary undertaking within the group headed by Actium Topco (UK) Limited.
+
+The principal activity of the Company ts the provision of a cloud-based data and analytics software platform to
+cients in the asset management industry
+
+Results and dividend
+
+For the year ended 31 March 2025, the Company recorded revenue of £4,242,000 (2024 £3,454,000). Loss
+after tax decreased to £670,000 (2024 £939,000) This represents an increasing client base in the year, and
+continued focus on building further scale. The Company remains in a net current habilities position at 34 March
+2025, prmarily dnven by amounts owed to other group entities, with the Company also holding £271,000
+(2024 £179,000) of cash for ongoing operations
+
+The Directors have not recommended the payment of a final dividend (2024 £NIL)
+
+Directors
+
+The Directors who served during the year were
+
+GA Cook
+
+LJ Gnggs
+
+JC Paton (resigned 30 June 2025)
+
+Political contributions
+
+The Company made no political donations and incurred no political expenditure during the year (2024 ENIL),
+Future developments
+
+The Directors are optimistic of further improved financial performance in the coming year, whilst remaining
+mindful of the continuing macro-economic uncertainty Alviq continues to present an attractive client data and
+analytics software proposition for asset managers and continues to add chents The Directors see further
+potential in this offering
+
+Engagement with employees
+
+The Company recognises that attracting, retaining and developing talent is critical to its success It 1s committed
+to providing a rewarding workplace with a strong, inclusive and mentocratic culture Engagement with
+employees takes place through feedback frameworks, mentoring, training opportunities, competitive
+remuneration, promotion opportunities and internal networks
+
+The Company ts committed to ensuring equality of opportunity for all employees and applicants Full and fair
+consideration 1s given to all applications of employment from disabled persons Appropriate arrangements are
+made for all disabled person, including those who have become disabled dunng their employment. The
+Company ts committed to the training and development of disabled persons and ensuring they have the access
+to the same opportunities as other employees.
+
+Page 1
+
+
+===== page 5 =====
+AIVIQ LIMITED
+
+.
+
+. DIRECTORS’ REPORT (CONTINUED) '
+FOR THE YEAR ENDED 31 MARCH 2025
+
+€ngagement with suppliers, customers and others I
+
+The Directors recognise the importance of fostenng strong relationships with suppliers, customers and others in
+a business relationship with the Company The Directors have regard to these relationships in strategic decision
+making During the year, this included maintaining regular open communication and engagement with key
+Stakeholders to ensure continuity of supply and to support customer needs
+
+This report was approved by the board and signed on its behalf 1
+
+GA Cook
+Director . !
+
+1 '
+
+Date 22 December 2025
+
+Page 2
+
+
+===== page 6 =====
+AIVIQ LIMITED
+
+DIRECTORS’ RESPONSIBILITIES STATEMENT
+FOR THE YEAR ENDED 31 MARCH 2025
+
+The Directors are responsible for preparing the Directors’ Report and the financial statements in accordance
+with applicable law and regulations.
+
+Company law requires the Directors to prepare financial statements for each financial year Under that law the
+Directors have elected to prepare the financial statements tn accordance with applicable law and United
+Kingdom Accounting Standards (United Kingdom Generally Accepted Accounting Practice), including Financial
+Reporting Standard 101 ‘Reduced Disclosure Framework’ Under company law the Directors must not approve
+the financial statements unless they are satisfied that they give a true and fair wew of the state of affairs of the
+Company and of the profit or toss of the Company for that penad
+
+In preparing these financial statements, the Directors are required to
+
+. select suitable accounting policies and then apply them consistently,
+. make judgements and accounting estimates that are reasonable and prudent, °
+
+. state whether applicable UK Accounting Standards have been followed, subject to any matenal
+departures disclosed and explained tn the financial statements,
+
+° prepare the financial statements on the going concern basis unless it ts inappropriate to presume that the
+Company will continue in business
+
+The Orrectors are responsible for keeping adequate accounting records that are sufficient to show and explain
+the Company's transactions and disclose with reasonable accuracy at any time the financial position of the
+Company and to enable them to ensure that the financial statements comply with the Companies Act 2006
+They are also responsible for safeguarding the assets of the Company and hence for taking reasonable steps
+for the prevention and detection of fraud and other irregulantes
+
+Page 3
+
+
+===== page 7 =====
+AIVIQ LIMITED
+
+STATEMENT OF COMPREHENSIVE INCOME
+FOR THE YEAR ENDED 31 MARCH 2025
+
+2025
+
+, a Note £000
+
+Turnover 4,242
+Cost of sales (4,387)
+Gross loss . * (445)
+Administrative expenses (1,090)
+Operating joss {1,235)
+Tax on loss 565
+Loss for the financial year : . (670)
+
+There was no other comprehensive income for 2025 (2024 ENIL).
+
+The notes an pages 8 to 25 form part of these financial statements
+
+2024
+£000
+
+~3,454
+(3,672)
+
+(218)
+(1,069)
+
+(1,287)
+
+348
+
+{939}
+
+Page 4
+
+
+===== page 8 =====
+AIVIQ LIMITED
+REGISTERED NUMBER: 11480862
+
+BALANCE SHEET
+AS AT 31 MARCH 2025
+
+, 2025 2024
+Note £000 £000
+Fixed assets
+Intangible assets 7 242 31
+Tangible assets 8 29 30
+271 341
+Current assets
+Debtors amounts falling due after more
+than one year 10 1,171 737
+Debtors amounts falling due within one year = 10 1,744 267
+Cash at bank and in hand 11 271 . 179s
+3,186 1,183
+Creditors amounts falling due within one a
+year 12 (9,204) . (7,023)
+Net current liabilities (6,018) (5,840)
+Total assets fess current liabilities (5,747) (5,499)
+Creditors amounts falling due after more
+than one year 13 (391) (192)
+(6,138) (5,691)
+Provisions for liabilites
+Deferred taxation 14 (49) -
+(49) -
+Net habilities (6,187) (5,691)
+Capital and reserves
+Called up share capital 15 - -
+Other reserves 354 180
+
+Profit and !oss account (6,541) (5,871)
+
+(6,187) (5,691)
+
+Page 5
+
+
+===== page 9 =====
+. AIVIQ LIMITED
+REGISTERED NUMBER. 11480862
+
+, BALANCE SHEET (CONTINUED)
+. AS AT 31 MARCH 2025
+
+The members have not required the Company to obtain an audit for the year sn question in accordance with
+section 476 of the Companies Act 2006
+
+The Company was entitled to exemption from audit under section 479A of the Companies Act 2006
+
+The Directors acknowledge their responsibilities for complying with the requirements of the Companies Act
+2006 with respect to accounting records and the preparation of financial statements.
+
+The financial statements were approved and authonsed for issue by the board and were signed on tts behalf by
+
+* ‘ “roy ‘4
+GA Cook te
+Orrector i
+Date 22 December 2025
+The notes on pages 8 to 25 form part of these financial statements . :
+
+Page 6
+
+
+===== page 10 =====
+_ AIVIQ LIMITED
+. sf
+
+STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED 31 MARCH 2025
+
+Called up Profit and
+share Other loss
+capital reserves account Total equity
+£000 £000 £000 £000
+At 1 April 2023 _ cee - tf 28, (4,932) * (4,717)
+Comprehensive income for the year, , 1 as ow -
+Loss for the year - - (939) (939)
+Contributions by and distributions to owners
+Deferred tax recognised in equity - (35) - (35)
+At 4 April 2024 - 180 (5,871) , (5,691)
+Comprehenswe income for the year *
+Loss for the year . - ~ © (670) (670)
+Contributions by and distributions to owners : .
+Current tax recognised in equity - 436 . 436
+Deferred tax recognised in equity - (262) - (262)
+At 31 March 2025 - 354 (6,541) (6,187)
+
+The notes on pages 8 to 25 form part of these financial statements.
+
+Page 7
+
+
+===== page 11 =====
+AIVIQ LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2025
+
+General information
+
+Alviq Limited (the “Company”’) ts a Company limited by shares, domiciled and registered in the UK The
+registered number is 11480862 and the registered address is 60 Gresham Street, London, EC2V 7BB
+
+These financial statements were prepared in accordance with Financial Reporting Standard 101 Reduced
+Disclosure Framework ("FRS 101”) '
+
+Accounting policies
+
+24
+
+2.2
+
+Basis of preparation of financial statements
+
+The financial statements have been prepared under the histoncal cost convention unless otherwise
+Specified within these accounting policies and in accardance with Financial Reporting Standard 101
+"Reduced Disclosure Framework’ and the Companies Act 2006
+
+The preparation of financial statements in compliance with FRS 101 requires the use of certain
+critical accounting estimates It also requires management to exercise judgement in applying the
+Company's accounting policies (see note 3)
+
+The following principal accounting policies have been applied
+Going concern
+
+In assessing the Company's ability to continue on a going concem basis for a period of at least 12
+Months from the approval of these financial statements (the “going concern period”), the Directors
+considered the Company's projected cash flows, access to intercompany funding from other group
+entities, cash liquidity and existing borrowing facilities
+
+Notwithstanding the Company's net current habilities position as at 31 March 2028, the financial
+statements have been prepared on a going concern basis The ability of the Company to settle its
+liabilities as they fall due within the going concern period is therefore dependent on the Company's
+ultimate parent company not seeking repayment of the amounts currently due to other companies
+controlled by the group As with any company pfacing reliance on other group entities for financiat
+support, the Directors acknowledge that there can be no certainty that this support will continue
+although, at the date of approval of these financial statements, they have no reason to believe that it
+will not do so The Company also has access to additional funding through other group entities, via
+the group's revolving credit facility
+
+The Directors have therefore considered the cash flow forecasts prepared for the wider group, which
+support the ability of the group to provide ongoing support to the Company through the going
+concer period These group cash flow forecasts cover the going concern period and are based
+upon the Board-approved budget for the group and have been appropniately sensitised, as further
+disclosed in the consolidated Actium Topco (UK) Limited financial statements for the year ended 31
+March 2025. These forecasts demonstrate the group has sufficient resources to settle liabilities as
+they fall due
+
+After careful consideration, the Directors have a reasonable expectation that the Company's existing
+resources, supplemented by the support of the wider group, are adequate to meet its requirements
+over the going concern period On this basis, the Directors have adopted the going concern basis in
+preparing the financiaf statements. .
+
+Page 8
+
+
+===== page 12 =====
+AIVIQ LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2025
+
+2 Accounting policies (continued)
+
+2.3. Change in batance sheet presentation
+
+In the current year, the Company has adopted the Companies Act 2006 “Format 1” balance sheet
+presentation, in place of the IAS 1 format applied in the prior year. The comparative balance sheet
+has been re-presented on the same basis for consistency and comparability This change is
+presentational only and has no impact on the Company's financial position, performance, or cash
+flows
+
+2.4 Financlal Reporting Standard 101 - reduced disclosure exemptions
+
+The Company has taken advantage of the following disclosure exemptions under FRS 101
+
+. the requirements of paragraphs 45(b) and 46-52 of IFRS 2 Share-based payment
+
+« the requirements of paragraphs 62, B64(d), B64(6), B64(g), B64(h), B64q) to BE4(m),
+B64(n)(n), BE4(0)(n), B64(p), B64(q)(1), B66 and B67 of IFRS 3 Business Combmattons
+
+. the requirements of paragraph 33(c) of IFRS 5 Non Current Assets Held For Sale and
+Discontinued Operations
+
+° the requirement of paragraph 24(b) of IFRS 6 Exploration for and Evaluation of Mineral
+Resources to disclose the operating and investing cash flows ansing from the exploration for
+and evaluation of mineral resources
+
+. the requirements of IFRS 7 Financial instruments Disclosures
+. the requirements of paragraphs 91-99 of IFRS 13 Fair Value Measurement
+
+. the requirements of the second sentence of paragraph 110 and paragraphs 113(a), 114, 115,
+118, 119(a) to (c), 120 to 127 and 129 of IFRS 15 Revenue from Contracts with Customers
+. the requirements of paragraph 52, the second sentence of paragraph 89, and paragraphs 90,
+91 and 93 of IFRS 16 Leases The requirements of paragraph 58 of IFRS 16, provided that
+the disclosure of details in indebtedness relating to amounts payable after 5 years required by
+company law is presented separately for lease liabilities and other liabilities, and in total
+. the requirement in paragraph 38 of IAS 1 ‘Presentation of Financial Statements’ to present
+comparative information in respect of
+- paragraph 79{a)(1v) of IAS 1,
+- paragraph 73(e) of IAS 16 Property, Plant and Equipment,
+5 paragraph118(e).of |AS.38_Intangible Assets, —=
+
+- paragraphs 76 and 79(d) of IAS 40 Investment Property, and
+- paragraph 50 of IAS 41 Agnculture
+
+. the requirements of paragraphs 10(d), 10(f), 16, 38A, 388, 38C, 38D, 40A, 40B, 40C, 40D,
+414 and 134-136 of [AS 1 Presentation of Financial Statements
+
+. the requirements of IAS 7 Statement of Cash Flows
+. the requirements of paragraph 74A(b) of IAS 16
+. the requirements of paragraph 17 and 18A of IAS 24 Related Party Disclosures
+
+. the requirements in [AS 24 Related Party Disclosures to disclose related party transactions
+entered into between two or more members of a group, provided that any subsidiary which 1s
+a party to the transaction Is wholly owned by such a member
+
+. the requirements of paragraphs 130(f)(), 130(f)(m), 134(d)-134(f) and 135(c)-135(e) of IAS 36
+Impairment of Assets.
+
+Page 9
+
+
+===== page 13 =====
+AIVIQ LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2025
+
+Accounting policies (continued) .
+
+2.4
+
+25
+
+26
+
+Financial Reporting Standard 101 - reduced disclosure exemptions (continued)
+
+. the requirements of paragraph 88C and 88D of IAS 12 Income Taxes.
+
+This information is included in the consolidated financial statements of Acttum Topco (UK) Limited as
+at 31 March 2025 and these financial statements may be obtained from Companies House
+
+Exemption from preparing consolidated financial statements
+
+The Company ts a parent company that is also a subsidiary included in the consolidated financial
+statements of a larger group by a parent undertaking established under the law of any part of the
+United Kingdom and 1s therefore exempt from the requirement to prepare consolidated financial
+statements under section 400 of the Companies Act 2006
+
+Foreign currency transtation «.
+
+Functional and presentation currency .
+
+The Company's functional and presentational currency is GBP.
+Transactions and balances
+
+Foreign currency transactions are translated into the functional currency using the spot exchange
+rates at the dates of the transactions
+
+At each penod end foreign currency monetary items are translated using the closing rate Non-
+monetary ttems measured at historical cost are translated using the exchange rate at the date of the
+transaction and non-monetary items measured at fair value are measured using the exchange rate
+when fair value was determined
+
+Foreign exchange gains and losses resulting from the settlement of transactions and from the
+translation at period-end exchange rates of monetary assets and liabilities denominated tn foreign
+currencies are recognised in profit or loss except when deferred in other comprehensive income as
+qualifying cash flow hedges.
+
+Foreign exchange gains and losses that relate to borrowings and cash and cash equivalents are
+presented in the Statement of Comprehensive Income within ‘finance income or costs’ Ail other
+foreign exchange gains and losses are presented in profit or loss within ‘other operating income’
+
+. . Page 10
+
+
+===== page 14 =====
+AIVIQ LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2025
+
+2.
+
+Accounting policies (continued)
+
+2.7 Turnover
+
+Turmover consists of the value of work executed for clients dunng the year and expenses recharged,
+exclusive of VAT. Turnover is measured based on the transaction price allocated to the performance
+obligation from the sale of goods or provision of services Turnover is recognised either at a ‘point in
+time’ when the performance obligation in the contract has been performed or ‘over time’ as control of
+the goods or services are transferred to the customer
+
+Turnover generated from software licensing, hosting and related support services provided over a
+contracted period of time is combined and allocated to a single performance obiigation These
+contracts are considered to be satisfied over time, in line with the benefits being transferred to the
+customer Turnover Is recognised on straight-line basis over the contractual license term
+
+Implementation services provided by the Company to the customer are classified as either being
+distinct performance obligations or non-distinct from the licensing and hosting promises described
+above, dependent on the fact pattern within the underlying contractual arrangement The Company
+considers the level of inter-dependency between the contractual promises, and whether the
+customer can consume the benefits of the licence without the implementation servica being
+performed Where implementation services are required for the customer to use the software, these
+services are considered to be non-distinct from the licensing performance obligation Therefore, the
+Company accounts for these as a single performance obligation satisfied over the licence term, as
+described above The Company generally considers the initial phase of implementation to be non-
+distinct from the associated licence
+
+Other distinct implementation services, as well as separately billable maintenance, support, data
+assurance and training are treated as separate performance obligations and turnover Is recognised
+as these services are delivered
+
+Activity performance recognised as turnover in excess of invaices raised are contract receivables
+and are included within accrued income, up to the value of the relevant project delivery milestone,
+where applicable On invoicing, the contract receivable is reclassified to trade receivables Where
+amounts have been invoiced in excess of turnover recognised, the excess 1s a contract hability and
+Is included within deferred income
+
+In relation to licencing contracts, billing typically occurs at the beginning of the contractual Itcence
+penod or incrementally over the course of the licence, in line with the contractual terms For
+implementation services, billing typically occurs in arrears tn line with a contractually agreed
+
+echedule
+
+Turnover is wholly attributable to the principal activities of the Company For all turnover types,
+payment ts typically due between 30 and 60 days after the invoice date or receipt of invoice
+
+Page 11
+
+
+===== page 15 =====
+AIVIQ LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2025
+
+2. Accounting policies (continued)
+
+2.8
+
+29
+
+Pensions
+Defined contribution pension plan
+
+The Company operates a defined contribution plan for its employees A defined contribution plan is a
+pension plan under which the Company pays fixed contributions into a separate entity Once the
+centnbutions have been paid the Company has no further payment obligations
+
+The contnbutions are recognised as an expense in profit or loss when they fall due Amounts not
+paid are shown in accruals as a liability in the Balance Sheet The assets of the plan are held
+separately from the Company in independently administered funds
+
+Share-based payments
+
+The share-based payment charge recognised in these financial statements relates to awards
+previously granted by the Company's former ultimate parent, Alpha Financial Markets Consulting
+pic No share-based payment charge has been recognised in relatron to the current ultrmate parent,
+Actium Topco (UK) Limited
+
+The cost of share-based payments, where employees receive remuneration in the form of shares or
+share options, is recognised as an employee benefit expense in the statement of comprehensive
+income
+
+The total expense Is recognised over the vesting period, based on the fair value of the awards at the
+grant date (excluding non-market-based vesting condittons) At each reporting date, the estimate of
+the number of awards expected to vest Is revised to reflect current expectations regarding non-
+market vesting conditions. The cumulative impact of any revisions ts recognised in profit or loss in
+the penod of change
+
+Fair value is determined using a binomial option pricing model, incorporating management's best
+estimates of factors such as non-transferability, absence of dividends prior to vesting, and exercise
+restrictions
+
+Upon vesting, the ultimate parent company satisfies exercised options either by issuing new ordinary
+shares or transferring existing shares held in its employee benefit trust to the employee
+
+Where share-based payments relate to employees of the Company, an intra-group recharge Is
+recognised to reflect the benefit received by the Company from the employees’ services The
+Company ts the receiving entity, recognising the share-based payment charge in profit or loss, the
+ultimate parent company ts the settling entity, recognising the corresponding credit in equily
+
+An accrual for employers’ social secunty costs ansing on share-based payments Is recognised over
+the vesting penod, in line with the recognition of the associated share-based payment charge The
+labthty reflects the estimated amount payable on exercise, based on the fair value of the underlying
+shares
+
+Page 12
+
+
+===== page 16 =====
+AlViQ LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2025
+
+Accounting policies (continued)
+
+2.10 Current and deferred taxation
+
+The tax expense for the year comprises current and deferred tax. Tax Is recognised in profit or loss,
+except in relation to share-based payments where the amount of the tax deduction exceeds the
+amount of the related cumulative share-based payment charge, in which case it is recognised in
+
+equity
+
+The current income tax charge 1s calculated on the basis of tax rates and laws that have been
+enacted or substantively enacted by the balance sheet date in the countnes where the Company
+operates and generates income
+
+Deferred tax balances are recogrused in respect of all timing differences that have originated but not
+
+reversed by the balance sheet date, except that
+
+. The recognition of deferred tax assets ts limited to the extent that it is probable that they will
+be recovered against the reversal of deferred tax liabilities or other future taxable profits, and
+
+. Any deferred tax balances are reversed if and when all conditions for retaining associated tax
+allowances have been met
+
+Deferred tax balances are not recognised in respect of permanent differences except in respect of
+business combinations, when deferred tax 1s recognised on the differences between the fair values
+of assets acquired and the future tax deductions available for them and the differences between the
+fair values of liabilities acquired and the amount that will be assessed for tax. Deferred tax ts
+determined using tax rates and laws that have been enacted or substantively enacted by the
+balance sheet date
+
+211 Intangible assets
+
+intemally developed intangible assets
+
+Capitalised development costs represent the costs incurred in the development of internally
+generated software
+
+A useful economic life of 3 years has been deemed appropriate based on the expected project
+lifecycle in development of new software The amortisation charge 1s recognised in administrative
+expenses within the statement of comprehensive income
+
+2 12 Tangible fixed assets
+
+Tangible fixed assets under the cost model are stated at historical cost less accumulated
+depreciation and any accumulated impairment losses. Historical cost includes expenditure that Is
+directly attributable to bringing the asset to the location and condition necessary for it to be capable
+of operating in the manner intended by management
+
+Page 13
+
+
+===== page 17 =====
+AIVIQ LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2025
+
+Accounting policies (continued) \
+
+2.12 Tangible fixed assets (continued) .
+
+Depreciation :s charged so as to allocate the cost of assets less their residual value over their
+estimated useful lives, using the straight-line method
+
+Depreciation is provided on the following basis
+Computer equipment - 3 years
+
+The assets’ residua! values, useful lives and depreciation methods are reviewed, and adjusted
+prospectively if appropriate, or if there Is an indication of a significant change since the last reporting
+date.
+
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount
+and are recognised in profit or loss .
+
+2 13 Valuation of investments
+Investments in Subsidiaries are measured at cost less accumulated impairment
+
+2 14 Debtors
+Short-term debtors are measured at transaction pnce, less any impairment. Loans receivable are
+measured initially at fair value, net of transaction costs, and are measured subsequently at
+amortised cost using the effective interest method, less any impairment
+
+2.15 Cash and cash equivalents
+
+Cash 1s represented by cash in hand and deposits with financial institutions repayable without
+penalty on notice of not more than 24 hours Cash equivalents are highly liquid investments that
+mature in no more than three months from tho date of acquisition and that are readily convertible to
+known amounts of cash with insignificant risk of change im value
+
+2.16 Creditors
+
+Creditors are obligations to pay for goods or services that have been acquired in the ordinary course
+of business from suppliers.
+
+Creditors are recognised initially at fair value and subsoquently moasured at amortised cost using
+the effective interest method
+
+Page 14
+
+
+===== page 18 =====
+AIVIQ LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2025
+
+2.
+
+Accounting policies (continued)
+
+2.17 Financial instruments
+
+The Company recognises financial instruments when it becomes a party to the contractual
+arrangements of the instrument Financial instruments are de-recognised when they are discharged
+or when the contractual terms expire The Company's accounting policies in respect of financial
+instruments transactions are explained below .
+
+Financial assets and financiat lrabilities are initially measured at fair value
+Financial assets
+
+All recognised financial assets are subsequently measured im their entirety at etther fair value or
+amortised cost, depending on the classification of the financial assets
+
+Fair value through profit or loss
+
+All of the Company's financial assets other than those which meet the criteria to be measured at
+amortised cost are subsequently measured at fair value at the end of each reporting period, with any
+fair value gains or fosses being recognised im profit or loss to the extent they are not part of a
+designated hedging relationship The net gain or loss recognised in profit or loss includes any
+dividend or interest earned on the financial asset
+
+Debt instruments at amortised cost
+
+Debt instruments are subsequently measured at amortised cost where they are financial assets held
+within a business model whose objective is to hold financial assets in order to collect contractual
+cash flows and selling the financial assets, and the contractual terms of the financial asset give nse
+on specified dates to cash flows that are solely payments of pnncipal and interest on the pnncipal
+amount outstanding Amortised cost is calculated using the effective interest method and represents
+the amount measured at initial recognition less repayments of pnncipal plus the cumulative
+amortisation using the effective interest method of any difference between the initial amount and the
+maturity amount, adjusted for any loss allowance
+
+Impairment of financial assets
+
+The Company recognises a loss allowance for expected credit losses on investments in debt
+instruments that are measured at amortised or at FVOCI The amount of expected credit losses is
+updated=at=each=reporting-date=to=reflect=changes=in=cradit-nsk-since-inital-racognition-of-the——
+respective financial instrument
+
+The Company always recognises lifetime ECL for trade receivables and amounts due on contracts
+with customers The expected credit losses on these financial assets are estimated based on the
+Company's historical credit loss experience, adjusted for factors that are specific to the debtors,
+general economic conditions and an assessment of both the current as well as the forecast direction
+of conditions at the reporting date, including time value of money where appropnate Lifetime ECL
+represents the expected credit losses that will result from all possible default events over the
+expected life of a financial nstrument
+
+Page 15
+
+
+===== page 19 =====
+AIVIQ LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2025
+
+2. Accounting policies (continued)
+
+2.17 Financial instruments (continued)
+
+Financial liabilities
+Fair value through profit or loss
+
+Financial ltabilties are classified as at fair value through profit or toss, when the financial lability is
+held for trading, or ts designated as at fair value through profit or loss This designation may be
+made if such designation eliminates ar significantly reduces a measurement or recognition
+inconsistency that would otherwise anse, or the financial liability forms part of a group of financial
+imstruments which ts managed and Its performance ts evaluated on a fair vatue basis, or the financtal
+habilty forms part of a contract containing one or more embedded derivatives, and IFRS 9 permits
+the entire combined contract to be designated as at fair value through profit or loss Any gains or
+losses ansing on changes in fair value are recognised in profit or loss to the extent that they are not
+part of a designated hedging relationship.
+
+At amortised cost
+
+Financial liabilities which are neither contingent consideration of an acquirer in a business
+combination, held for trading, nor designated as at fair value through profit or loss are subsequently
+measured at amortised cost using the effective interest method This is a method of caiculating the
+amortised cost of a financial liability and of allocating terest expense over the relevant penod The
+effective interest rate is the rate that exactly discounts estimated future cash payments through the
+expected life of the financial lability, or where appropriate a shorter pertod, to the amortised cost of a
+financral liability
+
+2.18 New accounting standards and interpretations -
+There are no new accounting standards or interpretations that have become effective in the current
+
+financial year that have had a matenal effect on the Company's financial statements Similarly, no
+new standards or interpretations have had a material effect on the comparative penod presented
+
+Page 16
+
+
+===== page 20 =====
+AlviQ LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2025
+
+3.
+
+4.
+
+Judgements tn applying accounting policies and key sources of estimation uncertainty
+
+The preparation of financial information in accordance with IFRS requires management to make
+judgements, estimates and assumptions that affect the appkcation of accounting policies and reported
+amounts of assets and liabilities, income and expenses
+
+The Directors have made one judgement, excluding those involving estimations, in the process of
+applying the Company's accounting policies that are considered to have a significant effect on the
+amounts recognised in the financial statements for the year ending 31 March 2025.
+
+Tumover recognition .
+The Directors note that the process of tumover recognition in the Company requires a judgement to be
+made on the identification of distinct performance obligations under the Company's software contracts
+with customers These contracts comprise software fees and other related services, which customers can
+access over the life of the contract, in line with related performance obligations Interpretation of the terms
+of these contracts determine whether the performance obligatton is satisfied over time or at a point in
+time For further information on the accounting poticy implemented by the Company, please refer to the
+tumover recognition policy above.
+
+The Oirectors have not identified any significant estimates in the year ended 31 March 2025
+
+Employees
+2025 2024
+£000 £000
+Wages and salanes 2,827 2,107
+Social security costs 4 361 279
+Cost of defined contribution scheme 65 57
+
+3,253 2,443
+
+——
+
+At the year end, no (2024 428,939) share options over the equity in Alpha Financial Markets Consulting
+plc, the former ulttmate parent company, remained outstanding to the Company's management and
+employees All remaining unvested options that had been granted under these schemes vested, and all
+outstanding o| options were exercised in the year upon the acquisition of Alpha Financial Markets
+Consulting ple“byBridgepoint™ During” the” year, a" total” of"398,976"(2024 “nil)"share"Oplons"were =
+exercised The weighted average share price at the date of these exercises was £5 05. The Company
+has incurred a charge in 2025 of £381,000 (2024 £447,000) relating to these schemes under IFRS 2 for
+employees and management that provide direct services to the Company, of which £46,000 (2024
+£67,000) relates to associated social secunty taxes in the current year
+
+The average monthly number of employees dunng the year was as follows
+
+2025 2024
+No. No
+Operations 26 28
+
+Page 17
+
+
+===== page 21 =====
+7 AIVIQ LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+.FOR THE YEAR ENDED 31 MARCH 2025
+
+Directors’ remuneration .
+2025
+7 £000
+Durectors' emoluments oat 374
+Amounts receivable under long-term incentive schemes 729
+Company contributions to defined contribution pension schemes . 10
+
+. 4
+
+1,113
+
+2024
+£000
+
+330
+
+10
+
+340
+
+Qunng the year retirement benefits were accruing to 1 Director (2024 1} in respect of defined
+
+contnbution pension schemes
+
+The highest paid Director received remuneration of £1,103,000 (2024 £330,000), including gains on
+
+long-term incentive schemes but excluding pension contributions
+
+The value of the Company's contributions paid to a defined contribution pension scheme in respect of
+
+the highest patd Director amounted to £10,000 (2024 £10,000).
+
+One director providing matenal qualifying services exercised share options during the year (2024 NIL)
+
+Certain directors of the company are also directors of other group companies and are remunerated by
+other group companies Where directors have provided qualifying services to the Company, an
+appropnate proportion of their total remuneration has been allocated and disclosed in these financtal
+
+statements, based on the estimated time spent and level of service provided to the company
+
+Page 18
+
+
+===== page 22 =====
+AIVIQ LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2025
+
+Taxation , .
+2025
+£000
+
+Corporation tax °
+
+- ,
+
+Current tax on profits for the year Lhe (292)
+
+Adjustments in respect of prior periods (312)
+(604)
+
+Total current tax (604)
+
+Deferred tax : uy :
+
+Ongination and reversal of timing differences ‘ \ ‘,
+
+Adjustments in respect of prior periods 4 39
+
+Total deferred tax . , ' “39.
+
+Tax on loss (565)
+
+2024
+£000
+
+(227)
+{13}
+
+(240)
+
+(240)
+
+(90)
+(18)
+
+(108)
+
+(348)
+
+Page 19
+
+
+===== page 23 =====
+yn AIVIQ LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2025
+
+6. Taxation (continued)
+
+‘ A . Factors affecting tax charge for the year
+o “4 The tax assessed for the year 1s lower than (2024 - lower than) the standard rate of corporation tax in the
+UK of 25% (2024 - 25%) The differences are explained below
+2025 2024
+ory * + £000 £000
+wate Loss on ordinary activities before tax (1,235) (1,287)
+Loss on ordinary activites multiphed by standard rate of corporation tax in
+. the UK of 25% (2024 - 25%) (309) (322)
+‘ Effects of.
+Expenses not deductible for tax purposes 85 §
+% Adjustments in respect of prior periods (273) (31)
+- Share options adjustments (68) -
+Total tax credit for the year (565) (348)
+
+Page 20
+
+
+===== page 24 =====
+of
+
+AIVIQ LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2025
+
+Intangible assets
+
+Cost
+At 1 April 2024
+
+At 31 March 2025
+
+Amortisation
+At 1 April 2024
+
+Charge for the year on owned assets
+
+At 31 March 2025
+
+Net book value
+
+At 31 March 2025
+
+At 31 March 2024
+
+. Capitalised
+
+“ development
+costs
+
+. £000
+
+1,702
+
+- 1,702
+
+1,391
+69
+
+1,460
+
+242
+
+311
+
+Page 21
+
+
+===== page 25 =====
+_ AIVIQ LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2025
+
+Tangible fixed assets
+
+Cost or valuation
+
+At1 Apnt 2024 fa “.
+Additions
+
+Disposals
+
+At31 March 2025
+
+Depreciation
+
+At 1 April 2024
+
+Charge for the year on owned assets
+Disposals
+
+At 31 March 2025
+
+Net book value
+
+At31 March 2025
+
+At31 March 2024
+
+Fixed asset investments
+
+At 1 April 2024 & 31 March 2025
+
+.
+
+r
+
+Computer
+equipment
+£000
+
+65
+22
+(10)
+
+7
+
+35
+19
+(6)
+
+48
+
+29
+
+30
+
+Investments
+
+in
+
+. subsidiary
+companies
+
+£000
+
+eo
+
+Page 22
+
+
+===== page 26 =====
+AIVIQ LIMITED
+
+NoTEes TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2025
+
+9. Fixed asset investments (continued)
+Subsidiary undertaking
+The following 1s a direct subsidiary undertaking of the Company
+* Class of
+. Name Registered office shares Holding
+Obsidian Alpha Data Solutions LLC Dvadesetsedmog marta Ordinary 100%
+. 6-6a, 11060 Palilula,
+Belgrade, Serbia
+10. Debtors
+4
+2025 2024
+. £000 £000
+Due after more than one year
+Amounts owed by group undertakings 917 406
+Deferred tax asset _ Lo 252
+Contract costs 254 79
+1,171 737
+==
+2025 2024
+£000 £000
+Oue within one year
+Trade debtors 863 173
+Amounts owed by group undertakings 568 -
+Other debtors 225 ~
+Prepayments and accrued income 8B 40
+, hoe Contract costs 80 54
+on 4g 267
++4. Cash and cash equivalents
+2025 2024
+£000 £000
+Cash at bank and in hand 271 179
+271 179
+—— =
+
+Page 23
+
+
+===== page 27 =====
+AIVIQ LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+. FOR THE YEAR ENDED 31 MARCH 2025
+
+12.
+
+13.
+
+14.
+
+Craditors: Amounts falling due within one year 5
+
+Trade creditors
+
+Amounts owed to group undertakings
+Other taxation and soctal secunty
+Accruals and deferred income
+
+Creditors: Amounts falling due after more than one year
+
+Other creditors
+Accruals and deferred income
+
+Deferred taxation
+
+At beginning of year
+Charged to profit or loss
+Recognised in equity
+
+At end of year
+
+2025 2024
+
+£000 £000
+
+4 167
+
+7,180 5,801
+
+. 284 202
+
+. 1,736 853
+9,204 7,023
+
+a
+
+2025 2024
+' €000 £000
+
+391 156
+
+391 192
+
+2025
+. . £000
+
+252
+{39)
+(262)
+
+(49)
+
+Page 24
+
+
+===== page 28 =====
+AiviQ LIMITED
+
+‘4 NOTES TO THE FINANCIAL STATEMENTS
+“+ FOR THE YEAR ENDED 31 MARCH 2025
+
+14,
+
+15.
+
+16.
+
+17.
+
+Deferred taxation (continued) . *
+
+The deferred taxation balance ts made up as follows
+
+2 2025 2024
+
+‘ . _ £000 £000
+Accelerated capital allowances ‘ {7) (6)
+Short-term timing differences 4 (4)
+Share options - 262
+
+Intangible fixed assets (42) -
+
+(48) 252
+
+eos . ==
+Share capital
+
+2025 2024
+
+£ £
+
+Allotted, called up and fully paid
+1 (2024 1) ordinary share of £1 00 1 1
+
+The holders of ordinary shares are entitled to receive dividends as declared from time to time and are
+entitled to one vote per share at meetings of the Company
+
+*
+
+Related party transactions
+
+The Company has not engaged tn any transactions with any related parties other than with wholly owned
+subsidianes within the Actium Topco (UK) Limited group, and remuneration of the Company's key
+management personnel. These transactions have not been disclosed as the Company has taken
+advantage of exemptions under FRS 101
+
+Controlling party
+
+As at 31 March 2025, the ultimate parent company and controlling party was Actium Topco (UK) Limited,
+a company incorporated in England and Wales.
+
+Both the largest and smallest Group in which the results of the Company are consolidated Is that headed
+by Actium Topco (UK) Limited The consolidated financial statements of the Group are available to the
+public and may be obtained from Compantes House.
+
+Page 25

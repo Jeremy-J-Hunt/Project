@@ -1,0 +1,684 @@
+
+
+===== page 1 =====
+Ey
+
+oF a: a
+IN THE HIGH COURT OF JUSTICE Claim no: CR-20; ASorssl Ly
+BUSINESS AND PROPERTY COURTS OF ENGLAND AND WALES % 15 Aug 2024
+
+COMPANIES COURT (ChD)
+MRS JUSTICE BACON
+15 AUGUST 2024 CR-2024-002880
+IN THE MATTER OF
+ALPHA FINANCIAL MARKETS CONSULTING PLC
+
+AND IN THE MATTER OF THE COMPANIES ACT 2006
+
+ORDER
+sanctioning the Scheme of Arrangement
+
+UPON THE ADJOURNED APPLICATION by Part 8 claim form of the above-named Alpha
+Financial Markets Consulting plc (the “Company”) (company number 09965297) whose
+registered office is situated at 60 Gresham Street, London, EC2V 7BB issued on 8 July 2024
+(the “Claim Form”)
+
+AND UPON HEARING Andrew Thornton KC, Counsel for the Company
+AND UPON READING the said Claim Form and the evidence
+
+AND UPON Actium Bidco (UK) Limited (company number 15736419) whose registered
+office is situated at 5 Marble Arch, London, United Kingdom, W1H 7EJ appearing by Andrew
+Thornton KC, being its Counsel for this purpose, and undertaking to be bound by the Scheme
+of Arrangement under Part 26 of the Companies Act 2006 hereinafter sanctioned and to
+execute and do, or procure to be executed and done, all such documents, acts and things
+as may be necessary or desirable to be executed or done by it for the purpose of giving
+effect thereto
+
+THIS COURT HEREBY SANCTIONS the Scheme of Arrangement as set forth in the Schedule
+hereto
+
+AND IT IS ORDERED that a copy hereof be delivered to the Registrar of Companies
+SERVICE OF THE ORDER
+This Court has provided a sealed copy of this Order to the serving party:
+
+Addleshaw Goddard LLP at 60 Chiswell Street, London, EC1Y 4AG, Solicitors to the Company
+
+*RDOUFF2B*
+RM 33
+
+19/08/2024 #
+COMPANIES HOUSE
+
+MONDAY
+
+
+===== page 2 =====
+PART IV
+
+THE SCHEME OF ARRANGEMENT
+
+IN THE HIGH COURT OF JUSTICE
+
+BUSINESS AND PROPERTY COURTS OF ENGLAND AND WALES
+
+COMPANIES COURT (ChD)
+
+CR-2024-002880
+
+IN THE MATTER OF ALPHA FINANCIAL MARKETS CONSULTING PLC
+
+AND
+
+IN THE MATTER OF THE COMPANIES ACT 2006
+
+SCHEME OF ARRANGEMENT
+(under Part 26 of the Companies Act 2006)
+
+Between
+
+ALPHA FINANCIAL MARKETS CONSULTING PLC
+
+and
+
+THE HOLDERS OF THE SCHEME SHARES
+
+{as defined below)
+
+PRELIMINARY
+
+A. In this Scheme, unless inconsistent with the subject or context, the following expressions bear
+
+the following meanings:
+Alpha FMC
+
+Alpha FMC Directors
+Alpha FMC Group
+
+Alpha FMC Share Plans
+
+Alpha Financial Markets Consulting plc, a public limited company
+incorporated in England and Wales with registered number
+09965297;
+
+the directors of Alpha FMC;
+
+Alpha FMC and its subsidiary undertakings from time to time and,
+where the context permits, each of them;
+
+means:
+
+(i)
+
+(il)
+
+(i)
+
+(iv)
+
+the Alpha FMC Employee incentive Plan Part A, originally
+adopted on 5 October 2017;
+
+the Alpha FMC Employee Incentive Plan Part B, originally
+adopted on 10 July 2018;
+
+the Alpha FMC Employee Incentive Plan Part C, originally
+adopted on 10 July 2018;
+
+the Alpha FMC Management Incentive Plan Part A
+Enterprise Management Incentive Scheme, originally
+adopted on 5 October 2017;
+
+the Alpha FMC Management Incentive Plan Part B Joint
+Share Ownership Plan originally adopted on 5 October
+2017;
+
+55
+
+
+===== page 3 =====
+Alpha FMC Shareholders
+Alpha FMC Shares
+
+Announcement Date
+Articles
+
+Bidco
+
+Bridgepoint Fund
+
+Business Day
+Certificated form or in
+certificated form
+
+Closing Price
+Code
+
+Companies Act
+Computershare
+
+Conditions
+
+Court
+Court Meeting
+
+Court Order
+
+CREST
+
+CREST Manual
+
+(vi) the Alpha FMC Management Incentive Plan Part C
+Restricted Stock Unit Pian, originally adopted on 5 October
+2017; and
+
+(vii) the Alpha FMC Management Incentive Plan Part D French
+Restricted Stock Unit Plan, originally adopted on 5 October
+2017,
+
+each as amended from time to time;
+the holders of Alpha FMC Shares from time to time;
+
+the ordinary shares of 0.075 pence each in the capital of Alpha
+FMC;
+
+20 June 2024;
+
+the articles of association of Alpha FMC (as amended from time to
+time);
+
+Actium Bidco (UK) Limited, a company incorporated in England
+and Wales with registered number 15736419;
+
+certain funds managed by Bridgepoint Advisers Limited, a
+company incorporated in England and Wales with registered
+number 03220373;
+
+a day (other than a Saturday, Sunday, public or bank holiday) on
+which banks are generally open for business in London;
+
+in relation to a Scheme Share, one which is not in uncertificated
+form (that is, not in CREST);
+
+the closing price derived from Bloomberg on any particular date;
+
+the City Code on Takeovers and Mergers, as amended from time
+to time;
+
+the Companies Act 2006, as amended from time to time;
+
+a trading name of Computershare Investor Services PLC, Alpha
+FMC’s registrar, of The Pavilions, Bridgwater Road,
+Bristol BS13 8AE, United Kingdom;
+
+the conditions to the implementation of the Acquisition, as set out
+in Part A of Part Ill (Conditions to the implementation of the
+Scheme and to the Acquisition) of this document;
+
+the High Court of Justice in England and Wales;
+
+the meeting or meetings of the Scheme Shareholders to be
+convened by an order of the Court pursuant to Section 896 of the
+Companies Act for the purpose of considering and, if thought fit,
+approving the Scheme (with or without amendment approved or
+imposed by the Court and agreed to by Bidco and Alpha FMC),
+notice of which is set out in Part IX (Notice of Court Meeting) of
+this document;
+
+the order of the Court sanctioning this Scheme under section 899
+of the Companies Act;
+
+the system for the paperless settlement of trades in securities and
+the holding of uncertificated securities operated by Euroclear in
+accordance with the relevant system {as defined in the CREST
+Regulations) of which Euroclear is the Operator (as defined in the
+CREST Regulations);
+
+the CREST Manual published by Euroclear, as amended from
+time to time;
+
+56
+
+
+===== page 4 =====
+CREST Regulations
+
+Effective
+
+Effective Date
+Effective Time
+
+Euroclear
+
+Excluded Shares
+
+Last Practicable Date
+Long Stop Date
+
+Panel
+Registrar of Companies
+Rolling Manager
+
+Rollover and Reinvestment
+Deed
+
+Scheme
+
+Scheme Record Time
+
+Scheme Sanction Hearing
+
+Scheme Shareholders
+Scheme Shares
+
+the Uncertificated Securities Regulations 2001 (SI 2001/3755)
+{including as it torms part of domestic law of the United Kingdom
+by virtue of the European Union (Withdrawal) Act 2018), as
+amended from time to time);
+
+this Scheme having become effective in accordance with its
+terms;
+
+the date on which this Scheme becomes Fffective;
+
+the time on the Effective Date at which this Scheme becomes
+Effective;
+
+Euroclear UK & International Limited, incorporated in England and
+Wales with registered number 02878738;
+
+any Alpha FMC Shares which are:
+
+(i) registered in the name of, or beneficially owned by Bidco or
+any other member of the Bidco Group;
+
+(il) registered in the name of, or beneficially owned by, any
+Rolling Manager; or
+
+(ii) held by Alpha FMC in treasury,
+
+in each case, at the Scheme Record Time;
+
+15 July 2024;
+
+20 December 2024 or such later date (if any) as Bidco and Alpha
+FMC may agree, with the consent of the Panel, and which
+(if required) the Court may allow;
+
+the Panel on Takeovers and Mergers;
+the registrar of companies in England and Wales;
+
+each individual who has adhered to the Rollover and
+Reinvestment Deed in accordance with its terms;
+
+the rollover and reinvestment deed dated 20 June 2024 and made
+between Actium Topco (UK) Limited, Actium Midco 1 (UK)
+Limited, Actium Midco 2 (UK) Limited, Actium Midco 3 (UK)
+Limited and Actium Bidco (UK) Limited and to which each Rolling
+Manager has adhered in accordance with its terms on the
+Announcement Date;
+
+this scheme of arrangement under Part 26 of the Companies Act
+between Alpha FMC and the Scheme Shareholders in its present
+form or with or subject to any modification, addition or condition
+which is approved or imposed by the Court (where relevant) and
+agreed to by Alpha FMC and Bidco;
+
+6:00 p.m. on the Business Day immediately after the Scheme
+Sanction Hearing or such later time as Bidco and Alpha FMC may
+agree;
+
+the hearing of the Court at which the Court Order will be sought,
+including any adjournments thereof;
+
+holders of any Scheme Shares at any relevant date or time;
+the Alpha FMC Shares:
+(i) in issue at the date of this document;
+
+(ii) if any, issued after the date of this document and before the
+Voting Record Time; and
+
+57
+
+
+===== page 5 =====
+(iii) if any, issued at or after the Voting Record Time and before
+the Scherne Record Time, either on terms that the original or
+any subsequent holders thereof shall be bound by this
+Scheme or in respect of which the holders thereof shall have
+agreed in writing to be bound by this Scheme,
+
+but, in each case, other than Excluded Shares;
+
+Significant Interest in relation to an undertaking, a direct or indirect interest of 20 per
+cent. or more of: (a) the total voting rights conferred by the equity
+share capital (as defined in section 548 of the Companies Act) of
+such undertaking; or (b) the relevant partnership interest;
+
+shall be construed in accordance with the Companies Act;
+
+Voting Record Time 6:00 p.m. on the day which is two days (excluding any part of a day
+that is not a Business Day) before the date of the Court Meeting
+or, if the Court Meeting is adjourned, 6:00 p.m. on the day which is
+two days (excluding any part of a day which is not a Business Day)
+before the date of such adjourned meeting;
+
+Wider Bidco Group Bidco and its parent undertakings and its and such parent
+undertakings’ subsidiary undertakings, the Bridgepoint Fund and
+their respective associated undertakings, and any other body
+corporate, partnership, joint venture or person in which Bidco and
+all such undertakings (aggregating their interests) have a
+Significant Interest; and
+
+£, Sterling, penny, pence, the lawful currency of the United Kingdom;
+orp
+
+and where the context so admits or requires, all references in this document to the singular
+include the plural and vice versa.
+
+References to clauses, sub-clauses and paragraphs are to clauses, sub-clauses and
+paragraphs of this Scheme.
+
+Any phrase introduced by the term ‘including’ or any similar expression is to be construed as
+illustrative only and does not limit the sense of the words preceding those terms.
+
+The issued share capital of Alpha FMC as at the Last Practicable Date was £91,507.30
+divided into 122,009,736 ordinary shares of 0.075 pence each, all of which were credited as
+fully paid, none of which were held by Alpha FMC in treasury.
+
+Outstanding options and awards to acquire Alpha FMC Shares granted under the Alpha
+FMC Share Plans may vest or be exercised in connection with the Acquisition, to the extent
+Permitted in accordance with the relevant Alpha FMC Share Plan rules and any other terms on
+which they were granted. In total 1,949,261 Alpha FMC Shares may be issued in order to
+satisfy the exercise of options or vesting of awards granted under the Alpha FMC Share Plans.
+
+As at the Last Practicable Date, no member of the Wider Bidco Group holds any Alpha
+FMC Shares.
+
+Bidco has, subject to the satisfaction or, where capable, waiver of the Conditions, agreed to
+appear by counsel at the Scheme Sanction Hearing to sanction this Scheme and to undertake
+to the Court to be bound by the provisions of this Scheme and to execute and do, or procure
+io be executed and done, all such documents, acts and things as may be necessary or
+desirable to be executed or done by it to give effect to this Scheme.
+
+References to times are to London time.
+
+Transfer of Scheme Shares
+
+Upon and with effect from the Effective Time, Bidco (and/or such nominee(s) of Bidco as it
+may determine) shall acquire all of the Scheme Shares, fully paid up with full title guarantee,
+free from all liens, equities, charges, encumbrances, options, rights of pre-emption and any
+other third party rights or interests whatsoever, and together with ali rights or interests of any
+
+58
+
+
+===== page 6 =====
+1.2
+
+nature at the Effective Time or thereafter attaching to or accruing to such Scheme Shares,
+including, without limitation, voting rights and the right to receive and retain in full (subject to
+sub-clause 2.2) all dividends and other distributions (if any) declared, made or paid or which
+becomes payable or any other return of capital (whether made by way of a reduction of share
+capital or share premium account or otherwise) by Alpha FMC made by reference to a record
+date on or after the Effective Time in respect of the Scheme Shares.
+
+For the purposes of such acquisition, the Scheme Shares shall be transferred from the
+Scheme Shareholders to Bidco (and/or such nominee(s) of Bidco as it may determine) by
+means of a form or forms of transfer or other instrument or instruction of transfer and, to give
+effect to such transfers, any person may be appointed by Bidco as attorney and/or agent and/
+or otherwise on behalf of the holder or holders of Scheme Shares concerned, and is
+authorised as such attorney and/or agent and/or otherwise on behalf of the holder or holders
+of Scheme Shares concemed, to execute and deliver as transferor a share transfer form or
+form of transfer or other instrument (by deed or otherwise) or instruction of transfer, or to
+procure the transfer by means of CREST, of all of the Scheme Shares and every share
+transfer form, form, instrument or instruction of transfer so executed or instruction so given
+shall be as effective as if it had been executed or given or procured by the holder or holders
+of the Scheme Shares thereby transferred. Such form, instrument or instruction of transfer shall
+be deemed to be the principal instrument of transfer and the equitable or beneficial interest in
+the Scheme Shares shall only be transferred to Bidco (and/or its nominee(s)), together with
+the legal interest in such Scheme Shares, pursuant to such form, instrument or instruction of
+transfer.
+
+Pending the registration of Bidco (or its nominee(s)) as the hoider of any Scheme Share to be
+transferred pursuant to this Scheme in the register of members of Alpha FMC, each Scheme
+Shareholder irrevocably:
+
+(a) appoints Bidco (and/or its nominee(s)), and Bidco (and/or its nominee(s)) shall be
+empowered upon and with effect from the Effective Time to act, as attorney or, failing
+that, as agent and/or otherwise on behalf of each holder of any such Scheme Share to
+exercise on behalf of each Scheme Shareholder (in place of and to the exclusion of the
+relevant Scheme Shareholder) any voting rights attached to its Scheme Shares and any
+and ail rights and privileges (including the right to receive notice of or requisition the
+convening of a general meeting of the Alpha FMC or of any class of its shareholders)
+attaching to its Scheme Shares and to receive any distribution or other benefit accruing
+or payable in respect thereof;
+
+(b) appoints Bidco (and/or its nominee(s)) and any one or more of its directors or agents to
+sign on behalf of such Scheme Shareholder any documents, and do all such things, as
+may in the opinion of Bidco and/or any one or more of its directors or agents be
+necessary or desirable in connection with the exercise of any votes or any other rights or
+privileges attaching to its Scheme Shares, including, without limitation, an authority as its
+attomey and/or agent to exercise on its behalf (in place of and to the exclusion of the
+relevant Scheme Shareholder) any voting rights attached to its Scheme Shares and any
+or all rights and privileges attaching to the Scheme Shares and for any one or more of
+its directors or agents to sign any consent to short notice of any general or separate
+class meeting of Alpha FMC and/or execute a form of proxy in respect of its Scheme
+Shares appointing any person nominated by Bidco and/or any one or more of its
+directors or agents to attend any general and separate class meetings of Alpha FMC (or
+any adjournment thereof) and to exercise or refrain from exercising the votes attaching to
+the Scheme Shares on such Scheme Shareholder’s behalf;
+
+(c) authorises Alpha FMC and/or its agents to send any notice, circular, warrant or other
+document or communication which Alpha FMC may be required to send to such Scheme
+Shareholder as a member of Alpha FMC in respect of their Scheme Shares (including
+any share certificate(s) or other document(s) of title issued as a result of conversion of
+their Scheme Shares into certificated form) to Bidco (and/or its nominee(s)) at its
+registered office; and
+
+59
+
+
+===== page 7 =====
+14
+
+22
+
+2.3
+
+24
+
+3.1
+
+3.2
+
+3.3
+
+34
+
+(d) authorises Bidco (and/or its nominee(s)) to take such action as otherwise sees fit in
+relation to any dealings with or disposal of such Scheme Shares (or any interest in such
+Scheme Shares),
+
+such that from the Effective Time, no Scheme Shareholder shall be entitled to exercise any
+voting rights attached to the Scheme Shares or (subject to sub-clause 2.3) any other rights or
+privileges attaching to the Scheme Shares without the consent of Bidco and shall not appoint
+a proxy or representative for or to attend any general meeting, separate class meeting or other
+meeting of Alpha FMC.
+
+The authorities granted pursuant to sub-clauses 1.2 and 1.3 shall be treated for all purposes
+as having been granted by deed.
+
+Consideration for the transfer of Scheme Shares
+
+In consideration for the transfer of the Scheme Shares to Bidco (and/or such nominee(s) of
+Bidco as it may determine) referred to in clause 1, Bidco shall, subject as provided below,
+Pay, or procure that there shall be paid, to or for the account of each Scheme Shareholder (as
+appearing in the register of members of Alpha FMC at the Scheme Record Time) an amount
+of 505 pence in cash for each Scheme Share held by such Scheme Shareholder at the
+Scheme Record Time.
+
+Subject to sub-clause 2.4, if any dividend, other distribution or return of capital is authorised,
+declared, made, paid or becomes payable by Alpha FMC in respect of the Alpha FMC Shares
+on or after the Announcement Date and before the Effective Date, Bidco will reduce the
+consideration per Scheme Share (as set cut in sub-clause 2.1) by an amount equal to the
+amount of such dividend and/or distribution and/or return of capital (as the case may be),
+except where the Scheme Share is, or will be, acquired pursuant to the Scheme on a basis
+which entitles Bidco to receive such dividend, distribution or other return of capital (as the
+case may be) and to retain it.
+
+If Bidco reduces the consideration payable per Scheme Share by an amount equal to the
+amount of a dividend and/or distribution and/or return of capital (as the case may be) in
+accordance with sub-clause 2.2, then: (a) Scheme Shareholders shall be entitled to receive
+and retain that dividend, other distribution or return of capital in respect of the Scheme Shares
+they hold; (b) any reference in this Scheme to the consideration payable under the Scheme
+shall be deemed to be a reference to the consideration as so reduced; and (c) the exercise of
+such rights shali not be regarded as constituting any revision or variation of the terms of this
+Scheme.
+
+\f and to the extent that any such dividend, other distribution or return of capital is authorised,
+ceclared, made or paid and it is cancelled prior to the Effective Date, the consideration
+payable under the Scheme shall not be subject to change under sub-clause 2.2.
+
+Share certificates and cancellation of CREST entitlements
+With effect from, or as soon as possible after, the Effective Time:
+
+all certificates representing Scheme Shares shall cease to have effect as documents of title to
+the Scheme Shares comprised in the certificates and every holder of Scheme Shares shall be
+bound, at the request of Alpha FMC, to deliver up the same to Alpha FMC {or any person
+appointed by Alpha FMC to receive them), or, as it may direct, to destroy the same;
+
+Alpha FMC shall procure that entitlements to Scheme Shares held within CREST are disabled
+and Euroclear is instructed to cancel or transfer the entitlements of Scheme Shareholders to
+Scheme Shares in uncertificated form;
+
+following the cancellation of the entitlements to Scheme Shares of holders of Scheme Shares
+in uncertificated form, Alpha FMC’s registrar, Computershare, shail be authorised to
+re-materialise entitlements to such Scheme Shares; and
+
+subject to the due execution and completion, delivery and, if applicable, stamping of any form
+of transfer or other instrument or instruction of transfer as may be required in accordance with
+sub-clause 1.2 above, Alpha FMC will make, or procure to be made, appropriate entries in its
+
+60
+
+
+===== page 8 =====
+4.2
+
+4.3
+
+44
+
+45
+
+register of members to reflect the transfer of Scheme Shares to Bidco (and/or its nominee(s))
+in accordance with clause 1 and Alpha FMC shall comply with its obligations in this respect..
+
+Despatch of consideration
+
+As soon as practicable after the Effective Date, and in any event no later than 14 days after
+the Effective Date (or such other period as may be agreed between Alpha FMC and Bidco
+and approved by the Panel), Bidco shall, subject to sub-clause 4.2:
+
+(a) in the case of Scheme Shares which at the Scheme Record Time are in certificated
+form, despatch, or procure to be despatched, to the persons entitled to such Scheme
+Shares (or as they may direct) in accordance with the provisions of sub-clauses 4.3 and
+4.4, cheques for the sums payable to them respectively in accordance with clause 2; and
+
+(b) in the case of Scheme Shares which at the Scheme Record Time are in uncertificated
+form, procure that Euroclear is instructed to create an assured payment obligation in
+favour of the appropriate payment bank of the persons entitled to the sums payable in
+accordance with clause 2 and in accordance with the CREST assured payment
+arrangements (as set out in the CREST Manual), provided that Bidco shall be entitled to
+make payment of the consideration by cheque as aforesaid in sub-clause 4.1(a) if, for
+any reason, it wishes to do so or if, for any reason, if, for any reason, it is not able to
+effect settlement in accordance with this sub-clause 4.1(b).
+
+In the case of Scheme Shares acquired following the sanction of the Scheme pursuant to the
+vesting of awards or the exercise of options granted under the Alpha FMC Share Plans,
+settlement of the consideration payable to Alpha FMC Share Plan participants under the
+Scheme or the Articles may be made by cheque through payroll (net of any exercise price,
+income tax and employee National Insurance contributions) (or its overseas equivalent) and
+any other applicable tax which Alpha FMC or any member of the Alpha FMC Group is
+required to account to the relevant tax authority or is permitted to deduct by law and under the
+terms of the Alpha FMC Share Plan), or in such other manner as Alpha may determine, in
+accordance with the proposals being made to the Aipha FMC Share Plan participants.
+
+All deliveries of cheques required to be made pursuant to this Scheme shall be effected by
+sending the same by first class post (or by intemational standard post, if overseas) in pre-paid
+envelopes addressed to the persons entitled to them at their respective registered addresses
+as appearing in the register of members of Alpha FMC at the Scheme Record Time (or in the
+case of any joint holders, at the address of the joint holder whose name stands first in the
+register of members of Alpha FMC in respect of such joint holding at the Scheme Record
+Time) and none of Alpha FMC, Bidco, any member of the Wider Bidco Group and their
+respective parent undertakings, or their respective agents or nominees or Alpha FMC’s
+registrar, Computershare, shall be responsible for any loss or delay in the transmission of any
+cheques sent in accordance with this sub-clause 4.3 which shall be sent at the risk of the
+person or persons entitled to them.
+
+All cheques shail be in Sterling drawn on a UK clearing bank and shall be made payable to
+the Scheme Shareholder concerned or, in the case of joint holders, the joint holder whose
+name stands first in the register of members of Alpha FMC in respect of such joint holding at
+the Scheme Record Time to whom, in accordance with the foregoing provisions of this
+clause 4, the envelope containing the same is addressed (save that, in the case of joint
+holders, Bidco reserves the right io make the cheque payable to all joint holders), and the
+encashment of any such cheque shall be a complete discharge of Bidco's obligation under this
+Scheme to pay the monies represented thereby.
+
+If any Scheme Shareholders have not encashed the cheques within six months of the Effective
+Date, Bidco and Alpha FMC shall procure that the cash consideration due to such Scheme
+Shareholders under this Scheme shall be held on trust for such Scheme Shareholders for a
+period of 12 years from the Effective Date, and such Scheme Shareholders may (subject to
+the legal requirements of any jurisdiction relevant to such Scheme Shareholders) claim the
+consideration due to them (plus any interest accrued thereon, but net of any expenses and
+taxes) by written notice to Alpha FMC in a form and with such evidence which Alpha FMC
+determines evidences their entitlement to such consideration, at any time during the period of
+12 years from the Effective Date.
+
+61
+
+
+===== page 9 =====
+4.6 In respect of payments made through CREST, Bidco shall procure that Euroclear is instructed
+to create an assured payment obligation in accordance with the CREST assured payment
+atrangements. The creation of such an appropriate assured payment obligation as set out in
+sub-clause 4.1(b) shall be a complete discharge of Bidco’s obligation under this Scheme with
+reference to payments made through CREST.
+
+4.7 The preceding paragraphs of this clause 4 shall take effect subject to any prohibition or
+Condition imposed by law.
+
+5 Mandates
+
+Each mandate (including, without limitation, relating to the payment of dividends on any Scheme
+Shares) and other instructions (including communication preferences) given to Alpha FMC by a
+Scheme Shareholder in force at the Scheme Record Time relating to Scheme Shares shall, as from
+the Effective Date, cease to be valid.
+
+6 Operation of this Scheme
+6.1 This Scheme shali become Effective upon a copy of the Court Order being delivered to the
+Registrar of Companies for registration.
+
+6.2 Unless this Scheme has become Effective on or before 11.59 p.m. on the Long Stop Date, or
+such tater time and date (if any) as Bidco and Alpha FMC may agree and (if required) the
+Panel may allow, this Scheme shal! never become Effective.
+
+7 ~~ Modification
+
+Alpha FMC and Bidco may jointly consent on behalf of all persons concerned to any modification
+of, or addition to, this Scheme or to any condition which the Court may approve or impose. Any
+such modification or addition shall require the consent of the Panel where such consent is required
+under the Code. For the avoidance of doubt, no modification may be made to the Scheme once it
+has taken effect.
+
+8 Governing law
+
+This Scheme and all rights and obligations arising from it are governed by English law. Any dispute
+of any kind whatsoever arising directly or indirectly as a result of or in connection with this Scheme
+initiated by Alpha FMC, Bidco, any present or future shareholder of Alpha FMC, or any director of
+Alpha FMC or Bidco, irrespective of the causes of action, including whether based on contract or
+tort, shall be exclusively submitted to the courts of England and Wales.
+
+Dated: 16 July 2024
+
+62

@@ -1,0 +1,416 @@
+
+
+===== page 1 =====
+Company No: 09027730 (England and Wales}
+
+WHITE MARBLE CONSULTING LIMITED
+Unaudited Financial Statements
+For the financial year ended 31 May 2024
+Pages for filing with the registrar
+
+
+===== page 2 =====
+WHITE MARBLE CONSULTING LIMITED
+UNAUDITED FINANCIAL STATEMENTS
+For the financial year ended 31 May 2024
+
+Contents
+
+Company Information
+Statement of Financial Position .
+Notes to the Financial Statements
+
+
+===== page 3 =====
+WHITE MARBLE CONSULTING LIMITED
+COMPANY INFORMATION
+For the financial year ended 31 May 2024
+
+DIRECTORS G A Cook (Appointed 02 September 2024)
+B Elston (Resigned 02 September 2024)
+GRJ Field
+JC Paton (Appointed 02 September 2024)
+N J Pilkington (Resigned 02 September 2024)
+AJH Scott (Resigned 02 September 2024)
+
+REGISTERED OFFICE 60 Gresham Street
+London
+EC2V 7BB
+London
+
+United Kingdom
+
+COMPANY NUMBER 09027730 (England and Wales)
+ACCOUNTANT Evelyn Partners (East) LLP
+Stonecross
+
+Trumpington High Street
+Cambridge
+CB2 9SU
+
+
+===== page 4 =====
+WHITE MARBLE CONSULTING LIMITED
+STATEMENT OF FINANCIAL POSITION
+
+As at 31 May 2024
+
+Fixed assets
+
+Tangible assets
+
+Current assets
+Debtors
+Cash at bank and in hand
+
+Creditors: amounts falling due within one year
+
+Net current assets
+
+Total assets less current liabilities
+Creditors; amounts falling due after more than one year
+Provision for liabilities
+
+Net assets
+
+Capital and reserves
+Called-up share capital
+Share premium account
+
+Profit and loss account
+
+Total shareholder's funds
+
+Note
+
+2024 2023
+
+£ £
+
+27,605 34,261
+27,605 34,261
+684,721 491,820
+30,498 419,901
+715,219 911,721
+(327,228) (541,903)
+387,991 369,818
+415,596 404,079
+(52,000) ( 102,950)
+(5,310) (7,146)
+358,286 293,983
+229 229
+2,197 2,197
+355,860 291,557
+358,286 293,983
+
+For the financial year ending 31 May 2024 the Company was entitled to exemption from audit under section 477 of the
+
+Companies Act 2006 relating to small companies.
+
+Directors' responsibilities:
+
+* The member has not required the Company to obtain an audit of its financial statements for the financial year in
+
+accordance with section 476;
+
+* The directors acknowledge their responsibilities for complying with the requirements of the Companies Act 2006
+with respect to accounting records and the preparation of financial statements; and
+
+® These financial statements have been prepared and delivered in accordance with the provisions applicable to
+companies subject to the small companies regime and a copy of the Statement of Income and Retained Earnings
+
+has not been delivered.
+
+These financial statements have been prepared in accordance with the provisions of FRS 102 Section 1A — small entities.
+The financial statements of White Marble Consulting Limited (registered number: 09027730) were approved and
+
+authorised for issue by the Board of Directors on 07 February 2025. They were signed on its behalf by:
+
+GA Cook
+Director
+
+
+===== page 5 =====
+WHITE MARBLE CONSULTING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+For the financial year ended 31 May 2024
+
+1. Accounting policies
+
+The principal accounting policies are summarised belaw, They have all been applied consistently throughout the financial
+year and to the preceding financial year, unless otherwise stated.
+
+General information and basis of accounting
+
+White Marble Consulting Limited (the Company) is a private company, limited by shares, incorporated in the United
+Kingdom under the Companies Act 2006 and is registered in England and Wales. The address of the Company's
+registered office is 60 Gresham Street, London, EC2V 7BB, London, United Kingdom.
+
+The financial statements have been prepared under the historical cost convention, modified to include certain items at
+fair value, and in accordance with ‘The Financial Reporting Standard applicable in the UK and the Republic of Ireland’
+issued by the Financial Reporting Council, including Section 1A of Financial Reporting Standard 102 (FRS102), and the
+requirements of the Companies Act 2006 as applicable to companies subject to the small companies regime.
+
+The functional currency of White Marble Consulting Limited is considered to be pounds sterling because that is the
+currency of the primary economic environment in which the Company operates.
+
+These financial statements are separate financial statements.
+Going concern
+The financial statements have been prepared on a going concern basis.
+
+The directors have made an assessment in preparing these financial statements as to whether the Company is a going
+concern and have concluded that there are no material uncertainties that may cast significant doubt on the Company's
+ability to continue as a going concern for a period of at least 12 months from the date of approval of these financial
+statements,
+
+Foreign currency
+The Company's functional and presentational currency is GBP.
+
+Turnover
+
+Turnover is stated net of VAT and trade discounts and is recognised when the significant risks and rewards are
+considered to have been transferred to the buyer. Turnover from the supply of services represents the value of services
+provided under contracts to the extent that there is a right to consideration and is recorded at the fair value of the
+consideration received or receivable. Where a contract has only been partially completed at the Statement of Financial
+Position date turnover represents the fair value of the service provided to date based on the stage of completion of the
+contract activity at the Statement of Financial Position date. Where payments are received from customers in advance of
+services provided, the amounts are recorded as deferred income and included as part of creditors due within one year.
+
+Interest income
+Interest income is recognised in profit or loss using the effective interest method.
+
+Employee benefits
+
+Defined contribution schemes
+
+The Company operates a defined contribution plan for its employees. A defined contribution plan is a pension plan under
+which the Company pays fixed contributions into a separate entity. Once the contributions have been paid the Company
+has no further payment obligations.
+
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not paid are shown in
+accruals as a liability in the Statement of Financial Position. The assets of the plan are held separately from the
+Company in independently administered funds.
+
+
+===== page 6 =====
+WHITE MARBLE CONSULTING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+For the financial year ended 31 May 2024
+
+Taxation
+
+Current tax
+Current tax is provided at amounts expected to be paid (or recoverable) using the tax rates and laws that have been
+enacted or substantively enacted at the Statement of Financial Position date.
+
+Deferred tax
+
+Deferred tax arises as a result of including items of income and expenditure in taxation computations in periods different
+from those in which they are included in the Company's financial statements. Deferred tax is provided in full on timing
+differences which result in an obligation to pay more or less tax at a future date, at the average tax rates that are
+expected to apply when the timing differences reverse, based on enacted or substantively enacted tax rates and laws.
+Deferred tax assets and liabilities are not discounted.
+
+The carrying amount of deferred tax assets are reviewed at each reporting date and a valuation allowance is set up
+against deferred tax assets so that the net carrying amount equals the highest amount that is more likely than not to be
+recovered based on current or future taxable profit. Deferred tax assets are recognised only to the extent that it is
+probable that future taxable profit will be available against which the temporary differences can be utilised.
+
+Tangible fixed assets
+
+Tangible fixed assets are stated at cost or valuation, net of depreciation and any provision for impairment. Depreciation
+is provided on all tangible fixed assets, other than investment property and freehold land, at rates calculated to write off.
+the cost or valuation, less estimated residual value, of each asset on a straight-line or reducing balance basis over its
+expected useful life, as follows:
+
+Plant and machinery etc. 25 % reducing balance
+
+Residual value represents the estimated amount which would currently be obtained from disposal of an asset, after
+deducting estimated costs of disposal, if the asset were already of the age and in the condition expected at the end of its
+useful life.
+
+The gain or loss arising on the disposal of an asset is determined as the difference between the sale proceeds and the
+carrying value of the asset, and is credited or charged to profit or loss.
+
+Leases
+
+The Company as lessee
+Rentals paid under operating leases are charged to profit or loss on a straight-line basis over the lease term.
+
+Financial assets and financial liabilities are recognised when the Company becomes a party to the contractual provisions
+of the instrument.
+
+Financial liabilities and equity instruments are classified according to the substance of the contractual arrangements
+entered into. An equity instrument is any contract that evidences a residual interest in the assets of the Company after
+deducting all of its liabilities.
+
+Financial assets and liabilities are only offset in the Balance Sheet when, and only when there exists a legally
+enforceable right to set off the recognised amounts and the Company intends either to settle on a net basis, or to realise
+the asset and settle the liability simultaneously.
+
+Basic financial assets
+
+Basic financial assets, including trade and other debtors, and amounts due from related companies, are initially
+recognised at transaction price, unless the arrangement constitutes a financing transaction, where the transaction is
+measured at the present value of the future receipts discounted at a market rate of interest.
+
+
+===== page 7 =====
+WHITE MARBLE CONSULTING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+For the financial year ended 31 May 2024
+
+Basic financial liabilities
+
+Basic financial liabilities, including trade and other creditors and accruals, are initially recognised at transaction price,
+unless the arrangement constitutes a financing transaction, where the debt instrument is measured at the present value
+of the future receipts discounted at a market rate of interest.
+
+Provisions are recognised when the Company has a present obligation (legal or constructive) as a result of a past event,
+it is probable that the Company will be required to settle that obligation and a reliable estimate can be made of the
+amount of the obligation,
+
+The amount recognised as a provision is the best estimate of the consideration required to settle the present obligation
+at the Statement of Financial Position date, taking into account the risks and uncertainties surrounding the obligation.
+Where a provision is measured using the cash flows estimated to settle the present obligation, its carrying amount is the
+present value of those cash flows (when the effect of the time value of money is material).
+
+When some or all of the economic benefits required to settle a provision are expected to be recovered from a third
+party, a receivable is recognised as an asset if it is virtually certain that reimbursement will be received and the amount
+of the receivable can be measured reliably.
+
+2. Employees
+
+2024 2023
+Number Number
+Monthly average number of persons employed by the Company 3 22
+during the year, including directors
+3. Tangible assets
+machinery ete Total
+£ £
+Cost
+At 01 June 2023 62,896 62,896
+Additions 2,082 2,082
+At 31 May 2024 64,978 64,978
+Accumulated depreciation
+At 01 June 2023 28,635 28,635
+Charge for the financial year 8,738 8,738
+At 31 May 2024 37,373 37,373
+Net book value
+At 31 May 2024 27,605 27,605
+At 31 May 2023 34,261 34,261
+
+
+
+===== page 8 =====
+WHITE MARBLE CONSULTING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+For the financial year ended 31 May 2024
+
+4. Debtors
+
+Trade debtors
+Amounts owed by Group undertakings
+Amounts owed by Parent undertakings
+
+Other debtors
+
+5. Creditors: amounts falling due within one year
+
+Bank loans
+
+Trade creditors
+
+Amounts owed to Group undertakings
+Taxation and social security
+
+Other creditors
+
+6. Creditors: amounts falling due after more than one year
+
+Bank loans
+
+Other creditors
+
+There are no amounts included above in respect of which any security has been given by the small entity.
+
+7. Deferred tax
+
+At the beginning of financial year
+
+Credited to the Statement of Income and Retained Earnings
+
+At the end of financial year
+
+2024 2023
+
+£ £
+219,711 413,643
+390,924 0
+7,730 6,980
+66,356 71,197
+684,721 491,820
+2024 2023
+
+£ £
+
+48,000 48,000
+71,305 73,185
+
+0 94,293
+111,753 139,772
+96,170 186,653
+327,228 541,903
+2024 2023
+
+£ £
+
+52,000 100,000
+
+0 2,950
+52,000 102,950
+2024 2023
+
+E E
+(7,146) (8,100)
+1,836 954
+(5,310) (7,146)
+
+
+
+===== page 9 =====
+WHITE MARBLE CONSULTING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+For the financial year ended 31 May 2024
+
+8. Financial commitments
+
+Commitments
+
+2024 2023
+£ £
+Total future minimum lease payments under non-cancellable 213,840 29,700
+
+operating lease
+
+The company has operating lease commitments in respect a rental agreement with WeWork. The agreement runs to 30
+November 2025.
+
+9. Events after the Balance Sheet date
+
+After the year-end, the parent company completed on a sale of its share capital to Alpha Financial Markets Consulting
+Group Limited. The completion of this deal does not impact on the company’s ability to trade and continue as a going
+concern
+
+10. Ultimate controlling party
+
+Parent Company:
+
+White Marble Group Limited
+60 Gresham Street, London, United Kingdom, EC2V 7BB
+
+The ultimate controlling party is Alpha Financial Markets Consulting Group Limited by virtue of its holding in the parent
+entity.
+
+This document was delivered using electronic communications and authenticated in accordance with the registrar's rules
+relating to electronic form, authentication and manner of delivery under section 1072 of the Companies Act 2006.

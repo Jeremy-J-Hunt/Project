@@ -1,0 +1,757 @@
+
+
+===== page 1 =====
+Company balance sheet
+at 3 October 2017
+
+Fixed assets
+Investments
+
+Current assets
+Debtors (including £nil due after more than one year)
+
+Creditors: amounts falling due within one year
+
+Net current assets
+
+Total assets less current liabilities
+
+Creditors: amounts falling due after more than one year
+
+Net assets
+
+Capital and reserves
+Called up share capital
+Share premium account
+Profit and loss account
+
+Shareholders’ funds
+
+Note
+
+ss
+
+Alpha FMC Topco Limited
+Balance Sheet and related notes
+3 October 2017
+
+3 October 2017
+£000 £000
+
+4463
+
+18,943
+@)
+
+18,934
+
+23,397
+
+(16,404)
+
+6,993
+
+3
+
+100
+6,843
+
+6,993
+
+These financial statements were approved by the board of directors on 3 October 2017 and were signed on its behalf
+
+by:
+
+‘A
+
+N Baker
+Director
+
+Company registered number: 09965297
+
+The attached notes form part of these financial statements.
+
+ih
+
+04/10/2017
+COMPANIES HOUSE
+
+#69
+
+
+===== page 2 =====
+Alpha FMC Topco Limited
+Balance Sheet and related notes
+3 October 2017
+
+Notes
+(forming part of the financial statements)
+
+1 Accounting policies
+
+Alpha FMC Topco Limited (the “Company”) is a company limited by shares and incorporated and domiciled in the
+UK. The registered number is 09965297 and the registered address is 60 Gresham Street, London, EC2V 7BB.
+
+The company is exempt by virtue of s400 of the Companies Act 2006 from the requirement to prepare group financial
+statements. This balance sheet and related notes presents information about the Company as an individual undertaking
+and not about the group.
+
+The Company balance sheet and related notes have been prepared and approved by the directors in accordance with
+UK accounting standards, including FRS 102 The Financial Reporting Standard applicable in the UK and Republic
+of Ireland.
+
+The accounting policies set out below have, unless otherwise stated, been applied consistently to all periods presented
+in these financial statements.
+
+There are no significant judgements and estimates made by the directors, in the application of these accounting policies
+that have significant effect on the balance sheet and related notes.
+
+11. Measurement canvention
+The financial statements are prepared on the historical cost basis.
+1.2. Going concern
+
+The directors have at the time of approving the balance sheet and related notes a reasonable expectation that the
+Company has adequate resources to continue in operational existence for the foreseeable future. The going concern
+basis of accounting has therefore been adopted in preparing the balance sheet and related notes.
+
+The directors have assessed the Company’s need for further funding in order to support future strategic aspirations of
+continued growth and have prepared cash flow forecasts to assess both immediate and long term working capital
+requirements. They consider that a listing through and Initial Public Offering (“IPO”) will generate the additional
+capital required in order to fulfil longer term stability of the Company.
+
+1.3. Foreign currency
+
+Transactions in foreign currencies are translated to the Company’s functional currency at the foreign exchange rate
+ruling at the date of the transaction. Monetary assets and liabi denominated in foreign currencies at the balance
+sheet date are retranslated to the functional currency at the foreign exchange rate ruling at that date. Non-monctary
+assets and Jiabilities that are measured in terms of historical cost in a foreign currency are translated using the exchange
+rate at the date of the transaction. Foreign exchange differences arising on translation are recognised in the profit and
+loss account.
+
+14. Classification of financial instruments issued by the Company
+
+In accordance with FRS 102.22, financial instruments issued by the Company are treated as equity only to the extent
+that they meet the following two conditions:
+
+(a) they include no contractual obligations upon the group to deliver cash or other financial assets or to exchange
+financial assets or financial liabilities with another party under conditions that are potentially unfavourable
+to the Company; and .
+
+(b) where the instrument will or may be settled in the entity’s own equity instruments, it is either a non-derivative
+that includes no obligation to deliver a variable number of the entity’s own equity instruments or is a
+derivative that will be settled by the entity exchanging a fixed amount of cash or other financial assets for a
+fixed number of its own equity instruments.
+
+To the extent that this definition is not met, the proceeds of issue are classified as a financial liability. Where the
+instrument so classified takes the legal form of the entity’s own shares, the amounts presented in these financial
+statements for called up share capital and share premium account exclude amounts in relation to those shares.
+
+
+===== page 3 =====
+Alpha FMC Topco Limited
+Balance Sheet and related notes
+3 October 2017
+
+Notes (continued)
+
+1 Accounting policies (continued)
+15, Basic financial instruments
+
+Trade and other debtors / creditors
+
+Trade and other debtors are recognised initially at transaction price less attributable transaction costs. Trade and other
+creditors are recognised initially at transaction price plus attributable transaction costs. Subsequent to initial
+recognition they are measured at amortised cost using the effective interest method, less any impairment losses in the
+case of trade debtors. If the arrangement constitutes a financing transaction, for example if payment is deferred beyond
+normal business terms, then it is measured at the present value of future payments discounted at a market rate of
+instrument for a similar debt instrument.
+
+Interest-bearing borrowings classified as basic financial instruments
+
+Interest-bearing borrowings are recognised initially at the present value of future payments discounted at a market rate
+of interest, Subsequent to initial recognition, interest-bearing borrowings are stated at amortised cost using the
+effective interest method, less any impairment losses.
+
+1.6, Impairment excluding deferred tax assets
+Financial assets (including trade and other debtors)
+
+A financial asset not carried at fair value through profit or loss is assessed at each reporting date to determine whether
+there is objective evidence that it is impaired. A financial asset is impaired if objective evidence indicates that a loss
+event has occurred after the initial recognition of the asset, and that the loss event had a negative effect on the estimated
+future cash flows of that asset that can be estimated reliably.
+
+An impairment loss in respect of a financial asset measured at amortised cost is calculated as the difference between
+its carrying amount and the present value of the estimated future cash flows discounted at the asset’s original effective
+interest rate. For financial instruments measured at cost less impairment an impairment is calculated as the difference
+between its carrying amount and the best estimate of the amount that the Company would receive for the asset if it
+were to be sold at the reporting date. Interest on the impaired asset continues to be recognised through the unwinding
+of the discount. Impairment losses are recognised in profit or loss. When a subsequent event causes the amount of
+impairment loss to decrease, the decrease in impairment loss is reversed through profit or loss.
+
+Non-financial assets
+
+The carrying amounts of the entity’s non-financial assets, other than deferred tax assets, are reviewed at each reporting
+date to determine whether there is any indication of impairment. If any such indication exists, then the asset’s
+recoverable amount is estimated. The recoverable amount of an asset or cash-generating unit is the greater of its value
+in use and its fair value less costs to sell. In assessing value in use, the estimated future cash flows are discounted to
+their present value using a pre-tax discount rate that reflects current market assessments of the time value of money
+and the risks specific to the asset. For the purpose of impairment testing, assets that cannot be tested individually are
+grouped together into the smallest group of assets that generates cash inflows from continuing use that are largely
+independent of the cash inflows of other assets or groups of assets (the “‘cash-generating unit”). The goodwill acquired
+in a business combination, for the purpose of impairment testing is allocated to cash-generating units, or (“CGU”) that
+are expected to benefit from the synergies of the combination. For the purpose of goodwill impairment testing, if
+goodwill cannot be allocated to individual CGUs or groups of CGUs on a non-arbitrary basis, the impairment of
+good 's determined using the recoverable amount of the acquired entily in its entirety, or if it has been integrated
+then the entire group of entities into which it has been integrated.
+
+
+
+===== page 4 =====
+Alpha FMC Topco Limited
+Balance Sheet and related notes
+3 October 2017
+
+Notes (continued)
+
+1 Accounting policies (continued)
+16. Impairment including deferred tax assets {continued)
+
+An impairment loss is recognised if the carrying amount of an asset or its CGU exceeds its estimated recoverable
+amount. Impairment losses are recognised in profit or loss. Impairment losses recognised in respect of CGUs are
+allocated first to reduce the carrying amount of any goodwill allocated to the units, and then to reduce the carrying
+amounts of the other assets in the unit (group of units) on a pro rata ba:
+
+An impairment loss is reversed if and only if the reasons for the impairment have ceased to apply. An impairment loss
+recognised for goodwill is not reversed.
+
+Impairment losses recognised in prior periods are assessed at each reporting date for any indications that the loss has
+decreased or no longer exists. An impairment loss is reversed only to the extent that the asset’s carrying amount does
+not exceed the carrying amount that would have been determined, net of depreciation or amortisation, if no impairment
+loss had been recognised.
+
+1.7. Expenses
+Operating lease
+
+Payments (excluding costs for services and insurance) made under operating leases are recognised in the profit and
+loss account on a straight-line basis over the term of the lease unless the payments to the lessor are structured to
+increase in line with expected general inflation; in which case the payments related to the structured increases are
+recognised as incurred. Lease incentives received are recognised in profit and loss over the term of the lease as an
+integral part of the total lease expense.
+
+Interest receivable and interest payable
+Interest income and interest payable are recognised in profit or loss as they accrue, using the effective interest method.
+18 Taxation
+
+Tax on the profit or loss for the period comprises current and deferred tax. Tax is recognised in the profit and loss
+account except to the extent that it relates to items recognised directly in equity or other comprehensive income, in
+which case it is recognised directly in equity or other comprehensive income.
+
+Current tax is the expected tax payable or receivable on the taxable income or loss for the period, using tax rates
+enacted or substantively enacted at the balance sheet date, and any adjustment to tax payable in respect of previous
+periods.
+
+Deferred tax is provided on timing differences which arise from the inclusion of income and expenses in tax assessments
+in periods different from those in which they are recognised in the financial statements. The following timing differences
+are not provided for: differences between accumulated depreciation and tax allowances for the cost of a fixed asset if and
+when all conditions for retaining the tax allowances have been met; and differences relating to investments in subsidiaries
+to the extent that it is not probable that they will reverse in the foreseeable future and the reporting entity is able to control
+the reversal of the timing difference. Deferred tax is not recognised on permanent differences arising because certain
+types of income or expense are non-taxable or are disallowable for tax or because certain tax charges or allowances are
+greater or smaller than the corresponding income or expense.
+
+Deferred tax is provided in respect of the additional tax that will be paid or avoided on differences between the amount
+at which an asset (other than goodwill) or liability is recognised in a business combination and the corresponding amount
+that can be deducted or assessed for tax. Goodwill is adjusted by the amount of such deferred tax.
+
+Deferred tax is measured at the tax rate that is expected to apply to the reversal of the related difference, using tax rates
+enacted or substantively enacted at the balance sheet date. Deferred tax balances are not discounted.
+
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that is it probable that they will
+be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+
+
+
+===== page 5 =====
+Notes (continued)
+
+2 Fixed asset investments
+
+Company
+
+Cost
+
+1 April 2017
+Additions.
+Disposals
+
+At end of period
+
+Provisions
+1 April 2017
+Provided in period
+Disposals
+
+Atend of period
+
+Net book value
+At3 October 2017
+
+31 March 2017
+
+Alpha FMC Topco Limited
+Balance Sheet and related notes
+3 October 2017
+
+Interest in
+group
+undertakings
+£000
+
+On 18 July 2017 the Company acquired 100% of the share capital of Track TWO GmbH for consideration of
+£3,125,000. Of this amount, £1,076,000 is included in Accruals due in more than one year (note 5) as deferred
+
+consideration payable eighteen months after the acquisition date.
+
+
+===== page 6 =====
+Notes (continued)
+
+2 Fixed asset investments (continued)
+
+The undertakings in which the Company’s interest at the period end is more than 20% are as follows,
+
+Subsidiary undertakings
+Alpha FMC Midco Limited
+
+Trach TWO GmbH
+Alpha FMC Midco 2 Limited
+
+Alpha FMC Bidco Limited
+
+Alpha FMC Group Holdings Limited
+
+Alpha FMC Group Limited
+Alpha FMC Group Nominccs Limited
+
+Alpha Financial Markets Consulting
+Group Limited
+
+Alpha Financial Markets Consulting
+Limited
+
+Alpha Financial Markets Consulting
+(France) SA
+
+Alpha Financial Markets Consulting
+Inc
+
+Alpha Financial Markets Consulting
+(Luxembourg) SARL
+
+Alpha Financial Markets Consulting
+Netherlands B.V.
+
+Alpha Financial Markets Consulting
+Singapore Pte. Limited
+
+Alpha Financial Markets Consulting
+Switzerland S.A.
+Glass Client Programs Limited
+
+Alpha Technology Services Consulting
+Limited
+
+Country of
+
+incorporation
+
+UK
+Germany
+UK
+UK
+UK
+
+UK
+UK
+UK
+
+UK
+
+France
+
+USA
+
+Luxembourg 19/21 route d’Arlon - bloc B,
+
+Netherlands
+
+Singapore
+
+Switzerland
+
+UK
+
+UK
+
+Registered address
+
+60 Gresham Street, London,
+EC2V 7BB
+Mergenthaler Allee 73-75,
+65760, Eschbom
+60 Gresham Street, London,
+EC2V 7BB
+60 Gresham Strect, London,
+EC2V 7BB
+60 Gresham Suet, London,
+EC2V 7BB
+60 Gresham Street,
+London, EC2V 7BB
+60 Gresham Street,
+London, EC2V 7BB
+60 Gresham Street,
+London, EC2V 7BB
+60 Gresham Street,
+London, EC2V 7BB
+
+6 Square de !’Opéra Louis
+Jouvet, 75009 Paris, France
+
+400 Madison Avenue, New
+York, NY 10017
+
+L-8009 Strassen,
+Luxembourg
+Zuid-Hollandlaan 7, Den
+Haag. 2596 AL, The
+Netherlands
+16 Raffles Quay, 33-03
+Hong Leong Building,
+Singapore (048581)
+Rue du Rhone 14 - 1204
+Geneva, Switzerland
+60 Gresham Street,
+London, EC2V 7BB
+60 Gresham Street,
+London, EC2V 7BB
+
+Alpha FMC Topco Limited
+Balance Sheet and related notes
+3 October 2017
+
+Principal
+activity
+
+Intermediate holding
+company
+Consultancy services
+
+Intermediate holding
+company
+Intermediate holding
+company
+Intermediate holding
+company
+Intermediate holding
+company
+
+Group services.
+
+Intermediate holding
+company
+Consultancy services to
+asset/wealth management
+industry
+Consultancy services to
+assct/wealth management
+industry
+Consultancy services to
+assct/wealih management
+industry
+Consultancy services to
+asset/wealth management
+industry
+Consultancy services to
+asset/wealth management
+industry
+Consultancy services
+
+Consultancy services
+
+Dormant
+
+Dormant
+
+Class and
+percentage
+
+of shares held
+
+Group
+
+100% ordinary
+100% ordinary
+100% ordinary
+
+100% ordinary
+100% ordinary
+100% ordinary
+
+100% ordinary
+
+100% ordinary
+
+100% ordinary
+
+100% ordinary
+
+100% ordinary
+
+100% ordinary
+
+100% ordinary
+
+100% ordinary
+
+100% ordinary
+
+Company
+100% ordinary
+
+100% ordinary
+
+
+===== page 7 =====
+Notes (continued)
+
+3 Debtors
+
+Amounts owed by group undertakings
+‘Other debtors
+
+4 Creditors: amounts falling due within one year
+
+Corporation tax
+Other creditors
+
+5 Creditors: amounts falling after more than one year
+
+Deferred consideration accrued
+Management loan notes (note 6)
+Management preference shares (note 6)
+
+6 Interest-bearing loans and borrowings
+
+Alpha FMC Topco Limited
+Balance Sheet and related notes
+3 October 2017
+
+Company
+2017
+£000
+
+18,940
+3
+
+18,943
+
+Company
+2017
+£000
+
+Company
+2017
+£000
+
+1,076
+13,927
+1,401
+
+16,404
+
+This note provides information about the contractual terms of the Group’s and parent Company’s interest-bearing
+loans and borrowings, which are measured at amortised cost and presented net of capitalised loan arrangement fees.
+
+Creditors falling due within less than one year
+Secured bank loans
+Shareholder loan notes
+
+Creditors falling due after more than one year
+Management loan notes
+Management preference shares
+
+Company
+2017
+£000
+
+
+
+===== page 8 =====
+Notes (continued)
+
+6 Interest bearing loans and borrowings (continued)
+
+Terms and debt repayment schedule
+
+Novi
+
+iret Year of
+Group Currency maturity
+Management Joan notes GBP 2023
+Management preference shares GBP 2023
+
+Management loan notes
+
+Repayment
+schedule
+
+At maturity
+At maturity
+
+Alpha FMC Topco Limited
+Balance Sheet and related notes
+3 October 2017
+
+2017
+£000
+
+12,362
+1,321
+
+13,683
+
+UK, French and US management invested £12,362,087 of ordinary ‘B1', “B2’, ‘C1’, ‘C2’ and ‘D’ loan notes in Alpha
+FMC Topco Limited on 3 February 2016. These have a nominal value of £0.00001 and a share premium of £0.99999,
+These loan notes are repayable in full, plus accrued interest on either 3 February 2023 or earlier upon the sale or listing
+of the Group. The loan notes accrue interest at 8% per annum and are unsecured. There are no recognised capitalised
+
+arrangement fees in respect of these loan notes.
+
+Preference shares
+
+On 3 February 2016 management invested £1,321,281 of preference shares in Alpha FMC Topco Limited. These have
+anominal value of £0.000005 and a share premium of £0.999995. These loan notes are repayable in full, plus accrued
+interest on either 3 February 2023 or earlier upon the sale or listing of the Group. The preference shares accrue interest
+at 8% per annum and are unsecured.. There are no recognised capitalised arrangement fees in respect of these loan
+
+notes.
+
+
+===== page 9 =====
+Alpha FMC Topco Limited
+Balance Sheet and related notes
+3 October 2617
+
+Notes (continued)
+
+7 Capital and reserves
+Allotted, called 2017 2017 2017 2017 2017
+up and fully paid
+Bonus shares Nominal Share Nominal Nominal Share
+(issued at ratio Voting value (exct Premium valuc value (inc! Premuum
+Class Number of 4999 for 1 O'n® (excl Ginel
+27 Ok rights bonus (bonus bonus
+every existing shares) bonus shares) shares) bonus
+equily share) shares) shares)
+£ £ £ £ £
+Ordinary ‘A’ 58,898 294,431,102 I vote 0.59 58.897 2,944 2,945 58.897
+£0.00001 shares per
+share
+capped
+al 95%
+Ordinary ‘B1” 9,739 48,685,261 None 0.10 9,739 487 487 9.739
+£0.00001 shares
+Ordinary ‘B2’ 7,120 35,592,880 None 0.07 7120 356 356 7,120
+£0.00001 shares
+Ordinary ‘CI’ 12,199 60,982,801 None 0.12 12,199 610 610 12.199
+£0.00001 shares
+Ordinary *C2" 5,155 25,769,845 None 0.05 5,155 258 258 5,155
+£0,00001 shares
+Ordinary ‘D” 9 44,991 5% for 9.00 - 44,991 45,000 -
+£0.10 shares cach
+share
+Ordinary ‘F’ 6,826 34,123,174 None 0.07 6,826 341 34h 6,826
+£0.00001 shares
+99,946 499,630,054 10.00 99,936 49,987 49,997 99,936
+
+All shares rank equally.
+Share premium account
+
+The balance classified as share premium relates to the aggregate net proceeds less nominal value of shares on issue
+of the Company's equity share capital.
+
+8 Financial instruments
+(a) Carrying amount of financial instruments
+
+The carrying amounts of the financial assets and liabilities include:
+
+2017
+£000
+Assets measured at amortised cost 18,943
+Liabilities measured at amortised cost : (16,413)
+
+The book value of the financial instruments is deemed to be approximate to fair value.
+
+9 Related parties
+Company
+
+There were no related party transactions during the period apart from the management loan notes disclosed in note 6.
+
+ll
+
+
+===== page 10 =====
+Alpha FMC Topco Limited
+
+Balance Sheet and related notes
+Registered number 09965297
+3 October 2017
+
+
+===== page 11 =====
+Alpha FMC Topco Limited
+Balance Sheet and related notes
+3 October 2017
+
+Contents
+
+Statement of directors’ responsibilities in respect of the Balance Sheet and Related Notes 1
+Independent auditor's report to Alpha FMC Topco Limited for the purpose of section 92 (1) (b) and (c) of the
+
+Companies Act 2006 2
+Company balance sheet
+
+Notes
+
+
+===== page 12 =====
+Alpha FMC Topco Limited
+Balance Sheet and related notes
+3 October 2017
+
+Statement of directors’ responsibilities in respect of the Balance Sheet and Related
+Notes
+
+The directors are responsible for preparing the balance sheet and related notes in accordance with UK Accounting
+Standards and applicable law (UK Generally Accepted Accounting Practice), including FRS 102 The Financial
+Reporting Standard applicable in the UK and Republic of Ireland. Section 92 of the Companies Act 2006 requires the
+directors to prepare a balance sheet and related notes when applying to re-register as a public company.
+
+Under company law the directors must not approve the balance sheet and related notes unless they are satisfied that
+they give a true and fair view of the state of affairs of the company at that date. In preparing the balance sheet and
+related notes the directors are required to:
+
+* — select suitable accounting policies and then apply them consistently;
+« make judgements and estimates that are reasonable and prudent;
+
+* state whether applicable UK Accounting Standards have been followed, subject to any material departures
+disclosed and explained in the financial statements;
+
+¢ prepare the balance sheet on the going concern basis unless it is inappropriate to presume that the group and the
+parent company will continue in business.
+
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain the
+parent company’s transactions and disclose with reasonable accuracy at any time the financial position of the company
+and enable them to ensure that the balance sheet and related notes comply with the Companies Act 2006. They have
+general responsibility for taking such steps as are reasonably open to them to safeguard the assets of the company and
+to prevent and detect fraud and other irregularities.

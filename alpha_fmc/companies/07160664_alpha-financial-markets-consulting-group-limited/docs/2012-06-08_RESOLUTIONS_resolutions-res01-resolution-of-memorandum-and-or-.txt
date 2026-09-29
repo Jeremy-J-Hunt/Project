@@ -1,0 +1,2794 @@
+
+
+===== page 1 =====
+Company Number 7160664
+
+THE COMPANIES ACT 2006
+
+COMPANY LIMITED BY SHARES
+
+WRITTEN RESOLUTION
+OF
+
+ALPHA FINANCIAL MARKETS CONSULTING GROUP LIMITED
+
+(the “Company”)
+
+Pursuant to Chapter 2 of Part 13 of The Companies Act 2006, the directors of the Company
+propose that the following resolution ts passed (the “Resalution”)
+
+SPECIAL RESOLUTION
+
+1 THAT the regulations contained in the printed document attached to this
+resolution are hereby approved and adopted as the Articles of Association of the
+Company in replacement of the Company's current Articles of Association
+
+Passed is” Moy 2012
+
+|, Nick Baker, signing on behalf of the Company, as a director, confirm that the above
+Resolution was duly passed as a written resolution of the Company on the date set out
+above
+
+Signed
+
+as
+
+Director
+
+nn
+
+01/06/2012 #359
+COMPANIES HOUSE
+
+
+
+===== page 2 =====
+Company number: 7160664
+
+The Companies Act 2006
+Private company limited by shares
+
+Articles of Association
+
+Of
+
+Alpha Financial Markets Consulting
+Group Limited
+
+Adopted by Special Resolution passed on 15 May
+2012
+
+
+
+===== page 3 =====
+CONTENTS
+
+CLAUSE Page
+1 Interpretation 1
+2 Adoption of the model Articles 8
+3 Directors 8
+4 Transactions or other arrangements with the company 9
+5 Directors’ Interests 10
+6 Directors’ remuneration and expenses 12
+7 Alternate Directors 12
+8 Company Secretary 14
+9 Issue of shares 14
+10 Further issues of shares Authority 14
+11 Further issues of shares Pre-emption 16
+12 Class Rights 17
+13 Lien and Forferture 23
+14 Share transfers - General 28
+15 Permitted Transfers 29
+16 Pre-emption 30
+17 Deceased Shareholders 34
+18 Compulsory transfers Employees 35
+19 Transfers General Powers 36
+20 Tag Along 37
+21 Change of control Drag Along Right 39
+22 Transfer restriction business and assets 41
+23 Transmission of shares 41
+24 Consolidation of shares ai
+25 Distributions and calculations of dividends 42
+26 Proceedings at general meetings 42
+
+
+
+===== page 4 =====
+11
+
+Company No: 7160664
+
+THE COMPANIES ACT 2006
+PRIVATE COMPANY LIMITED BY SHARES.
+
+ARTICLES OF ASSOCIATION
+of
+ALPHA FINANCIAL MARKETS CONSULTING GROUP LIMITED
+(the Company)
+
+Adopted by Special Resolution passed on 15 May 2012
+
+INTERPRETATION
+In these Articles
+
+A Ordinary Shares has the meaning given by article 10 3,
+
+A Shareholder means a Holder of A Ordinary Shares,
+
+Alternate or Alternate Director has the meaning given in article 7 1,
+Act means the Companies Act 2006,
+
+ANV Ordinary Shares has the meaning given in article 10 3,
+
+ANV Shareholder means a Holder of ANV Ordinary Shares,
+Appointor has the meaning given in article 7 1,
+
+B Ordinary Shares has the meaning given by article 10 3,
+
+B Shareholder means a Holder of B Ordinary Shares,
+
+Bad Leaver means a Leaver who ts not a Good Leaver,
+
+Business Day means any day (other than a Saturday) on which banks are open for
+business in the City of London,
+
+Call has the meaning given in article 13 9,
+Call Notice has the meaning given in article 13 9,
+
+Companies Acts means the Companies Acts (as defined in section 2 of the Act), in so far
+as they apply to the Company,
+
+Company’s Lien has the meaning given in article 13 1,
+
+Conflict Authorisation has the meaning given in articte 5 1,
+Conflict Authorisation Terms has the meaning given in article 5 7,
+Conflict Situation has the meaning given in article 5 1,
+
+C Ordinary Shares has the meaning given by article 10 3,
+
+C Shareholder means a Holder of C Ordinary Shares,
+
+
+
+===== page 5 =====
+D Ordinary Shares has the meaning given by article 10 3,
+D Shareholder means a Holder of D Ordinary Shares,
+Directors means the Directors of the Company from time to me;
+
+Distributable Reserves means any amount of the Company's distributable reserves
+arising during any period which the Directors determine to distribute to the Shareholders
+pursuant to article 12 1,
+
+€ Ordinary Shares has the meaning given by article 10 3,
+E Shareholder means a Holder of E Ordinary Shares,
+
+Eligible Director means a Director who would be entitled to vote on the matters to be
+discussed at a meeting of Directors (but excluding any Director whose vote is not to be
+counted in respect of the particular matter in accordance with these Articles),
+
+Employee Benefit Trust means any trust established by the Company which 1s
+considered an employees’ share scheme pursuant to section 1166 of the Act,
+
+EMI Plans means all and each of the Company's Enterprise Management Incentive Plans
+'n operation on or after the date of adoption of these Articles,
+
+Equity Share means the Growth Shares, the B Ordinary Shares, the C Ordinary Shares,
+the D Ordinary Shares, the E Ordinary Shares, the UK Ordinary Shares, the USA Ordinary
+Shares and the LUX Ordinary Shares for the time being in issue as the context may
+require, and Equity Sharehalder means a person who Is registered as a Holder of any
+Equity Shares,
+
+Excess Securities has the meaning given in article 11 3 2,
+
+Executive means any Director or any employee of the Group who ts party to an Executive
+Put and Call Option Agreement,
+
+Executive Put and Call Option Agreement means a put and call option agreement
+between an Executive (1) and the Executive Trustees (2), as amended from time to tme
+and in a form substantially similar to the Founder Put and Catl Option Agreement and
+which the Founder has determined constitutes such an agreement for the purposes of
+these Articles,
+
+Executive Trust means a discretionary trust created pursuant to the relevant Executive
+Trust Deed which the Founder has determined constitutes such a trust for the purposes of
+these Articles,
+
+Executive Trust Deed means a trust deed between an Executive (1} and the Executive
+Trustees (2) constituting an Executive Trust, as amended from time to time,
+
+Executive Trustees means the trustees from time to time of the relevant Executive Trust,
+
+Exit Proceeds means in the case of a liquidation or a reduction of capital, the proceeds or
+surplus assets available for distribution (after all liabilities have been deducted} to the
+Equity Shareholders,
+
+Fair Price means in relation to any Shares the price which the auditors of the Company
+(or if they decline to act such other independent reputable firm of share valuers nominated
+
+
+
+===== page 6 =====
+by the Directors) state in writing to be in their opinion the fair value of the Shares in
+question calculated by valuing the Company as a whole subject as follows
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+f
+
+the Fair Price of the B Ordinary Shares shall be their Issue Price or such lesser sum
+as shall be applicable in accordance with the foregoing,
+
+the Fair Price of the D Ordinary Shares (including any D Ordinary Shares converted
+pursuant to article 125) shall be the sum of £1 or such lesser sum as shall be
+applicable in accordance with the foregoing, having regard to the rights of the B
+Ordinary Shares and the D Ordinary Shares as set out in article 12 2 1,
+
+such Fair Price of the relevant Growth Shares (including any A Ordinary Shares
+converted pursuant to article 12 5) shall be calculated as follows
+
+(0) after deducting from such value of the Company the Fair Price of the B
+Ordinary Shares and D Ordinary Shares in order to derive a vatue for the
+Growth Shares as a whole,
+
+(u) if the A Ordinary Shares being valued constitute a minority interest in the A
+Ordinary Share capital, then applying a discount of a maximum of 20%,
+
+(mi) if the ANV Ordinary Shares being valued constitute a minority interest in the
+Growth Share capital, then applying a discount of a maximum of 20%, and
+
+(tv) taking account of the impact of such Fair Price of any UK Ordinary Shares,
+LUX Ordinary Shares or USA Ordinary Shares then in issue
+
+C Ordinary Shares shall be valued on the basis of the A Ordinary Shares and D
+Ordinary Shares into which they are convertible under article 12 5,
+
+such Fair Price of the UK Ordinary Shares, the LUX Ordinary Shares and the USA
+Ordinary Shares shall be caiculated as follows
+
+(0) after deducting from such value of the Company the Fair Price of the B
+Ordinary Shares and D Ordinary Shares in order to derive a value for such
+shares as a whole,
+
+(uy if the UK Ordinary Shares or the LUX Ordinary Shares or the USA Ordinary
+Shares being valued constitute a minority interest in respect of the entre
+issued share capital, then applying a discount of a maximum of 20%, and
+
+(im) taking account of the impact of such Fair Price of any Growth Shares
+(including any A Ordinary Shares converted pursuant to article 12 5)
+
+such Fair Price of the E Ordinary Shares shall be their Issue Price or such lesser
+sum as shail be applicable in accordance with the foregoing
+
+
+
+===== page 7 =====
+In stating the Fair Price the auditors (whose charges shall be borne by the Company) shall
+be considered to be acting as experts and not as arbitrators and their decision shall be
+final and binding on the parties,
+
+Family Member means the wife or husband (or widow or widower) or civil partner (or
+survivor of such civil partnership in the case of death),
+Founder means Nicholas Robin Kent,
+
+Founder Put and Call Option Agreement means the put and call option agreement
+between the Founder (1) and the Founder Trustees (2) dated 19 January 2011, as
+amended from time to time,
+
+Founder Trust means the discretionary trust created pursuant to the Founder Trust Deed,
+
+Founder Trust Deed means the trust deed between the Founder (1) and the original
+Founder Trustees (2) dated 20 May 2008 constituting the Founder Trust, as amended
+from time to time,
+
+Founder Trustees means the trustees from time to time of the Founder Trust,
+
+Good Leaver means a Leaver who so ceases as a result of his retirement at normal
+retirement age in accordance with his contract of employment, or who is determined by the
+Directors in their absolute discretion to be a Good Leaver,
+
+Group means the Company and each subsidiary for the time being of the Company and
+Group Company means any of them,
+
+Group Conflict Authorisation has the meaning given in article 5 8,
+Group Conflict Authorisation Terms has the meaning given in article 5 8,
+
+Growth Shares means the A Ordinary Shares and/or the ANV Ordinary Shares and
+Growth Share shall be construed accordingly,
+
+Growth Shareholder means a Holder of Growth Shares,
+
+Holder in relation to Shares means the person whose name ts entered in the register of
+Members as the Holder of the Shares or, in the case of a share in respect of which a
+Share warrant has been issued (and not cancelled), the person in possession of that
+warrant,
+
+Interested Director has the meaning given in article 5 1,
+
+Issue Price means in relation to any Share, the price at which the relevant Share was
+issued (being the total amount paid up or credited as paid up thereon, including any share
+premium},
+
+Leaver means a Relevant Individual who ceases to be an employee and/or Director
+and/or consultant of the Company or any member of the Group and does not immediately
+become or continue to be an employee and/or Director and/or consultant of the Company
+or any of its subsidiaries,
+
+Lien Enforcement Notice has the meaning given in article 13 5,
+
+Listco has the meaning given to it in the definition of Listing,
+
+
+
+===== page 8 =====
+Listing means
+
+(a) the admission of any part of the Company's share capital to
+
+(0) the Official List of UKLA and the grant of permission for the same to be
+traded on the Main Market of the London Stock Exchange pic,
+
+(uy trading on AIM (being the market operated under that name by London
+Stock Exchange plc), or
+
+(in) trading on any recognised investment exchange (as defined by section 285
+of the Financial Services and Markets Act 2000), or
+
+(b) the transfer of all or a majority of the Company's issued Equity Shares on terms
+open to all Equity Shareholders to a company (Listco) the share capital of which ts
+admitted as aforesaid to the Official List, AIM or a recognised investment exchange
+where all or part of the consideration received by the Shareholders is an issue of
+new shares in the capital of Listco whether by way of scheme of amalgamation,
+arrangement, reverse take-over or other transaction,
+
+LUX Fund means the proportion of the Distributable Reserves or Exit Proceeds (as the
+case maybe) of the Company, from time to time, which reflects the value derived from the
+LUX Subsidiary, as determined by the Directors, whose decision shall be final and binding
+on all concerned,
+
+LUX Ordinary Shares has the meaning given by article 10 3,
+LUX Shareholder means a Holder of LUX Ordinary Shares,
+
+LUX Subsidiary means Alpha Financial Markets Consulting (Luxembourg) SA, a
+company incorporated in Luxembourg with the company number RCS B 137955 with its
+registered office at 196 Rue de Beggen, L-1220, Luxembourg,
+
+Member has the meaning given in section 112 of the Companies Act 2006,
+
+Model Articles means the model articles prescribed by Schedule 1 of the Companies
+(Model Articles} Regulations 2008 (SI 2008/3229) as amended prior to the date of
+adoption of these Articles,
+
+Mr Baker means Nicholas Beryamin Baker,
+
+Mr Baker Put and Call Option Agreement means the put and call option agreement
+between Mr Baker (1) and the Mr Baker Trustees (2) dated 20 May 2008, as amended
+from time to time,
+
+Mr Baker Trust means the discretionary trust created pursuant to the Mr Baker Trust
+Deed,
+
+Mr Baker Trust Deed means the trust deed between Mr Baker (1) and the onginal Mr
+Baker Trustees (2) dated 20 May 2008 constituting the Mr Baker Trust, as amended from
+time to time,
+
+Mr Baker Trustees means the trustees from time to time of the Mr Baker Trust,
+
+
+
+===== page 9 =====
+partly paid in relation to a Share means that part of that Share’s nominal vatue or any
+premium at which it was issued has not been paid to the Company,
+
+Put and Call Option Agreements means each and any one (as the case may be) of the
+Founder Put and Call Option Agreement, the Mr Baker Put and Call Option Agreement
+and/or the Executive Put and Call Option Agreements (if any);
+
+Relevant Individual means an employee or Director or consultant of any member of the
+Group (excluding the Founder),
+
+Sale means either
+
+(a) the completion of an agreement for the purchase of all the Equity Shares to the
+extent not already owned by the buyer or persons connected to or acting in concert
+with the buyer, or the acceptance of an offer as a result of which the offeror
+becomes entitled or bound to acquire the remainder of such Shares in accordance
+with the Act or the Articles, or
+
+(b) the sale of all or a substantial part of the business carried on by the Group,
+
+Share means a share in the Company,
+Shareholder means a person wha 's the Holder of one or more Shares,
+Total Capitalisation means
+
+(a) ona Listing, the valuation placed upon all the issued Equity Shares as shown ina
+prospectus or listing partculars published in connection with such Listing less the
+gross amount of any new money raised by the Company from the subscription for
+new shares issued by the Company at the time of and in connection with such
+Listing,
+
+(b) ona Sale, the aggregate price paid for the issued Equity Shares or, as the case
+may be, the business and assets of the Group which are the subject of such sale,
+on the assumption that all the issued Equity Shares are sold for the same price (on
+a share sale) (save to the extent otherwise provided by these Articles) plus (on a
+share or business and assets sale) the cash value of any other sum (in cash or
+otherwise) received or receivable by the Equity Shareholders or, as the case may
+be, the Company which can reasonably be regarded as an addition to the price paid
+(whether or not patd at the time of the Sale) and to the extent that the Sale includes
+an element of deferred consideration its value shall be the present value of such
+deferred consideration,
+
+Trusts means the discretionary trusts created by each and any one (as the case may be)
+of the Founder Trust Deed, the Mr Baker Trust Deed and/or the Executive Trust Deeds,
+
+Trust Deeds means each and any one (as the case may be) of the Founder Trust Deed,
+the Mr Baker Trust Deed and/or the Executive Trust Deeds,
+
+Trustees means the trustees from time to time of the Founder Trust, the Mr Baker Trust
+and/or the Executive Trusts (as the case may be),
+
+
+
+===== page 10 =====
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+UK Fund means the proportion of the Distributable Reserves or Exit Proceeds (as the
+case maybe) of the Company, from time to time, which reflects the value derived from the
+UK Subsidiary, as determined by the Directors, whose decision shall be final and binding
+on ail concerned,
+
+UK Ordinary Shares has the meaning given by article 10 3,
+UK Shareholder means a Hoider of UK Ordinary Shares,
+
+UK Subsidiary means Alpha Financial Markets Consulting Limited, a company
+incorporated in England and Wales with the company number 04710715 with its registered
+office at Enterprise House, Beesons Yard Bury Lane, Rickmansworth, Hertfordshire WD3
+1Ds,
+
+UKLA means the UK Listing Authority,
+
+USA Fund means the proportion of the Distributable Reserves or Exit Proceeds (as the
+case maybe) of the Company, from time to time, which reflects the value derived from the
+USA Subsidiary, as determined by the Directors, whose decision shall be final and binding
+on all concerned,
+
+USA Ordinary Shares has the meaning given by article 10 3,
+USA Shareholder means a Holder of USA Ordinary Shares, and
+
+USA Subsidiary means Alpha Financial Markets Consulting, Inc, a company incorporated
+in New York with the company number 26-4822447 with its registered agents address at
+Corporation Service Company, 80 State Street, Albany, NY 12207-2543
+
+Words or expressions defined in the Model Articles and words or expressions defined in
+the Companies Acts shall bear the same meaning in these Articles unless the context
+otherwise requires
+
+A reference in these Articles to an article is a reference to the relevant article of these
+Articles unless expressly provided otherwise
+
+Any reference to a statutory provision shall be deemed to include a reference to any re
+enactment or modification thereof for the time being in force
+
+Use of the singular includes the plural and vice versa
+Use of any gender includes the other genders
+
+Any phrase introduced by the terms “including”, “include”, “in particular” or any similar
+expression is illustrative onty and does not limit the sense of the words preceding those
+terms
+
+Headings shall not affect the interpretation of these Articles
+
+
+
+===== page 11 =====
+21
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+ADOPTION OF THE MODEL ARTICLES
+
+The Model Articles shall, except in so far as they are excluded or modified by these
+Articles, apply to the Company and together with these Articles shatl constitute the Articles
+of the Company
+
+DIRECTORS
+Number of Directors and their appointment
+
+Unless otherwise determined by ordinary resolution, the number of Directors (other than
+Alternate Directors who are not also Directors) shall not be subject to any maximum but
+shall not be less than two
+
+Article 17(1) of the Model Articles shall be amended by the insertion, at the end of that
+article, of the words “provided that the appointment does not cause the number of
+Directors in office for the tme being (excluding Alternate Directors who are not also
+Directors) to exceed any maximum number fixed or otherwise determined in accordance
+with these Articles”
+
+Unanimous decisions
+
+Article 8(3) of the Model Articles shall not apply to the Company
+
+Quorum for Directors’ meetings
+
+Articles 11(2) and (3) of the Model Articles shall not apply to the Company
+
+Subject to article 3 6, the quorum for the transaction of business at a meeting of Directors
+Is any two Eligible Directors one of whom shall be the Founder
+
+For the purposes of any meeting (or part of a meeting) held pursuant to article 4 2 to
+authorise a Director's confict, if there 1s only one Eligible Director in office other than the
+conflicted Director(s), the quorum for such meeting (or part of a meeting) shall be one
+Eligible Director
+
+This article 3 7 applies where the total number of Directors for the time being 1s less than
+the quorum for Directors’ meetings Article 7(2) of the Model Articles shall not apply to the
+Company
+
+371 If there is only one Director, that Director may appoint sufficient Directors to
+make up a quorum or call a general meeting to do so
+
+372 If there is more than one Director
+
+(a) a Dwectors' meeting may take place, if it is called in accordance with the
+articles and at feast two Directors participate tn it, with a view to appointing
+sufficient Directors to make up a quorum or calling a general meeting to
+do so, and
+
+
+
+===== page 12 =====
+38
+
+39
+
+310
+
+41
+
+42
+
+(b) if a Directors’ meeting is called but only one Director attends at the
+appointed date and time to participate in it, that Director may appoint
+sufficient Directors to make up a quorum or call a general meeting to do
+so
+
+Casting vote
+
+if the numbers of votes for and against a proposal at a meeting of Directors are equal, the
+Founder if chairing the meeting shall have a casting vote Article 13 of the Model Articles
+shall not apply to the Company
+
+Appointment of Director following last death or bankruptcy
+
+Article 17(2) of the Model Articles shall not apply to the Company In any case where, as
+a result of death or bankruptcy, the Company has no Shareholders and no Directors, the
+transmittee of the last Shareholder to have died or to have a bankruptcy order made
+against him (as the case may be) shall have the mght, by notice in writing, to appoint a
+person who 1s willing and permitted to act to be a Director
+
+Termination of Director's appointment
+
+Without prejudice to article 18 of the Model Articles, any Director may be removed from
+office (no matter how he was appointed) by notice in writing delivered to the office or
+tendered at a meeting of the Directors and signed by any Member or Members holding
+Shares entitling such Member or Members to exercise a majority of the votes at any
+general meeting of the Company
+
+TRANSACTIONS OR OTHER ARRANGEMENTS WITH THE COMPANY
+Articles 14(1) to 14(4) inclusive of the Model Articles shall not apply to the Company
+
+Subject to sections 177(5) and 177(6) and sections 182(5) and 182(6) of the Act and
+provided he has declared the nature and extent of his interest in accordance with the
+requirements of the Companies Acts, a Director who 1s in any way, whether directly or
+indirectly, interested in an existing or proposed transaction or arrangement with the
+Company
+
+421 may be a party to, or otherwise interested in, any transaction or arrangement
+with the Company or in which the Company is otherwise (directly or indirectly)
+Interested,
+
+422 shall be an Eligible Director for the purposes of any proposed decision of the
+Directors (or committee of Directors) in respect of such contract or proposed
+contract in which he ts interested,
+
+423 shall be entitled to vote at a meeting of Directors (or of a committee of the
+Directors) or participate in any unanimous deciston, in respect of such contract
+or proposed contract in which he ts interested,
+
+
+
+===== page 13 =====
+51
+
+52
+
+53
+
+54
+
+424 may act by himself or his firm in a professional capacity for the Company
+(otherwise than as auditor) and he or his firm shall be entitled to remuneration
+for professional services as if he were not a Director;
+
+425 may be a Director or other officer of, or employed by, or a party to a transaction
+or arrangement with, or otherwise interested in, any body corporate in which the
+Company is otherwise (directly or indirectly) interested, and
+
+426 shall not, save as he may otherwise agree, be accountable to the Company for
+any benefit which he (or a person connected with him, as defined in section 252
+of the Act) derives from any such contract, transaction or arrangement or from
+any such office or employment or from any interest in any such body corporate
+and no such contract, transaction or arrangement shall be liable to be avoided
+on the grounds of any such interest or benefit nor shall the receipt of any such
+remuneration or other benefit constitute a breach of his duty under section 176
+of the Act
+
+DIRECTORS’ INTERESTS
+
+For the purposes of section 175 of the Act, the Directors shall have the power to authorise,
+on such terms and subject to such conditions as they may determine (a Conflict
+Authorisation), any matter proposed to them in accordance with these Articles which
+otherwise might give rise to a situation (a Conflict Situation) in which a Director (an
+Interested Director) would have a direct or indirect interest which conflicts, or may conflict,
+with the interests of the Company (including in relation to the exploitation of any property,
+information or opportunity, whether or not the Company could take advantage of it) Any
+Conflict Authorisation shall extend to any actual or possible confhct of interest which may
+reasonably be expected to arise out of the Conflict Situation so authorised
+
+Where the Directors give a Conflict Authorisation
+
+521 It shall be recorded in writing (but the authorisation shall be effective whether or
+not its recorded), and
+
+522 the Directors may revoke or vary the authority at any time but this will not affect
+anything done by the Interested Director in accordance with the authorisation
+before the revocation or variation
+
+A Conflict Authorisation will be only effective if
+
+531 at the meeting of the Directors at which the Conflict Situation is considered, any
+requirement as to quorum !s met without counting the Interested Director, and
+
+532 It is agreed to without any Interested Director voting, or would have been agreed
+to if the votes of any Interested Director had not been counted
+
+Subject to article 53 and the provisions of the Companies Acts, any matter proposed to
+the Directors and any authorisation by the Directors in relation to a Conflict Situation shall
+
+10
+
+
+
+===== page 14 =====
+55
+
+56
+
+57
+
+58
+
+be dealt with in the same way as any other matter may be proposed to and resolved upon
+by the Directors
+
+For the purposes of article 5 1, a confict of interest includes a confict of interest and duty
+and a conflict of duties
+
+An Interested Director shall be obliged
+
+561 to disclose to the other Directors, as soon as reasonably practicable, the nature
+and extent of his interest in any Conflict Situation, and
+
+562 to act in accordance with any conditions determined by the Directors under
+article 5 1
+
+Any conditions to which a Conflict Authorisation is made subject (Conflict Authorisation
+Terms) may include (without limitation to article 5 1) provision that
+
+571 where the interested Director obtains (other than in his capacity as a Director of
+the Company or as tts employee or agent or, if the Directors so decide, in any
+other capacity that would otherwise oblige him to disclose it to the Company)
+Information that is confidential to a third party, he will not be obliged to disclose it
+to the Company or to use it directly or indirectly for the benefit of the Company or
+In performing his duties as a Director of the Company in circumstances where to
+do so would amount to a breach of a duty of confidence owed to that third party,
+
+§72 the Interested Director may (but shall be under no obligation to) absent himself
+from the discussion of, or the making of decisions relating to, the relevant matter
+(whether at any meeting of the Directors or otherwise) and be excused from
+reviewing documents and information prepared by or for the Directors to the
+extent that they relate to that matter, and
+
+§73 the Interested Director be excluded from the receipt of documents and
+information, the participation tn discussion or the making of decisions (whether at
+Directors’ meetings or otherwise) related to the relevant matter,
+
+and anything done (or omitted to be done) by the Interested Director in accordance with
+any such provision (or otherwise in accordance with any Conflict Authorisation Terms
+given under article 5 1) will not constitute a breach by him of his duties under sections 172
+to 174 of the Act
+
+Subject to article 5.9 but without prejudice to article 51 to arttcle 57, authorisation ts
+hereby given by the Members of the Company for the time being on the terms of these
+Articles to each Director in respect of any Conflict Situation that arises because the
+Director is also a Shareholder, investor or other participant in, lender to, guarantor,
+Director, officer, manager or employee of, or otherwise in any other way interested or
+concerned in, any other body corporate within the Group (a Group Conflict Authorisation)
+The Conflict Authorisation Terms applicable to the Group Conflict Authorisation (Group
+
+11
+
+
+
+===== page 15 =====
+59
+
+61
+
+71
+
+72
+
+Conflict Authorisation Terms) are automatically set by this article 58 so that the Director
+concerned
+
+581 1s not obliged to disclose to the Company information that 1s confidential to a
+third party obtained by him (other than tn his capacity as a Director of the
+Company or as its employee or agent or, if the Directors so decide, in any other
+capacity that would otherwise oblige him to disclose it to the Company) in any
+situation to which the Group Conflict Authorisation applies, nor to use any such
+information directly or indirectly for the benefit of the Company or in performing
+his duties as a Director of the Company, in circumstances where to do so would
+amount to a breach of a duty of confidence owed to that third party, and
+
+582 may (but shall be under no obligation to)
+(a) absent himself from the discussions of, or the making of decisions,
+(b) make arrangements not to receive documents and information,
+relating to the Conflict Situation concerned,
+
+and the Company will not treat anything done (or omitted to be done) by the Director
+concerned tn accordance with the Group Conflict Authorisation Terms as a breach by him
+of his duties under sections 172 to 174 of the Act
+
+A Group Conflict Authorisation given or deemed given under article 5 8 may be revoked,
+varied or reduced in tts scope or effect by special resolution
+
+DIRECTORS’ REMUNERATION AND EXPENSES
+
+Article 20 of the Mode! Articles shall be amended by the insertion of the words "(including
+Alternate Directors) and the company secretary” before the words "properly incur”
+
+ALTERNATE DIRECTORS
+Appointment and removal of Alternates
+
+Any Director (an Appointor) may appoint as an Alternate any other Director, or any other
+person approved by resolution of the Directors (an Alternate Director), to
+
+711 exercise that Director's powers, and
+712 carry out that Director's responsibilities,
+
+in relation to the taking of decisions by the Directors in the absence of the Alternate’s
+Appointor
+
+Any appointment or removal of an Alternate must be effected by notice in writing to the
+Company signed by the Appointor, or in any other manner approved by the Directors
+
+12
+
+
+
+===== page 16 =====
+73
+
+74
+
+75
+
+76
+
+77
+
+78
+
+79
+
+The notice must
+731 identify the proposed Alternate, and
+
+732 in the case of a notice of appointment, contain a statement signed by the
+proposed Alternate that the proposed Alternate ts willing to act as the Alternate
+of the Director giving the notice
+
+Rights and responsibilities of Alternate Directors
+
+An Alternate Director may act as Alternate Director to more than one Director and has the
+same rights, in relation to any Directors’ meeting, meeting of a committee of Directors or
+Directors’ written resolution, as the Alternate's Appointor
+
+Except as the articles specify otherwise, Alternate Directors
+
+751 are deemed for all purposes to be Directors,
+
+752 are liable for their own acts and omissions,
+
+753 are subject to the same restrictions as their Appointors, and
+754 are not deemed to be agents of or for their Appointors.
+
+A person who Is an Alternate Director but not a Director
+
+761 may be counted as participating for the purposes of determining whether a
+quorum is participating (but only if that person’s Appointor ts not participating),
+and
+
+762 may participate in a unanimous decision of the Directors (but only if his
+Appointor ts an Eligible Director in relation to that decision and does not
+participate)
+
+No Alternate may be counted as more than one Director for such purposes
+
+A Director who Is also an Alternate Director is entitled, in the absence of his Appointor, to
+@ separate vote on behalf of his Appointor, in additton to his own vote on any decision of
+the Directors (provided that hts Appointor 1s an Eligible Director in relation to that decision),
+but shail not count as more than one Director for the purposes of determining whether a
+quorum Is present
+
+An Alternate Director is not entitled to receive any remuneration from the Company for
+serving as an Alternate Director except such part of the Alternate’s Appomtor's
+remuneration as the Appointor may direct by notice in writing made to the Company
+
+Termination of Alternate Directorship
+
+An Alternate Director's appointment as an Alternate terminates
+
+13
+
+
+
+===== page 17 =====
+91
+
+92
+
+93
+
+10
+
+101
+
+102
+
+791 when the Alternate's Appointor revokes the appointment by notice to the
+Company in writing specifying when it 1s to terminate,
+
+792 on the occurrence in relation to the Alternate of any event which, if It occurred in
+relation to the Alternate’s Appointor, would result in the termination of the
+Appointor's appointment as a Director,
+
+793 on the death of the Alternate’s Appointor, or
+794 when the Alternate’s Appointor's appointment as a Director terminates,
+
+795 by notice to the Company given by the co-Directors of the Director who
+appointed him
+
+COMPANY SECRETARY
+
+The Directors may appoint any person who ts willing to act as the secretary for such term,
+at such remuneration and upon such conditions as they may think fit and from time to time
+remove such person and, if the Directors so decide, appoint a replacement, in each case
+by a decision of the Directors
+
+ISSUE OF SHARES
+
+Articles 21(1) and 21(2) of the Model Articles shall not apply to the Company
+
+The Company may pay any person a commission in consideration for that person
+921 subscribing, or agreeing to subscribe, for Shares, or
+
+922 procuring, or agreetng to procure, subscriptions for Shares.
+
+Any such commission may be paid
+
+931 In cash, or tn fully paid or partly paid Shares or other securities, or partly in one
+way and partly in the other, and
+
+932 In respect of a conditional or an absolute subscription
+
+FURTHER ISSUES OF SHARES: AUTHORITY
+
+Save to the extent authorised by these Articles, or authorised from time to time by an
+ordinary resolution of the Shareholders, the Directors shall not exercise any power to allot
+Shares or to grant rights to subscribe for, or to convert any security into, any Shares in the
+Company
+
+Subject to the remarning provisions of this article 10 and article 11, the Directors are
+generally and unconditionally authorised, for the purposes of section 551 of the 2006 Act
+and generally, to exercise any power of the Company to
+
+14
+
+
+
+===== page 18 =====
+103
+
+1021 offer or allot,
+
+1022 grant rights to subscribe for or to convert any security into,
+
+1023 otherwise deal in, or dispose of,
+
+any shares in the Company to any person, at any time and subject to any terms and
+conditions as the Directors think proper
+
+The authority referred to in article 10 2
+
+1031 shall only apply insofar as the Company has not renewed, waived or revoked tt
+by ordinary resolution,
+
+1032 may only be exercised for a period of five years commencing on the date on
+which these Articles are adopted, save that the Directors may make an offer or
+agreement which would, or might, require Shares to be allotted after the expiry
+of such authority, and the Directors may allot Shares in pursuance of an offer or
+agreement as if such authority had not expired,
+
+1033 shall be limited as follows (including all Shares in tssue from time to time)
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+e)
+
+@
+
+(g)
+
+(hy
+
+107
+
+to A Ordinary Shares of £010 each having an aggregate
+nominal amount of £50,000,
+
+to ANV Ordinary Shares of £010 each having an aggregate
+nominal amount of £50,000,
+
+to B Ordinary Shares of £100 each having an aggregate
+nominal amount of £10,000,000,
+
+to C Ordinary Shares of £310 each having an aggregate
+nominal amount of £14,377 80,
+
+to D Ordinary Shares of £010 each having an aggregate
+nominal amount of £13,914,
+
+to E Ordinary Shares of £001 each having an aggregate
+nominal amount of £25 00,
+
+to UK Ordinary Shares of £010 each having an aggregate
+nominal amount of £27,500,
+
+to USA Ordinary Shares of $0 10 each having an aggregate
+nominal amount of $100,000,
+
+to LUX Ordinary Shares of £0 10 each having an aggregate
+nominal amount of £30,000,
+
+15
+
+maximum
+
+maximum
+
+maximum
+
+maximum
+
+maximum
+
+maximum
+
+maximum
+
+maximum
+
+maximum
+
+
+===== page 19 =====
+11
+
+g) such A Ordinary Shares and B Ordinary Shares to be allotted credited as
+fully paid pursuant to a share exchange agreement dated 11th March
+2010,
+
+(kK) such C Ordinary Shares to be allotted for cash upon the due exercise of
+options held by employees of the Group at the applicable option exercise
+price, and
+
+(0) such C Ordinary Shares to be convertible into A Ordinary Shares and D
+Ordinary Shares as provided in article 12 5
+
+FURTHER ISSUES OF SHARES: PRE-EMPTION
+
+In accordance with section 567(1) of the Act, sections 561 and 562 of the Act shall not
+apply to an allotment of equity securities {as defined in section 560(1) of the Act) made by
+the Company
+
+Unless otherwise agreed by special resolution, if the Company proposes to allot any equity
+securities and such equity securities are Growth Shares (save in the case of any equity
+securities to be held by an Employee Benefit Trust or to be allotted pursuant to the
+exercise or vesting of any option or award under an employees’ share scheme, including
+for the avoidance of doubt, an EMI Plan) such Growth Shares shall not be allotted to any
+person unless the Company has first offered them to all Growth Shareholders on the date
+of the offer on the same terms, and at the same price, as those equity securities are being
+offered to other persons on a pari passu and pro rata basis to the number of Growth
+Shares held by those Holders (as nearly as possible without involving fractions) out of the
+aggregate number of Growth Shares then tn issue
+
+‘Such offer
+
+1131 shall be in writing, shalt be open for acceptance for a period of 21 days from the
+date of the offer and shall give details of the number and subscription price of
+the relevant equity securities, and
+
+1132 may stipulate that any such Growth Shareholder who wishes to subscribe for a
+number of equity securities in excess of the proportion to which he ts entitled
+shall, in his acceptance, state the number of excess equity securities (Excess
+Securities) for which he wishes to subscribe
+
+Any equity securities not accepted by Growth Shareholders pursuant toe the offer made to
+them in accordance with articles 11 2 and 11 3 shall be used for satisfying any requests
+for Excess Securities made pursuant to article 1132 If there are insufficient Excess
+Securities to satisfy such requests, the Excess Securities shall be allotted to the applicants
+pro rata to the number of Growth Shares held by the applicants immediately before the
+offer was made to Growth Shareholders in accordance with article 11 2 (as nearly as
+possible without involving fractions or increasing the number of Excess Securities allotted
+to any Growth Shareholder beyond that applied for by him) After that allotment, any
+Excess Securities remaining shall be offered to any other person as the Directors may
+
+16
+
+
+
+===== page 20 =====
+12
+
+121
+
+determine, at the same price and on the same terms as the offer to the Growth
+Shareholders
+
+Subject to articles 11 2, 11 3 and 11 4 and to section 551 of the Act, any equity securities
+shall be at the disposal of the Directors who may allot, grant options over or otherwise
+dispose of them to any persons at such times and generally on such terms and conditions
+as they think proper
+
+{f any Shares shall be allotted or transferred to any employee, Director, prospective
+employee or Director or otherwise constitute employment related securities which are or
+may be restricted securities, the relevant employer Group Company shall enter into a joint
+election under section 431 of the Income Tax (Earnings and Pensions) Act 2003 (ITEPA)
+in respect of such shares no later than 14 days after the date of the allotment or transfer
+save where an election is deemed to have been made due to the fact that the shares in
+question were acquired pursuant to the exercise of a qualifying option in accordance with
+the provisions of section 431A(2)(d) ITEPA
+
+CLASS RIGHTS
+
+The rights and privileges attaching to the respective classes of Shares shall be as set out
+in the subsequent provisions of this article 12
+
+Income
+
+The Distributable Reserves from time to time shall be distributed among the Shareholders
+as follows, subject to article 25:
+
+1211 all Distributable Reserves comprising the UK Fund shall be distributed as
+follows
+
+(a) such amount, if any, as determined by the Directors (in their absolute
+discretion, whose decision shall be absolute and final) shall be distributed
+to each E Ordinary Share (in proportion to the amounts for the time being
+paid up thereon disregarding any premium),
+
+(b) the balance of the UK Fund (if any) shall be distributed so that each UK
+Ordinary Share shall receive (in proportion to the amounts for the time
+being paid up thereon disregarding any premium) such amount from the
+remaining UK Fund that ts equal to
+
+1
+(261,500 + X)
+
+Where X = the number of UK Ordinary Shares in issue at the time of the
+relevant distribution, and
+
+(c) the balance of the UK Fund (if any) shall be distributed to the Growth
+Shares and the C Ordinary Shares (in proportion to the amounts for the
+
+17
+
+
+
+===== page 21 =====
+1212
+
+1213
+
+1214
+
+time being paid up thereon disregarding any premium) part passu as if the
+Growth Shares and the C Ordinary Shares, in issue from time to trme,
+comprised a single class of Share,
+
+all Distributable Reserves comprising the LUX Fund shall be distributed as
+follows
+
+(a)
+
+(b)
+
+each LUX Ordinary Share shall receive (in proportion to the amounts for
+the time being paid up thereon disregarding any premium) such amount
+from the LUX Fund that 1s equal to
+
+a
+(240,000 + Y)
+
+Where Y = the number of LUX Ordinary Shares in issue at the time of the
+relevant distnbution
+
+the balance of the LUX Fund shall be distributed to the Growth Shares
+and the C Ordinary Shares (in proportion to the amounts for the time
+being paid up thereon disregarding any premium) par passu as if the
+Growth Shares and the C Ordinary Shares, in tssue from time to time,
+comprised a single class of Share,
+
+all Distributable Reserves comprising the USA Fund shall be distributed as
+follows
+
+(a)
+
+(b)
+
+each USA Ordinary Share shall receive (in proportion to the amounts for
+the time being paid up thereon disregarding any premium) such amount
+from the USA Fund that ts equal to
+
+1
+(2,000,000 + Z)
+
+Where Z = the number of USA Ordinary Shares in issue at the time of the
+relevant distribution
+
+the balance of the USA Fund shall be distributed to the Growth Shares
+and the C Ordinary Shares (in proportion to the amounts for the time
+being paid up thereon disregarding any premium) pari passu as if the
+Growth Shares and the C Ordinary Shares, in tssue from time to time,
+comprised a single class of Share,
+
+all Distributable Reserves which are to be so distributed but which do not
+camprise the UK Fund, LUX Fund and the USA Fund shall be distributed to the
+Holders of the Growth Shares and the C Ordinary Shares (in proportion to the
+amounts for the time being paid up thereon disregarding any premium) pari
+Ppassu as if the Growth Shares and the C Ordinary Shares, in issue from time to
+time, comprised a single class of Share
+
+18
+
+
+
+===== page 22 =====
+122
+
+The B Ordinary Shares and the D Ordinary Shares shall carry no entitlement to a
+distribution of such profits by way of dividend
+
+Capital
+
+On a return of assets on liquidation, a reduction of capitat or otherwise, the Exit Proceeds
+shall be distributed or applied as follows
+
+1221
+
+1222
+
+first in paying
+
+(a)
+
+(b)
+(c)
+
+to each of the B Shareholders, an amount equa! to the tssue Price paid for
+such Shares,
+
+to each of the D Shareholders the sum of £1 per share, and
+
+to each of the C Shareholders an amount equal to such Issue Price in
+respect of the number of D Ordinary Shares which would anse on the
+conversion of their C Ordinary Shares in accordance with article 125
+below, as if such conversion had taken place on or before the record date
+for such return of assets as aforesaid,,
+
+pari passu as if the B Ordinary Shares, C Ordinary Shares and D Ordinary
+Shares in issue from time to tme constituted a single class of Shares
+
+second in paying any balance remaining after the application of the foregoing as
+follows
+
+{a)
+
+(b)
+
+all such remaining Exit Proceeds comprising the UK Fund shall be
+distributed as follows
+
+(I) each UK Ordinary Share shall receive (in proportion to the
+amounts for the tme being paid up thereon disregarding any
+premium) such amount from the UK Fund that ts equal to
+
+1
+(261,500 + X)
+
+Where X = the number of UK Ordinary Shares in issue at the time
+of a liquidation or a reduction of capital (as the case may be)
+
+where the total Exit Proceeds to be distributed or applied
+
+() are less than £25,000,000, the balance of the UK Fund (after the
+distribution or application to UK Ordinary Shares pursuant to
+article 12 2 2(a)(1)) shall be distributed to the Growth Shares and
+the C Ordinary Shares (in proportion to the amounts for the time
+being paid up thereon disregarding any premium) pari passu as if
+the Growth Shares and the C Ordinary Shares, in issue from time
+to time, comprised a single class of Share,
+
+19
+
+
+
+===== page 23 =====
+(c)
+
+(da)
+
+(ut)
+
+are equal to or more than £25,000,000
+
+1 the balance of the UK Fund (after the distribution or
+application to UK Ordinary Shares pursuant to article
+12 2 2(a)(1)) which forms part of the inital £25,000,000 of
+the total Exit Proceeds shall be distributed to the Growth
+Shares and the C Ordinary Shares (in proportion to the
+amounts for the time being paid up thereon disregarding
+any premium) pan passu as if the Growth Shares and the
+C Ordinary Shares, in issue from time to time, comprised
+a single class of Share,
+
+2 the balance, if any, of the UK Fund (after the distribution
+or application to UK Ordinary Shares pursuant to article
+12 2 2(a){(1)) which forms part of the total Exit Proceeds in
+excess of £25,000,000 shall be distributed to the Growth
+Shares, the E Ordinary Shares and the C Ordinary
+Shares (in proportion to the amounts for the time being
+paid up thereon disregarding any premium) pari passu as
+if the Growth Shares, the E Ordinary Shares and the C
+Ordinary Shares, in issue from time to trme, comprised a
+single class of Share,
+
+all such remaining Exit Proceeds comprising the LUX Fund shall be
+distributed as follows
+
+10]
+
+{)
+
+each LUX Ordinary Share shall receive (in proportion to the
+amounts for the time being paid up thereon disregarding any
+premium) such amount from the LUX Fund that is equal to
+
+—_1__
+(240,000 + Y)
+
+Where Y = the number of LUX Ordinary Shares tn issue at the
+time of a liquidation or a reduction of capital (as the case may be)
+
+the balance of the LUX Fund shall be distributed to the Growth
+Shares and the C Ordinary Shares (in proportion to the amounts
+for the time being paid up thereon disregarding any premium) pari
+passu as if the Growth Shares and the C Ordinary Shares, in
+issue from time to time, comprised a single class of Share,
+
+all such remaining Exit Proceeds comprising the USA Fund shall be
+distributed as follows
+
+07
+
+each USA Ordinary Share shall receive (in proportion to the
+amounts for the time being paid up thereon disregarding any
+premium) such amount from the USA Fund that ts equal to
+
+20
+
+
+
+===== page 24 =====
+123
+
+124
+
+1
+(2,000,000 + Z)
+
+Where Z = the number of USA Ordinary Shares in issue at the
+time of a liquidation or a reduction of capital (as the case may be)
+
+(1) the balance of the USA Fund shall be distributed to the Growth
+Shares and the C Ordinary Shares (in proportion to the amounts
+for the time being paid up thereon disregarding any premtum) pari
+passu as if the Growth Shares and the C Ordinary Shares, in
+tssue from time to time, comprised a single class of Share,
+
+(e) all such Exit Proceeds not comprising the UK Fund, LUX Fund and the
+USA Fund shall be distributed to the Holders of the Growth Shares and
+the C Ordinary Shares (in proportion to the amounts for the time beng
+paid up thereon disregarding any premium) pari passu as if the Growth
+Shares and the C Ordinary Shares, in issue from time to time, comprised
+a single class of Share
+
+Sale or Listing
+
+1231
+
+1232
+
+In the event of a Sale, the proceeds of sale, being the Total Capitalisation, shall
+be distributed among the selling Shareholders in such amounts and in such
+priority as would be applicable on a return of capital in accordance with article
+122
+
+In the event of a Listing the same shall be effected in such manner as may be
+necessary to ensure that the value of the Tota! Capitalisation accrues to
+Shareholders in such amounts and in such priority as would be applicable on a
+return of capital in accordance with article 12 2
+
+Voting rights attaching to Shares
+
+12414
+
+1242
+
+1243
+
+The Shareholders shall be entitled to receive notice of any general meeting of
+the Company
+
+Each Holder of A Ordinary Shares and/or of E Ordinary Shares shall be entitled
+to attend either in person or by proxy any general meeting of the Company and
+each such Holder present at any such meeting in person, or by proxy, or by a
+duly authorised representative shall be entitled on a show of hands to one vote
+and on a poll to one vote for every A Ordinary Share and/or E Ordinary Share
+held by him
+
+Save as provided in article 126, none of the ANV Ordinary Shares, the B
+Ordinary Shares, the C Ordinary Shares, the D Ordinary Shares, the UK
+Ordinary Shares, the LUX Ordinary Shares and the USA Ordinary Shares shall
+carry a right to attend nor vote at a general meeting of the Company
+
+21
+
+
+
+===== page 25 =====
+125 Conversion of C Ordinary Shares
+
+1251 Each C Ordinary Share shall convert into one A Ordinary Share and 30 D
+Ordinary Shares of £0 10 each on the first of the following to occur
+
+(a) the date which Is six months after the date of its issue,
+(b) the date of a Sale or Listing,
+
+In each case without the need for any resolution of the Shareholders or the
+Directors, or
+
+(c) such earlier date as the Directors may resolve
+
+1252 As soon as practicable before such conversion of his C Ordinary Shares, the C
+Ordinary Shareholder shail deliver to the Company certificates in relation to his
+holding of C Ordinary Shares and the Company shall deliver to him certificates
+for his A Ordinary Shares and D Ordinary Shares arising from such conversion
+
+1253 If where article 125 1(b) apples the Sale or Listing does not for any reason
+complete or become effective, the C Ordinary Shareholders shall return the
+certificates for the A Ordinary Shares and D Ordinary Shares delivered to them
+under article 1252 and the Company shall return the certificates for the C
+Ordinary Shares delivered to it under that article
+
+126 Variation of Class Rights
+
+1261 Subject to article 12 6 2, whenever the capital of the Company ts divided into
+different classes of Shares the special rights attached to any class may be
+varied or abrogated, either whilst the Company ts a going concern or during or in
+contemplation of a winding up, with the consent in writing of the Holders of 75%
+of the issued Shares of that class or with the sanction of a special resolution
+passed at a separate meeting of the Holders of the Shares of that class but not
+otherwise To every such separate meeting all the provisions of these Articles
+relating to general meetings of the Company shall apply, with any necessary
+modifications, except that
+
+(a) the necessary quorum shall be two or more persons together holding or
+representing by proxy at least one third in nominal amount of the issued
+Shares of the class (but so that if at any adjourned meeting of such
+Holders a quorum is not present those Shareholders who are present
+shall be a quorum),
+
+(b) any Holder of Shares of the class present im person or by proxy may
+demand a poll, and
+
+(c) such Holders of Shares of the class shall, on a poll, have one vote in
+respect of every Share of the class held by them respectively
+
+22
+
+
+
+===== page 26 =====
+13
+
+131
+
+132
+
+133
+
+134
+
+135
+
+1262
+
+Any amendments of the special mghts and restrictions attached to the UK
+Ordinary Shares and/or LUX Ordinary Shares and/or USA Ordinary Shares,
+shall be considered an amendment to the special rights attached to the Growth
+Shares
+
+LIEN AND FORFEITURE
+
+Company's Lien over Shares
+
+The Company has a lien (the Company’s Lien) over every Share registered in the name of
+any Shareholder (whether solely or jointly with others and whether or not it is a fully paid
+Share) for all monies due (whether payable immediately or at some time in the future) to
+the Company from him or his estate, whether solely or jointly with any person (whether a
+Shareholder or not)
+
+The Company's Lien over a Share
+
+1321
+
+1322
+
+takes priority over any third party's interest in that Share, and
+
+extends to any dividend or other money payable by the Company in respect of
+that share and (if the lien 1s enforced and the Share 1s sold by the Company) the
+proceeds of sale of that Share
+
+The Directors may at any time decide that a Share which ts or would otherwise be subject
+to the Company's Lien shall not be subject to tt, either wholly or in part
+
+Enforcement of the Company's Lien
+
+Subject to the provisions of this article, if
+
+13.41
+
+1342
+
+a Lien Enforcement Notice has been given in respect of a Share, and
+
+the person to whom the notice was given has fatled to comply with it,
+
+the Company may sell that Share in such manner as the Directors decide
+
+A Lien Enforcement Notice
+
+1351
+
+1352
+
+1353
+
+1354
+
+may only be given in respect of a Share which ts subject to the Company's Lien,
+In respect of which a sum ts payable and the due date for payment of that sum
+has passed,
+
+must specify the Share concerned,
+must require payment of the sum payable within 14 days of the notice,
+
+must be addressed either to the Hoider of the share or to a person entitled to it
+by reason of the Holder's death, bankruptcy or otherwise, and
+
+23
+
+
+
+===== page 27 =====
+1355 must state the Company's intention to sell the Share ¢f the notice 1s not complied
+
+with
+136 Where Shares are sold under this article
+
+1361 the Directors may authorise any person to execute an instrument of transfer of
+the Shares to the purchaser or a person nominated by the purchaser, and
+
+1362 the transferee is not bound to see to the application of the consideration, and the
+transferee’s title is not affected by any irregularity in or invalidity of the process
+leading to the sale
+
+137 The net proceeds of any such sale (after payment of the costs of sale and any other costs.
+of enforcing the lren) must be applied
+
+1371 first, In payment of so much of the sum for which the lien exists as was payable
+at the date of the Lien Enforcement Notice,
+
+1372 second, to the person entitled to the Shares at the date of the sale, but only after
+the certificate for the Shares sold has been surrendered to the Company for
+cancellation or a suitable indemnity has been given for any lost certificates, and
+subject to a lien equivalent to the Company's Lien over the Shares before the
+sale for any money payable in respect of the Shares after the date of the Lien
+Enforcement Notice
+
+138 A statutory declaration by a Director or the company secretary that the declarant is a
+
+Director or the company secretary and that a Share has been sold to satisfy the
+
+Company's Lien on a specified date
+
+1381 1s conclusive evidence of the facts stated in it as against all persons claiming to
+be entitled to the Share, and
+
+1382 subject to compliance with any other formalities of transfer required by the
+articles or by law, constitutes a good title to the Share
+
+Call notices
+139 Subject to the articles and the terms on which shares are allotted, the Directors may send
+
+a notice (a Call Notice) to a Member requiring the Member to pay the Company a specified
+
+sum of money (a Call) which is payable in respect of Shares which that Member holds at
+
+the date when the Directors decide to send the Call Notice
+1310 ACall Notice
+
+13101 may not require a Member to pay a Call which exceeds the total sum unpaid on
+that Member's Shares (whether as to the Share’s nominal value or any amount
+payable to the Company by way of premium),
+
+13102 must state when and how any Call to which it relates it is to be paid, and
+
+24
+
+
+
+===== page 28 =====
+1311
+
+13 12
+
+1313
+
+13.14
+
+1315
+
+1316
+
+1317
+
+1318
+
+13103 may permit or require the Call to be paid by instalments
+
+A Member must comply with the requirements of a Cail Notice, but no Member ts obliged
+to pay any Call before 14 days have passed since the notice was sent
+
+Before the Company has received any Call due under a Call Notice the Directors may:
+13121 revoke it wholly or in part, or
+
+13122 specify a later time for payment than ts specified in the notice,
+
+by a further notice in writing to the Member in respect of whose Shares the Call is made
+Liability to pay Calls
+
+Liability to pay a Call is not extinguished or transferred by transferring the Shares in
+respect of which tt ts required to be paid
+
+Joint Holders of a Share are jointly and severally lable to pay all Calls in respect of that
+Share
+
+Subject to the terms on which shares are allotted, the Directors may, when issuing Shares,
+provide that Call Notices sent to the Holders of those Shares may require them
+
+13151 to pay Calls which are not the same, or
+13152 to pay Calls at different tmes
+When Cail Notice need not be issued
+
+A Call Notice need not be issued in respect of sums which are specified, in the terms on
+which a Share ts issued, as being payable to the Company in respect of that Share
+(whether in respect of nominal value or premium)
+
+13161 onallotment,
+13162 on the occurrence of a particular event, or
+13163 ona date fixed by or in accordance with the terms of issue
+
+But if the due date for payment of such a sum has passed and it has not been paid, the
+Holder of the Share concerned |s treated in all respects as having failed to comply with a
+Call Notice in respect of that sum, and ts lable to the same consequences as regards the
+payment of interest and forfeiture
+
+Failure to comply with Call Notice: automatic consequences
+If a person is lable to pay a Call and fails to do so by the Call payment date
+
+13181 the Directors may issue a notice of intended forfeiture to that person, and
+
+25
+
+
+
+===== page 29 =====
+13182
+
+until the Call is paid, that person must pay the Company interest on the Call from
+the Call payment date at the relevant rate.
+
+1319 For the purposes of this article
+
+13191
+
+13192
+
+the call payment date is the time when the Call Notice states that a Call ts
+payable, unless the Directors give a notice specifying a later date, in which case
+the Call payment date ts that later date,
+
+the relevant rate is
+
+(a) the rate fixed by the terms on which the Share in respect of which the Call
+1s due was allotted,
+
+(b) such other rate as was fixed in the Call Notice which required payment of
+the Call, or has otherwise been determined by the Directors, or
+
+(c) if no rate ts fixed in either of these ways, 5% a year
+
+1320 The relevant rate must not exceed by more than 5 percentage points the base lending rate
+most recently set by the Monetary Policy Committee of the Bank of England in connection
+with its responsibilities under Part 2 of the Bank of England Act 1998
+
+1321 The Directors may waive any obligation to pay interest on a Call wholly or in part
+
+Notice of intended forfeiture
+
+1322 Anotice of intended forfeiture
+
+13221
+
+13222
+
+13223
+
+13224
+
+13225
+
+may be sent in respect of any Share tn respect of which a Call has not been paid
+as required by a Call Notice,
+
+must be sent to the Holder of that Share or to a person entitled to it by reason of
+the Holder's death, bankruptcy or otherwise,
+
+must require payment of the Call and any accrued interest by a date which is not
+less than 14 days after the date of the notice,
+
+must state how the payment is to be made; and
+
+must state that if the notice is not complied with, the shares in respect of which
+the Call is payable will be liable to be forfeited
+
+Directors’ power to forfeit Shares
+
+1323 If a notice of intended forfeiture 1s not complied with before the date by which payment of
+the Call is required in the notice of intended forfeiture, the Directors may decide that any
+Share in respect of which it was given is forfeited, and the forfeiture is to include all
+
+26
+
+
+
+===== page 30 =====
+dividends or other moneys payable in respect of the forfeited Shares and not paid before
+the forfeiture
+
+Effect of forfeiture
+1324 Subject to the articles, the forfeiture of a Share extinguishes.
+
+13241 all interests in that Share, and all clams and demands against the Company in
+respect of it, and
+
+13242 all other rights and ltabilittes incidental to the Share as between the person
+whose Share it was prior to the forfeiture and the Company
+
+1325 Any Share which ts forfeited in accordance with the articles
+13251 1s deemed to have been forfeited when the Directors decide that it is forfeited,
+13252 1s deemed to be the property of the Company, and
+13253 may be sold, re-allotted or otherwise disposed of as the Directors think fit
+1326 If aperson’s Shares have been forfeited
+
+13261 the Company must send that person notice that forfeiture has occurred and
+record it in the register of Members,
+
+13262 that person ceases to be a Member in respect of those Shares,
+
+13263 that person must surrender the certificate for the Shares forfeited to the
+Company for cancellation,
+
+13264 that person remains liable to the Company for all sums payable by that person
+under the articles at the date of forfeiture in respect of those Shares, including
+any interest (whether accrued before or after the date of forfeiture), and
+
+13265 the Directors may waive payment of such sums wholly or in part or enforce
+payment without any allowance for the value of the Shares at the time of
+forfeiture or for any consideration received on their disposal
+
+1327 At any time before the Company disposes of a forfeited Share, the Directors may decide to
+cancel the forfeiture on payment of all Calls and interest due in respect of it and on such
+other terms as they think fit
+
+Procedure following forfeiture
+1328 If a forfeited Share is to be disposed of by being transferred, the Company may receive
+
+the consideration for the transfer and the Directors may authorise any person to execute
+the instrument of transfer
+
+27
+
+
+===== page 31 =====
+1329
+
+13 30
+
+1331
+
+13 32
+
+13 33
+
+13 34
+
+1335
+
+14
+
+141
+
+A statutory declaration by a Director or the company secretary that the declarant is a
+Director or the company secretary and that a Share has been forfeited on a specified date
+
+13291 1s conclusive evidence of the facts stated in it as against all persons claiming to
+be entitled to the Share, and
+
+13292 subject to compliance with any other formalities of transfer required by the
+articles or by law, constitutes a good title to the Share
+
+A person to whom a forfeited Share 1s transferred 1s not bound to see to the application of
+the consideration (if any) nor ts that person's title to the Share affected by any irregularity
+in or invalidity of the process leading to the forfeiture or transfer of the Share
+
+If the Company sells a forfeited Share, the person who held it pnor to its forfeiture is
+entitled to receive from the Company the proceeds of such sale, net of any commission,
+and excluding any amount which
+
+13311 was, or would have become, payable, and
+
+13312 had not, when that Share was forfeited, been paid by that person tn respect of
+that Share,
+
+but no interest is payable to such a person in respect of such proceeds and the Company
+Is Not required to account for any money earned on them.
+
+Surrender of Shares
+
+A Member may surrender any Share
+
+13321  inrespect of which the Directors may issue a notice of intended forfeiture,
+13322 which the Directors may forfeit, or
+
+13323 which has been forfeited
+
+The Directors may accept the surrender of any such Share
+
+The effect of surrender on a Share ts the same as the effect of forfeiture on that Share
+
+A Share which has been surrendered may be dealt with in the same way as a Share which
+has been forfeited
+
+SHARE TRANSFERS - GENERAL
+
+Shares may be transferred by means of an instrument of transfer in any usual form or any
+other form approved by the Directors, which is executed by or on behalf of the transferor
+and, unless the Share ts fully paid, the transferee
+
+28
+
+
+
+===== page 32 =====
+142
+
+143
+
+144
+
+145
+
+146
+
+15
+
+151
+
+152
+
+153
+
+154
+
+155
+
+156
+
+157
+
+158
+
+159
+
+1510
+
+No fee may be charged for registering any instrument of transfer or other document
+relating to or affecting the title to any Share
+
+The Company may retain any instrument of transfer which ts registered
+
+The transferor remains the Holder of a Share until the transferee’s name is entered in the
+register of Members as Holder of it
+
+The Drrectors shall decline to register any transfer of any Share other than a transfer made
+Pursuant to the provisions of articles 15 to 21
+
+The Directors may also refuse to register a transfer of a Share on which the Company has
+alien
+
+PERMITTED TRANSFERS
+
+Subject to the provisions of article 19 1 any Equity Shares may at any time be transferred
+to the Company subject to compliance with the provisions of the Act,
+
+to any employee of the Group with the consent in writing of the Directors,
+
+to the trustees of any Employee Benefit Trust,
+
+where the Holder ts the trustee of any Employee Benefit Trust to any employee or former
+employee of the Company or any subsidiary (or any other person to whom such shares
+are permitted to be transferred under the terms of any employee share option plan
+(including the EMI Plans),
+
+to the relevant Trustees in accordance with the relevant Put and Call Option Agreement,
+
+to any Beneficiary {as defined in the relevant Trust Deed) in accordance with the relevant
+Trust Deed,
+
+by the Trustees to any trustee of any other trust or settlement pursuant to clause 6 2 of the
+Founder Trust Deed and/or the Mr Baker Trust Deed (or such equivalent provision as shall
+apply under an Executive Trust Deed) and/or without prejudice to the foregoing articles
+155, 156 or this article 157 any other transfer which is made in accordance with the
+terms of any of the Trust Deeds,
+
+to any other person with the approval of the Directors and the consent in writing of the
+Founder,
+
+where the Equity Share ts an E Ordinary Share, to any Family Member of the E
+Shareholder with the approval of the Directors,
+
+in accordance with the provisions of articles 19, 20 and 21, and
+
+29
+
+
+
+===== page 33 =====
+1511
+
+16
+
+161
+
+162
+
+163
+
+164
+
+165
+
+166
+
+subject to the approval of the Directors, to the trustees of any registered pension scheme
+nominated by that Member (and for these purposes a pension scheme ts a registered
+pension scheme at any time when, either through having applied for registration and been
+registered by HM Revenue & Customs, or through acquiring registered status by virtue of
+being an approved pension scheme on 5 April 2006, it 1s registered under Chapter 2 of
+Part 4 of the Finance Act 2004)
+
+PRE-EMPTION
+
+Except in the case of a transfer expressly authorised by articles 15, 19, 20 or 21, no
+person shall be entitled to dispose of any interest in Shares other than by offering them for
+transfer in accordance with the provisions of this article 16 The offer shall be made by the
+Proposing transferor by notice in writing to the Company (a Transfer Notice) and may be in
+respect of all or some only of the Shares held by him (the Offer Shares)
+
+The Transfer Notice shall specify the Offer Shares and (if applicable) the name of the
+person to whom itt is proposed that the Offer Shares be transferred (the Proposed
+Transferee) and the price per share offered by the Proposed Transferee (if any) (the
+Prescribed Price) and shall constitute the Directors as the agents of the proposing
+transferor for the sale of the Offer Shares at the Prescribed Price The Transfer Notice
+may not be revoked unless the Directors otherwise agree In default of a Prescribed Price
+being agreed between the proposing transferor and the Proposed Transferee within 14
+days, the Prescribed Price shall be determined tn accordance with the procedure set out in
+article 17 2 except that the costs of the auditors in so acting shall be borne as they shall
+determine
+
+Within 14 days after the Transfer Notice is received by the Company, the Directors shall
+offer the Offer Shares at the Prescribed Price to the trustees of any Employee Benefit
+Trust (Trustees) by notice in writing inviting the Trustees to apply in writing to the Directors
+within 14 days of receiving such notice for such maximum number of Offer Shares as they
+shall specify in such application
+
+If the Trustees shall within the said period of 14 days apply for all or some of the Offer
+Shares, the Directors shall allocate such Offer Shares to the Trustees and the Company
+shall immediately give notice of such allocation to the proposing transferor and to the
+Trustees and shall specify in such notice the place and time at which the sale of the Offer
+Shares shalt be completed
+
+If the Trustees decline to purchase all or any of the Offer Shares within 14 days of such
+offer being made, the Company shall offer at the Prescribed Price the Offer Shares (or
+balance thereof) to the Company by notice in writing inviting the Company to apply in
+writing to the Directors within 14 days of receiving such notice for such maximum number
+of Offer Shares as it shall specify in such application
+
+If the Company shall within the satd period of 14 days apply for all or some of the Offer
+Shares, the Directors shail allocate such Offer Shares to the Company and the Company
+
+30
+
+
+
+===== page 34 =====
+167
+
+168
+
+169
+
+16 10
+
+1611
+
+1612
+
+16 13
+
+shall immediately give notice of such allocation to the proposing transferor and the
+provisions of article 16 4 shall apply to completion of the transfer of such Offer Shares
+
+lf the Company declines to purchase all or any of the Offer Shares in accordance with
+article 16 6 the Company shall offer at the Prescribed Price the Offer Shares (or balance
+thereof) to the Founder by notice in writing inviting the Founder to apply in writing to the
+Directors within 14 days of receiving such notice for such maximum number of Offer
+Shares as he shall specify in such application
+
+If the Founder shall within the said period of 14 days apply for all or some of the Offer
+Shares the Directors shall allocate such Offer Shares to the Founder and the Company
+shall immediately give notice of such allocation to the proposing transferor and the
+Founder and the provisions of article 16 4 shall apply to completion of the transfer of such
+Offer Shares
+
+If the Founder declines to purchase atl or any of the Offer Shares in accordance with
+article 16 8, the Company shall offer the Offer Shares (or balance thereof) at the
+Prescribed Price to all the Directors (other than the Founder, the proposing transferor (if
+he ts also a Director) or any other Director who is also a Member and who has at such
+date served or is deemed to have served a Transfer Notice in respect of his Shares), by
+Notice in writing inviting each of the Directors to notify the Company within 14 days of the
+Company issuing such notice whether he ts willing to purchase any and, if so, what
+maximum number, of Offer Shares.
+
+On the expiry of the 14 day period referred to in article 16 9 the Directors shalt allocate the
+Offer Shares (or balance thereof) to those Directors who have applied to purchase Offer
+Shares and if the number of Shares for which those Directors have applied exceeds the
+number available the allocation shall be made at the discretion of the Founder but shail not
+In the case of any Director exceed the number of Offer Shares for which he has applied
+
+The Founder shall promptly give details of the allocation in writing to the proposing
+transferor and each Director who has stated his willingness to purchase Offer Shares and,
+within seven days after such details are given, the Directors to whom the allocation has
+been made shall be bound to pay the Prescribed Price for the Offer Shares allocated to
+them respectively and the proposing transferor shall be bound, on payment of the
+Prescribed Price, to transfer the Offer Shares to the respective purchasers
+
+Where more than one Director has stated his willingness to purchase Offer Shares and
+through no default of the proposing transferor any purchase is not duly completed, the
+Founder shall immediately notify all the other Directors who have stated their willingness
+to purchase Offer Shares and if, within seven days of such notice being given, those other
+Directors shall not between them duly complete the purchase of the Shares in respect of
+which there has been default in completion the provistons of article 16 13 shall apply
+
+If, following the expiry of the 14 day period referred to in article 16 10, any of the Offer
+Shares have not been allocated under article 1611 or if article 1612 applies, the
+Company shall offer at the Prescribed Price and on the terms as to completion as
+
+31
+
+
+
+===== page 35 =====
+1614
+
+1615
+
+16 16
+
+1617
+
+1618
+
+specified in article 1611 the remaining balance of the Offer Shares to the remaining
+Members of the Company who hold Growth Shares (other than the Directors, the
+proposing transferor or any other Member who has at such date served or is deemed to
+have served a Transfer Notice in respect of his Shares) and the provisions of articles
+1610 to 1612 shall apply mutatis mutandis except that where relevant references to
+Directors shall be construed as references to such Members who hold Growth Shares and
+so that in the case of competition such allocation shall be made to Growth Shareholders
+applying for the same in the proportion in which they respectively hold Growth Shares out
+of the aggregate number of Growth Shares then in issue provided that no such allocation
+shall exceed the number of Shares which such Growth Shareholder shall have expressed
+a willingness to buy
+
+If, following the expiry of the 14 day period referred to in article 16 13, any of the Offer
+Shares have not been allocated under article 1613, or if article 1612 applies, the
+Directors shall with the prior written approval of the Founder offer at the Prescribed Price
+and on the terms as to completion as specified in article 16 11 the remaining balance of
+the Offer Shares to such third parties as the proposing transferor may direct and such offer
+tf not accepted within 45 days of the offer being made shall be deemed to have been
+declined
+
+If the Directors shall within 45 days of the offer in article 16 14 being made find buyers
+("Buyers"), in respect of all or any of the Offer Shares it shali give notice thereof to the
+Proposing transferor and the Buyers shall be bound to complete the sale and purchase
+within 14 days of the end of such period of 45 days
+
+If a Member or other person entitled to transfer a Share at any time attempts to deal with
+or dispose of any interest in his Shares otherwise than in accordance with this article 16 or
+articles 15 or 17, he shall be deemed immediately before the attempt to have served the
+Company with a Transfer Notice in respect of those Shares and the provisions of article
+19 3 shall apply to those shares
+
+If in any case a proposing transferor, after having become bound to transfer any Shares to
+a purchaser, shall make default in transferring the shares, the Directors may authorise
+some person to execute on behalf of and as attorney for the proposing transferor any
+necessary transfers and may receive the purchase money and shall thereupon cause the
+name of the purchaser to be entered in the register as the Holder of the Shares and hold
+the purchase money in trust for the proposing transferor The receipt of the Company for
+the purchase money shall be a good discharge to the purchaser and after the name of the
+purchaser has been entered tn the register of Members of the Company the validity of
+these transactions shall not be questioned by any person
+
+The foregoing provisions of this article 16 shall apply mutatis mutandis to B Ordinary
+Shares, C Ordinary Shares and D Ordinary Shares subject to the following modifications
+
+16181 such shares shall be offered as follows
+
+{a) _ first to the Company in accordance with article 16 5,
+
+32
+
+
+
+===== page 36 =====
+1619
+
+16182
+
+16183
+
+16184
+
+(b) second to the Trustees in accordance with article 16 3,
+(c) third to Growth Shareholders in accordance with article 16 13,
+
+and so shall not be offered to the Founder in accordance with article 16 7 or to
+the Directors in accordance with article 16 9, and
+
+for the B Ordinary Shares, the Prescribed Price shail be the Fair Price,
+for the D Ordinary Shares, the Prescribed Price shall be the Fair Price,
+
+for the C Ordinary Shares, the Prescribed Price shail be the relevant proporttons
+of that which would be applicable in accordance with the foregoing to the A
+Ordinary Shares and D Ordinary Shares which would arise on conversion of
+such C Ordinary Shares on the date of the relevant Transfer Notice
+
+The foregoing provisions of this article 16 (excluding article 16 18) shall apply mutatis
+mutandis to the UK Ordinary Shares, the LUX Ordtnary Shares and USA Ordinary Shares
+subject to the following modifications
+
+16191
+
+such shares shall be offered as follows
+
+(a) first to the Company in accordance with article 16 5,
+
+{b) second to the Trustees in accordance with article 16 3,
+
+{c) third to Growth Shareholders in accordance with article 16 13,
+
+{d) fourth to Shareholders of the same class of Share using the same
+procedure as provided tn article 16 13,
+
+and so shalt not be offered to the Founder in accordance with article 16 7 or to
+the Directors in accordance with article 16 9,
+
+1620 The foregoing provisions of this article 16 (excluding articles 16 18 and 16 19) shall apply
+mutatis mutandis to the E Ordinary Shares subject to the following modifications
+
+16201
+
+16202
+
+such shares shall be offered as follows
+(a) __ first to the Company in accordance with article 16 5,
+
+(b) second to such employees of the Group who the Directors (in their
+absolute discretron) determine,
+
+and so shall not be offered to the Trustees in accordance with article 16 3 or the
+Founder in accordance with article 16 7 or to the Directors in accordance with
+article 16 9 or the Growth Shareholders in accordance with article 16 13, and
+
+for the E Ordinary Shares, the Prescribed Price shall be the Fair Price
+
+33
+
+
+
+===== page 37 =====
+16203 articles 16 14 and 16 15 shall not apply, so that in the event that the Company
+does not buyback all the E Ordinary Shares (pursuant to article 16 20 1(a)) or
+such determined employees do not purchase all the E Ordinary Shares
+(pursuant to article 16 20 1({b)), the Shareholder shall retain the remaining E
+Ordinary Shares
+
+17 DECEASED SHAREHOLDERS
+
+171 Where a Shareholder other than the Founder dies (a Deceased Shareholder) and his
+Shares in the Company are not transferred in accordance with articles 15 or 16 before the
+end of the Relevant Period (as defined in article 17 3 below), the Directors may, and on
+the application of any other Member shall, by notice in writing addressed to the personal
+representatives of the Deceased Shareholder and served at his address appearing in the
+register of Members, require that his personal representatives give a Transfer Notice in
+respect of his Shares and, if they fail to give a Transfer Notice within 30 days from the date
+of service of the notice by the Directors, or if the Deceased Shareholder has no personal
+representatives, a Transfer Notice shall be deemed to have been given 30 days after the
+date of service of the notice by the Directors and the provisions of article 19 3 shall apply
+to the shares PROVIDED THAT if pursuant to such Transfer Notice not all of the Shares of
+such Deceased Shareholder are in accordance with articles 16 3 to 16 13 (inclusive) duly
+allocated to and purchased by one or more of the Trustees, the Company, or one or more
+Directors or Holders of Growth Shares, the Persona! Representatives shall be at liberty
+thereafter to transfer for nil consideration any such Shares not so allocated and purchased
+to any person who ts a beneficiary under the will of the Deceased Shareholder or who 1s
+entitled under any applicable inheritance laws (including the intestacy rules) to a share of
+the estate of the Deceased Shareholder
+
+172 For the purpose of this article 17 and article 16 and any Transfer Notice given or deemed
+given pursuant thereto, the Prescribed Price for a Growth Share shall be either
+
+1721 as the personal representatives of the Deceased Shareholder or the Proposed
+Transferee and the Directors may agree, or
+
+1722 inthe absence of such agreement within 30 days from the date of service of the
+Transfer Notice or notice by the Directors (or such longer period as the personal
+representatives and the Directors may agree or, if there are not personal
+representatives, as the Directors may decide) the Fair Price as at the beginning
+of the financial year of the Company during which the Transfer Notice is given or
+deemed to have been received by the Company
+
+173. For the purpose of this article 17 and article 16 and any Transfer Notice given or deemed
+given pursuant thereto, the Prescribed Price for an E Ordinary Share shall be the Issue
+Price
+
+174 For the purposes of article 17 1 the “Relevant Period” means the period of 12 months from
+the death of the Deceased Shareholder or, if probate ts not granted in respect of the
+Deceased Shareholder's estate before the expiry of six months after his death, the period
+
+34
+
+
+
+===== page 38 =====
+18
+
+181
+
+182
+
+183
+
+184
+
+from his death until the expiry of six months from the date of the grant of probate or, if
+shorter, the period from his death until the expiry of 15 months from the date of his death
+
+COMPULSORY TRANSFERS: EMPLOYEES
+
+If a Relevant Individual becomes a Leaver otherwise than on his death (in which case
+article 17 shall apply), then such Relevant Individual (and any person (a “Relevant
+Holder’) holding Shares who acquired such Shares (Relevant Shares) directly or indirectly
+by means of a transfer by such Relevant Individual pursuant to the provisions of article 15
+or otherwise by means of rights held by such Relevant Individual, or otherwise holds such
+Shares on trust for or otherwise for the benefit of such Relevant Individual) shall be
+deemed to give a Transfer Notice in respect of
+
+1811 all Shares then registered in the name of such Relevant Endividual or the
+Relevant Holder, and
+
+1812 all Shares becoming registered in the name of such Relevant Individual or a
+Relevant Holder pursuant to any options or rights to acquire Shares granted
+prior to such cessation of employment
+
+If a Transfer Notice is deemed to have been given in respect of Shares under article 18 1
+the provisions of article 16 shall apply to those shares save for the remaining provisions of
+this article 18
+
+Notwithstanding the provisions of article 16, where any Transfer Notice is deemed given
+under article 18 1 such Transfer Notice shall be revocable
+
+For the purpose of any Transfer Notice given or deemed given under article 18 1 1 or
+1812
+
+1841 the Prescribed Price in respect of Growth Shares shall be as follows.
+(a) if the Relevant Individual is a Bad Leaver,
+
+() the Prescribed Price in respect of Growth Shares held
+immediately following 11 March 2010 shall be the lower of the
+Issue Price of such Shares and the Fair Price thereof,
+
+(u) the Prescribed Price in respect of any Growth Shares acquired at
+any time thereafter shall be shall be the lower of the price paid for
+such shares by the Leaver or the Relevant Holder (as the case
+may be) and the Fair Price thereof, and
+
+(b) if the Relevant Individual ts a Good Leaver, the Prescribed Price in
+respect of all Growth Shares the subject thereof shall be the Fair Price,
+
+1842 the Prescribed Price in respect of B Ordinary Shares shall be as follows
+
+35
+
+
+
+===== page 39 =====
+185
+
+186
+
+19
+
+191
+
+(a) ff the Relevant Individual is a Bad Leaver, the lower of (1) 20 pence per
+share and (1) the Fair Price, and
+
+(b) if the Relevant Individual is a Good Leaver, the Fair Price,
+
+1843 the Prescribed Price in respect of D Ordinary Shares shall be £1 per share or
+where the Proposing Transferor is a Bad Leaver, then sum of £0 20 per share,
+
+1844 the Prescribed Price in respect of C Ordinary Shares shall be the relevant
+proportions of that which would be applicable in accordance with the foregoing to
+the A Ordinary Shares and D Ordinary Shares which would arise on conversion
+of such C Ordinary Shares on the date of the relevant Transfer Notice
+
+1845 the Prescribed Price in respect of UK Ordinary Shares, LUX Ordinary Shares
+and/or USA Ordinary Shares shall be as follows
+
+(a) _ if the Relevant Individual is a Bad Leaver, the lower of (1) the price paid for
+the Shares and (1!) the Fair Price, and
+
+(b) if the Relevant Individual ts a Good Leaver, the Fair Price
+
+1846 the Prescribed Price in respect of E Ordinary Shares shall be the Issue Price,
+wrrespective of whether the Relevant Individual ts a Good Leaver or a Bad
+Leaver
+
+lf a Transfer Notice is given by a Relevant Individual (or any Relevant Holder) in
+circumstances where a Transfer Notice has already been given or would otherwise have
+been deemed to have been given in accordance with these Articles, then such a Transfer
+Notice shall be of no effect to the extent that the deemed Transfer Notice shall apply
+
+Immediately upon the Relevant Individual becoming a Leaver otherwise than on his death,
+any nght to dividends in respect of any E Ordinary Shares held by the Relevant Individual
+and any Relevant Holder (in respect of the Relevant Individual), pursuant to article 12 1 1,
+shall cease Immediately upon those E Ordinary Shares being transferred to another party
+pursuant to article 18 whereby the transferee has their name entered into the Company's
+register of members noting that person as the holder of the E Ordinary Shares, the right to
+dividends pursuant to 12 1 1 shall be restated
+
+TRANSFERS: GENERAL POWERS
+
+For the purposes of ensuring that a transfer of Shares is made in accordance with these
+Articles or that no circumstances have arisen whereby a Transfer Notice 1s required to be
+given, the Directors may from time to tme require any Member or the personal
+representatives of any Deceased Shareholder or the liquidator of any corporate Member
+or any person named as transferee in any transfer lodged for registration to furnish to the
+Company such information and evidence as the Directors may think fit regarding any
+matter which they may deem relevant to such purpose Failing such information or
+evidence being furnished to the satisfaction of the Directors within a reasonable time after
+
+36
+
+
+
+===== page 40 =====
+192
+
+193
+
+20
+
+201
+
+request the Directors shall be entitled to refuse to register the transfer in question or, if no
+transfer ts in question, to require by notice in writing that a Transfer Notice be given in
+respect of any Shares concerned If no Transfer Notice is given within 30 days from the
+date of service of the notice by the Directors, a Transfer Notice shall be deemed to have
+been given in respect of those Shares 30 days after the date of service of the notice by the
+Directors and the provisions of article 18 4 shall apply to those Shares
+
+Any directton, whether by way of renunciation, nomination or otherwise, by a Member
+entitled to an allotment of Shares, to the effect that such Shares or any of them be allotted
+or issued to some person other than himself shall for the purposes of these Articles be
+deemed to constitute a transfer of the Shares comprised in such direction and the
+provisions of this article and articles 15 and 16 shall apply accordingly
+
+if a Transfer Notice is deemed to have been given in respect of Shares under articles
+16 16, 17 1 or 19 1, the provisions of article 16 shall apply to those shares save that
+
+4931 except in the case of a Transfer Notice deemed to have been given under article
+171 the Prescnbed Price shall be the Fair Price as at the beginning of the
+financial year of the Company during which the Transfer Notice is deemed to
+have been given, and
+
+1932 the period of 14 days referred to in article 16 3 shall run from the date on which
+the Prescribed Price ts ascertained, and
+
+1933 Article 16 shall not apply to any Shares tn respect of which a transfer in
+accordance with article 15 has been lodged for registration before the Prescribed
+Price has been ascertained
+
+TAG ALONG
+
+If any Shareholder, either on his own or acting tn concert (within the meaning of the edition
+of the City Code on Take overs and Mergers current at the relevant time) with one or more
+other Shareholders, proposes to sell or transfer, in one or a series of related transactions,
+Growth Shares (either in conjunction with a sale of B Ordinary Shares or D Ordinary
+Shares or E Ordinary Shares or UK Ordinary Shares or LUX Ordinary Shares or USA
+Ordinary Shares or not) equal to or greater than 50% of all the Growth Shares in issue at
+the time of the proposed sale or transfer (or which would be in issue if all C Ordinary
+Shares then in issue were converted into A Ordinary Shares and D Ordinary Shares in
+accordance with article 125) (such Shareholder or Shareholders being the Proposing
+Seller) to any person other than another Shareholder, the Proposing Seller shall procure,
+before the sale or transfer, that
+
+2011 (taking account of any such related transaction) the terms of such sale comply
+with article 12 3, and
+
+2012 each proposed purchaser makes a bona fide written offer (Tag Along Offer) to
+each of the other Shareholders (each a Non selling Party) as follows
+
+37
+
+
+
+===== page 41 =====
+202
+
+203
+
+204
+
+(a)
+
+(b)
+
+(c)
+
+(a)
+
+to buy that proportion of each Non selling Party's Growth Shares and/or
+UK Ordinary Shares and/or LUX Ordinary Shares and/or USA Ordinary
+Shares and/or E Ordinary Shares (including any A Ordinary Shares
+arising on a conversion of C Ordinary Shares which takes effect on or
+before completion of such sale by the Proposing Seller) which ts equal to
+the proportion represented by the number of Growth Shares which the
+Proposing Seller is proposing to sell as against all the Growth Shares held
+by the Proposing Seller at the time of the proposed sale or transfer,
+
+where the Proposing Seller proposes to sell or transfer any B Ordinary
+Shares or D Ordinary Shares in the same or a related transaction) to buy
+that proportion of each Non selling Party's B Ordinary Shares or D
+Ordinary Shares {including any D Ordinary Shares arising on a conversion
+of C Ordinary Shares which takes effect on or before completion of such
+sale by the Proposing Seller) which 1s equal to the proportion represented
+by the number of B Ordinary Shares or D Ordinary Shares which the
+Proposing Seller is proposing to sell as against all of the class of Shares
+which are proposed to be sold (whether they be the B Ordinary Shares
+and D Ordinary Shares) held by the Proposing Seller at the time of the
+proposed sale or transfer,
+
+in each case for a consideration per Share which complies with article
+12 3 taking account of the price per Share applying to the proposed sale
+by the Proposing Seller of his Shares (and that on any related transaction
+as aforesaid), and
+
+(subject always to article 123) otherwise on the same terms and
+conditions as those applicable to such sale by the Proposing Seller
+
+Each Tag Along Offer sha!l specify
+
+2021 the price for the relevant Shares and any other principal terms and conditions of
+the proposed sale or transfer, and
+
+2022 the period (being not less than 25 days from service of the Tag Along Offer) for
+acceptance by each Non selling Party
+
+If within the period specified in each Tag Along Offer any Non selling Party accepts the
+offer in writing, then the Proposing Seller shall procure that the sale by that Non selling
+Party of his relevant Shares shall proceed on the same financial terms (including price per
+Share) and at the same time as the sale of the Proposing Seller's Shares
+
+Any acceptance by a Non selling Party of a Tag Along Offer shall be irrevocable, but no
+sale of that Non selling Party's Shares pursuant to its acceptance shall take place unless
+and until the sale of the Proposing Seller's Shares is completed
+
+
+
+===== page 42 =====
+21
+
+211
+
+212
+
+213
+
+214
+
+CHANGE OF CONTROL: DRAG ALONG RIGHT
+
+The provisions of this article 21 shall apply if the Holders of 75% or more of the Growth
+Shares (or which would be in issue ff all C Ordinary Shares then in issue were converted
+into A Ordinary Shares and D Ordinary Shares in accordance with article 12 5) (each a
+Selling Shareholder) propose to sell to any person other than another Shareholder, all the
+Growth Shares and all the B Ordinary Shares, D Ordinary Shares, E Ordinary Shares, UK
+Ordinary Shares, LUX Ordinary Shares and USA Ordinary Shares held by them at the
+time of the proposed sale (including for the avoidance of doubt any such Shares which
+would be held by them #f all C Ordinary Shares then held by them were converted into A
+Ordinary Shares and D Ordinary Shares in accordance with article 12 5) (Sale Shares) for
+a consideration which complies with article 12 3 and otherwise as part of a bona fide arms’
+length transaction
+
+The Selling Shareholder or Shareholders may (but shall not be obliged to) give to the
+Company not less than 25 days’ prior written notice of that proposed sale or transfer That
+notice (Sale Notice) will include details of the Sale Shares and the proposed price per Sale
+Share to be paid by the proposed buyer (Proposed Buyer), details of the Proposed Buyer
+and the place, date and time of completion of the proposed purchase being a date not less
+than 25 days from service of the Sale Notice (the Drag Along Completion) Any Sale
+Notice received by the Company less than 25 days before the proposed date of the Drag
+Along Completion shall be ineffective
+
+Immediately upon receipt of a Sale Notice, the Company shall give notice in writing (Drag
+Along Notice) to each of the Shareholders (other than the Selting Shareholder) giving the
+details contained in the Sale Notice and requiring each of them to sell to the Proposed
+Buyer at the Drag Along Completion all Shares held by them, provided that the Selling
+Shareholder may withdraw a Sale Notice at any time prior to the Drag Along Completion
+by written notice to the Company to that effect and, on service of that notice, each Drag
+Along Notice shall no longer be binding and shall cease to have any effect
+
+Each Shareholder who 1s given a Drag Along Notice shall, in the event of the proposed
+sale or transfer proceeding, sell (or procure the sale of) all the Shares referred to in his
+Drag Along Notice to the Proposed Buyer on the Drag Along Completion for a
+consideration per Share which complies with article 12 3 taking account of
+
+2141 the highest price per Growth Share proposed by the Proposed Buyer, or, if
+higher, at which Growth Shares have been purchased by the Proposed Buyer or
+any person acting tn concert with the Proposed Buyer during the period of six
+months prior to the date of the Sale Notice,
+
+2142 the aggregate consideration proposed to be received by the Selling
+Shareholders or previously received by any of them (or any person acting in
+concert as aforesaid) on any such purchase by the Proposed Buyer,
+
+39
+
+
+
+===== page 43 =====
+215
+
+216
+
+and otherwise (subject always to article 123) on terms no less favourable than those
+applicable to the sale of Shares by the Selling Shareholder, and so that (for the avoidance
+of doubt)
+
+2143 where the Selling Shareholders in accordance with this article 21 require other
+Shareholders to sell their Shares, then for the purposes of article 12 2 as applied
+under article 123 there shall be taken into account such aggregate
+consideration as aforesard, and
+
+2144 the Selling Shareholders shail be entitled to require other Shareholders to sell
+their Shares tn accordance with this article 21 notwithstanding that due to the
+operation of article 122 and 123, such other Shareholders are entitled to
+receive a lower price per Share than the Selling Shareholders receive or are
+entitled to recerve for the sale of their Sale Shares to the Proposed Buyer
+
+If any of the Shareholders (each a Defaulting Shareholder) shall fail to comply with the
+terms of article 21 3 in any respect
+
+2151 the Company shall be constituted the agent of each Defaulting Shareholder for
+the sale of his Shares (together with all rights then attached to those Shares)
+referred to in his Drag Along Notice in accordance with that notice,
+
+2152 the Directors may authorise one Director to execute and deliver on behalf of
+each Defauiting Shareholder the necessary transfers,
+
+2153 the Company may receive the purchase money tn trust for each Defaulting
+Shareholder and cause the Proposed Buyer to be registered as the Holder of
+such Shares,
+
+2154 the receipt by the Company of the purchase money pursuant to those transfers
+shall constitute a good and valid discharge to the Proposed Buyer (who shall not
+be bound to see to the application of those monies),
+
+2155 after the Proposed Buyer has been registered in purported exercise of the
+powers in this article 21 5, the validity of the proceedings shall not be questioned
+by any person, and
+
+2156 the Company shall not pay the purchase monies to a Defaulting Shareholder
+until he shall, in respect of the Shares subject to the Drag Along Notice, have
+delivered a share certificate or a suitable indemnity and the necessary transfers
+to the Company
+
+The expression price per Sale Share used in articles 21 2 and 21 4 shall be deemed to
+include an amount equal to the relevant proportions of any other consideration (in cash or
+otherwise) received or receivable by the Holders of the Shares in question which, having
+regard to the substance of the transaction as a whole, can reasonably be regarded as an
+addition to the price paid or payable for the specified Shares, and in the event of
+disagreement, the calculation of the price shall be referred to a chartered accountant or
+
+40
+
+
+
+===== page 44 =====
+&
+
+22
+
+23
+
+2314
+
+232
+
+24
+
+241
+
+242
+
+243
+
+244
+
+245
+
+other expert (acting as an expert and not as arbitrator) nominated by the partes
+concerned (or in the event of disagreement as to nomination, appointed by the President
+for the tme being of the Institute of Chartered Accountants in England and Wales) whose
+decision shall, in the absence of fraud or manifest error, be final and binding
+
+TRANSFER RESTRICTION BUSINESS AND ASSETS
+
+No sale or transfer of the whole or substantially the whole of the business and assets of
+the Company shall be permitted without the prior consent in writing of the Founder
+
+TRANSMISSION OF SHARES
+
+Article 27(3) of the Model Articles shall be amended by the insertion of the words “, subject
+to article 27(2),” after the word “But”
+
+Article 29 of the Model Articles shall be amended by the insertion of the words “, or the
+name of any person(s) named as the transferee(s) in an instrument executed under article
+27(2),” after the words “the transmittee’s name”
+
+CONSOLIDATION OF SHARES
+
+This article applies where
+
+2411 there has been a consolidation or division of Shares, and
+2412 asaresult, Members are entitled to fractions of Shares
+The Directors may
+
+2421 sell the Shares representing the fractions to any person including the Company
+for the best price reasonably obtainable,
+
+2422 = authonse any person to execute an instrument of transfer of the Shares to the
+purchaser or a person nominated by the purchaser, and
+
+2423 = distribute the net proceeds of sale in due proportion among the Holders of the
+Shares
+
+Where any Holder's entitlement to a portion of the proceeds of sale amounts to less thana
+minimum figure determined by the Directors, that Member's portion may be distributed to
+an organisation which is a charity for the purposes of the law of England and Wales,
+Scotland or Northern Ireland
+
+The person to whom the Shares are transferred ts not obliged to ensure that any purchase
+money ts received by the person entitled to the relevant fractions
+
+The transferee’s title to the Shares 1s not affected by any irregularity in or invalidity of the
+process leading to their sale
+
+41
+
+
+
+===== page 45 =====
+25
+
+251
+
+252
+
+253
+
+254
+
+255
+
+256
+
+26
+
+261
+
+DISTRIBUTIONS AND CALCULATIONS OF DIVIDENDS
+Calculation of dividends
+
+Except as otherwise provided by the articles or the nghts attached to Shares, all dividends
+must be
+
+2511 declared and paid according to the amounts paid up on the Shares on which the
+dividend 1s paid, and
+
+2512 apportioned and paid proportionately to the amounts paid up on the Shares
+during any portion or portions of the period in respect of which the dividend is
+paid .
+
+If any Share is issued on terms providing that it ranks for dividend as from a particular
+date, that Share ranks for dividend accordingly
+
+For the purposes of calculating dividends, no account ts to be taken of any amount which
+has been paid up on a Share in advance of the due date for payment of that amount
+
+Deductions from distributions in respect of sums owed to the Company
+
+If
+
+2541 aShare ts subject to the Company's Lien, and
+
+2542 the Directors are entitled to issue a Lien Enforcement Notice in respect of it,
+
+they may, instead of issuing a Lien Enforcement Notice, deduct from any dividend or other
+sum payable tn respect of the Share any sum of money which ts payable to the Company
+In respect of that Share to the extent that they are entitled to require payment under a Lien
+Enforcement Notice
+
+Money so deducted must be used to pay any of the sums payable in respect of that Share
+The Company must notify the distribution recipient in writing of
+2561 the fact and amount of any such deduction,
+
+2561 = any non-payment of a dividend or other sum payable in respect of a Share
+resulting from any such deduction, and
+
+2562 how the money deducted has been applied
+PROCEEDINGS AT GENERAL MEETINGS
+Sole Shareholder
+
+If and for so long as the Company has only one Member that Member present in person or
+by proxy or, where that Member is a corporation, its duly authorised representative shail
+
+42
+
+
+===== page 46 =====
+262
+
+263
+
+be a quorum at any general meeting of the Company or of the Holder of any class of
+Shares Article 38 of the Model Articles shall be modified accordingly
+
+No voting of Shares on which money owed to Company
+
+No voting rights attached to a Share may be exercised at any general meeting, at any
+adjournment of it, or on any poll called at or in relation to it, unless all amounts payable to
+the Company in respect of that Share have been paid
+
+Class meetings
+
+The provisions of the articles relating to general meetings apply, with any necessary
+modifications, to meetings of the Holders of any class of Shares
+
+43
+

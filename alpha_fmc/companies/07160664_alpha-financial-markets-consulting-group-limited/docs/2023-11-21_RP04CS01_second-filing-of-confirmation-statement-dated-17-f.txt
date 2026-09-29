@@ -1,0 +1,422 @@
+
+
+===== page 1 =====
+RPOA Py Diligent
+
+Second filing of a document previously delivered Entities
+
+J What this form is for XK What this form is NOT for For further information, please
+You can only use this form to file You cannot use this form to file a refer to our guidance at
+a second filing of a document second filing of a document delivered — www.gov.uk/companieshouse
+delivered under the Companies Act under the Companies Age 85 or
+2006 on or after 1 October 2009 the Companies (North:
+that held inaccuracies. Order 1986 regardless i
+A second filing of a document must delivered. a
+only be filed where it is providing A second filing of a dq i Lan HH
+corrected information that has been cannot be filed where [iin] *ACGDOFAR* |
+properly delivered but inaccuracies information that was @ieg A19 15/11/2023 #156
+still appear on the register. properly delivered. Fo] COMPANIES HOUSE
+used in these circumsta
+ia | Company details
+> Filling in this form
+comparyrunber_ [0 [7 [1 |e fo[s [6 [a Fe cance pec
+Company name in full [ALPHA FINANCIAL MARKETS CONSULTING GROUP LIMITED bold black capitals.
+| All fields are mandatary unless
+specified or indicated by *
+Applicable documents
+
+This form only applies to the following forms:
+
+APO = Appointment of director
+
+AP02 — Appointment of corporate director
+AP03 Appointment of secretary
+
+AP04 — Appointment of corporate secretary
+
+CHO1 — Change of director's details
+
+CHO2 — Change of corporate director's details
+CHO3 — Change of secretary's details
+
+CHO4 —- Change of corporate secretary's details
+
+TMO1 Termination of appointment of director
+TMO2 Termination of appointment of secretary
+
+SHO1 Return of allotment of shares
+ARO1 = Annual Return
+S01 Confirmation statement (Parts 1-5 only)
+
+PSCO1 Notice of individual person with significant control (PSC)
+
+PSCO2 Notice of relevant legal entity (RLE) with significant control
+
+PSCO3_—_ Notice of other registrable person (ORP) with significant control
+
+PSCO4 Change of details of individual person with significant control (PSC)
+
+PSCO5 Change of details of relevant legal entity (RLE) with significant control
+
+PSCO6 Change of details of other registrable person (ORP) with significant
+control
+
+PSCO7 Notice of ceasing to be a person with significant control (PSC),
+relevant legal entity (RLE), or other registrable person (ORP)
+
+PSCO8 Notification af PSC statements
+
+PSCO9 Update to PSC statements
+
+CHFPO10 (FF)
+06/16 Version 1.0
+
+
+===== page 2 =====
+RPO4
+
+Second filing of a document previously delivered
+
+3
+
+Description of the original document
+
+Document type @
+
+Date of registration of
+
+the original document
+
+CS01 - Confirmation Statement
+
+fe fos fe opt iz
+
+© Description of the original
+document
+Please enter the document
+type (e.g. a Retum of allotment
+of shares—SHO}) and any
+distinguishing information if more
+than one document of that type was,
+filed on the same day.
+
+Section 243 or 790ZF Exemption @
+
+If you are applying for, or have been granted, exemption under section 243
+or 7902F of the Companies Act 2006 and the document(s) you are updating
+contain(s) your usual residential address, please post this form along with the
+updated document(s) to the address below:
+
+The Registrar of Companies, PO BOX 4082, Cardiff, CF14 3WE,
+
+@ If you are currently in the process of
+applying for or have been granted
+a Section 243 or 790ZF exemption,
+you may wish to check that you
+have nat entered your ustual
+residential address as the service
+address in the accompanying form
+
+(e.g. APO1 or CHO1).
+
+CHFPO10 (FF)
+06/16 Version 1.0
+
+
+
+===== page 3 =====
+In accordance with
+Section 8530 of the
+‘Companies Act 2006.
+
+| part 2 | Statement of capital change
+
+CS01- additional information page
+Confirmation statement
+
+Complete this part in full if there has been any change to your share capital or
+prescribed particulars since the {ast statement of capital was delivered.
+
+J This part must be sent at the X{ Not required for companies For further information, please
+same time as your confirmation without share capital. refer to our guidance at
+statement. ‘WWw.gov.uk/companieshouse
+
+You must complete both sections B1
+and B2,
+
+Share capital
+
+add pound sterling in ‘Currency table A’ and Euros in ‘Currency table 8’.
+
+Complete the table(s) below to show the issued share capital. Continuation pages
+. ; Use a statement of capital
+Complete a separate table for each currency (if appropriate). For example.) continuation page if necessary.
+
+Currency Class of shares Number of shares ‘Aggregate nominal value} Total aggregate amount
+Complete a separate E.g, Ordinary/Preference ete. {E, € $. etc) unpaid, if any (E, €, $, etc)
+table for each currency Number of shares issued | Including both the nominat
+‘muttipfied by nominal value | value and any share premium|
+Currency table A
+GBP [ORDINARY 603,589,325 £6,035,893.25
+Totals 603,589,325 £6,035,893.25 £0,00
+Currency table B
+usD [USA ORDINARY 250,000 | $25,000
+Totals 250,000 $25,000 | $0.00
+Totals
+Total number Total aggregate Total aggregate
+of shares nominal value @ amount unpaid @
+Totals (including continuation
+pages) 603,839,325 | £6,035,893.25 + $25,004 0.00
+
+® Please list total aggregate values in different currencies separately.
+
+For example: £100 + €100 + $10 etc.
+
+CHFPO10 (FF)
+03/19 Version 3.0
+
+
+===== page 4 =====
+Setzer  C901- additional information page
+Companies Act 2006. Confirmation statement
+
+Standard industrial clas: ation (SIC) code change
+
+Only use this part to tell us of any changes to your standard
+industrial classification codes during this confirmation period.
+
+J This part must be sent YX Do not send this part if none of For further information, please
+at the same time as your your SIC codes have changed. refer to our guidance at
+confirmation statement, www. gov.uk/companieshouse
+
+Standard industrial classification (SIC)
+‘To check your current SIC code(s):
+https://beta.companieshouse.gov.uk
+
+Ww New standard industrial classification code
+
+Please show any new SIC codes. '@ Standard industrial classification
+Provide a trade classification code
+
+a (SIC code 2007) or a description of
+
+Classification code 1 [_ Your corpan/s minbsines in
+is section.
+
+Classification code 3 codes are available ‘on our w site:
+Gassiicatoncoves [| [| f ‘wa gousidcompaniesiuse
+
+If you cannot determine a code, please give a brief description of the
+company’s business activity below:
+
+Principal activity
+
+description =
+
+a2 Removal of standard industrial classification
+
+Please show any SIC codes which no longer apply.
+
+Geaonenesm ||
+Classification code 2 in iz im [y
+
+Classification code 3
+
+Clsscation code3 |
+Classification code # [
+
+‘CHEPO10 (FF)
+03/39 Version 3.0
+
+
+
+===== page 5 =====
+CS01- additional information page
+Confirmation statement
+
+Prescribed particulars
+
+Please give the prescribed particulars of rights attached to each class of share
+shown in the ‘share capital’ tables in Section 61.
+
+Class of share Ordinary
+
+Prescribed particulars | (a) on a show of hands, each member holding ordinary shares has
+one vote, and on a pol! each member holding ordinary shares has
+‘one vote for each ordinary share held,
+
+(b) the-ordinary shares have the-right, as respects dividends, to
+participate in a distribution,
+
+(c) the ordinary shares have the right, as respects capital, to
+participate in a distribution (including on winding up), and
+
+(d) the ordinary shares are not to be redeemed or liable to be
+redeemed at the option of the Company nor the shareholder
+
+Class of share USA Ordinary
+
+Prescribed particulars | (a) on a show of hands, each member holding ordinary USA
+Ordinary shares has one vote, and on a poll each member holding
+USA Ordinary shares has one vote for each USA Ordinary share
+held,
+
+({b) the USA Ordinary shares have the right, as respects dividends,
+to participate in a distribution,
+
+(c} the USA Ordinary shares have the right, as respects capital, to
+participate in a distribution (including on winding up), and
+
+(d) the USA Ordinary shares are not to be redeemed or liable to be
+redeemed at the option of the Company nor the sharehol
+
+Class of share
+
+Prescribed particulars
+
+Prescribed particulars of rights
+
+attached to shares
+
+‘The particulars are:
+
+2, particulars of any voting rights,
+including rights that arise only in
+certain Greumstances;
+
+b. particulars of any rights, as respects
+dividends, to participate ina
+distribution;
+
+.. particulars of any rights, as
+
+respects capital, to participate in a
+
+distribution (including on winding
+
+up); and
+
+whether the shares are to be
+
+redeemed or are fiable to be
+
+redeemed at the option of the
+company or the shareholder.
+
+A separate table must he used for
+each class of share.
+
+2
+
+Please use a prescribed particulars
+continuation page if necessary.
+
+CHFPO10 (FF)
+03/19 Version 3.0
+
+
+
+===== page 6 =====
+Scunsaesey  C901- additional information page
+ofthe Companies Act Confirmation statement
+
+| Part 3 | Trading status of shares and exemption from keeping a
+
+register of people with significant control (PSC)
+Use this Part to tell us of the trading status of shares and information about
+exemption from keeping a PSC register (if this is the first time you're giving this
+information or if any of this information has changed since you last gave it).
+
+J This part must be sent
+at the same time as your
+
+XK Do not send if none of this
+information has changed.
+
+confirmation statement.
+
+For further information, please
+refer to our guidance at
+www.gov.uk/companieshouse
+
+Company’s shares admitted to trading on a market®
+
+Were any shares admitted to trading on a market during the confirmation
+period? Please tick the appropriate box below:
+
+No go to Part 4 section D1 ‘Non traded shareholders’
+(Yes go to Section C2 ‘DTRS’
+
+en
+@A market is one established under
+the rules of a UK recognised
+investment exchange or any other
+UK or EU regulated market. The
+‘current UK recognised investment
+exchanges and regulated markets
+‘can be found at:
+
+‘www -fsa.gov.ulregisterfexchanges.
+
+Exemption from providing shareholder information (DTR5) @
+
+Throughout the confirmation period, was the company a traded company and
+an issuer to which DTRS applies? Please tick the appropriate box below:
+(Yes goto Section C3
+
+LO No goto Section C3
+
+Please review and complete this
+section if you have answered "Yes"
+to section
+
+C1 ‘Company's shares admitted to
+‘trading on a market’.
+
+DIRS
+DIRS refers to the Vote Holder and
+{ssuer Notification Rules contained
+in Chapter 5 of the Disclosure and
+Transparency Rules source book
+issued by the Financial Conduct,
+Authority.
+
+Exemption from keeping a people with significant control (PSC) register ©
+
+Js the company exempt or has it ever been exempt from keeping a PSC register:
++» Yes continue (Tick only one box).
+
++ No goto Part 4 section D2 ‘Shareholder information for certain
+traded companies’.
+
+Please tick the appropriate statement:
+
+1 The company is exempt from the requirement to obtain information
+and keep a register of its PSC because the company has voting shares
+admitted to trading on a reguiated market in the United Kingdom.
+
+(1 The company is exempt from the requirement to obtain information
+and keep a register of its PSC because the company has voting shares
+admitted to trading on an EU regulated market.
+
+(The company is exempt from the requirement to obtain information
+and keep a register of its PSC because the company has voting shares
+admitted to trading on a market listed in Schedule 1 of the Register of
+People with Significant Control Regulations 2016,
+
+(1 The exemption from keeping a PSC register (Part 27) no langer applies. ©
+
+}© Exemption from keeping a PSC
+register
+In accordance with Part 244 of the
+Companies Act 2006,
+
+© Exemption from keeping a PSC
+register no longer applies.
+If you need to provide PSC
+information complete and return the
+appropriate forms.
+
+‘CHFPO10 (FF)
+03/39 Version 3.0
+

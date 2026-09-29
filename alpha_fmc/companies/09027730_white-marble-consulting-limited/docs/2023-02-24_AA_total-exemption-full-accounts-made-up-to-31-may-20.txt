@@ -1,0 +1,460 @@
+
+
+===== page 1 =====
+Registered number: 09027730
+
+WHITE MARBLE CONSULTING LIMITED
+
+UNAUDITED
+FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2022
+
+Ashcroft
+
+
+===== page 2 =====
+WHITE MARBLE CONSULTING LIMITED
+REGISTERED NUMBER: 09027730
+
+STATEMENT OF FINANCIAL POSITION
+AS AT 31 MAY 2022
+
+2022 2021
+Note £ £
+Fixed assets
+Tangible assets 4 22,299 18,350
+Investments 5 - 7,730
+22,299 26,080
+Current assets
+Debtors: amounts falling due within one year 6 538,934 369,534
+Cash at bank and in hand 117,303 219,303
+656,237 580,837
+Creditors: amounts falling due within one year 7 (564,966) (529,297)
+Net current assets 91,271 51,540
+Total assets less current liabilities 113,570 77,620
+
+Creditors: amounts falling due after more than one
+year 8 (37,430) (70,264)
+
+Provisions for liabilities
+
+Deferred tax 10 (8,100) (3,134)
+(8,100) (3,134)
+
+Net assets 88,040 eer
+
+Capital and reserves
+
+Called up share capital 229 229
+Share premium account 2,197 2,197
+Profit and loss account 65,614 1,796
+
+68,040 4,222
+
+Page 1
+
+
+===== page 3 =====
+WHITE MARBLE CONSULTING LIMITED
+REGISTERED NUMBER: 09027730
+
+STATEMENT OF FINANCIAL POSITION (CONTINUED)
+AS AT 31 MAY 2022
+
+The directors consider that the Company is entitled to exemption from audit under section 477 of the Companies Act 2006 and
+members have not required the Company to oblain an audit for the year in question in accordance with section 476 of the Companies
+Act 2006.
+
+The directors acknowledge their responsibilities for complying with the requirements of the Companies Act 2006 with respect to
+accounting records and the preparation of financial statements.
+
+The financial statements have been prepared in accordance with the provisions applicable to companies subject to the small
+companies regime and in accordance with the provisions of FRS 102 Section 1A - small entities.
+
+The financial statements have been delivered in accordance with the provisions applicable to companies subject to the small
+companies regime.
+
+The Company has opted not to file the statement of comprehensive income in accordance with provisions applicable to companies
+subject to the small companies’ regime.
+
+The financial statements were approved and authorised for issue by the board and were signed on its behalf by:
+
+GR4J Field
+Director
+
+Date: 20 February 2023
+
+The notes on pages 3 to 8 form part of these financial statements.
+
+Page 2
+
+
+===== page 4 =====
+WHITE MARBLE CONSULTING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2022
+
+1. General information
+
+The principal activity of the Company in the year under review was that of a marketing affiliate.
+
+The Company is a private company limited by shares and is incorporated in England and Wales.
+
+The Registered Office address of the Company is C/O William Sturges LLP Burwood House, 14-16 Caxton Street, London,
+SW1H O0QY.
+
+2. Accounting policies
+
+21
+
+2.2
+
+2.3
+
+2.4
+
+25
+
+Basis of preparation of financial statements
+The financial statements have been prepared under the historical cost convention unless otherwise specified within these
+accounting policies and in accordance with Section 1A of Financial Reporting Standard 102, the Financial Reporting
+Standard applicable in the UK and the Republic of Ireland and the Companies Act 2006.
+
+The preparation of financial statements in compliance with FRS 102 requires the use of certain critical accounting
+estimates. It also requires management to exercise judgment in applying the Company's accounting policies.
+
+The following principal accounting policies have been applied:
+
+Revenue
+
+Revenue is recognised to the extent that it is probable that the economic benefits will flow to the Company and the
+revenue can be reliably measured. Revenue is measured as the fair value of the consideration received or receivable,
+excluding discounts, rebates, value added tax and other sales taxes. The following criteria must also be met before
+revenue is recognised:
+
+Foreign currencies
+
+The Company's functional and presentational currency is GBP.
+Operating leases: the Company as lessee
+
+Rentals paid under operating leases are charged to profit or loss on a straight-line basis over the lease term.
+
+Benefits received and receivable as an incentive to sign an operating lease are recognised on a straight-line basis over
+the lease term, unless another systematic basis is representative of the time pattern of the lessee's benefil from the use of
+the leased asset,
+
+Interest income
+
+Interest income is recognised in profit or loss using the effective interest method
+
+Page 3
+
+
+===== page 5 =====
+WHITE MARBLE CONSULTING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2022
+
+Accounting policies (continued)
+2.6 Pensions
+
+Defined contribution pension plan
+
+The Company operates a defined contribution plan for its employees. A defined contribution plan is a pension plan under
+which the Company pays fixed contributions into a separate entity. Once the contributions have been paid the Company
+has no further payment obligations.
+
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not paid are shown in
+accruals as a liability in the Statement of Financial Position. The assets of the plan are held separately from the Company
+in independently administered funds.
+
+2.7 Current and deferred taxation
+
+The tax expense for the year comprises current and deferred tax. Tax is recognised in profit ar loss except that a charge
+attributable to an item of income and expense recognised as other comprehensive income or fo an item recognised
+directly in equity is also recognised in other comprehensive income or directly in equity respectively.
+
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or substantively
+enacted by the reporting date in the countries where the Company operates and generates income.
+
+Deferred tax balances are recognised in respect of all timing differences that have originated but not reversed by the
+reporting date, except that:
+
+The recognition of deferred tax assets is limited to the extent that it is probable that they will be recovered against
+the reversal of deferred tax liabilities or other future taxable profits; and
+
+Any deferred tax balances are reversed if and when all conditions for retaining associated tax allowances have
+been met.
+
+Deferred tax balances are not recognised in respect of permanent differences except in respect of business
+combinations, when deferred tax is recognised on the differences between the fair values of assets acquired and the
+future tax deductions available for them and the differences between the fair values of liabilities acquired and the amount
+that will be assessed for tax. Deferred tax is determined using tax rates and laws that have been enacted or substantively
+enacted by the reporting date.
+
+2.8 Tangible fixed assets
+Tangible fixed assets under ‘he cost model are stated at historical cost less accumulated depreciation and any
+
+accumulated impairment losses. Historical cost includes expenditure that is directly attributable to bringing the asset to
+the location and condition necessary for it to be capable of operating in the manner intended by management.
+
+Page 4
+
+
+===== page 6 =====
+WHITE MARBLE CONSULTING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2022
+
+Accounting policies (continued)
+
+2.8 Tangible fixed assets (continued)
+
+Depreciation is charged so as to allocate the cost of assets less their residual value over their estimated useful lives, on a
+reducing balance basis.
+
+Depreciation is provided on the following basis:
+
+Office equipment - 28%
+Computer equipment - 25%
+
+The assets' residual values, useful lives and depreciation methods are reviewed, and adjusted prospectively if
+appropriate, or if there is an indication of a significant change since the last reporting date.
+
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised
+in profit or loss,
+
+2.9 Valuation of investments
+Investments in subsidiaries are measured at cost less accumulated impairment.
+
+2.10 Provisions for liabilities
+Provisions are made where an event has taken place that gives the Company a legal or constructive obligation that
+probably requires settlement by a transfer of economic benefit, and a reliable estimate can be made of the amount of the
+obligation.
+Provisions are charged as an expense to profit or loss in the year that the Company becomes aware of the obligation, and
+are measured at the best estimate at the reporting date of the expenditure required to settle the obligation, taking into
+
+account relevant risks and uncertainties.
+
+When payments are eventually made, they are charged to the provision carried in the Statement of Financial Position.
+
+Employees
+
+The average monthly number of employees, including directors, during the year was 18 (2021 - 20).
+
+Page 5
+
+
+===== page 7 =====
+WHITE MARBLE CONSULTING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2022
+
+Tangible fixed assets
+
+Cost or valuation
+At 1 June 2021
+Additions
+
+At 31 May 2022
+
+Depreciation
+At 1 June 2021
+Charge for the year on owned assets.
+
+At 31 May 2022
+
+Net book value
+At31 May 2022
+
+At 31 May 2021
+
+Office Computer
+equipment equipment Total
+£ £ £
+16,576 16,322 32,898
+. 9,571 9,571
+16,576 25,893 42,469
+9,986 4,562 14,548
+1,648 3,974 5,622
+11,634 8,536 20,170
+4,942 17,357 22,299
+6,589 11,761 18,350
+
+Page 6
+
+
+===== page 8 =====
+WHITE MARBLE CONSULTING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2022
+
+Fixed asset investments
+
+At 1 June 2021
+
+Disposals
+
+At 31 May 2022
+
+Debtors
+
+Trade debtors.
+Amounts owed by group undertakings
+Prepayments and accrued income
+
+Creditors: Amounts falling due within one year
+
+Bank loans
+
+Other loans
+
+Trade creditors.
+
+Amounts owed to group undertakings
+Corporation tax
+
+Other taxation and social security
+Other creditors
+
+Accruals and deferred income
+
+2022
+£
+
+337,147
+6,980
+194,807
+
+538,934
+
+2022
+£
+496,000
+32,834
+101,330
+32,555
+15,139
+49,858
+7,334
+129,919
+
+564,966
+
+Investments in
+subsidiary
+companies
+
+£
+
+7,730
+(7,730)
+
+2021
+£
+
+288,930
+57,786
+22,818
+
+369,534
+
+2021
+
+£
+240,000
+31,267
+120,073
+6,245
+90,134
+8,897
+32,681
+
+529,207
+
+Page 7
+
+
+===== page 9 =====
+WHITE MARBLE CONSULTING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2022
+
+10,
+
+Creditors: Amounts falling due after more than one year
+
+Other loans
+
+Hire purchase and finance leases
+
+Within one year
+
+Deferred taxation
+
+At beginning of year
+
+Charged to profit or loss
+
+At end of year
+
+The provision for deferred taxation is made up as follows:
+
+Accelerated capital allowances
+
+2022
+
+37,430
+
+37,430
+
+2022
+£
+
+25,399
+
+25,399
+
+2022
+
+(8,100)
+
+{8,100)
+
+2021
+
+70,264
+
+70,264
+
+2021
+
+2022
+
+(3,134)
+(4,966)
+
+(8,100)
+
+2021
+
+(3,134)
+
+(3,134)
+
+Page 8
+
+
+===== page 10 =====
+
+
+===== page 11 =====
+This document was delivered using electronic communications and authenticated in accordance with the
+registrar's rules relating to electronic form, authentication and manner of delivery under section 1072 of
+the Companies Act 2006.

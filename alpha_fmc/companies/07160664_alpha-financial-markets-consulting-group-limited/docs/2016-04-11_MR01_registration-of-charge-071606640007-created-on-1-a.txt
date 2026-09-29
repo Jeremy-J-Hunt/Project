@@ -1,0 +1,1601 @@
+
+
+===== page 1 =====
+we MRO1eer
+
+Companies House
+
+Registration of a Charge
+
+Company name: ALPHA FINANCIAL MARKETS CONSULTING GROUP LIMITED
+
+Company number: 07160664
+XS40A5E!
+
+Received for Electronic Filing: 11/04/2016
+
+Details of Charge
+
+Date ofcreation: 01/04/2016
+Charge code: 0716 0664 0007
+
+Persons entitled: LLOYDS BANK PLC (AS SENIOR AGENT AND AS SENIOR SECURITY
+AGENT (AS DEFINED IN THE INSTRUMENT))
+
+Brief description: N/A
+Contains fixed charge(s).
+
+Contains negative pledge.
+
+Authentication of Form
+
+This form was authorised by: a person with an interest in the registration of the charge.
+
+Authentication of Instrument
+
+Certification statement: I CERTIFY THAT SAVE FOR MATERIAL REDACTED PURSUANT
+TO S. 859G OF THE COMPANIES ACT 2006 THE ELECTRONIC
+COPY INSTRUMENT, AND THE ELECTRONIC COPY OF THE
+CERTIFIED ENGLISH TRANSLATION PREPARED BY TEMPLE
+TRANSLATIONS LIMITED, BOTH DELIVERED AS PART OF THIS
+APPLICATION FOR REGISTRATION, ARE CORRECT COPIES OF
+
+Electronically filed document for Company Number: 07160664 Page 1
+
+
+===== page 2 =====
+THE ORIGINAL INSTRUMENT AND THE ORIGINAL CERTIFIED TRUE
+AND ACCURATE ENGLISH TRANSLATION.
+
+Certified by: IRAM TARIQ, SOLICITOR, DLA PIPER UK LLP, LONDON
+
+Electronically filed document for Company Number: 07160664 Page 2
+
+
+===== page 3 =====
+6 $3
+NE Sha \
+Asa
+<
+amet F OND
+
+CERTIFICATE OF THE
+REGISTRATION OF A CHARGE
+
+rol
+
+Company number: 7160664
+
+Charge code: 0716 0664 0007
+
+The Registrar of Companies for England and Wales hereby certifies that a
+charge dated 1st April 2016 and created by ALPHA FINANCIAL MARKETS
+CONSULTING GROUP LIMITED was delivered pursuant to Chapter A1
+Part 25 of the Companies Act 2006 on 11th April 2016 .
+
+Given at Companies House, Cardiff on 12th April 2016
+
+The above information was communicated by electronic means and authenticated
+by the Registrar of Companies under section 1115 of the Companies Act 2006
+
+sore,
+ey,
+
+ae
+“Ve
+“any xe
+
+‘THE OFFICIAL SEAL OF THE
+
+Companies House ebaTwAn oF Con RNES
+
+
+
+===== page 4 =====
+{ OLA PIPER
+
+TCERTIFY THAT. SAVE FOR MATERIAL REDACTED
+PURSUANT 70 s&59G OF THE COMPANIES ACT 2006,
+THIS Is A TRUE. COMPLETE AND CORRECT COPY
+OF THE ORIGINAL INSTRUMENT
+
+pare Le Apri h 2016
+
+SIGNED
+DLA PIPER UK LLP
+
+PLEDGE OF SECURITIES ACCOUNT AGREEMENT
+
+RELATING TO THE SECURITIES HELD BY ALPHA FINANCIAL MARKETS CONSULTING
+GROUP LIMITED IN
+ALPHA FINANCIAL MARKETS CONSULTING SAS
+
+ALPHA FINANCIAL MARKETS CONSULTING GROUP LIMITED
+as Pledgor
+
+and
+
+LLOYDS BANK PLC
+as Senior Agent and Senior Security Agent
+
+and
+
+BEECHBROOK CAPITAL LLP
+as Mezzanine Agent
+
+BEECHBROOK MEZZANINE II JERSEY LIMITED
+as Mezzanine Security Agent
+
+and
+
+LLOYDS BANK PLC
+as Senior Lender
+
+and
+
+LLOYDS BANK PLC
+as Hedge Counterparty
+
+and
+
+BEECHBROOK MEZZANINE II SARL
+as Mezzanine Lender
+
+| Apc: | 216
+
+DLA Piper France LLP
+27 rue Laffitte
+
+75009 Paris
+France
+
+
+
+===== page 5 =====
+yer ana»
+
+TABLE OF CONTENTS
+
+DEFINITIONS AND INTERPRETATION ........
+ll DEFINED TERMS .......
+
+1.2 OTHER DEFINED TERMS.
+
+13 INTERPRETATION.......
+PLEDGE
+24 GRANT OF PLEDGE
+2.2 REGISTRATION OF PLEDGE.
+23 SCOPE OF THE PLEDGE.
+
+2.4 CASH PROCEEDS
+REPRESENTATIONS AND WARRANTIEG.......
+UNDERTAKINGS ....
+
+MU AUWAWHeH new
+
+EXPENSES..
+MISCELLANEOUS ......
+GOVERNING LAW - JURISDICTION .....
+10.1. GOVERNING LAW.....
+10.2. JURISDICTION
+
+SCHEDULE 1 FORM OF STATEMENT OF PLEDGE OF FINANCIAL SECURITIES ACCOUNTI4
+
+SCHEDULE 2 FORM OF SECURITIES ACCOUNT CERTIFICATE OF PLEDGE.......
+
+SCHEDULE 3 FORM OF RELATED PLEDGED BANK ACCOUNT CERTIFICATE OF PLEDGE20
+
+SCHEDULE 4 LIST OF EXPERTS FOR THE DETERMINATION OF THE ENFORCEMENT
+
+EXECUTION PAGE.......
+
+
+
+===== page 6 =====
+PLEDGE OF SECURITIES ACCOUNT AGREEMENT
+
+BETWEEN:
+
+@
+
+@)
+
+(6)
+
+@
+
+©
+
+)
+
+12)
+
+ALPHA FINANCIAL MARKETS CONSULTING GROUP LIMITED, a limited Liability
+company incorporated in England having its registered office located 60 Gresham Street,
+London, EC2V 7BB, and whose identification number is 07160664 (the "Pledgor");
+
+LLOYDS BANK PLC, a public limited company incorporated in England having its
+registered office located at 25 Gresham Street, London, EC2V 7HN, and whose identification
+number is 00002065, acting as senior agent (the "Senior Agent") and as senior secutity agent
+(the "Senior Security Agent");
+
+BEECHBROOK CAPITAL LLP, 2 limited liability partnership incorporated in England
+having its registered office located at 2nd Floor, 43-45 Dorset Street, London W1U 7NA, and
+whose identification number is OC337678, acting as Mezzanine Agent;
+
+BEECHBROOK MEZZANINE I JERSEY LIMITED, a private company incorporated in
+Jersey having its registered office located at 3rd Floor South Tower 29/31 Esplanade St Hetier
+Jersey JE4 58J, and whose identification number is 113041, acting as Mezzanine Security
+Agent;
+
+LLOYDS BANK PLC, a public limited company incorporated in England having its
+registered office located at 25 Gresham Street, London, EC2V 7HN, and whose identification
+number is 00002065 (being individually referred to as the "Senior Lender", and with any
+successor, right holder or assignee, under the terms of clause 27 (Change to Senior Lenders)
+of the Senior Facilities Agreement, a "Senior Lender” or the "Senior Lenders”)
+
+LLOYDS BANK PLC, a public limited company incorporated in England having its
+tegistered office located at 25 Greshatn Street, London, EC2V 7HN, and whose identification
+number is 00002065, as Hedge Counterparty:
+
+BEECHBROOK MEZZANINE If SARL, incorporated in Luxembourg having its
+tegistered office located at 2-8 Avenue Charles de Gaulle, 1-1653 Luxembourg and whose
+identification number is B178.669 (being individually referred to as the "Mezzanine Lender",
+and with any successor, right holder or assignee, under the terms of clause 24 (Change to
+Senior Lenders) of the Mezzanine Facility Agreement, a "Mezzanine Lender" or the
+"Mezzanine Lenders").
+
+PREAMBLE:
+
+A.
+
+Pursuant to the Senior Facilities Agreement (as defined below), the Senior Lender has agreed
+to make available to the Borrower, on the terms and conditions set out in the Senior Facilities
+
+Agreement:
+
+w a Facility A (as defined in the Senior Facilities Agreement) for a principal amount of
+GBP 11,000,000 (eleven million pound sterling);
+
+(id a Facility B (as defined in the Senior Facilities Agreement) for a principal amount of
+GBP 11,000,000 (eleven million pound sterling); and
+
+(iti) a Revolving Facility (as defined in the Senior Facilities Agreement) for a principal
+amount of GBP 2,000,000 (two million pound sterling).
+
+Cy fal
+
+
+
+===== page 7 =====
+Pursuant to the Mezzanine Facility Agreement (as defined below), the Mezzanine Lender has
+agreed to make available to the Borrower, on the terms and conditions set out in the
+Mezzanine Facility Agreement, a Facility (as defined in the Mezzanine Facility Agreement)
+for a principal amount of EUR 7,857,000 (seven million eight hundred fifty seven thousand
+euros).
+
+Pursuant to the Senior Facilities Agreement, the Parent shall ensure that all interest rate
+hedging arrangements required by the Hedging Letter are implemented in accordance with the
+terms of the Hedging Letter.
+
+The Pledgor (i) has acceded as a Guarantor to the Senior Facilities Agreement pursuant to an
+Accession Deed to (and as defined in) the Senior Facilities Agreement dated 3 February 2016
+and (ii) has acceded as a Guarantor to the Mezzanine Facility Agreement pursuant to an
+Accession Deed to (and as defined in) the Mezzanine Facility Agreement dated 3 February
+2016.
+
+As security for the due performance of the Secured Obligations {as defined below), the Parent
+has procured that, in accordance with clause 25,39 (c) (Conditions subsequent) of the Senior
+Facilities Agreement and clause 22.37 (b) (Conditions subsequent) of the Mezzanine Facility
+Agreement, the Pledgor, as Guarantor (under as defined in each of the Senior Facilities
+Agreement and the Mezzanine Facility Agreement) will grant in favour of the Beneficiaries a
+first ranking pledge over the Pledged Accounts (as defined below) in accordance with the
+terms of this Agreement.
+
+fy (=f
+
+
+
+===== page 8 =====
+IT IS AGREED AS FOLLOWS:
+
+1.
+
+11
+
+DEFINITIONS AND INTERPRETATION
+DEFINED TERMS
+
+In this Agreement (including the Preamble), unless the context otherwise requires, the
+following capitalized terms have the following meanings:
+
+"Beneficiaries" means the Senior Beneficiaries and the Mezzanine Beneficiaries;
+“Company" means Alpha Financial Markets Consulting SAS, a société par actions
+simplifiée incorporated in France, having its registered office located at 37, rue des Mathurins,
+75008 Paris and whose registered number is 523 666 063 RCS Paris.
+
+"Declared Default" means any failute to pay on its due date any Secured Obligations which
+constitutes an Event of Default and pursuant to which a notice of acceleration has been served
+
+in accordance with clause 26.19 (Acceleration) of the Senior Facilities Agreement or clause-
+
+23.18 (Acceleration) of the Mezzanine Facility Agreement.
+
+"Discharge Date" means the date an which (i) all the Secured Obligations will have been
+itrevocably and unconditionally paid and discharged in full and (ii) no Beneficiary has any
+further commitment, obligation or liability under or pursuant to the Finance Documents.
+
+"Event of Default" means any “Event of Default" as defined in the Senior Facilities
+Agreement and/or in the Mezzanine Facility Agreement (as applicable).
+
+"Finance Documents" means the Senior Finance Documents and/or the Mezzanine Finance
+Documents {as applicable).
+
+"Financial Securities" means the Initial Financial Securities and any other financial
+securities issued by the Company from time to time and owned by the Pledgor.
+
+"Group" has the meaning given to that term in the Interereditor Agreement.
+
+"Hedging Letter" has the meaning ascribed to the terms "Hedging Letter” in the Senior
+Facilities Agreement.
+
+"Initial Financial Securities" means 150,000 (one hundred and fifty thousand) ordinary
+shares issued by the Company and owned by the Pledgor as of the date of this Agreement
+representing on the date hereof 100 % of the share capital and voting rights of the Company.
+
+"Intercreditor Agreement" has the meaning ascribed to such term in the Senior Facilities
+Agreement.
+
+"Mezzanine Beneficiaries” means the "Bénéficiaires Mezzanine" as defined in Schedule 1
+(Form of Statement of Pledge of Financial Securities Account),
+
+"Mezzanine Facility Agreement" means the mezzanine facility agreement dated 3 February
+2016 entered into between, amongst others, Caelius Midco 2 Limited, as Parent, Caelius
+Bideo Limited as Original Borrower, the Original Guarantors (as listed in part 1 of schedule 1
+therein), Beechbrook Capital LLP as Mandated Lead Arranger, the Original Lender (as listed
+in part 2 of schedule 1 therein), Beechbrook Capital LLP as Agent and Beechbrook
+Mezzanine II Jersey Limited as Security Agent, as amended from time to time.
+
+hk Ay yon
+
+
+
+===== page 9 =====
+“Mezzanine Finance Documents" has the meaning ascribed to the term "Finance
+Documents” in the Mezzanine Facility Agreement.
+
+"Pledge" means the pledge created over the Pledged Accounts in accordance with the
+provisions of this Agreement and of the Statement of Pledge.
+
+“Pledged Accounts" means the Securities Account and the Related Pledged Bank Account.
+
+"Related Pledged Bank Account" means the special bank account (compte bancaire
+spécial) specified in the Statement of Pledge and opened in accordance with the provisions of
+Clause 2.2.2 (Related Pledged Bank Account) in the name of the Pledgor, to receive the
+income and proceeds (fruits et produits) relating to the Financial Securities in accordance
+with article L.2 11-26 III of the French Cede monétaire et financier.
+
+"Related Pledged Bank Account Certificate af Pledge" means any certificate of pledge
+relating to the Related Pledged Bank Account substantially in the form set out in Schedule 3
+(Form of Related Pledged Bank Account Certificate of Pledge) or any other certificate of
+pledge usually issued by the Related Pledged Bank Account Holder relating to a special bank
+account (compte bancaire spécial).
+
+"Related Pledged Bank Account Holder” means HSBC France, a French société anonyme
+whose registered office is at 103, avenue des Champs-Elysées, 75008 Paris and whose
+registered number is 775 670 284 RCS Paris, acting through its branch located 3, rue des
+Mathurins, 75008 Paris, in its capacity as holder (teneur de compte) of the Related Pledged
+Bank Account.
+
+"Secured Obligations" means the "Obligations Garanties” as defined in Schedule | (Form !
+of Statement of Pledge of Financial Securities Account).
+
+"Securities Account" means the securities account (compte-titres) specified in the Statement
+of Pledge opened in the name of the Pledgor in the share transfer registry (registre de i
+mouvements de titres) and the shareholders accounts registry (comptes d’actionnaires) of the '
+Company pursuant to this Agreement and on which any Financial Securities held by the
+
+Pledgor from time to time are to be registered.
+
+"Securities Account Certificate of Pledge" means any certificate of pledge relating to the
+Securities Account substantially in the form set out in Schedule 2 (Form of Securities Account
+Certificate of Pledge).
+
+"Securities Account Holder" means the Company in its capacity as holder of the Securities
+Account (teneur de compte-titres),
+
+“Security Period" means the period beginning on the date of the Statement of Pledge and
+ending on the Discharge Date (included).
+
+“Senior Beneficiaries” means the "Bénéficiaires Senior" as defined in Schedule 1 (Form of
+Statement of Pledge of Financial Securities Account).
+
+"Senior Discharge Date" has the meaning given to that term in the Intercreditor Agreement.
+"Senior Facilities Agreement" means the senior term and revolving facilities agreement
+dated 3 February 2016 entered into between, amongst others, Caelius Midco 2 Limited, as
+
+Parent, Caelius Bidco Limited as Original Borrower, the Original Guarantors (as listed in part
+1 of schedule 1 therein), Lloyds Bank ple as Mandated Lead Arranger, the financial
+
+ty ya!
+
+
+
+===== page 10 =====
+institution listed in part 2 of schedule | therein as Original Lender, Lloyds Bank plc as
+Original Hedge Counterparty, and Lloyds Bank plc as Agent and Security Agent, as amended
+from time to time.
+
+"Senior Finance Documents" has the meaning ascribed to the term "Finance Documents" in
+the Senior Facilities Agreement.
+
+"Statement of Pledge" means the déclaration de nantissement de compte de titres financiers
+relating to the Pledged Accounts executed pursuant to Clause 2.2.1 (Securities Account)
+substantially in the form set out in Schedule 1 (Form of Statement of Pledge of Financial
+Securities Account).
+
+1.2 OTHER DEFINED TERMS
+
+Capitalized terms used in this Agreement (including the Preamble) and not otherwise defined herein
+shall have the meaning ascribed to them in the Senior Facilities Agreement, the Mezzanine Facility
+Agreement or the Intercreditor Agreement, as the case may be.
+
+13 INTERPRETATION
+
+The provisions of clause 1.2 (Construction) of the Senior Facilities Agreement shall apply mutatis
+mutandis to this Pledge, as if that clause was part of this Agreement.
+
+2 PLEDGE
+21 GRANT OF PLEDGE
+
+As security for the due performance, payment and discharge in full of the Secured Obligations, the
+Pledgor agrees to pledge in favor of the Beneficiaries the Pledged Accounts, in accordance with
+article L.211-20 of the French Code Monétaire et Financier.
+
+2.2 REGISTRATION OF PLEDGE
+2.2.1. SECURITIES ACCOUNT
+
+For the purposes of Clause 2.1 (Grant of Pledge), the Pledgor shall | imimediately ‘upon execution of
+this Agreement and the Statement of Pledge:
+
+(a) cause the Securities Account Holder to transfer the Financial Securities to the Securities
+Account;
+
+(b) execute and deliver to the Securities Account Holder, the Senior Security Agent and the
+Mezzanine Security Agent a duly executed Statement of Pledge;
+
+(c) cause the Securities Account Holder to duly register the Pledge in the share transfer register
+(registre de mouvement de titres) and the shareholders’ individual accounts (comptes
+@'actionnaires) of the Company;
+
+@ cause the Securities Account Holder to deliver to the Senior Security Agent and the
+Mezzanine Security Agent a duly executed Securities Account Certificate of Pledge; and
+
+(e) deliver to each of the Senior Security Agent and the Mezzanine Security Agent (i) a certified
+copy of the shares transfer register (registre de mouvement de titres) evidencing the Pledge,
+(ii) a certified copy of the shareholders! individual accounts (comptes d'actionnaires) of the
+
+rae fol
+
+
+
+===== page 11 =====
+2.2.2.
+(a)
+
+(6)
+
+23
+(a)
+
+6)
+
+©
+
+Company and (iii) a certified copy of the articles of association of the Company, up-to-date as
+of the date of this Agreement, evidencing in particular that no acceptance (agrément) is
+applicable in case of enforcement of the Pledge.
+
+RELATED PLEDGED BANK ACCOUNT
+Immediately upon execution of the Statement of Pledge, the Pledgor shall:
+
+(i) deliver to the Related Pledged Bank Account Holder a copy of the Statement of
+Pledge;
+
+Wid cause the Related Pledged Bank Account Holder to record that the Related Pledged
+Bank Account is pledged in favour of the Beneficiaries by virtue of this Agreement
+and of the Statement of Pledge; and
+
+ii) within five (5) Business Days aftet the date hereof, cause the Related Pledged Bank
+Account Holder to deliver to the Senior Security Agent and the Mezzanine Security
+Agent a duly executed Related Pledged Bank Account Cettificate of Pledge.
+
+The Related Pledged Bank Account shall be deemed to constitute an integral part of the
+Securities Account as from the date of execution of the Statement of Pledge in accordance
+with the provisions of article L.211-20 III of the French Code Monétaire et Financier.
+
+SCOPE OF THE PLEDGE
+
+In accordance with article L, 211-20 I of the French Cade Monétaire et Financier, the Pledge
+shall at all times include, as security for the Secured Obligations on the same terms as those
+sot out in this Agreement:
+
+@ all financial securities which may be substituted for or added to the Initial Financial
+Securities, following or in connection with, without limitation, share exchanges,
+regroupings, splits, free issues, conversions, subscriptions by way of cash or
+otherwise, and such financial securities shall automatically be included in the Pledge;
+and
+
+(i) proceeds or other income attached or deriving therefrom (fruits et produits) (without
+prejudice to the provisions of paragraph 2.4(c) (Cash Proceeds)).
+
+The Pledgor undertakes to procure that any financial security issued by the Company of
+which the Pledgor becomes the owner at any fime, which is not otherwise automatically
+transferred and recorded on the Securities Account pursuant to paragraph (a) above, shall be
+immediately transferred and recorded on the Securities Account, and that the proceeds or
+other income attached or deriving thereftom (fruits et produits) ate transferred on the Related
+Pledged Bank Account (without prejudice to the provisions of Clause 2.4(c) (Cash
+Proceeds)), as security for the Secured Obligations on the same terms as those set out in this
+Agreement.
+
+All obligations of the Pledgor under paragraphs (a), (c) and (d} of Clause 2.2.1 (Securities
+Account) shall apply with respect to Financial Securities referred to in paragraphs (a) and (b)
+above mutatis mutandis as at the date the Pledgor becomes the holder of such Financial
+Securities without these operations giving rise to a novation (sovation) of the rights and
+security the Beneficiaries hold under this Agreement, in any way whatsoever.
+
+Bly pF
+
+
+
+===== page 12 =====
+@
+
+24
+(a)
+
+)
+
+(c)
+
+(@)
+
+3.
+
+In accordance with the provisions of article L. 211-20 1 of the French Code Monétaire et
+Financier, the Financial Securities (other than the Initial Financial Securities) and the
+proceeds or other income referred to in paragraphs (a) and (b) above shall be subject to the
+same terms and conditions as the Initial Financial Securities and the proceeds initially
+registered on the Pledged Accounts and shall be deemed to have been registered on the date
+of execution of the Statement of Pledge.
+
+CASH PROCEEDS
+
+In accordance with article L. 211-20 of the French Code Monétaire et Financier, any payment
+or prepayment of dividends in cash, interest and other distributions in respect of the Financial
+Securities shall be made to the Pledgor on the Related Pledged Bank Account.
+
+So long as the Pledgor has not received any notice pursuant to paragraph (c) below, the
+Pledgor shall be entitled to use and dispose of the cash proceeds relating to the Financial
+Securities standing from time to time to the credit of the Related Pledged Bank Account, prior
+to the Senior Discharge Date, in accordance with the terms of the Senior Facilities
+Agreement, and thereafter, at all times strictly subject to the Intercreditor Agreement, in
+accordance with the terms of the Mezzanine Facility Agreement.
+
+Following the occurrence of an Event of Default and upon notice of such event by the Senior”
+Security Agent (or, as the case may be and at all times strictly subject to the Intercreditor
+Agreement, the Mezzanine Security Agent) to the Related Pledged Bank Account Holder and
+the Pledgor:
+(i) the Pledgor shall (subject to the provisions of paragraph (d) below) no longer be
+entitled to have the use and enjoyment of the monies held on the Related Pledged
+Bank Account; and
+
+(i) any sum standing to the credit of the Related Pledged Bank Account on the date of
+receipt of the notice in question and those which would later be credited may
+therefore be subject to the enforcement referred to in clause 5 (Enforcement).
+
+If each Event of Default referred to in paragraph (c) above has been remedied or ceased to
+exist to the satisfaction of the relevant Beneficiaries, or if it has been waived in writing, the
+Senior Security Agent (or, as the case may be and at all times strictly subject to the
+Intercreditor Agreement, the Mezzanine Security Agent) shall notify the Related Pledged
+Bank Account Holder and the Pledgor, and the provisions of paragraph (b) above shall apply
+as if the Event of Default had never existed.
+
+REPRESENTATIONS AND WARRANTIES
+
+The Pledgor represents and warrants to the Beneficiaries on the date hereof, and at all times during the
+Security Period when the representations and warranties will be deemed restated (and for instance
+upon deliverance of the Statement of Pledge and upon registeration of any new Financial Securities in
+the share transfer registry (registre de mouvements de titres) and the shareholders accounts registry
+(comptes d'actionnaires)), that
+
+@)
+
+(b)
+
+the Pledgor is duly incorporated with limited liability and validly existing under the laws of
+England and Wales and with power to own its assets and to carry on its business as it is being
+conducted;
+
+the Company is duly incorporated with limited liability and validly existing under the laws of
+France and with power to own its assets and to carry on its business as it is being conducted;
+
+Gly dh
+
+
+
+===== page 13 =====
+(c) the Pledgor is duly empowered to enter into this Agreement and to perform its obligations
+hereunder;
+
+(d) no authorisation, approval, acceptance (agrémenf), consent, licence, notice or other
+requirement of public or corporate bodies of the Pledgor or of the Company is required in
+connection with the entry into, performance, validity or enforceability of this Agreement and
+of the Statement of Pledge, save as any authorization which has been duly obtained and for
+which proof of such authorization has been communicated to the Senior Security Agent and
+the Mezzanine Security Agent;
+
+(Q) no acceptance clause (clause d‘agrément) can prevent or slow-down the enforcement of the
+Pledge ;
+
+@ the execution of this Agreement and performance of the Pledgor's obligations hereunder and. i
+the performance by the Company of the transactions contemplated by this Agreement do not '
+and will aot breach, violate or conflict with any agreement (including any shareholders’
+agreement) to which the Pledgor or the Company is respectively a party or which is binding
+upon their respective assets, by-laws, rules, regulations, or any applicable law, regulation or
+official or judicial order ot any authorization;
+
+() subject to applicable Legal Reservations and the Perfection Requirements, this Agreement
+and the undertakings hereunder constitute legal, valid and binding obligations of the Pledgor,
+which shall, as from the execution of the Statement of Pledge, be enforceable against the
+Pledgor, the Company and third parties and create a first ranking pledge, ranking above the i
+tights that any other person may have over the Pledged Accounts and the Financial Securities
+registered on the Pledged Accounts and over the proceeds of any sale of the Financial
+Securities;
+
+(hy it is the owner of the Pledged Accounts and the registered owner of the Financial Securities \
+and it has not created, incurred or permitted to subsist any Security Interest over the Pledged
+Accounts or the Financial Securities (with the exception of the Pledge);
+
+@ the Financial Securities have been fully paid up and represent and will continue to represent at
+all times 100 % of the share capital and voting rights of the Company; and
+
+iO} there are no existing option to purchase the Financial Securities, stock option plan or any
+agreement under which the financial securities of the Company could be purchased, and more
+generally, there are no agreement under which the Company has undertaken to issue new
+financial securities.
+
+4. UNDERTAKINGS.
+
+During the Security Period, the Pledgor undertakes, unless otherwise authorised in any Finance
+Document:
+
+(a) not to sell, assign, pledge, grant nor allow to subsist any encumbrance of any sort whatsoever
+or otherwise transfer all or part of the Financial Securities and/or the Pledged Accounts;
+
+(b) to procure that no additional share nor financial security will be issued by the Company (and
+
+more generally to procure that no change in the share capital distribution of the Company will
+occur);
+
+ty
+
+
+===== page 14 =====
+©
+
+@)
+
+©
+
+Q
+
+@
+
+(b)
+
+()
+
+not to do or cause or permit to be done anything which may adversely affect the Pledge or the
+tights of the Beneficiaries under the Pledge or which in any way is inconsistent with, or
+depreciates, jeopardises or otherwise prejudices the Pledge;
+
+to procure that the Securities Account Holder provides to the Senior Security Agent or, after
+the Senior Discharge Date, the Mezzanine Security Agent, upon demand, a Secutities
+Account Certificate of Pledge comprising the inventory of all Financial Securities recorded on
+the Securities Account as of the date of delivery of such certificate;
+
+to procure that the Related Pledged Bank Account Holder provide from time to time to the
+Senior Security Agent or, after the Senior Discharge Date, the Mezzanine Security Agent,
+upon reasonable demand (it being specified that, as long as any Default is continuing, such
+demand will be deemed reasonable), a Related Pledged Bank Account Certificate of Pledge
+comprising the inventory of all cash proceeds standing to the credit of the Related Pledged
+Bank Account as of the date of delivery of such certificate; and
+
+that, from time to time, at its own expense, it will promptly execute and deliver all further
+instruments and documents and take all further action that the Senior Security Agent or, after
+the Senior Discharge Date, the Mezzanine Security Agent may request in order to perfect and
+protect the Pledge or to enable the Beneficiaries to exercise and enforce their rights and
+remedies hereunder.
+
+ENFORCEMENT
+
+In the event of the occurrence of a Declared Default, the Senior Beneficiaries (or, as the case
+may be and at all times strictly subject to the Interereditor Agreement, the Mezzanine
+Beneficiaries) may, upon five (5) clear days (jours francs) prior written notice (mise en
+demeure) sent to the Pledgor, exercise all rights, remedies and actions whatsoever which are
+available under French law to enforce the Senior Beneficiaries’ rights (or, as the case may be
+and at all times strictly subject to the Intercreditor Agreement, the Mezzanine Beneficiaries’
+rights) under the Pledge in accordance with the provisions of this Agreement and the
+Intercreditor Agreement, up to the limit of the Secured Obligations.
+
+Without limitation to the provisions of paragraph (a) above, in the event of the occurrence of
+a Declared Default, the parties irrevocably agree that the Senior Beneficiaries (or, as the case
+may be and at all times strictly subject to the Intercreditor Agreement, the Mezzanine
+Beneficiaries) may freely decide to enforce the Pledge:
+
+@ by having full title to the Financial Securities transferred to the Senior Beneficiaries
+(or, as the case may be and at all times strictly subject to the Intercreditor Agreement
+the Mezzanine Beneficiaries) in accordance with articles L, 521-3 of the French Cade
+de Commerce and 2348 of the French Code Civil, in accordance with the provisions
+of paragraph (c) and (d) below; and/or
+
+(ii) by having full title to any amount credited on the Related Pledged Bank Account, in
+accordance with article L.21 {-20 of the French Code Monétaire et Financier.
+
+The Senior Beneficiaries (represented by the relevant representative) (or, as the case may be
+and at all times strictly subject to the Intercreditor Agreement, the Mezzanine Beneficiaries
+(represented by the relevant representative)) shall notify the enforcement of the Pledge
+referred to under paragraph (b)(i) above to the Pledgor and the Securities Account Holder, by
+sending an enforcement notice notified (signifid) by a bailiff (Auissier) or by registered letter
+with acknowledgement of receipt or delivered in person, it being specified that such notice
+shall mention the date of the transfer of ownership of the Financial Securities to the Senior
+
+& dy fo P
+
+
+===== page 15 =====
+@
+
+Beneficiaries (or, as the case may be and at all times strictly subject to the Intercreditor
+Agreement, the Mezzanine Beneficiaries) as being the date of sending of such notice to the
+Securities Account Holder (the "Enforcement Date"). The transfer of ownership of the
+Financial Securities to the Senior Beneficiaries (or, as the case may be and at all times strictly
+subject to the Intercreditor Agreement, the Mezzanine Beneficiaries) shall therefore be
+registered by the Securities Account Holder in the share transfer registry (registre de
+mouverents de titres) and the shareholders accounts registry (comptes d'actionnaires) of the
+Company on such date.
+
+In accordance with article 2348 of the French Code Civil, the value of all Financial Securities
+as of the Enforcement Date (the "Enforcement Value") shall be determined by an expert
+appointed as specified below (the "Expert") in accordance with the following provisions:
+
+@ the Expert shall be appointed in accordance with the following provisions:
+
+(A) the Expert shall be the first person mentioned in the list referred to in
+Schedule 4 (List of Experts for the Determination of the Enforcement Value),
+unless the Pledgor and the Senior Beneficiaries (or, as the case may be and at
+all times strictly subject to the Intercreditor Agreement, the Mezzanine
+Beneficiaries) consider reasonably that such person is in a conflict of interest
+situation or that such person refuses the Mission (as defined below), in which
+case the Expert shall be the first person next mentioned in the list referred to
+in Schedule 4 (List of Experts for the Determination of the Enforcement
+Value), and successively in the order of priority referred therein until an
+Expert is appointed; and :
+
+@®) if all the persons listed in Schedule 4 (List of Experts for the Determination of
+the Enforcement Value) are in a conflict of interest situation or refuse the
+Mission as specified in sub-paragraph(A) above, the Expert shall be
+appointed by the Président of the Paris Commercial Court (by way of
+summary judgment (référé) further to a motion by the most diligent party)
+among leading commercial banks exercising activities in France;
+
+Gd the Expert's mission shall be the determination of the Enforcement Value (the
+Mission");
+
+(iii) the Parties shall be bound by the Enforcement Value set by the Expert, save as in the
+event of a manifest error. In the event of a manifest error (erreur grossiére) in the
+determination of the Enforcement Value, the Senior Beneficiaries (or, as the case may
+be and at all times strictly subject to the Intercreditor Agreement, the Mezzanine
+Beneficiaries) will be able to challenge the Enforcement Value. If such error being
+acknowledged by the Commercial court, a new Expert shall be chosen by the
+president of the commercial court of Paris (Président du Tribunal de Commerce de
+Paris) among Tier 1 French Investment Banks and such Expert shall perform the
+Mission in accordance with the same terms and conditions as referred to in this
+paragraph (4);
+
+{iv) _ the Expert shall act as joint agent (mandataire commun) for the parties in accordance
+with the provisions of article 2348 of the French Code Civil;
+
+wv) the Expert shall carry out all diligetices which it considers necessary in order to fulfill
+its Mission and shall obtain from the Pledgor or the Senior Security Agent (or, if
+applicable, Mezzanine Security Agent) any document or information necessary in
+relation to the Company and, if applicable, its subsidiaries;
+
+10
+
+& fy fol
+
+
+
+===== page 16 =====
+©
+
+@
+
+(g)
+
+7
+
+(vi) the assessment methods retained for the performance of the Mission shall be
+consistent with the methods usually used for the purpose of the acquisition of
+companies or groups of companies of similar size and business;
+
+(vii) the Expert shall deliver to the Senior Security Agent, the Mezzanine Security Agent
+and the Pledgor, within 30 (thirty) Business Days after the date of acceptation of its
+Mission, a copy of its report setting forth its determination of the Enforcement Value
+and the assessment methods retained for the purpose of the Mission;
+
+(viii) the Pledgor shall fully bear all fees and expenses of the Expert incurred in the
+discharge of its Mission hereunder;
+
+(ix) __ the Beneficiaries shall not be liable for the determination of the Enforcement Value.
+
+If, following any cnforcement of the Pledge, a "soulte" is owed by the relevant Beneficiaries
+to the Pledgor, such "soulte" shall not be immediately payable but shalt be payable only on
+the earlier of (i) the date falling fifteen months after the date of such enforcement and (ii) the
+date on which the proceeds resulting from a sale to a third-party of all the shares of the
+Company have been distributed to the Beneficiaries in accordance with the provisions of the
+Intercreditor Agreement.
+
+If, as a result of paragraph (e) above, the relevant Beneficiaries must pay a "soulte" before the
+Discharge Date, such "soulte" will be paid on a bank account opened with, prior to the Senior
+Discharge Date, the Senior Security Agent and thereafter, the Mezzanine Security Agent, it
+being specified that (i) such bank account will be pledged to the benefit of the relevant
+Beneficiaries as security for the due performance of the Secured Obligations and (ii) any
+amount outstanding on such bank account will be applied to the payment of the Secured
+Obligations in accordance with the provisions of the Intercreditor Agreement,
+
+Each relevant Beneficiary will pay upon first request of, prior to the Senior Discharge Date,
+the Senior Security Agent, and thereafter, the Mezzanine Security Agent, its participation in
+the payment of the “sowlte" which will be calculated by the Senior Security Agent or the
+Mezzanine Security Agent (as applicable) based on the percentage of the participation of each
+relevant Beneficiary in the Secured Obligations at the time of the enforcement of the Pledge.
+The obligations of each relevant Beneficiary to pay its participation in the payment of the
+"soulte" are several,
+
+DURATION
+
+This Agreement and the Pledge shall remain in full force and effect throughout the Security
+Period.
+
+Following the Discharge Date, upon request of the Pledgor and at the Pledgor's expense, the
+Senior Security Agent or, after the Senior Discharge Date, the Mezzanine Security Agent
+shall promptly certify to the Pledgor in writing, on behalf of ihe Beneficiaries, the release of
+the Pledge constituted by this Agreement and the Statement of Pledge.
+
+NOTICES
+
+Any communication to be made under or in connection with this Agreement shall be made in
+accordance with clause 27 (Notices) of the Intercreditor Agreement, as though the same was set out
+herein mutatis mutandis, provided that the address and other contact details of each party to this
+Agreement which is not a party to the Interereditor Agreemient are the address and contact details
+
+fy fol
+
+
+
+===== page 17 =====
+shown immediately after its name on the signature page of this Agreement (or any other address and
+contact details notified from time to time in accordance with the Intercreditor Agreement).
+
+8. EXPENSES
+
+Any expense (including legal fees and other out of pocket expenses and any Taxes) and costs, which
+the Beneficiaries may incur in connection with the perfection, preservation, performance or
+enforcement of any of the Beneficiaries’ rights under this Agreement, the Pledge and the release of the
+Pledge, shall be paid in accordance with the provisions of the Finance Documents.
+
+9 MISCELLANEOUS
+
+(ay This Agreement and the Pledge are in addition to and are not in any way prejudiced by any
+other Security Interest now or subsequently held by any Beneficiary,
+
+(b) This Agreement and the Pledge created hereunder do not exelude or limit in any way the
+rights of any of the Beneficiaries pursuant to or in connection with any of the other Finance
+Documents and do not prevent the exercise of any other rights or remedies provided by law or
+any other Finance Document.
+
+(c) Should any provision of this Agreement be or become illegal, invalid or unenforceable, the
+other provisions of this Agreement shall remain legal, valid and enforceable against the
+parties to this Agreement independently of the said illegal, invalid or unenforceable
+provisions.
+
+(d) No failure to exercise, nor any delay in exercising, on the part of the Beneficiaries or any of
+them, any right or remedy under this Agreement shall operate as a waiver thereof, nor shall
+any single or partial exercise of any right or remedy prevent any further or other exercise
+thereof or the exercise of any other right or remedy.
+
+(e) The rights and remedies provided pursuant to this Agreement ate cumulative and not
+exclusive of any rights or remedies provided by law,
+
+(G) All the rights of each Beneficiary pursuant to this Agreement will benefit to its successors or
+assignees and all the terms, conditions, undertakings, representations and warranties of the
+Pledgor under this Agreement will be binding upon its successors or assignees in the same
+terms.
+
+(2) In the event that a transfer by any Beneficiary its rights and/or obligations under the present
+Agreement and Pledge occurred or was deemed to occur by way of novation, the relevant
+Beneficiary expressly reserves and maintains its rights and prerogatives under this Agreement
+and the Pledge for the benefit of its transferee, in accordance with the provisions of article
+1278 of the French Cade civil,
+
+10. GOVERNING LAW - JURISDICTION
+10.1 GOVERNING LAW
+
+This Agreement and any contractual or non-contractual obligation arising out of or in connection with
+this Agreement shall be governed by, and construed in accordance with, French law.
+
+10.2 JURISDICTION
+
+All disputes arising out of or in connection with this Agreement (including without limitation with
+respect to the existence, validity, performance, termination and interpretation of this Agreement and
+
+why da ¥
+
+
+
+===== page 18 =====
+any non-contractual obligation arising out of or i connection with this Agreement) shall be submitted
+to the exclusive jurisdiction of the Commercial Court of Paris (Tribunal de commerce de Paris).
+
+Executed on the date indicated on the first page, in eight (8) originals, on the Execution Page
+hereafter.
+
+13
+
+
+
+===== page 19 =====
+SCHEDULE 1
+FORM OF STATEMENT OF PLEDGE OF FINANCIAL SECURITIES ACCOUNT
+
+Déclaration de Nantissement de Compte de Titres Financiers
+
+soumise aux dispositions de l'article L. 211-20 du Code monétaire et financier
+
+La présente déclaration est émise conformément A, et selon les termes et conditions stipulés dans, un
+acte de nantissement de compte-titres en langue anglaise dénommé Pledge of Securities Account
+Agreement en date du [+] 2016 conclu notamment entre inter alios te Constituant (tel que défini ci-
+aprés) en tant que Pledgor, Lloyds Bank PLC en qualité de Senior Security Agent et Beechbrook
+Mezzanine II Jersey Limited en qualité de Mezzanine Security Agent, définissant les modalités de
+fonctionnement du Compte Nanti (tel que défini ci-aprés) (I' "Acte de Nantissement"), dont une
+copie figure en armexe de la présente déclaration de nantissement.
+
+Les termes en anglais commengant par une majuscule utilisés dans la présente déclaration et qui n'y
+ont pas été autrement définis auront la signification qui leur est attribuée dans l'Acte de Nantissement,
+fe cas échéant par tenvoi aux termes définis dans ;
+
+i. la convention de crédits (Senior Term and Revolving Facilities Agreement) en date du
+3 février 2016 conclue, inter alios, entre Caelius Midco 2 Limited, en tant que Parent, Caelius
+Bidco Limited, en tant qu'emprunteur (Original Borrower), les Original Guarantors (tels que
+listés en annexe 1 de la convention de crédits), Lloyds Bank PLC en tant qu’arrangeur
+(Mandated Lead Arranger), les préteurs (Original Lender) (tels que listés en annexe ! de la
+convention de crédits), Lloyds Bank PLC en qualité de Original Hedge Counterparty et
+Loyds Bank PLC en tant qu'agent (Agent) et agent des siiretés (Security Agent) (telle quelle
+pourrait étre amendée ultéricurement, la "Convention de Crédits Senior") ; et
+
+ii. la convention de crédit mezzanine (Mezzanine Facility Agreement) en date du 3 février 2016,
+conclue, inter alios, entre Caelius Midco 2 Limited, en tant que Parent, Caelius Bidco
+Limited, en tant qu'emprunteur (Original Borrower), les Original Guarantors (tels que listés
+en annexe 1 de la convention de crédits), Beechbrook Capital LLP en tant qu'arrangeur
+(Mandated Lead Arranger), les pr8teurs (Original Lender) (tels que listés en annexe 1 de la
+convention de crédits), Beechbrook Capital LLP en tant qu'agent (Agenf) et Beechbrook
+Mezzanine II Jersey Limited en tant qu'agent des siiretés (Security Agent) (telle qu'elle
+pourrait étre amendée ultéricurement, la "Convention de Crédit Mezzanine").
+
+1, Instructions aux Teneurs de Compte
+
+La soussignée, Alpha Financial Markets Consulting Group Limited, une société de droit anglais, dont
+Je siége social est situé 60 Gresham Street, London, EC2V 7BB, identifiée sous le numéro 07160664
+(le "Constituant") :
+
+(a) donne instruction 4 Alpha Financial Markets Consulting SAS, une société par actions
+simplifiée, dont le siége social est situé 37, rue des Mathurins, 75008 Paris, immatriculée au
+Registre du Commerce et des Sociétés sous le numéro 523 666 063 RCS Paris (la "Société"
+ou le "Teneur du Compte-Titres"),
+
+(0) de transférer sur le compte-titres spécial n°[1 bis] ouvert 4 son nom dans les livres du
+Teneur du Compte-Titres (le "Compte-Titres") les titres financiers suivants :
+
+tay f =
+
+
+
+===== page 20 =====
+Nature Valeur nominale | Forme Nombre
+
+actions émises parla { € 1 (un euro) nominative 150.000 (cent
+Société chacune cinquante mille)
+
+ainsi que, sans préjudice des stipulations de l'Acte de Nantissement, tout Titre
+Financier émis par la Société et dont le Constituant deviendrait titulaire 4 quelque
+moment et de quelque maniére que ce soit;
+
+(ii) d'enregistrer le Nantissement dans le registre de mouvement de titres de la Société et
+dans le Compte-Titres en inscrivant la mention suivante:
+
+"Affectation en nantissement conformément aux termes d'une déclaration de
+nantissement de compte de titres financiers en date du [+] 2016 signée par Aipha
+Financial Markets Consulting Group Limited en qualité de Constituant en garantie
+des Obligations Garanties envers les Bénéficiaires (les termes commencant par une
+majuscule ayant le sens qui leur est attribué dans la déclaration susvisée)";
+
+(iii) a compter de la présente déclaration et jusqu’a ce qu'il soit donné mainlevée du
+Nantissement, de verser tout paiement ou prépaiement de dividendes en numéraire,
+d'intéréts ou au titre de distribution de toute nature en relation avec les Titres
+Financiers au Constituant sur le Compte Bancaire Associé Nanti visé ci-dessous ; et
+
+(b) donne instruction 4 HSBC, une société anonyme dont le sige social est situé 103, avenue des
+Champs-Elysées, 75008 Paris, immatriculée au Registre du Commerce et des Sociétés sous le
+numéro 775 670 284 RCS Paris, agissant a travers son agence située 3, rue des Mathurins,
+75008 Paris (le "Teneur du Compte Bancaire Associé Nanti"), 4 compter de la présente
+déclaration et jusqu'a ce qu'il soit donné mainlevée du Nantissement, de considérer le compte
+ouvert au nom du Constituant dans ses livres sous les références suivantes : Compte n° : [+],
+Code Banque : [*], Code Guichet : [+], Clé RIB: [+] (le "Compte Bancaire Associé Nanti"),
+comme constituant le compte spécial réputé faire partic intégrante du Compte-Titres la date
+de la présente déclaration, conformément a l'article L.211-20 Tl du Code monétaire et
+financier,
+
+(le Compte-Titres et le Compte Bancaire Associé Nanti étant ci-aprés définis le "Compte Nanti").
+2. Affectation en Nantissement
+Le Constituant constitue en nantissement de premier rang le Compte Nanti au bénéfice des personnes
+
+ci-aprés désignées (les "Bénéficiaires") conformément a I'article T.. 211-20 du Code monétaire et
+financier :
+
+ENTITE CONVENTION AUX QUALITE
+TERMES DE
+LAQUELLE LES
+DROITS SONT
+GARANTIS
+
+Bénéficiaires Senior (Senior Beneficiaries)
+
+1S
+
+® fa fal
+
+
+
+===== page 21 =====
+Lloyds Bank PLC, une société de droit anglais | Convention de Crédits | Agent Senior et Agent
+dont le siége social est situé [*], et dont le | Senior des Siretés Senior
+numéro d’ identification est [*]
+
+Lloyds Bank PLC, une société de droit anglais | Convention de Crédits | Préteur Senior et
+dont le siége social est situé [*], et dont le | Senior et Documents Banque de Couverture
+numéro d’identification est [+] de Couverture
+
+Bénéficiaires Mezzanine (Mezzanine Beneficiaries)
+
+Beechbrook Capital LLP, [+] Convention de Crédit | Agent Mezzanine
+Mezzanine
+
+Beechbrook Mezzanine II Jersey Limited, [+] Convention de Crédit | Agent des Siretés
+
+Mezzanine Mezzanine
+Beechbrook Mezzanine II Sarl, [*] Convention de Crédit | Préteur Mezzanine
+Mezzanine
+
+Ainsi que toute entité qui succédera 4 (une quelconque des entités susvisées en cette qualité
+conformément aux stipulations des Documents de Financement susvisés concernés (pour autant en ce
+qui concerne toute Banque de Couverture cédant que son cessionnaire soit un Préteur Senior}.
+
+En garantie de l'exécution des obligations de paicment et de remboursement du Constituant envers les
+Bénéficiaires au titre des Documents de Financement, y compris au titre de futures mises 4
+dispositions ou de toute somme due au titre de Pannulation, de 1a résiliation ou résolution de chacun
+des Documents de Financement, que ce soit seul, conjointement ou solidairement, avec toute autre
+personne, inconditionnellement ou non, immédiatement ou a terme, 4 savoir notamment :
+
+i. en tant que Garant (Guarantor) (sous réserve, dans tous les cas, des stipulations de l'article 21
+(Guarantee and Indemnity) de la Convention de Crédits Senior) des obligations des autres
+débiteurs (Obligors) au titre de Ja Convention de Crédits Senior :
+
+a. au titre du crédit A (Facility A) pour un montant maximum en principal de
+
+5
+
+b. au titre du crédit B (Facility B) pour un montant maximum en principal de
+(e: :
+
+c. au titre du crédit revolving (Revolving Facility) pour un montant maximum en
+principal de QQammmaRm: ;
+
+ii, le cas échéant, en tant qu'Emprunteur (suite 4 une accession a la Convention de Crédits Senior
+en qualité d'Emprunteur Additionnel (Additional Borrower)), au. titre du crédit renouvelable
+(Revolving Facility) pour un montant maximum de SE;
+
+iii. en tant que Garant (Guarantor) (sous réserve, dans tous les cas, des stipulations de article 18
+(Guarantee and Indemnity) de la Convention de Crédit Mezzanine) des obligations des autres
+débiteurs (Obligors) au titre du crédit (Facility) consenti aux termes de la Convention de
+Crédit Mezzanine pour un montant maximum en principal de EUR 7.857.000 ;
+
+b fy. 3%
+
+
+===== page 22 =====
+iv. en tant que Garant (Guarantor) en garantie de l'exécution des obligations de paiement et de
+remboursement aux termes des Documents de Couverture (Hedging Agreements) ;
+
+majoré de tous intéréts, intéréts de retard, frais, commissions et accessoires quelconques, calculés
+conformément aux stipulations de la Convention de Crédits Senior, de la Convention de Crédit
+Mezzanine et des Documents de Couverture.
+
+(ci-aprés les "Obligations Garanties").
+
+Fait 4 [Londres], le [+] 2016, en [+] {[*]) exemplaires originaux.
+
+Pour constitution du Nantissement:
+
+ALPHA FINANCIAL MARKETS CONSULTING GROUP LIMITED
+Le Constituant
+
+Par :[e]
+
+7
+
+aw dug of
+
+
+
+===== page 23 =====
+4 April 2016
+Translation for information purposes only
+
+STATEMENT OF PLEDGE OF FINANCIAL SECURITIES ACCOUNT
+Statement of Pledge over Financial Securities Account
+
+Subject to provisions of article L. 211-20 of the Monetary and Financial Code
+
+This statement of pledge is issued in accordance with, and pursuant to, the terms and conditions of a
+pledge of securities account agreement drafted in English and entitled Pledge of Securities Account
+Agreement, dated 1 April 2016, entered into between, among others, the Pledgor (as defined below),
+Lloyds Bank plc, as Senior Security Agent and Beechbrook Mezzanine II Jersey Limited as
+Mezzanine Security Agent, and which determines the provisions applicable to the Pledged Accounts
+{as defined below) (the "Pledge Agreement"), a copy of which is attached to the statement of pledge.
+
+Capitalized terms in English used in this statement of pledge and not otherwise defined herein shall
+have the meaning ascribed to them in the Pledge Agreement, as defined in the case may be by
+reference to:
+
+i. the senior term and revolving facilities agreement dated 3 February 2016 entered into
+between, amongst others, Caelius Midco 2 Limited, as Parent, Caelius Bideo Limited as
+Original Borrower, the Original Guarantors (as listed in part 1 of schedule | therein), Lloyds
+Bank ple as Mandated Lead Arranger, the financial institution listed in part 2 of schedule 2
+therein as Original Lender, Lloyds Bank ple as Original Hedge Counterparty, and Lloyds
+Bank plc as Agent and Security Agent, as amended from time to time (the "Senior Facilities
+Agreement”); and
+
+ii. the mezzanine facility agreement dated 3 February 2016 entered into between, amongst
+others, Caelius Midco 2 Limited, as Parent, Caclius Bidco Limited as Original Borrower, the
+Original Guarantors (as listed in part 1 of schedule 1 therein), Beechbrook Capital LLP as
+Mandated Lead Arranger, the Original Lender (as listed in part 2 of schedule 2 therein),
+Beechbrook Capital LLP as Agent and Beechbrook Mezzanine II Jersey Limited as Security
+Agent, as amended from time to time (the "Mezzanine Facility Agreement").
+
+1. Instructions to account holders
+
+Alpha Financial Markets Consulting Group Limited, a limited liability company incorporated in
+England having its registered office located 60 Gresham Street, London, EC2V 7BB, and whose
+identification number is 07160664 (the "Pledgor"), hereby:
+
+(a) gives instructions to Alpha Financial Markets Consulting France SAS, a société par actions
+simplifiée incorporated in France, having its registered office located at 19, boulevard
+Malesherbes, 75008 Paris and whose registered number is 523 666 063 RCS Paris (the
+"Company" or the "Securities Account Holder"),
+
+(i) to transfer on the special securities account n°! bis opened in the name of the Pledgor
+in the register of the Securities Account Holder (the "Securities Account") the
+following financial securities:
+
+a PIPER.
+
+WE HEREBY CERTIFY THIS TO BE A TRUE COPY
+OF THE ORIGINAL
+
+glia uf Alb
+
+DATE.
+
+
+
+===== page 24 =====
+(b)
+
+Gi)
+
+(iii)
+
+4 April 2016
+Translation for information purposes only
+
+Nature Nominal value Type Number
+
+shares issued by the | € 1 (one euro) nominative 150,000 (one
+
+Company each hundred and fifty
+thousand)
+
+as well as, without prejudice to the provisions of the Pledge Agreement, any Financial
+Instruments issued by the Company and of which the Pledgor may become the owner;
+
+to register the Pledge in the register of the Company and in the Securities Account by
+writing the following wording:
+
+"Pledge pursuant to a statement of Pledge of financial instruments dated I April 2016
+signed by the Pledgor as security for the Secured Obligations towards the
+Beneficiaries (Capitalized terms shall have the meaning ascribed to them in the
+statement of pledge)"
+
+as from the date of this statement of pledge and until the release of the Pledge, to
+make any payment or prepayment of dividends in cash, interest and other
+distributions in respect of the Financial Securities to the Pledgor on the Related
+Pledged Bank Account referred to below;
+
+gives instructions to HSBC, whose registered office is at 103, avenue des Champs-Elysées,
+75008 Paris, France and whose registered number is 775 670 284 RCS Paris (the "Related
+Pledged Bank Account Holder"), as from the date of the statement of pledge and until the
+release of the Pledge, to consider the bank account opened in the name of the Pledgor under
+the following references: Account n°: (QNQNYB643, Bank code: 30056, Branch code: 00915,
+RIB key: 05 (BAN FR76 30056 00915 @QQMMMING43) (the "Related Pledged Bank
+Account"), as the special bank account deemed to be a part of the pledge over the Securities
+Account on the date hereof, in accordance with article L. 211-20 III of the Monetary and
+Financial Code,
+
+(the Securities Account and the Related Pledged Bank Account being hereafter defined as the
+"Pledged Accounts").
+
+2.
+
+Pledge
+
+The Pledgor hereby grants a first ranking pledge over the Pledged Accounts to the benefit of the
+persons hereafter listed (the "Beneficiaries"), in accordance with article L. 211-20 of the Monetary
+and Financial Code:
+
+ENTITY AGREEMENT QUALITY
+PURSUANT TO WHICH
+THE BENEFICIARY IS
+SECURED
+Senior Beneficiaries
+Lloyds Bank PLC, a public limited company | Senior Facilities Senior Agent and
+incorporated in England having its registered | Agreement Senior Security Agent
+office located at 25 Gresham Street, London,
+EC2V 7HN, and whose identification number is
+
+
+
+===== page 25 =====
+4 April 2016
+
+Translation for information purposes only
+
+00002065
+
+Lloyds Bank PLC, a public limited company
+incorporated in England having its registered
+office located at 25 Gresham Street, London,
+EC2V THN, and whose identification number is
+00002065
+
+Senior Facilities Senior Lender and
+Agreement and Hedge Counterparty
+Hedging Agreement
+
+Mezzanine Beneficiaries
+
+Beechbrook Capital LLP, a limited liability
+partnership incorporated in England having its
+registered office located at 2nd Floor, 43-45
+Dorset Street, London WIU 7NA, and whose
+identification number is OC337678
+
+Mezzanine Facility
+Agreement
+
+Mezzanine Agent
+
+Beechbrook Mezzanine If Jersey Limited, a
+private company incorporated in Jersey having
+its registered office located at 3rd Floor South
+Tower 29/31 Esplanade St Helier Jersey JE4
+58J, and whose identification number is 113041
+
+Mezzanine Facility
+Agreement
+
+Mezzanine Security
+Agent
+
+Beechbrook Mezzanine II Sarl, incorporated in
+Luxembourg having its registered office located
+at 2-8 Avenue Charles de Gaulle, 1-1653
+Luxembourg and whose identification number is
+B178.669
+
+Mezzanine Facility Mezzanine Lender
+
+Agreement
+
+as well as any successor of any entity listed above, in accordance with the provisions of the relevant
+Finance Documents (as long as, regarding the Hedge Counterparty, that such successor is a Senior
+
+Lender),
+
+as security of any payment liability or repayment liability of the Pledgor (whether actual or
+contingent, owed jointly or severally, or owed immediately or in the future) to the Beneficiaries under
+any Finance Documents, including any future amount to be made available or any amount to be due
+following the cancellation or termination of any of the Finance Documents, including in particular:
+
+i. as Guarantor pursuant to the Senior Facilities (subject to the provisions of article 21 of the
+Senior Facilities Agreement) of any obligation of any Obligor:
+
+(i) pursuant to Facility A (as defined in the Senior Facilities Agreement) for a principal
+amount of A
+(ii) pursuant to Facility B (as defined in the Senior Facilities Agreement) for a principal
+amount of' . and
+(iii) pursuant to the Revolving Facility (as defined in the Senior Facilities Agreement) for
+a principal amount of >
+ii. as the case may be, as Borrower (following an accession to the Senior Facilities Agreement as
+
+Additional Borrower) under the Revolving Facility (as defined in the Senior Facilities
+
+Agreement) for a principal amount of
+
+5
+
+
+===== page 26 =====
+4 April 2016
+Translation for information purposes only
+
+iii. as Guarantor pursuant to the Mezzanine Facility Agreement (subject to the provisions of
+article 18 of the Mezzanine Facility Agreement) of any obligation of any Obligor under the
+Mezzanine Facility Agreement pursuant to the Facility (as defined in the Mezzanine Facility
+Agreement) for a principal amount of QD (
+
+iv. as Guarantor of any sum due under the Hedging Agreements;
+together with any interest, default interest, expense, fee or any related cost, as determined in
+accordance with the provisions of the Senior Facilities Agreement or the Mezzanine Facility
+Agreement or the Hedging Agreement, as the case may be.
+(the "Secured Obligations").
+
+Signed in London, on | April 2016, in three (3) original copies.
+
+ALPHA FINANCIAL MARKETS CONSULTING GROUP LIMITED
+As Pledgor
+
+By: Mr Euan Fraser
+
+
+
+===== page 27 =====
+SCHEDULE 2
+FORM OF SECURITIES ACCOUNT CERTIFICATE OF PLEDGE
+
+Securities Account Certificate of Pledge
+(Attestation de Nantissement de Compte-Titres)
+
+Dated: [e]
+
+Pledge of the Securities Account by Alpha Financial Markets Consulting Group Limited of the
+shares in Alpha Financial Markets Consulting SAS — Securities Account Certificate of Pledge
+
+Dear Sir/Madam,
+(a) The undersigned hereby:
+
+(i) acknowledges receipt of a copy of the statement of pledge of financial securities
+account dated [¢] 2016 executed by Alpha Financial Markets Consulting Group
+Limited as Pledgor (the "Statement of Pledge"), a copy of which is attached to this
+certificate of pledge of Securities Account;
+
+i) certifies that [150,000] {{one hundred and fifty thousand]) shares of Alpha Financial
+Markets Consulting SAS held by Alpha Financial Markets Consulting Group Limited
+and mentioned in the Statement of Pledge have been transferred into a special
+securities account n°[l bis] opened in the name of Alpha Financial Markets
+Consulting Group Limited;
+
+(ii) certifies that such securities account is pledged in favor of the Beneficiaries with
+express note of this pledge as requested by the Statement of Pledge; and
+
+(iv) acknowledges the terms of its duties in its capacity as Securities Account Holder in
+accordance with the Statement of Pledge and the Pledge Agreement, including:
+
+(A) _ the prohibition made to the Pledgor to dispose of the shares or other financial
+secutities registered on the Securities Account in accordance with the Pledge
+Agreement;
+
+(B) the payment instructions relating to dividends in cash, interest and other
+distributions in respect of the Financial Securities, referred to in clause 2.4
+(Cash Proceeds) of the Pledge Agreement;
+
+({C) the obligation to register in the share transfer registry (regisire de
+mouvements de titres) and the shareholders accounts registry (comptes
+d’actionnaires) of Alpha Financial Markets Consulting SAS, the transfer of
+ownership of the Financial Securities upon receipt of an enforcement notice
+in accordance with clause 5 (Enforcement) of the Pledge Agreement.
+
+(b) Capitalized terms in English used in this certificate of pledge of Securities Account
+and not otherwise defined herein shall have the meaning ascribed to them in the
+Statement of Pledge (by reference to the equivalents terms in French).
+
+18
+
+dv wt nV
+
+
+
+===== page 28 =====
+ALPHA FINANCIAL MARKETS
+
+CONSULTING SAS
+The Securities Account Holder
+By: [e] '
+Schedule
+Copy of the Statement of Pledge :
+|
+19
+
+a ly tal
+
+
+===== page 29 =====
+SCHEDULE 3
+FORM OF RELATED PLEDGED BANK ACCOUNT CERTIFICATE OF PLEDGE
+
+Related Pledged Bank Account Certificate of Pledge
+(Attestation de Nantissement du Compte Bancaire Associé Nanti)
+
+Dated : [e]
+
+Pledge of the Securities Account by Alpha Financial Markets Consulting Group Limited of the
+shares in Alpha Financial Markets Consulting SAS and Related Pledged Bank Account -
+Related Pledged Bank Account Certificate of Pledge
+
+Dear Sir/Madam,
+
+(a) We, HSBC, a French société anonyme whose tegisteted office is at [#] and whose registered
+number is [#], hereby:
+
+@ acknowledges receipt of a copy of the statement of pledge of financial securities
+account dated [#] 2016 executed by Alpha Financial Markets Consulting Group
+Limited as Pledgor (the "Statement of Pledge"), a copy of which is attached to this
+certificate of pledge of Related Pledged Bank Account;
+
+(ii) certifies that the account with the following references: Account n°: [#], Bank Code:
+[¢}, Branch Code: [e], RIB: [e] referred to in the Statement of Pledge is opened in
+our books in the name of [#] and constitute the special account which shall be
+deemed to be an integral part of the Securities Account as from the date of execution
+of the Statement of Pledge in accordance with the provisions of article L .211-20 IIL
+of the French Cade Monétaire et Financier (in accordance with the provisions of the
+Statement of Pledge);
+
+(iii) [certifies that an amount of € [e] ([¢] euros) corresponding to [dividends] paid by
+[0] in connection with the shares of [e] held by [e] mentioned in the Statement of
+Pledge, has been credited into such special bank account; and
+
+(iv) acknowledges that, upon notice by the Senior Security Agent (or, after the Senior
+Discharge Date, the Mezzanine Security Agent) to us of the occurrence of an Event of
+Default:
+
+(A) __ the Pledgor shall no longer be entitled to have the use and enjoyment
+of the cash proceeds held on the Related Pledged Bank Account in
+accordance with clause 2.4 (Cash Proceeds) of the Pledge
+Agreement; and
+
+(B) we shall waive any and all Security Interest (including any right of
+set off) we may have over or with respect to the Related Pledged
+Bank Account.
+(b) Capitalized terms in English used in this certificate of pledge of Related Pledged Bank
+
+Account and not otherwise defined herein shall have the meaning ascribed to them in the
+Statement of Pledge (by reference to the equivalents terms in French).
+
+20
+
+cM dof
+
+
+
+===== page 30 =====
+tl
+The Related Pledged Bank Account Holder
+
+By: [¢]
+
+21
+
+ty dul
+
+
+===== page 31 =====
+Schedule
+Copy of the Statement of Pledge
+
+22
+
+se dad
+
+
+===== page 32 =====
+List of Experts for the Determination of the Enforcement Value
+
+SCHEDULE 4
+
+ENTITY
+
+Deloitte
+
+Emst & Young
+
+PricewaterhouseCoopers
+
+23
+
+
+
+===== page 33 =====
+EXECUTION PAGE
+
+THE PLEDGOR
+ALPHA FINANCIAL MARKETS CONSULTING GROUP LIMITED
+
+By: Mr. Euan Fraser, duly authorised
+
+THE SENIOR AGENT
+LLOYDS BANK PLC
+
+®y @Settte_ duly authorised
+
+THE SENIOR SECURITY AGENT
+LLOYDS BANK PLC
+
+duly authorised
+
+THE SENIOR LENDER
+LLOYDS BANK PLC
+
+ques
+ON
+
+By: » duly authorised
+
+THE HEDGE COUNTERPARTY
+LLOYDS BANK PLC
+
+By: .__, duly authorised
+
+
+
+===== page 34 =====
+THE MEZZANINE AGENT
+BEECHBROOK CAPITAL LLP
+
+By: Nt "bn , duly authorised
+T Déceegqetép mensee.,
+
+THE MEZZANINE SECURITY AGENT
+BEECHBROOK MEZZANINE II JERSEY LIMITED
+
+By: Toratlwen Bean duly authorised
+Derectar
+
+THE MEZZANINE LENDER
+BEECHBROOK MEZZANINE II SARL
+
+By: Christophe Ponticel duly authorised
+Manager
+
+25
+

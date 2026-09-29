@@ -1,0 +1,240 @@
+
+
+===== page 1 =====
+Statement of Consent to Prepare Abridged Financial Statements
+
+All of the members of Lionpoint Group (UK) Limited have consented to the preparation of the abridged statement of
+financial position for the year ending 31 December 2017 in accordance with Section 444{2A) af the Companies Act
+
+2006.
+
+
+
+===== page 2 =====
+COMPANY REGISTRATION NUMBER: 09869494
+
+Lionpoint Group (UK) Limited
+
+Filleted Unaudited Abridged Financial Statements
+31 December 2017
+
+
+===== page 3 =====
+Lionpoint Group (UK) Limited
+Abridged Financial Statements
+Year ended 31 December 2017
+
+Contents
+Abridged statement of financial position
+Notes to the abridged financial statements
+
+Page
+
+
+===== page 4 =====
+Lionpoint Group (UK) Limited
+Abridged Statement of Financial Position
+31 December 2017
+
+Fixed assets
+Intangible assets
+Tangible assets
+
+Current assets
+Debtors
+Cash at bank and in hand
+
+Creditors: amounts falling due within one year
+Net current liabilities
+
+Total assets less current liabilities
+
+Net liabilities
+
+Capital and reserves
+Called up share capital
+Profit and loss account
+
+Shareholders deficit
+
+These abridged financial statements have been prepared and delivered in accordance with the provisions
+applicable to companies subject to the small companies’ regime and in accordance with FRS 102 'The Financial
+Reporting Standard applicable in the UK and Republic of Ireland’.
+
+Note
+
+2017
+
+35,117
+
+100
+
+2016
+
+In accordance with section 444 of the Companies Act 2006, the income statement has not been delivered.
+
+For the year ending 31 December 2017 the company was entitled to exemption from audit under section 477 of the
+
+Companies Act 2006 relating to small companies.
+Director's responsibilities:
+
+- The members have not required the company to obtain an audit of its abridged financial statements for the year in
+
+question in accordance with section 476 ;
+
+- The director acknowledges his responsibilities for complying with the requirements of the Act with respect to
+
+accounting records and the preparation of abridged financial statements .
+
+
+===== page 5 =====
+Lionpoint Group (UK) Limited
+Abridged Statement of Financial Position (continued)
+31 December 2017
+
+These abridged financial statements were approved by the board of directors and authorised for issue on 12 April
+2018 , and are signed on behalf of the board by:
+
+Mr N A Moore
+
+Director
+
+Company registration number: 09869494
+
+
+
+===== page 6 =====
+Lionpoint Group (UK) Limited
+Notes to the Abridged Financial Statements
+Year ended 31 December 2017
+
+1. General information
+
+The company is a private company limited by shares, registered in England and Wales. The address of the
+registered office is Adam House, 7-10 Adam Street, London, WC2N 6AA.
+
+2. Statement of compliance
+
+These abridged financial statements have been prepared in compliance with Section 1A of FRS 102, ‘The Financial
+Reporting Standard applicable in the UK and the Republic of Ireland’.
+
+3. Accounting policies
+
+Basis of preparation
+
+The abridged financial statements have been prepared on the historical cost basis, as modified by the revaluation
+of certain financial assets and liabilities and investment properties measured at fair value through profit or loss.
+
+The abridged financial statements are prepared in sterling, which is the functional currency of the entity.
+Judgements and key sources of estimation uncertainty
+
+The preparation of the financial statements requires management to make judgements, estimates and assumptions
+that affect the amounts reported. These estimates and judgements are continually reviewed and are based on
+experience and other factors, including expectations of future events that are believed to be reasonable under the
+circumstances.
+
+Foreign currencies
+
+Foreign currency transactions are initially recorded in the functional currency, by applying the spot exchange rate
+as at the date of the transaction. Monetary assets and liabilities denominated in foreign currencies are translated at
+the exchange rate ruling at the reporting date, with any gains or losses being taken to the profit and loss account.
+Intangible assets
+
+Intangible assets are initially recorded at cost, and are subsequently stated at cost less any accumulated
+amortisation and impairment losses. Any intangible assets carried at revalued amounts, are recorded at the fair
+value at the date of revaluation, as determined by reference to an active market, less any subsequent accumulated
+amortisation and subsequent accumulated impairment losses. Intangible assets acquired as part of a business
+combination are recorded at the fair value at the acquisition date.
+
+
+
+===== page 7 =====
+Amortisation
+Amortisation is calculated so as to write off the cost of an asset, less its estimated residual value, over the useful
+life of that asset as follows:
+
+Intangible asset - 20% straight line
+
+If there is an indication that there has been a significant change in amortisation rate, useful life or residual value of
+an intangible asset, the amortisation is revised prospectively to reflect the new estimates.
+Tangible assets
+Tangible assets are initially recorded at cost, and subsequently stated at cost less any accumulated depreciation
+and impairment losses. Any tangible assets carried at revalued amounts are recorded at the fair value at the date
+of revaluation less any subsequent accumulated depreciation and subsequent accumulated impairment losses. An
+increase in the carrying amount of an asset as a result of a revaluation, is recognised in other comprehensive
+income and accumulated in equity, except to the extent it reverses a revaluation decrease of the same asset
+previously recognised in profit or loss. A decrease in the carrying amount of an asset as a result of revaluation, is
+recognised in other comprehensive income to the extent of any previously recognised revaluation increase
+accumulated in equity in respect of that asset. Where a revaluation decrease exceeds the accumulated revaluation
+gains accumulated in equity in respect of that asset, the excess shall be recognised in profit or loss.
+Depreciation
+Depreciation is calculated so as to write off the cost or valuation of an asset, less its residual value, over the useful
+economic life of that asset as follows:
+
+Equipment - 33 % straight line
+
+impairment of fixed assets
+
+A review for indicators of impairment is carried out at each reporting date, with the recoverable amount being
+estimated where such indicators exist. Where the carrying value exceeds the recoverable amount, the asset is
+impaired accordingly. Prior impairments are also reviewed for possible reversal at each reporting date. For the
+purposes of impairment testing, when it is not possible to estimate the recoverable amount of an individual asset,
+an estimate is made of the recoverable amount of the cash-generating unit to which the asset belongs. The
+cash-generating unit is the smallest identifiable group of assets that includes the asset and generates cash inflows
+that largely independent of the cash inflows from other assets or groups of assets. For impairment testing of
+goodwill, the goodwill acquired in a business combination is, from the acquisition date, allocated to each of the
+cash-generating units that are expected to benefit from the synergies of the combination, irrespective of whether
+other assets or liabilities of the company are assigned to those units.
+
+
+===== page 8 =====
+Defined contribution plans
+
+Contributions to defined contribution plans are recognised as an expense in the period in which the related service
+is provided. Prepaid contributions are recognised as an asset to the extent that the prepayment will lead to a
+reduction in future payments or a cash refund. When contributions are not expected to be settled wholly within 12
+months of the end of the reporting date in which the employees render the related service, the liability is measured
+on a discounted present value basis. The unwinding of the discount is recognised as a finance cost in profit or loss
+in the period in which it arises.
+
+4. Employee numbers
+
+The average number of persons employed by the company during the year amounted to 5 (2016: 2 ).
+
+5. Intangible assets
+
+£
+Cost
+At 1 January 2017 -
+Additions 39,755
+At 31 December 2017 39,755
+Amortisation
+At 1 January 2017 =
+Charge for the year 4,638
+At 31 December 2017 4,638
+Carrying amount
+At 31 December 2017 35,117
+At 31 December 2016 -
+6. Tangible assets
+
+£
+Cost
+At 1 January 2017 4,564
+Additions 1,100
+At 31 December 2017 5,664
+Depreciation
+At 1 January 2017 782
+Charge for the year 1,701
+At 31 December 2017 2,483
+
+Carrying amount
+At 31 December 2017 3,181
+
+At 31 December 2016 3,782
+
+
+
+===== page 9 =====
+This document was delivered using electronic communications and authenticated in accordance with the
+registrar's rules relating to electronic form, authentication and manner of delivery under section 1072 of
+the Companies Act 2006.

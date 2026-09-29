@@ -1,0 +1,433 @@
+
+
+===== page 1 =====
+Company registration number 12195470 (England and Wales}
+
+JPSB GROUP LIMITED
+UNAUDITED FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2025
+
+PAGES FOR FILING WITH REGISTRAR
+
+
+
+===== page 2 =====
+JPSB GROUP LIMITED
+
+BALANCE SHEET
+AS AT 31 MARCH 2025
+
+Fixed assets
+Tangible assets
+Investments
+
+Current assets
+Debtors
+Cash at bank and in hand
+
+Creditors: amounts falling due within one
+year
+
+Net current assets
+
+Total assets less current liabilities
+Provisions for liabilities
+
+Net assets
+
+Capital and reserves:
+
+Called up share capital
+
+Profit and loss reserves
+
+Total equity
+
+Notes
+
+e
+
+2025
+
+590,588
+191,247
+
+781,835
+
+(89,942)
+
+5,259
+29,211
+
+34,470
+
+691,893
+
+726,363
+
+(1,315)
+
+725,048
+
+10
+725,038
+
+725,048
+
+2024
+
+539,775
+144,867
+
+684,642
+
+(55,182)
+
+29,211
+
+29,211
+
+629,460
+
+658,671
+
+658,671
+
+10
+658,661
+
+658,671
+
+
+
+===== page 3 =====
+JPSB GROUP LIMITED
+
+BALANCE SHEET (CONTINUED)
+AS AT 31 MARCH 2025
+
+For the financial year ended 31 March 2025 the company was entitled to exemption Irom audit under section 477 of the
+Companies Act 2006 relating to small companies.
+
+The members have nat required the company to obtain an audit of its financial statements for the year in question in
+accordance with section 476.
+
+The directors acknowledge their respansibilitizs for complying with the requirements of the Companies Act 2006 with respect
+to accounting records end the preparation of financial statements.
+
+These financial statements have been prepared and delivered in accordance with the provisions applicable to companies
+subject to the small companies regime.
+
+The directors of the company have elected not to include a copy of the profit and loss account within the financial statements.
+
+The financial statements were approved by the board of directors and authorised for issue on 25 November 2025 and are
+signed on its behalf by:
+
+Mr KS Bhogal
+Director
+
+Company registration number 12195470 (England and Wales)
+
+
+
+===== page 4 =====
+JPSB GROUP LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MARCH 2025
+
+Accounting policies.
+
+Company information
+JPSB Group Limited is a private company limited by shares Incorporated in England and Wales. The registered office is
+Dawson House, 5 Jewry Street, London, EC3N 2EX.
+
+Accounting convention
+
+These financial statements have been prepared in accordance with FRS 102 "The Financial Reporting Standard
+applicable in the UK and Republic of Ireland” ("FRS 102") and the requirements of the Companies Act 2006 as
+applicable to companies subject to the small companies regime. The disclosure requirements of section 1A of FRS 102
+have been applied other than where acditional disclosure is required to show a true and fair view.
+
+The financial statements are prepared in sterling, which is the functional currency of the company. Monetary amounts
+in these financial statements are rounded to the nearest £.
+
+The financial statements have been prepared under the historical cost convention, [modified to include the revaluation
+of freehold properties and to include investment properties and certain financial instruments at fair value]. The principal
+accounting policies adopted are set oul below.
+
+‘The company has taken advantage of the exemption under section 399 of the Companies Act 2006 not to prepare
+consolidated accounts, on the basis that the group of which this is the parent qualifies as a small group. The financial
+statements present information about the company as an individual entity and not about its group.
+
+Turnover
+
+Revenue comprises sales of goods or services provided to customers net of value edded tax and other sales taxes,
+less an appropriate deduction for actual and expected returns and discounts. Revenue is recognised when
+performance obligations are satisfied and the control of goods or services is transferred to the buyer. Where the
+performance obligation is salisfied over time, revenue is recognised in accordance with its progress towards complete
+satisfaction of that performance obligation.
+
+When cash inflows are deferred and represent a financing arrangement, the promised consideration is adjusted for the
+effects of the time value of money, which is recognised as interest income.
+
+The nature, timing of satisfaction of performance obligations and significant payment terms of the company's major
+sourcas of reverue are as follows:
+
+Revenue from contracts for the provision of professional services is recognised by reference to the stage of completion
+when the stage of completicn, costs incurred and costs to complete can be estimated reliably. The stage of complation
+is calculated by comparing costs incurrad, mainly in relation to contractual hourly staff rates and materials, as a
+proportion of total costs. Where the outcome cannot be estimated reliably, revenue is recognised only to the extent of
+the expenses recognised that are recoverable.
+
+Tangible fixed assets
+Tangible fixed assets are initially measured at cosi and subsequently measured at cost or valuation, net of depreciation
+and any impairment losses.
+
+Depreciation is recognised so as to write off the cost or valuation of assets less their residual values over their useful
+lives on the following bases:
+
+Computers 25% straight line
+
+The gain or loss arising on the disposal of an asset is determined as the difference between the sale proceeds and the
+carrying value of the asset, and is credited or charged to profit or loss.
+
+
+
+===== page 5 =====
+JPSB GROUP LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 MARCH 2025
+
+Accounting policies (Continued)
+
+Fixed asset investments
+
+Interests in subsidiaries, associates and jointly controlled entities are initially measured at cost and subsequently
+measured at cost less any accumulated impairment losses. The investments are assessed for impairment at each
+reporting date and any impairment losses or reversals of impairment losses are recognised immediately in profit or loss
+
+A subsidiary is an entity controlled by the company. Control is the power to govern the financial and operating policies
+of the entity so as to obtain benefits from its activities.
+
+An associate is an entity, being neither a subsidiary nor a joint venture, in which the company holds a long-term interest
+and where the company has significant influence. The company considers that it has significant influence where it has
+the power to participate in the financial and operating decisions of the associate.
+
+Entities in which the company has a long term interest and shares control under a contractual arrangement are
+classified as jointly controlled entities.
+
+Impairment of fixed assets
+
+At each reperting period end date, the company reviews the carrying amounts of its tangible assets to determine
+whether there is any indication that those assets have suffered an impairment loss. If any such indication exists, the
+recoverable amount of the asset is estimated in order to determine the extent of the impairment loss (if any). Where it is
+not possible to estimate the recoverable amount of an individual asset, the company estimates the recoverable amount
+of the cash-generating unit to which the asset belongs.
+
+Recoverable amount is the higher of fair value less costs to sell and value in use. In assessing value in use, the
+estimated future cash ‘lows are discounted to their present value using a pre-tax discount rate that reflects current
+market assessments of the time value of money and the risks specific to the asset for which the estimates of future
+cash flows have not been adjusted.
+
+I the recoverable amount of an asset (or cash-generating unit) is estimated to be less than its carrying amount, the
+carrying amount of the asset (or cash-generating unit) is reduced to its recoverable amount, An impairment loss is
+recognised immediately in profit ar loss, unless the relevant asset is cared at a revalued amount, in which case the
+impairment loss is treated a8 a revaluation decrease.
+
+Recognised impairment losses are reversed if, and only if, the reasons for the impairment loss have ceased to apply.
+Where an impairment loss subsequently reverses, the carrying amount of the asset (or cash-generating unit) is
+increased to the revised estimate of its recoverable amount, but so that the increased carrying amount does not exceed
+the carrying amount that would have been determined had no impairment loss been recognised for the asset (or
+cash-generating unit) in prior years. A reversal of an impairment loss is recognised immediately in profit or loss, unless
+the relevant asset is carried al a revalued amount, in which case the reversal of the impairment loss is treated as a
+revalvation increase.
+
+Equity instruments
+Equity instruments issued by the company are recorded at the proceeds received, net of transaction costs. Dividends
+payable on equity instruments are recognised as liabilities once they are no longer at the discretion of the company.
+
+Taxation
+The tax expense represents the sum of the tax currently payable and deferred tax.
+
+
+
+===== page 6 =====
+JPSB GROUP LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 MARCH 2025
+
+1.10
+
+Accounting policies (Continued)
+
+Current tax
+
+The tax currently payable is based on taxable profit for the year. Taxable profit differs from net profit as reported in the
+profit and loss account because it excludes items of income or expense that are taxable or deductible in other years.
+and it further excludes items that are never taxable or deductible. The company’s liability for current tax is calculated
+using tax rates that have been enacted or substantively enacted by the reporting end date.
+
+Deferred tax
+
+Deferred tax liabilities are generally recognised for all timing differences and deferred tax assets are recognised to the
+extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable
+profits. Such assets and liabilities are not recognised if the timing difference arises from goodwill or from the initial
+recognition of ather assets and liabilities in a transaction that affects neither the tax profit nor the accounting profit.
+
+The carrying amount of deferred tax assets is reviewed at each reporting end date and reduced to the extent that itis
+no longer probable that sufficient taxable profits will be available to allow all or part of the asset to be recovered.
+Deferred tax is calculated al the tax rales that are expected to apply in the petiod when the liability is settled or the
+asset is realised. Deferred tax is charged or credited in the profit and loss account, except when it relates to items
+charged or credited directly to equity. in which case the deferred tax is also dealt with in equity. Deferred tax assets and
+liabilites are offset when the company has a legally enforceable right to offset current tax assets and liabilities and the
+deferred tax assets and liabilities relate to taxes levied by the same tax authority.
+
+Employee benefits
+The costs of short-term employee benefits are recognised as a liability and an expense, unless those costs are
+required to be recognised as part of the cost of stock or fixed assets.
+
+The cost of any unused holiday entitlement is recognised in the period in which the employee’s services are received.
+
+Termination benefits are recognised immediately as an expense when the company is demonstrably committed to
+terminate the employment of an employee or to provide termination benefits.
+
+Retirement benefits
+Payments to defined contribution retirement benefit schemes are charged as an expense as they fall due.
+
+Foreign exchange
+Transactions in currencies other than pounds sterling are recorded at the rates of exchange prevailing at the dates of
+the transactions, At each reporting end date, monetary assets and liabilities that are denominated in foreign currencies
+are retranslated at the rates prevailing on the reporting end date. Gains and losses arising on translation in the period
+are included in profit or lass.
+
+Employees
+
+The average monthly number of persons (including directors) operating within the company during the year was:
+
+2025 2024
+Number Number
+Total 8
+
+I.
+
+
+
+===== page 7 =====
+JPSB GROUP LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 MARCH 2025
+
+3
+
+Tangible fixed assets
+
+Cost
+
+At 1 April 2024
+
+Additions
+
+At 31 March 2025
+
+Depreciation and impairment
+Att April 2024
+
+Depreciation charged in the year
+
+AU31 March 2025
+
+Carrying amount
+At 31 March 2025
+
+At 34 March 2024
+
+Fixed asset investments
+
+Shares in group undertakings and participating interests
+
+Debtors
+Amounts falling due within one year:
+Trade debtors
+
+Amounts owed by group undertakings
+Other debtors
+
+Creditors: amounts falling due within one year
+
+Trade creditors
+Taxation and social security
+Other creditors
+
+2025
+
+cy
+
+29,211
+
+2025
+
+”
+
+135,453
+420,831
+34,304
+
+590,588
+
+2025
+
+419
+64,546
+24,977
+
+89,942
+
+Plant and
+machinery ete
+
+£
+
+7,012
+
+7,012
+
+1,753
+
+1,753
+
+5,259
+
+2024
+
+mn
+
+29,211
+
+2024
+
+»
+
+58,200
+463,788
+17,787
+
+539,775
+
+2024
+
+1,595
+39,222
+14,365
+
+55,182
+
+
+
+===== page 8 =====
+This document was delivered using electronic communications and authenticated in accordance with the
+registrar's rules relating to electronic form, authentication and manner of delivery under section 1072 of
+the Companies Act 2006.

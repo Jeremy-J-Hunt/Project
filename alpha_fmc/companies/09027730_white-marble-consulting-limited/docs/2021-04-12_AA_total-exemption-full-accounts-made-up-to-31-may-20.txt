@@ -1,0 +1,539 @@
+
+
+===== page 1 =====
+Registered number: 09027730
+
+WHITE MARBLE MARKETING LIMITED
+
+UNAUDITED
+FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2020
+
+Ashcroft
+
+
+===== page 2 =====
+WHITE MARBLE MARKETING LIMITED
+REGISTERED NUMBER: 09027730
+
+STATEMENT OF FINANCIAL POSITION
+AS AT 31 MAY 2020
+
+Fixed assets
+
+Tangible assets
+Investments
+
+Current assets
+
+Debtors: amounts falling due within one year
+Cash at bank and in hand
+
+Creditors: amounts falling due within one year
+
+Net current assets
+
+Total assets less current liabilities
+
+Creditors: amounts falling due after more than one
+year
+
+Provisions for liabilities
+
+Deferred tax
+
+Net assets
+Capital and reserves
+
+Called up share capital
+Share premium account
+Profit and loss account
+
+Note
+
+10
+
+2020
+
+16,757
+7,730
+
+24,487
+
+332,350
+114,896
+
+447,248
+(365,620)
+
+81,626
+
+106,113
+
+(101,531)
+
+(2,327)
+(2,327)
+2,255
+229
+
+2,197
+(174)
+
+2,255
+
+2019
+£
+11,726
+14,726
+175,617
+52,739
+228,356
+(155,040)
+73,316
+85,042
+(1,994)
+(1,994)
+83,048
+247
+82,801
+83,048
+
+Page 1
+
+
+===== page 3 =====
+WHITE MARBLE MARKETING LIMITED
+REGISTERED NUMBER: 09027730
+
+STATEMENT OF FINANCIAL POSITION (CONTINUED)
+AS AT 31 MAY 2020
+
+The directors consider that the Company is entitled to exemption from audit under section 477 of the Companies Act 2006 and
+members have not required the Company to oblain an audit for the year in question in accordance with section 476 of the Companies
+Act 2006.
+
+The directors acknowledge their responsibilities for complying with the requirements of the Companies Act 2006 with respect to
+accounting records and the preparation of financial statements.
+
+The financial statements have been prepared in accordance with the provisions applicable to companies subject to the small
+companies regime and in accordance with the provisions of FRS 102 Section 1A - small entities.
+
+The financial statements have been delivered in accordance with the provisions applicable to companies subject to the small
+companies regime.
+
+The Company has opted not to file the statement of comprehensive income in accordance with provisions applicable to companies
+subject to the small companies’ regime.
+
+The financial statements were approved and authorised for issue by the board and were signed on its behalf by:
+
+GR4J Field
+Director
+
+Date: 12 April 2021
+
+The notes on pages 3 to 9 form part of these financial statements.
+
+Page 2
+
+
+===== page 4 =====
+WHITE MARBLE MARKETING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2020
+
+1. General information
+The principal activity of the Company in the year under review was that of a marketing affiliate.
+The Company is a private company limited by shares and is incorporated in England and Wales.
+
+The Registered Office address of the Company is C/O William Sturges LLP Burwood House, 14-16 Caxton Street, London,
+SW1H O0QY.
+
+2. Accounting policies
+2.1 Basis of preparation of financial statements
+The financial statements have been prepared under the historical cost convention unless otherwise specified within these
+accounting policies and in accordance with Section 1A of Financial Reporting Standard 102, the Financial Reporting
+
+Standard applicable in the UK and the Republic of Ireland and the Companies Act 2006.
+
+The preparation of financial statements in compliance with FRS 102 requires the use of certain critical accounting
+estimates. It also requires management to exercise judgment in applying the Company's accounting policies.
+
+The following principal accounting policies have been applied:
+
+2.2 Going concern
+COVID-19 has created uncertainty with regard to forecasting revenues and client focus over 2020. However the
+investment management industry has handled the response to the pandemic well and marketing functions have
+experienced more focus as activities moved to a remote setting.
+The directors have managed the cost base carefully, created revenue scenarios and leveraged Government support
+schemes as a precaution for cautious cashflow management. The geographic diversification of the US market has helped
+
+to support continued revenue growth.
+
+Itis our belief that we are well positioned to continue to grow over the coming 12 months trading from the balance sheet
+date. Accordingly, the Directors believe it is reasonable to prepare these accounts on a going concern basis.
+
+2.3. Revenue
+
+Turnover is measured at the fair value of the consideration received or receivable for goods supplied and services
+rendered, net of discounts and Value Added Tax.
+
+Revenue from the sale of goods is recognised when the significant risks and rewards of ownership have transferred to the
+buyer; the amount of revenue can be measured reliably; it is probable that the associated economic benefits will flow to
+the entity; and the costs incurred or to be incurred in respect of the transactions can be measured reliably.
+
+2.4 Foreign currencies
+
+The Company's functional and presentational currency is GBP.
+
+Page 3
+
+
+===== page 5 =====
+WHITE MARBLE MARKETING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2020
+
+2.
+
+Accounting policies (continued)
+
+25
+
+26
+
+27
+
+28
+
+Operating leases: the Company as lessee
+Rentals paid under operating leases are charged to profit or loss on a straight line basis over the lease term.
+
+Benefits received and receivable as an incentive to sign an operating lease are recognised on a straight line basis over
+the lease term, unless another systematic basis is representalive of the time pattern of the lessee's benefit from the use of
+the leased asset,
+
+Interest income
+
+Interest income is recognised in profit or loss using the effective interest method
+Pensions
+
+Defined contribution pension plan
+
+The Company operates a defined contribution plan for its employees. A defined contribution plan is a pension plan under
+which the Company pays fixed contributions into a separate entity. Once the contributions have been paid the Company
+has no further payment obligations.
+
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not paid are shown in
+accruals as a liability in the Statement of Financial Position. The assets of the plan are held separately from the Company
+in independently administered funds.
+
+Current and deferred taxation
+
+The lax expense for [he year comprises current and deferred lax. Tax is recognised in profit or loss except (hal a charge
+attributable to an item of income and expense recognised as other comprehensive income or to an item recognised
+directly in equity is also recognised in other comprehensive income or directly in equity respectively.
+
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or substantively
+enacted by the reporting date in the countries where the Company operates and generates income.
+
+Deferred tax balances are recognised in respect of all timing differences that have originated but not reversed by the
+Statement of Financial Position date, except that:
+
+The recognition of deferred tax assets is limited to the extent that it is probable that they will be recovered against
+the reversal of deferred tax liabilities or other future taxable profits; and
+
+Any deferred tax balances are reversed if and when all conditions for retaining associated tax allowances have
+been met.
+
+Deferred tax balances are not recognised in respect of permanent differences except in respect of business
+combinations, when deferred tax is recognised on the differences between the fair values of assets acquired and the
+future tax deductions available for them and the differences between the fair values of liabilities acquired and the amount
+that will be assessed for tax. Deferred tax is determined using tax rates and laws that have been enacted or substantively
+enacted by the reporting date.
+
+Page 4
+
+
+===== page 6 =====
+WHITE MARBLE MARKETING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2020
+
+Accounting policies (continued)
+
+2.9 Tangible fixed assets
+Tangible fixed assets under the cost model are stated at historical cost less accumulated depreciation and any
+accumulated impairment losses. Historical cost includes expenditure that is directly attributable to bringing the asset to
+the location and condition necessary for it to be capable of operating in the manner intended by management.
+
+Depreciation is charged so as to allocate the cost of assets less their residual value over their estimated useful lives, on a
+reducing balance basis.
+
+Depreciation is provided on the following basis:
+
+Office equipment - 25%
+Computer equipment - 25%
+
+The assets’ residual values, useful lives and depreciation methods are reviewed, and adjusted prospectively if
+appropriate, or if there is an indication of a significant change since the last reporting date.
+
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised
+in profit or loss.
+
+2.10 Valuation of investments
+Investments in subsidiaries are measured at cost less accumulated impairment.
+2.11 Provisions for liabilities
+Provisions are made where an event has taken place that gives the Company a legal or constructive obligation that
+probably requires settlement by a transfer of economic benefit, and a reliable estimate can be made of the amount of the
+obligation.
+Provisions are charged as an expense to profit or loss in the year thal the Company becomes aware of the obligation, and
+are measured at the best estimate at the Statement of Financial Position date of the expenditure required to settle the
+obligation, taking into account relevant risks and uncertainties.
+When payments are eventually made, they are charged to the provision carried in the Statement of Financial Position.
+2.12 Financial instruments
+The Company only enters into basic financial instrument transactions that result in the recognition of financial assets and
+liabilities like trade and other debtors and creditors, loans from banks and other third parties, loans to related parties and
+investments in ordinary shares,
+
+Employees
+
+The average monthly number of employees, including directors, during the year was 11 (2019 - 10).
+
+Page 5
+
+
+===== page 7 =====
+WHITE MARBLE MARKETING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2020
+
+Tangible fixed assets
+
+Cost or valuation
+At 1 June 2019
+Additions
+
+At 31 May 2020
+
+Depreciation
+At 1 June 2019
+Charge for the year on owned assets.
+
+At 31 May 2020
+
+Net book value
+At31 May 2020
+
+At 37 May 2019
+
+Office Computer
+equipment equipment Total
+£ £ £
+11,633 6,025 17,658
+4,943 4,182 9,125
+16,576 10,207 28,783
+5,559 372 5,931
+2,231 1,864 4,095
+7,790 2,236 410,026
+8,786 7,971 16,757
+6,074 5,652 11,726
+
+Page 6
+
+
+===== page 8 =====
+WHITE MARBLE MARKETING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2020
+
+Fixed asset investments
+
+Cost or valuation
+Additions
+
+At 31 May 2020
+
+Debtors
+
+Trade debtors
+
+Amounts owed by group undertakings
+Other deblors
+
+Prepayments and accrued income
+
+Creditors: Amounts falling due within one year
+
+Other loans
+
+Trade creditors
+
+Corporation tax
+
+Other taxation and social security
+Other creditors
+
+Accruals and deferred income
+
+Investments in
+
+subsidiary
+
+companies
+
+£
+
+7,730
+
+730
+
+2020 2019
+
+£ £
+247,322 116,544
+34,636 -
+32,222 32,193
+18,170 26,880
+332,350 175,617
+2020 2019
+
+£ £
+29,775 -
+60,074 41,668
+660 -
+231,571 75,483
+8,475 8,499
+35,065 29,390
+85,620 _155,040
+
+Page 7
+
+
+===== page 9 =====
+WHITE MARBLE MARKETING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2020
+
+10,
+
+Creditors: Amounts falling due after more than one year
+
+Other loans
+
+Loans
+
+Analysis of the maturity of loans is given below:
+
+Amounts falling due within one year
+
+Other loans
+
+Amounts falling due 2-5 years
+
+Other loans
+
+Deferred taxation
+
+At beginning of year
+Charged to profit or loss.
+
+At end of year
+
+2020 2019
+£ £
+101,534 -
+101,534 -
+2020 2019
+
+£ £
+23,775 -
+29,775 :
+101,530 -
+101,530 -
+131,305 -
+2020
+
+£
+
+(1,994)
+
+(333)
+
+(2,327)
+
+Page 8
+
+
+===== page 10 =====
+WHITE MARBLE MARKETING LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2020
+
+10.
+
+11.
+
+12,
+
+Deferred taxation (continued)
+
+The provision for deferred taxation is made up as follows:
+
+2020
+£
+
+Accelerated capital allowances (2,327)
+
+(2,327)
+
+Pension commitments
+
+The Company operates a defined contributions pension scheme. The assets of the scheme are held
+
+2019
+
+(1,994)
+
+(1,994)
+
+seperatley from those of the Company in an independently administered fund. Contributions totalling £4,514 (2019: £2,082)
+
+were payable {fo the fund at the reporting date and are included within creditors.
+
+Commitments under operating leases
+
+At 31 May 2020 the Company had future minimum lease payments due under non-cancellable operating leases for each of the
+
+following periods:
+
+2020
+
+£
+
+Not later than 1 year 112,050
+Later than 1 year and not later than 5 years -
+112,050
+
+2019
+£
+
+149,400
+112,050
+
+261,450
+
+Page 9
+
+
+===== page 11 =====
+This document was delivered using electronic communications and authenticated in accordance with the
+registrar's rules relating to electronic form, authentication and manner of delivery under section 1072 of
+the Companies Act 2006.

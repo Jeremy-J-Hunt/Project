@@ -1,0 +1,180 @@
+
+
+===== page 1 =====
+Registered number
+04156972
+
+JPSB LIMITED
+Unaudited Abbreviated Accounts
+
+29 February 2016
+
+Chartered Accountants 3
+2 BEAUCHAMP COURT = “L5ISOKE2"
+10 VICTORS WAY Los 31/10/2016 #96
+BARNET COMPANIES HOUSE
+HERTS 7
+ENS 5TZ
+
+14094-15Abb
+
+
+===== page 2 =====
+JPSB LIMITED
+
+Chartered Accountants’ report to the board of directors on the preparation of the unaudited
+abbreviated accounts of JPSB LIMITED for the year ended 29 February 2016
+
+In order to assist you to fulfil your duties under the Companies Act 2006, we have prepared for your
+approval the abbreviated accounts of JPSB LIMITED for the year ended 29 February 2016 which
+comprise of the balance sheet and the related notes from the company’s accounting records and from
+information and explanations you have given us.
+
+As a practising member firm of the Institute of Chartered Accountants in England and Wales, we are
+subject to its ethical and other professional requirements which are detailed at
+icaew.com/membershandbook.
+
+This report is made solely to the Board of Directors of JPSB LIMITED, as a body, in accordance with
+the terms of our engagement letter dated 10 May 2005. Our work has been undertaken solely to
+Prepare for your approval the accounts of JPSB LIMITED and state those matters that we have
+agreed to state to the Board of Directors of JPSB LIMITED, as a body, in this report in accordance
+with AAF 2/10 as detailed at icaew.com/compilation. To the fullest extent permitted by law, we do not
+accept or assume responsibility to anyone other than JPSB LIMITED and its Board of Directors as a
+body for our work or for this report.
+
+It is your duty to ensure that JPSB LIMITED has kept adequate accounting records and to prepare
+statutory accounts that give a true and fair view of the assets, liabilities, financial position and profit of
+JPSB LIMITED. You consider that JPSB LIMITED is exempt from the statutory audit requirement for
+the year.
+
+We have not been instructed to carry out an audit or a review of the accounts of JPSB LIMITED. For
+this reason, we have not verified the accuracy or completeness of the accounting records or
+information and explanations pu have given to us and we do not, therefore, express any opinion on
+the abbreviated accounts.
+
+DAVID ISAACS & COMPANY
+Chartered Accountants
+
+2 BEAUCHAMP COURT
+
+10 VICTORS WAY
+
+BARNET
+
+HERTS
+
+ENS 5TZ
+
+21 September 2016
+
+
+===== page 3 =====
+JPSB LIMITED
+
+Registered number: 04156972
+Abbreviated Balance Sheet
+
+as at 29 February 2016
+
+Notes 2016 2015
+£ £
+
+Fixed assets
+Tangible assets 2 1,276 717
+Current assets
+Cash at bank and in hand 90,268 43,524
+Creditors: amounts falling due
+within one year (24,864) (9,482)
+Net current assets 65,404 34,042
+Total assets less current
+liabilities 66,680 34,759
+Provisions for liabilities (255) (143)
+Net assets 66,425 34,616
+Capital and reserves
+Called up share capital 3 100 100
+Profit and loss account 66,325 34,516
+Shareholders’ funds 66,425 34,616
+
+The director is satisfied that the company is entitled to exemption from the requirement to obtain an
+audit under section 477 of the Companies Act 2006.
+
+The members have not required the company to obtain an audit in accordance with section 476 of
+the Act.
+
+The director acknowledges his responsibilities for complying with the requirements of the
+Companies Act 2006 with respect to accounting records and the preparation of accounts.
+
+The accounts have been prepared in accordance with the provisions in Part 15 of the Companies
+Act 2006 applicable to companies subject to the small companies regime.
+
+AE
+
+Mr. K Bhogal
+Director
+Approved by the board on 21 September 2016
+
+
+===== page 4 =====
+JPSB LIMITED
+Notes to the Abbreviated Accounts
+for the year ended 29 February 2016
+
+1
+
+Accounting policies
+
+Basis of preparation
+The accounts have been prepared under the historical cost convention and in accordance with the
+Financial Reporting Standard for Smaller Entities (effective January 2015).
+
+Turnover
+Turnover represents the value, net of value added tax and discounts, of goods provided to
+customers and work carried out in respect of services provided to customers.
+
+Depreciation
+Depreciation has been provided at the following rates in order to write off the assets over their
+estimated useful lives.
+
+Equipment 25% p.a on written down value
+
+Deferred taxation
+
+Full provision is made for deferred taxation resulting from timing differences between the
+recognition of gains and losses in the accounts and their recognition for tax purposes. Deferred
+taxation is calculated on an un-discounted basis at the tax rates which are expected to apply in the
+periods when the timing differences will reverse.
+
+Pensions
+The company operates a defined contribution pension scheme. Contributions are charged to the
+profit and loss account as they become payable in accordance with the rules of the scheme.
+
+Tangible fixed assets £
+
+Cost
+
+At 1 March 2015 1,705
+
+Additions 985
+
+At 29 February 2016 2,690
+
+Depreciation
+
+At 1 March 2015 988
+
+Charge for the year 426
+
+At 29 February 2016 1,414
+
+Net book value
+
+At 29 February 2016 1,276
+
+At 28 February 2015 717
+
+Share capital Nominal 2016 2016 2015
+value Number £ £
+
+Allotted, called up and fully paid:
+
+Ordinary shares £1 each 100 100 100

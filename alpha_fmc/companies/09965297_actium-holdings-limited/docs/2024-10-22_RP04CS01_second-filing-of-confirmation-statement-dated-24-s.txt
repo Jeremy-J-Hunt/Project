@@ -1,0 +1,312 @@
+
+
+===== page 1 =====
+RP04
+
+Second filing of a document previously delivered
+
+BBR is House
+
+Jf What this form is for
+You can only use this form to file
+a second filing of a document
+delivered under the Companies Act
+2006 on or after 1 October 2009
+that contained trivial inaccuracies,
+Asecond filing of a document must
+only be filed where it is providing
+corrected information that has
+been properly delivered but trivial
+inaccuracies still appear on the
+register.
+
+What this form is NOT for
+
+You cannot use this form to file a
+second filing of a document delivered
+under the Companies Act 1985 or
+‘the Companies (Northern trelai
+Order 1986 regardless of wher
+delivered.
+
+Asecond filing of a document
+cannot be filed where it is cor
+information that was originall
+properly delivered. Form RPO1
+used in these circumstances.
+
+For further information,
+please refer to our guidance at:
+gov.uk/companieshouse
+
+I
+
+oart0 2024
+COMPANIES HOUSE
+
+#126
+
+Company number
+
+Company details
+
+Preprr Er
+
+Company name in full | ACTIUM HOLDINGS LIMITED
+
+(> Filling in this form
+Please complete in typescript or in.
+bold black capitals.
+
+All fields are mandatory unless
+specified or indicated by *
+
+Description of the original document
+
+Document type &
+Confirmation Statement (CS01) dated 24 September 2024
+
+(update to reftect the fact that PSC exemption statement no longer
+applies).
+
+Date of registration of fe fa [> [> Pe fo [2 [a
+
+the original document
+
+}@ Description of the original
+document
+Please enter the document
+type (e.g. a Return of allotment
+of shares—SHO1) and any
+distinguishing information if
+more than one document of that
+type was filed on the same day.
+
+Section 243 or 790ZF Exemption ®
+
+If you are applying for, or have been granted, exemption under section 243
+or 7902F of the Companies Act 2006 and the document(s) you are updating
+contain(s) your usual residential address, please post this form along with the
+updated document(s) to the address below:
+
+The Registrar of Companies, PO BOX 4082, Cardiff, CF14 3WE.
+
+(@ If you are currently in the process of
+applying for or have been granted
+a Section 243 or 790ZF exemption,
+you may wish to check that you
+have not entered your usual
+residential address as the service
+address in the accompanying form
+(e.g. APO or CHO1).
+
+09/23 Version 4.0
+
+
+===== page 2 =====
+RPO4
+
+Second filing of a document previously delivered
+
+| Presenter information
+
+i Important information
+
+You do not have to give any contact information, but if
+you do it will help Companies House if there is a query
+on the form. The contact information you give will be
+visible to searchers of the public record.
+
+| Contact name
+
+Georgina Sharley
+
+| ‘Company name
+
+|
+[“
+|
+|
+
+Alpha Financial Markets Consutting
+
+60 Gresham Street
+
+CouryRegion
+
+= _EeeMP eel
+
+| County United Kingdom
+ia
+
+Weshowe 07407728101
+Checklist
+
+We may return forms completed incorrectly or
+with information missing.
+
+Please make sure you have remembered the
+
+following:
+
+( The company name and number match the
+information held on the public Register.
+
+O You can only use this form to file a second filing of
+a document delivered to the Registrar of Companies
+under the Companies Act 2006 on or after
+1 October 2009 which contained trivial inaccuracies.
+
+©. Ifyou are updating a document where you have
+
+previously paid a fee, do not send a fee along with
+this form.
+
+You have enclosed the second filed document(s).
+
+{f the company to which this document relates has
+
+signed up to the PROOF (PROtected Online Filing)
+
+scheme, you must also deliver with this form, and
+the second filed document(s), a PRO3 form ‘Consent
+for paper filing,’
+
+oo
+
+Please note that all information on this form will
+appear on the public record.
+
+=| How to send your form
+
+You can upload certain forms to Companies House
+instead of sending them by post.
+
+If you need to post your form, you must send it to the
+correct address.
+
+For more information on where to send the form visit:
+
+gov.uk/companies-house/offices
+
+Further information
+
+For further information, please see the guidance
+notes on the website at gov.uk/companieshouse
+or email enquiries@companieshouse.gov.uk
+
+This form is available in an
+alternative format. Please visit
+the forms page on our website:
+gov.uk/companieshouse
+
+This form has been provided free of charge by Companies House.
+
+09/23 Version 4.0
+
+
+
+===== page 3 =====
+In accordance with
+Section 853E, 853H
+
+CS01 - additional information page
+
+of the Companies Act Confirmation statement
+2006.
+Part 3 Trading status of shares and exemption from keeping a
+
+register of people with significant control (PSC)
+
+Use this Part to tell us of the trading status of shares and information about
+ed exemption from keeping a PSC register (if this is the first time you're giving this
+information or if any of this information has changed since you last gave it).
+
+This part must be sent
+at the same time as your
+confirmation statement.
+
+X Do not send if none of this
+information has changed.
+
+For further information, please
+refer to our guidance at:
+gov.uk/companieshouse
+
+Company's shares admitted to trading on a market ©
+
+Were any shares admitted to trading on a market during the confirmation
+period? Please tick the appropriate box below:
+
+[] No ge to Part 4 section D1 ‘Non traded shareholders”
+¥ Yes go to Section C2 ‘DTR5’
+
+@A market is one established under
+the rules of a UK recognised
+investment exchange or any other
+UK of EU regulated market. The
+current UK recognised investment
+exchanges and regulated markets
+can be found at:
+f5a.gov.uldregister/exchanges.
+
+Exemption from providing shareholder information (DTR5) ®
+
+Throughout the confirmation period, was the company a traded company and
+an issuer to which DTRS applies? Please tick the appropriate box below:
+[Yes goto Section C3
+
+v No go to Section C3
+
+}@ Please review and complete this
+section if you have answered "Yes
+to section
+1 ‘Company's shares admitted to
+trading on a market’.
+
+DIRS
+DIRS refers to the Vote Holder and
+‘ssuer Notification Rules contained
+in Chapter 5 of the Disclosure and
+Transparency Rules source book
+issued by the Financial Conduct
+Authority.
+
+Exemption from keeping a people with significant control (PSC) register ©
+
+Is the company exempt or has it ever been exempt from keeping a PSC register:
++ Yes continue (Tick only one box),
+
+3 No goto Part 4 section D2 ‘Shareholder information for certain
+traded companies’.
+
+Please tick the appropriate statement:
+
+([1_ The company is exempt from the requirement to obtain information
+and keep a register of its PSC because the company has voting shares
+admitted to trading on a regulated market in the United Kingdom.
+
+[]__ The company is exempt from the requirement to obtain information
+and keep a register of its PSC because the company has voting shares
+admitted to trading on an EU regulated market.
+
+(C] The company is exempt from the requirement to obtain information
+and keep a register of its PSC because the company has voting shares
+admitted to trading on a market listed in Schedule 1 of the Register of
+People with Significant Control Regulations 2016.
+
+¥ The exemption from keeping a PSC register (Part 21A) no longer applies. ©
+
+© Exemption from keeping a PSC
+register
+In accordance with Part 21A of the
+Companies Act 2006.
+
+Exemption from keeping a PSC
+register no longer applies.
+IF you need to provide PSC
+information complete and return the
+appropriate forms.
+
+05/24 Version 5.0
+

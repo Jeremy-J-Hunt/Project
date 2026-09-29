@@ -1,0 +1,295 @@
+
+
+===== page 1 =====
+COMPANY REGISTRATION NUMBER: 04156972
+JPSB Limited
+
+Unaudited Financial Statements
+28 February 2017
+
+
+===== page 2 =====
+JPSB Limited
+
+Financial Statements
+Year ended 28 February 2017
+Contents
+
+Statement of financial position
+Notes to the financial statements
+
+Page
+
+
+===== page 3 =====
+JPSB Limited
+Statement of Financial Position
+
+28 February 2017
+
+Fixed assets
+
+Tangible assets
+
+Current assets
+
+Stocks
+
+Debtors
+
+Cash at bank and in hand
+
+Creditors: amounts falling due within one year
+Net current assets
+
+Total assets less current liabilities
+Provisions
+Taxation including deferred tax
+
+Net assets
+
+Capital and reserves
+Called up share capital
+Profit and loss account
+
+Members funds
+
+These financial statements have been prepared and delivered in accordance with the provisions applicable to
+companies subject to the small companies' regime and in accordance with FRS 102 'The Financial Reporting
+Standard applicable in the UK and Republic of Irelanc’.
+
+2017
+
+Note £
+6
+
+7 124,620
+
+8 105,677
+
+109,111
+
+339,408
+
+9 172,303
+
+1,335
+
+167,105
+
+267
+
+2016
+
+1,276
+
+In accordance with section 444 of the Companies Act 2006, the income statement has not been delivered.
+
+Far the year ending 28 February 2017 the company was entitled to exemption from audit under section 477 of the
+
+Companies Act 2006 relating to small companies.
+Director's responsibilities:
+
+- The members have not required the company to obtain an audit of its financial statements for the year in question
+
+in accordance with section 476 ;
+
+- The director acknowledges his responsibilities for complying with the requirements of the Act with respect to
+
+accounting records and the preparation of financial statements .
+
+
+===== page 4 =====
+JPSB Limited
+
+Statement of Financial Position (continued
+28 February 2017
+
+These financial statements were approved by the board of directors and authorised for issue on 9 October 2017 ,
+and are signed on behalf of the board by:
+Mr K S Bhogal
+
+Director
+Company registration number: 04156972
+
+
+===== page 5 =====
+JPSB Limited
+Notes to the Financial Statements
+
+Year ended 28 February 2017
+
+1. General information
+
+The company is a private company limited by shares, registered in England and Wales. The address of the
+registered office is 64 Clifton Street, London, EC2A 4HB.
+
+2. Statement of compliance
+
+These financial statements have been prepared in compliance with the provisions of FRS 102 Section 1A, 'The
+Financial Reporting Standard applicable in the UK and the Republic of Ireland’.
+
+3. Accounting policies
+
+Basis of preparation
+
+The financial statements have been prepared on the historical cost basis, as modified by the revaluation of certain
+financial assets and liabilities and investment properties measured at fair value through profit or loss.
+
+The financial statements are prepared in sterling, which is the functional currency of the entity.
+
+Transition to FRS 102
+
+The entity transitioned from previous UK GAAP to FRS 102 as at 1 March 2015. Details of how FRS 102 has
+affected the reported financial position and financial performance is given in note 13.
+
+Judgements and key sources of estimation uncertainty
+
+The preparation of the financial statements requires management to make judgements, estimates and assumptions
+that affect the amounts reported. These estimates and judgements are continually reviewed and are based on
+experience and other factors, including expectations of future events that are believed to be reasonable under the
+circumstances.
+
+Revenue recognition
+
+Turnover is measured at the fair value of the consideration received or receivable for goods supplied and services
+rendered, net of discounts and Value Added Tax. Revenue from the sale of goods is recognised when the
+significant risks and rewards of ownership have transferred to the buyer (usually on despatch of the goods); the
+amount of revenue can be measured reliably; it is probable that the associated economic benefits will flow to the
+entity; and the costs incurred or to be incurred in respect of the transactions can be measured reliably.
+
+Income tax
+
+The taxation expense represents the aggregate amount of current and deferred tax recognised in the reporting
+period. Tax is recognised in profit or loss, except to the extent that it relates to items recognised in other
+comprehensive income or directly in equity. In this case, tax is recognised in other comprehensive income or
+directly in equity, respectively. Current tax is recognised on taxable profit for the current and past periods. Current
+tax is measured at the amounts of tax expected to pay or recover using the tax rates and laws that have been
+enacted or substantively enacted at the reporting date.
+
+
+===== page 6 =====
+Deferred tax is recognised in respect of all timing differences at the reporting date. Unrelieved tax losses and other
+deferred tax assets are recognised to the extent that it is probable that they will be recovered against the reversal
+of deferred tax liabilities or other future taxable profits. Deferred tax is measured using the tax rates and laws that
+have been enacted or substantively enacted by the reporting date that are expected to apply to the reversal of the
+timing difference.
+Tangible assets
+Tangible assets are initially recorded at cost, and subsequently stated at cost less any accumulated depreciation
+and impairment losses. Any tangible assets carried at revalued amounts are recorded at the fair value at the date
+of revaluation less any subsequent accumulated depreciation and subsequent accumulated impairment losses. An
+increase in the carrying amount of an asset as a result of a revaluation, is recognised in other comprehensive
+income and accumulated in equity, except to the extent it reverses a revaluation decrease of the same asset
+previously recognised in profit or loss. A decrease in the carrying amount of an asset as a result of revaluation, is
+recognised in other comprehensive income to the extent of any previously recognised revaluation increase
+accumulated in equity in respect of that asset. Where a revaluation decrease exceeds the accumulated revaluation
+gains accumulated in equity in respect of that asset, the excess shall be recognised in profit or loss.
+Depreciation
+Depreciation is calculated so as to write off the cost or valuation of an asset, less its residual value, over the useful
+economic life of that asset as follows:
+
+Equipment - 25% reducing balance
+Stocks
+Stocks are measured at the lower of cost and estimated selling price less costs to complete and sell. Cost includes
+all costs of purchase, costs of conversion and other costs incurred in bringing the stock to its present location and
+condition.
+Provisions
+Provisions are recognised when the entity has an obligation at the reporting date as a result of a past event, it is
+probable that the entity will be required to transfer economic benefits in settlement and the amount of the obligation
+can be estimated reliably. Provisions are recognised as a liability in the statement of financial position and the
+amount of the provision as an expense. Provisions are initially measured at the best estimate of the amount
+required to settle the obligation at the reporting date and subsequently reviewed at each reporting date and
+adjusted to reflect the current best estimate of the amount that would be required to settle the obligation. Any
+adjustments to the amounts previously recognised are recognised in profit or loss unless the provision was
+originally recognised as part of the cost of an asset. When a provision is measured at the present value of the
+amount expected to be required to settle the obligation, the unwinding of the discount is recognised as a finance
+cost in profit or loss in the period it arises.
+
+
+===== page 7 =====
+Defined contribution plans
+
+Contributions to defined contribution plans are recognised as an expense in the period in which the related service
+is provided. Prepaid contributions are recognised as an asset to the extent that the prepayment will lead to a
+reduction in future payments or a cash refund. When contributions are not expected to be settled wholly within 12
+months of the end of the reporting date in which the employees render the related service, the liability is measured
+on a discounted present value basis. The unwinding of the discount is recognised as a finance cost in profit or loss
+in the period in which it arises.
+
+4. Staff costs
+
+The average number of persons employed by the company during the year, including the director, amounted to 2
+(2016: 1).
+
+5. Profit before taxation
+
+Profit before taxation is stated after charging:
+
+2017 2016
+£ £
+Depreciation of tangible assets 445 426
+6. Tangible assets
+Equipment
+£
+Cost
+At 1 March 2016 2,690
+Additions 504
+At 28 February 2017 3,194
+Depreciation
+At 1 March 2016 1,414
+Charge for the year 445
+At 28 February 2017 1,859
+Carrying amount
+At 28 February 2017 1,335
+At 29 February 2016 1,276
+7. Stocks
+2017 2016
+£ £
+Work in progress 124,620 =
+8. Debtors
+2017 2016
+£ £
+Trade debtors 88,200 =
+Other debtors 17,477 -
+
+105,677 -
+
+
+===== page 8 =====
+9. Creditors: amounts falling due within one year
+
+2017 2016
+
+£ £
+
+Trade creditors 134,055 -
+Corporation tax 36,890 16,752
+Social security and other taxes - 4,030
+Other creditors 1,358 4,180
+172,303 24,962
+
+10. Director's advances, credits and guarantees
+
+At the year end date there was a balance payable to the director of£108 (2016: £3,780). This balance was
+considered repayable on demand and has not been subject to any interest charge.
+
+11. Related party transactions
+
+The Director does not consider there were any transactions during the period that require disclosure.
+
+12. Controlling party
+
+Mr K Bhogal is considered to be the controlling party, holding 100% of the issued share capital.
+
+13. Transition to FRS 102
+
+These are the first financial statements that comply with FRS 102. The company transitioned to FRS 102 on 1
+March 2015.
+
+No transitional adjustments were required in equity or profit or loss for the year.
+
+
+===== page 9 =====
+This document was delivered using electronic communications and authenticated in accordance with the
+registrar's rules relating to electronic form, authentication and manner of delivery under section 1072 of
+the Companies Act 2006.

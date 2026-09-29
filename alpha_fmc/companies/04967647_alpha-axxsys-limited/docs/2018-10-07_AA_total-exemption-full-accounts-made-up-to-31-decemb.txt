@@ -1,0 +1,386 @@
+
+
+===== page 1 =====
+Registered number: 04967647
+
+va
+
+AXXSYS LIMITED
+
+UNAUDITED
+FINANCIAL STATEMENTS
+INFORMATION FOR FILING WITH THE REGISTRAR
+
+FOR THE YEAR ENDED 31 DECEMBER 2017
+
+mn
+
+|
+“eanoabeNe #173 |
+COMPANIES HOUSE 4
+
+FRIDAY
+
+
+===== page 2 =====
+AXXSYS LIMITED
+REGISTERED NUMBER: 04967647
+
+STATEMENT OF FINANCIAL POSITION
+AS AT 31 DECEMBER 2017
+
+2017 2016
+Note £ £
+Fixed assets
+Tangible assets 4 13,151 12,382
+Investments “5 16 1,600,006
+13,167 1,612,388
+
+Current assets
+Debtors: amounts falling due within one year 6 1,181,647 741,516
+Cash at bank and in hand 7 403,356 1,157,851
+
+1,585,003 1,899,367
+Creditors: amounts falling due within one
+
+year 8 (1,317,268) (1,114,852)
+
+Net current assets 267,735 787,515
+Total assets less current liabilities 280,902 2,399,903
+Net assets 280,902 2,399,903
+Capital and reserves
+Called up share capital . 49 49
+Share premium account 1,599,995 1,599,995
+Capital redemption reserve (886,744) (586,744)
+Profit and loss account (732,398) 1,386,603
+
+280,902 2,399,903
+
+The directors consider that the Company is entitled to exemption from audit under section 477 of the Companies Act 2006
+and members have not required the Company to obtain an audit for the year in question in accordance with section 476 of
+Companies Act 2006.
+
+The directors acknowledge their responsibilities for complying with the requirements of the Companies Act 2006 with
+raspect to accounting records and the preparation of financial statements.
+
+The financial statements have been prepared in accordance with the provisions applicable to companies subject to the
+small companies regime and in accordance with the provisions of FRS 102 Section 1A - small entities.
+
+The financial statements have been delivered in accordance with the provisions applicable to companies subject to the
+‘small companies regime.
+
+The Company has opted not to file the statement of comprehensive income in accordance with provisions applicable to
+companies subject to the small companies’ regime.
+
+The financial statements were approved and authorised for issue by the board and were signed on its behalf on 28
+September 2018.
+
+Stephen medermot,_—\ES>——=
+
+Director
+
+Page 1
+
+
+
+===== page 3 =====
+AXXSYS LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2017
+
+General information
+
+Axxsys Limited is a private company, limited by shares, registered in England and Wales, registration
+number 04967647. The registered office is New Broad Street House, 35 New Broad Street, London,
+United Kingdom, EC2M 1NH.
+
+The principal activity is management consultancy.
+
+Accounting policies
+
+24
+
+2.2
+
+2.3
+
+Basis of preparation of financial statements
+
+The financial statements have been prepared under the historical cost convention unless otherwise
+specified within these accounting policies and in accordance with Section 1A of Financial Reporting
+Standard 102, the Financial Reporting Standard applicable in the UK and the Republic of Ireland and
+the Companies Act 2006.
+
+The following principal accounting policies have been applied:
+Foreign currency translation
+
+Functional and presentation currency
+
+The Company's functional and presentational currency is GBP.
+Transactions and balances
+
+Foreign currency transactions are translated into the functional currency using the spot exchange
+rates at the dates of the transactions.
+
+At each period end foreign currency monetary items are translated using the closing rate. Non-
+monetary items measured at historical cost are translated using the exchange rate at the date of the
+transaction and non-monetary items measured at fair value are measured using the exchange rate
+when fair value was determined.
+
+Revenue
+
+Revenue is recognised to the extent that it is probable that the economic benefits will flow to the
+Company and the revenue can be reliably measured. Revenue is measured as the fair value of the
+consideration received or receivable, excluding discounts, rebates, value added tax and other sales
+taxes. The following criteria must also be met before revenue is recognised:
+
+Rendering of services
+
+Revenue from a contract to provide services is recognised in the period in which the services are
+provided in accordance with the stage of completion of the contract when all of the following
+conditions are satisfied:
+
+. the amount of revenue can be measured reliably;
+
+. it is probable that the Company will receive the consideration due under the contract;
+
+. the stage of completion of the contract at the end of the reporting period can be measured
+reliably; and .
+
+. the costs incurred and the costs to complete the contract can be measured reliably.
+
+Page 2
+
+
+===== page 4 =====
+AXXSYS LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2017
+
+Accounting policies (continued)
+
+2.4
+
+25
+
+2.6
+
+27
+
+2.8
+
+Operating leases: the Company as lessee
+
+Rentals paid under operating leases are charged to the Statement of Comprehensive Income on a
+straight line basis over the lease term.
+
+Benefits received and receivable as an incentive to sign an operating lease are recognised on a
+straight line basis over the lease term, unless another systematic basis is representative of the time
+pattern of the lessee's benefit from the use of the leased asset.
+
+Interest income
+
+Interest income is recognised in the Statement of Comprehensive Income using the effective interest
+method.
+
+Taxation
+
+Tax is recognised in the Statement of Comprehensive Income, except that a charge attributable to
+an item of income and expense recognised as other comprehensive income or to an item
+recognised directly in equity is also recognised in other comprehensive income or directly in equity
+respectively.
+
+The current income tax charge is calculated on the basis of tax rates and laws that have been
+enacted or substantively enacted by the reporting date in the countries where the Company operates
+and generates income.
+
+Tangible fixed assets
+
+Tangible fixed assets under the cost model are stated at historical cost less accumulated
+depreciation and any accumulated impairment losses. Historical cost includes expenditure that is
+directly attributable to bringing the asset to the location and condition necessary for it to be capable
+of operating in the manner intended by management.
+
+Depreciation is charged so as to allocate the cost of assets less their residual value over their
+estimated useful lives, on a reducing balance basis.
+
+Depreciation is provided on the following basis:
+
+Plant and machinery - 25% on reducing balance
+The assets’ residual values, useful lives and depreciation methods are reviewed, and adjusted
+prospectively if appropriate, or if there is an indication of a significant change since the last reporting
+
+date.
+
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount
+and are recognised in the Statement of Comprehensive Income.
+
+Valuation of investments
+
+Investments in subsidiaries are measured at cost less accumulated impairment.
+
+Page 3
+
+
+===== page 5 =====
+AXXSYS LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2017
+
+Accounting policies (continued)
+
+2.9 Debtors
+Short term debtors are measured at transaction price, less any impairment. Loans receivable are
+measured initially at fair value, net of transaction costs, and are measured subsequently at
+amortised cost using the effective interest method, less any impairment.
+
+2.10 Cash and cash equivalents
+Cash is represented by cash in hand and deposits with financial institutions repayable without
+penalty on notice of not more than 24 hours. Cash equivalents are highly liquid investments that
+mature in no more than three months from the date of acquisition and that are readily convertible to
+known amounts of cash with insignificant risk of change in value.
+
+2.11 Creditors
+Short term creditors are measured at the transaction price. Other financial liabilities, including bank
+loans, are measured initially at fair value, net of transaction costs, and are measured subsequently
+at amortised cost using the effective interest method.
+
+2.12 Financial instruments
+The Company only enters into basic financial instrument transactions that result in the recognition of
+financial assets and liabilities like trade and other debtors and creditors, loans from banks and other
+third parties, loans to related parties and investments in non-puttable ordinary shares.
+
+2.13 Dividends
+Equity dividends are recognised when they become legally payable. Interim equity dividends are
+
+recognised when paid. Final equity dividends are recognised when approved by the shareholders at
+an annual general meeting.
+
+Employees
+
+The average monthly number of employees, including directors, during the year was 15 (2016 - 13).
+
+Page 4
+
+
+===== page 6 =====
+AXXSYS LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2017
+
+Tangible fixed assets
+
+Plant and
+machinery
+£
+Cost or valuation
+At 1 January 2017 : 53,825
+Additions 4,154
+At 31 December 2017 57,979
+Depreciation .
+At 1 January 2017 41,443
+Charge for the year on owned assets 3,385
+At 31 December 2017 44,828
+Net book value
+At 31 December 2017 13,151
+At 31 December 2016 12,382
+Fixed asset investments
+investments
+in subsidiary
+companies
+£
+Cost or valuation
+At 1 January 2017 1,600,006
+At 31 December 2017 1,600,006
+Impairment
+Charge for the period 1,599,990
+At 31 December 2017 1,599,990
+Net book value
+At 31 December 2017 16
+
+At 31 December 2016 1,600,006
+
+Page 5
+
+
+===== page 7 =====
+AXXSYS LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2017
+
+Fixed asset investments (continued)
+
+The impairment in the year of £1,599,990 is a result of the hive up of the trade and net assets of WS Technology
+Consultants Ltd to Axxsys Ltd. There has been no impact on the trade of Axxsys Ltd as a result of the impairment.
+
+Subsidiary undertakings
+
+The following were subsidiary undertakings of the Company:
+
+Country of Class of Principal
+Name incorporation shares Holding activity
+Axxsys Financial
+Software Consulting Financial
+Canada Ltd * Canada Ordinary 100% Consultancy
+WS Technology Financial
+Consultants Ltd ** UK Ordinary 100% Consultancy
+
+The aggregate of the share capital and reserves as at 31 December 2017 * (31 March 2017 **) and of the profit or
+loss for the year ended on that date for the subsidiary undertakings were as follows:
+
+Aggregate of
+share capital
+
+and reserves _Profit/(loss)
+£ £
+Axxsys Financial Software Consulting Canada Ltd * 178,241 (20,277)
+WS Technology Consultants Ltd ** 173,015 234
+351,256 (20,043)
+Debtors
+2017 2016
+£ £
+Trade debtors 1,121,523 489,225
+Other debtors 24,712 233,525
+Prepayments and accrued income 35,412 18,766
+1,181,647 741,516
+Cash and cash equivalents
+2017 2016
+£ £
+Cash at bank and in hand 403,356 1,157,851
+
+403,356
+
+Page 6
+
+4,157,851
+
+
+===== page 8 =====
+AXXSYS LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2017
+
+Creditors: Amounts falling due within one year
+
+2017 2016
+£ £
+Trade creditors 252,066 297,711
+Amounts owed to group undertakings 1,869 174,200
+Corporation tax 16,064 190,014
+Other taxation and social security 147,084 163,544
+Other creditors 745,680 79,452
+Acéruals and deferred income 154,505 206,934
+
+1,317,268 1,111,852
+
+Related party transactions
+
+Included in other creditors are loans from directors totaling £672,075 (2016 - £3,379).
+
+Page 7

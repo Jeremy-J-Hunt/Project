@@ -1,0 +1,550 @@
+
+
+===== page 1 =====
+In accordance with Section 644 & 649 of the Companies Act 2006,
+
+SH19
+
+Statement of capital for reduction supported by
+solvency statement or court order
+
+ae
+
+Companies House
+
+A fee is payable with this form.
+Please see ‘How to pay’ on the last page.
+
+J What this form is for
+You may use this form as a statement
+of capital for a private limited company
+reducing its capital supported by a
+solvency statement; or for a private or
+public limited company reducing its
+capital supported by a court order.
+
+What this form is NOT for For further information, please
+You cannot use this form to refer to our guidance at
+complete a statement of capital www.gov.uk/companieshouse
+
+for a company re-registering from
+unlimited to limited.
+
+Company details
+
+Company number h fs [7 [a [s [a [7 [s_
+
+Company name in full | Actium Topco (UK) Limited
+
+> Filling in this form
+Please complete in typescript or in
+bold black capitals.
+
+All fields are mandatory unless
+specified or indicated by *
+
+Share capital
+
+resolution.
+
+Complete a separate table for each
+add pound sterling in ‘Currency table A’
+
+Complete the table(s) below to show the issued share capital as reduced by the
+
+currency (if appropriate). For example,
+and Euros in ‘Currency table B’.
+
+Continuation page
+Please use a Statement of Capital
+continuation page if necessary.
+
+Currency Class of shares
+
+Complete a separate E.g, Ordinary/Preference etc.
+table for each currency
+
+Currency table A
+
+Number of shares Aggregate nominal
+value (E, € S, etc)
+
+Number of shares issued
+
+Total aggregate amount
+unpaid, if any (£, €, $, etc)
+
+Including both the nominal
+
+multiplied by nominal value | value and any share premium
+
+Total issued share capital table
+
+GBP A ORDINARY SHARES 4126985 41269.85
+
+GBP B ORDINARY SHARES 255578 2555.78
+
+GBP Cl ORDINARY SHARES 577297 5772.97
+Totals | 4959860 49598.60 0
+Totals
+
+You must complete this table to show your total issued share capital. Add the
+
+Total number of shares | Total aggregate nominal
+
+Total aggregate amount
+
+totals from all currency tables, including continuation pages. value unpaid ©
+Show different currencies | Show different currencies
+separately. For example: | separately. For example:
+£100 + €100 + $10 £100 + €100 + $10
+Grand total | 248972811 2394167.836983 | 0
+
+@ Total aggregate amount unpaid
+
+Enter 0 or ‘il’ if the shares are fully paid. We'll assume the shares are fully paid if
+
+you leave this blank.
+
+05/24 Version 7.0
+
+
+===== page 2 =====
+SH19
+
+Statement of capital for reduction supported by solvency statement
+or court order
+
+Class of share
+
+A ORDINARY SHARES
+
+Prescribed particulars
+
+A. FULL VOTING RIGHTS B. RIGHT TO DIVIDENDS TO THE
+EXTENT DECLARED ON THE RELEVANT CLASS OF SHARES. C.
+ENTITLED TO A SHARE OF THE ASSETS ON A WINDINGUP OR
+RETURN OF CAPITAL AFTER PAYMENT OF PRIORITY SHARES,
+MRP PRIORITY SHARES, AND LOAN NOTES, AND IN
+ACCORDANCE WITH THE WATERFALL PROVISIONS (ARTICLE 44).
+D. THEY DO NOT CONFER RIGHTS OF REDEMPTION.
+
+Class of share
+
+B ORDINARY SHARES
+
+Prescribed particulars
+eo
+
+A. FULL VOTING RIGHTS B. RIGHT TO DIVIDENDS TO THE
+EXTENT DECLARED ON THE RELEVANT CLASS OF SHARES. C.
+ENTITLED TO A SHARE OF THE ASSETS ON A WINDINGUP OR
+RETURN OF CAPITAL AFTER PAYMENT OF PRIORITY SHARES,
+MRP PRIORITY SHARES, AND LOAN NOTES, AND IN
+ACCORDANCE WITH THE WATERFALL PROVISIONS (ARTICLE 44).
+D. THEY DO NOT CONFER RIGHTS OF REDEMPTION.
+
+Class of share
+
+Cl ORDINARY SHARES
+
+Prescribed particulars
+eo
+
+A. NO VOTING RIGHTS B. RIGHT TO DIVIDENDS TO THE EXTENT
+DECLARED ON THE RELEVANT CLASS OF SHARES. C. ENTITLED
+TO A SHARE OF THE ASSETS ON A WINDINGUP OR RETURN OF
+CAPITAL AFTER PAYMENT OF PRIORITY SHARES, MRP PRIORITY
+SHARES, AND LOAN NOTES, AND IN ACCORDANCE WITH THE
+WATERFALL PROVISIONS (ARTICLE 44). D. THEY DO NOT CONFER
+RIGHTS OF REDEMPTION.
+
+| Prescribed particulars of rights
+attached to shares
+
+The particulars are:
+
+a. particulars of any voting rights,
+including rights that arise only in
+certain circumstances;
+particulars of any rights, as
+respects dividends, to participate
+ina distribution;
+particulars of any rights, as
+respects capital, to participate in a
+distribution (including on winding
+up); and
+|. whether the shares are to be
+
+redeemed or are liable to be
+redeemed at the option of the
+company or the shareholder.
+
+ia
+
+2
+
+A separate table must be used for
+each class of share.
+
+Continuation pages
+Please use a Statement of capital
+continuation page if necessary.
+
+Authentication @
+
+lam authenticating this form on behalf of the company.
+Enter your printed name. You do not need to include a signature.
+
+Name
+
+JOANNES ANTHONIUS WILLEM GOOZE ZIJL
+
+This form may be authenticated by:
+Director,® Secretary, Person authorised,® CIC manager.
+
+@ Authentication
+This will appear on the public
+record.
+
+© UK Societas
+If the form is being filed on
+behalf of a UK Societas (UKS)
+please delete ‘director’ and insert
+details of which organ of the
+UKS the person authorising has
+membership.
+
+© Person authorised
+Under either section 270 or 274 of
+the Companies Act 2006.
+
+05/24 Version 7.0
+
+
+
+===== page 3 =====
+SH19
+
+Statement of capital for reduction supported by solvency statement
+
+or court order
+
+| Presenter information
+
+| Important information
+
+You do not have to give any contact information, but if
+you do it will help Companies House if there is a query
+on the form. The contact information you give will be
+visible to searchers of the public record.
+
+Please note that all information on this form will
+appear on the public record.
+
+How to pay
+
+Contact name
+
+CHANP/367872-2
+
+‘Company name
+
+Addleshaw Goddard LLP
+sees One St Peter's Square
+*estfoun Manchester
+County/Region
+Postcode
+[fo [fs [ole [|
+conty United Kingdom
+
+Dx
+
+Telephone
+
+Checklist
+
+We may return forms completed incorrectly or
+with information missing.
+
+Please make sure you have remembered the
+
+following:
+
+O The company name and number match the
+information held on the public Register.
+
+C1 You have completed the relevant sections of the
+statement of capital.
+
+C1 You have authenticated the form.
+
+O You have enclosed the correct fee.
+
+A fee of £33 is payable to Companies House to
+reduce the share capital by Court Order or by
+Solvency Statement.
+
+Make cheques or postal orders payable to
+‘Companies House.’
+
+EJ How to send your form
+
+You can upload certain forms to Companies House
+instead of sending them by post.
+
+If you need to post your form, you must send it to the
+correct address.
+
+For more information on where to send the form visit:
+gov.uk/companies-house/offices
+
+i Further information
+
+For further information, please see the guidance notes
+‘on the website at www.gov.uk/companieshouse or
+email enquiries@companieshouse.gov.uk
+
+This form is available in an
+alternative format. Please visit the
+forms page on the website at
+www.gov.uk/companieshouse
+
+This form has been provided free of charge by Companies House.
+
+05/24 Version 7.0
+
+
+
+===== page 4 =====
+In accordance with
+Section 644 & 649 of the
+Companies Act 2006.
+
+SH19 - Continuation page
+
+Statement of capital for reduction supported by solvency statement
+
+or court order
+
+Share capital
+
+Complete the table below to show the issued share capital as reduced by the resolution.
+
+Complete a separate table for each currency.
+
+Currency Class of shares Number of shares Aggregate nominal value Total aggregate amount
+Complete a separate E.g. Ordinary/Preference etc. (E, € $, etc) unpaid, if any (£, €, $, etc)
+{table for each currency Number of shares issued | Including both the nominal
+
+multiplied by nominal value |value and any share premium
+GBP D1 ORDINARY SHARES 577297 5772.97
+GBP PRIORITY SHARES 233878671 2338786.71
+GBP MRP SHARES 9556983 9.556983
+
+Totals | 244012951 2344569.236983 0
+
+05/24 Version 7.0
+
+
+===== page 5 =====
+In accordance with
+Section 644 & 649 of the
+Companies Act 2006.
+
+SH19 - Continuation page
+
+Statement of capital for reduction supported by solvency statement or court
+
+order
+
+Prescribed particulars of rights attached to shares
+
+Class of share
+
+D1 ORDINARY SHARES
+
+Prescribed particulars
+
+A. NO VOTING RIGHTS B. NO RIGHT TO DIVIDENDS C. ENTITLED
+TO A SHARE OF THE ASSETS ON A WINDING-UP OR RETURN OF
+CAPITAL AFTER PAYMENT OF PRIORITY SHARES, MRP PRIORITY
+SHARES, AND LOAN NOTES, AND IN ACCORDANCE WITH THE
+WATERFALL PROVISIONS (ARTICLE 44). D. THEY DO NOT CONFER
+RIGHTS OF REDEMPTION.
+
+© Prescribed particulars of rights
+
+attached to shares
+
+The particulars are:
+
+a. particulars of any voting rights,
+including rights that arise only in
+certain circumstances;
+
+particulars of any rights, as
+respects dividends, to participate
+ina distribution;
+
+particulars of any rights, as
+respects capital, to participate in a
+distribution (including on winding
+up); and
+
+whether the shares are to be
+redeemed or are liable to be
+redeemed at the option of the
+company or the shareholder.
+
+a
+
+9
+
+a
+
+A separate table must be used for
+each class of share.
+
+05/24 Version 7.0
+
+
+
+===== page 6 =====
+In accordance with
+Section 644 & 649 of the
+Companies Act 2006.
+
+SH19 - Continuation page
+
+Statement of capital for reduction supported by solvency statement or court
+
+order
+
+Prescribed particulars of rights attached to shares
+
+Class of share
+
+MRP SHARES
+
+Prescribed particulars
+
+A. NO VOTING RIGHTS EXCEPT ON VARIATION OF CLASS RIGHTS
+B. NO DIVIDEND RIGHTS UNLESS CONVERTED INTO MRP
+PRIORITY AND MRP ORDINARY SHARES UPON A DISTRIBUTION
+CONVERSION OR BOOK UP CONVERSION, AS OUTLINED IN
+ARTICLES 45 AND 46. C. ENTITLED TO PARTICIPATE IN
+DISTRIBUTIONS ONLY UNDER SPECIFIC CONDITIONS (E.G., A
+"WATERFALL EVENT” OR UPON CONVERSION TO MRP PRIORITY
+SHARES AND MRP ORDINARY SHARES). POST-CONVERSION, MRP.
+PRIORITY SHARES RECEIVE A FIXED RETURN, AND MRP
+ORDINARY SHARES SHARE IN DISTRIBUTIONS AS PER THE
+WATERFALL PROVISIONS (ARTICLE 44). D. THEY DO NOT CONFER
+RIGHTS OF REDEMPTION.
+
+© Prescribed particulars of rights
+
+attached to shares
+
+The particulars are:
+
+a. particulars of any voting rights,
+
+including rights that arise only in
+
+certain circumstances;
+
+particulars of any rights, as
+
+respects dividends, to participate
+
+ina distribution;
+
+particulars of any rights, as
+
+respects capital, to participate in a
+
+distribution (including on winding
+
+up); and
+
+|. whether the shares are to be
+redeemed or are liable to be
+redeemed at the option of the
+company or the shareholder.
+
+a
+
+9
+
+o
+
+A separate table must be used for
+each class of share.
+
+05/24 Version 7.0
+
+
+
+===== page 7 =====
+In accordance with
+Section 644 & 649 of the
+Companies Act 2006.
+
+SH19 - Continuation page
+
+Statement of capital for reduction supported by solvency statement or court
+
+order
+
+Prescribed particulars of rights attached to shares
+
+Class of share
+
+PRIORITY SHARES
+
+Prescribed particulars
+
+A. NO VOTING RIGHTS EXCEPT ON VARIATION OF CLASS RIGHTS
+B. ENTITLED TO RECEIVE A FIXED PRIORITY AMOUNT (12% PER
+ANNUM) BEFORE DISTRIBUTIONS TO OTHER SHARES, SUBJECT
+TO THE WATERFALL PROVISIONS (ARTICLE 44). C. ENTITLE
+
+TO PRIORITY REPAYMENT PLUS THE FIXED PRIORITY AMOUNT
+ACCORDING TO THE WATERFALL PROVISIONS (ARTICLE 44). D.
+THEY DO NOT CONFER RIGHTS OF REDEMPTION.
+
+© Prescribed particulars of rights
+attached to shares
+
+The particulars are:
+
+a. particulars of any voting rights,
+including rights that arise only in
+certain circumstances;
+
+particulars of any rights, as
+respects dividends, to participate
+ina distribution;
+
+particulars of any rights, as
+respects capital, to participate in a
+distribution (including on winding
+up); and
+
+whether the shares are to be
+redeemed or are liable to be
+redeemed at the option of the
+company or the shareholder.
+
+a
+
+9
+
+a
+
+A separate table must be used for
+each class of share.
+
+05/24 Version 7.0
+

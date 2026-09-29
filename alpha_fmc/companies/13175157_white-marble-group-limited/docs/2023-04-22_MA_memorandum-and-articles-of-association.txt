@@ -1,0 +1,2046 @@
+
+
+===== page 1 =====
+Company Number: 13175157
+
+*AC1BNG7D*
+A12 1B
+
+12/04/2023 "#9
+COMPANIES HOUSE
+
+The Companies Act 2006
+Private Company Limited by Shares
+
+ARTICLES OF ASSOCIATION
+of
+White Marble Group Limited
+
+WEDNESDAY
+
+(Amended by special resolution passed on 5 April 2023)
+
+PART 1: INTERPRETATION AND LIMITATION OF LIABILITY
+
+1. Defined terms
+
+In the articles, unless the context requires otherwise:-
+
+Accepting Shareholders has the meaning given in Article 32;
+
+Articles means the Company's articles of association;
+
+A Ordinary Shares means A ordinary shares of £0.001 each in the capital of the
+Company;
+
+A Ordinary Shareholder means a holder of A Ordinary Shares;
+
+Bad Leaver means a person who is not designated to be a Good Leaver;
+
+Balance has the meaning given in Article 39.1.2;
+
+Bankruptcy includes individual insolvency proceedings in a jurisdiction other
+
+than England and Wales or Northern Ireland which have an effect
+similar to that of bankruptcy;
+
+Board means the board of Directors from time to time of the Company;
+
+Business Day means a day (other than a Saturday) on which banks generally are
+open in London for a full range of business;
+
+_._. —.___B Ordinary.Shares... _ —...means B-ordinary-shares-of-£0.001. each-in-the-capital-of- the — — --
+
+Company;
+
+B Ordinary Shareholder means a holder of B Ordinary Shares;
+
+Capita! Return has the meaning given in Article 39.1;
+
+Chairman has the meaning given in Article 13;
+
+chairman of the meeting has the meaning given in Article 47;
+
+Companies Acts means the Companies Acts (as defined in section 2 of the
+
+Companies Act 2006), in so far as they apply to the Company;
+
+
+===== page 2 =====
+Deferred Contingent
+Instalment
+
+Deferred Instalment
+
+Director
+
+Director Consent
+Distribution Recipient
+
+document
+
+Drag Along Notice
+electronic form
+
+Executive Directors
+
+Fair Value
+
+First Threshold Price
+
+FSMA
+Founder
+
+Founder Consent
+
+Founder Sale Notice
+
+fully paid
+
+Garden Leave
+
+Group
+
+Good Leaver
+
+has the meaning given in Article 39.3.1;
+
+has the meaning given in Article 39.3.2;
+
+means a director of the Company, and includes any person
+occupying the position of director, by whatever name called;
+
+means the unanimous consent of the Executive Directors;
+has the meaning given in Article 38;
+
+includes, unless otherwise specified, any document sent or supplied
+in electronic form;
+
+has the meaning given in Article 32.1;
+has the meaning given in section 1168 of the Companies Act 2006,
+
+means those Directors who are also employees of the Company or
+any Group Company;
+
+has the meaning given in Article 31.8;
+
+means, the price set out in a Subscription Document as being the
+first threshold price;
+
+means the Financial Services and Markets Act 2000;
+means Georgina Field;
+
+means the consent of the Founder and at least one other Executive
+Director;
+
+has the meaning given in Article 31.3;
+
+in relation to a Share, means that the nominal value and any
+premium to be paid to the Company in respect of that share have
+been paid to the Company;
+
+means any period during which the Company or other Group
+Company, in respect of an employee and pursuant to the service
+contract between the Company or relevant Group Company and that
+employee, ceases or has ceased to provide that employee with work
+and withdraws or has withdrawn their right of access to any premises
+of the Company and any other Group Company;
+
+means the Company and each of its Subsidiaries from time to time,
+and references to a member of the Group or a Group Company
+means any of them;
+
+means a person who:
+
+(a) — dies;
+(b) ceases to be a Relevant Employee by virtue of Articles 19.5
+and/or 19.6;
+
+(c) retires at or after the age of 65; or
+
+
+===== page 3 =====
+hard copy form
+
+holder
+
+instrument
+
+Issue Price
+
+Leaver
+
+Leaver’s Shares
+
+Leaving Date
+New Member
+
+Ordinary Resolution
+
+(d) is designated a Good Leaver by:
+
+(i) a unanimous decision of the Executive Directors or
+failing such unanimous decision, by Founder Consent
+where the Leaver is not the Founder; or
+
+(ii) a decision of the majority of the Executive Directors
+where the Leaver is the Founder;
+
+has the meaning given in section 1168 of the Companies Act 2006;
+
+in relation to Shares means the person whose name is entered in
+the register of members as the holder of the Shares;
+
+means a document in hard copy form;
+
+means the price at which the relevant Share is issued, being the
+aggregate of the amount paid up or credited as paid up in respect of
+the nominal value thereof and any share premium thereon and, in
+respect of any Shares that were acquired by the Leaver rather than
+subscribed for by the Leaver, the acquisition price for those Shares;
+
+means:
+
+(a) any Shareholder who ceases, or has ceased, to be a Relevant
+Employee, provided that, for these purposes, a Shareholder
+shall be deemed to cease, or have ceased, to be a Relevant
+Employee upon the commencement of any period during
+which the relevant individual is placed on Garden Leave
+pursuant to their service contract with the Company or other
+Group Company, notwithstanding that the relevant individual
+remains an employee of the Company or any other Group
+Company provided that such Shareholder ceases, or has
+ceased to be a Director or a director of any other Group
+Company; or
+
+(b) any Shareholder who gives notice to the Company of their
+wish to sell their Shares; or
+
+(c) any person who holds or becomes entitled to any Shares:
+(i) following the death of a Shareholder;
+
+(ii) following the Bankruptcy of a Shareholder (if an
+individual) or the receivership, administrative
+receivership, administration, liquidation or other
+arrangement for the winding-up (whether solvent or
+insolvent) of a Shareholder (if a company); or
+
+(iii) following the exercise of an option after ceasing to be a
+Relevant Employee;
+
+means all of the Shares held by a Leaver, or to which they are
+entitled, on the Leaving Date and any Shares acquired by a Leaver
+after the Leaving Date under an employee share scheme;
+
+means the date on which the relevant person becomes a Leaver;
+
+has the meaning given in Article 32.8;
+
+has the meaning given in section 282 of the Companies Act 2006;
+
+
+===== page 4 =====
+Ordinary Shares
+
+Other Shareholders
+paid
+
+Participate
+
+Proposed Buyer
+Proposed Sale
+Proposed Sellers
+Proxy Notice
+
+Recognised _— Investment
+
+Exchange
+
+Relevant Employee
+
+Sale
+
+Sale Notice
+Sale Price
+
+Sale Proceeds
+
+Second Threshold Price
+
+Shareholder
+
+means the ordinary shares of £0.001 each in the capital of the
+Company and, for the avoidance of doubt, it does not include A
+Ordinary Shares or B Ordinary Shares;
+
+has the meaning given in Article 32.1;
+means paid or credited as paid;
+
+in relation to a Directors’ meeting, has the meaning given in Article
+11;
+
+has the meaning given in Article 33.1
+has the meaning given in Article 33.1;
+has the meaning given in Article 33.1;
+has the meaning given in Article 53;
+
+means a recognised investment exchange, recognised overseas
+investment exchange, designated investment exchange or
+designated overseas investment exchange, in each case for the
+purposes of FSMA;
+
+means:
+
+(a) an employee of the Company or any other Group Company;
+
+or
+(b)
+means:
+(a)
+
+a Director or a director of any other Group Company;
+
+the sale of (or the grant of a right to acquire or to dispose of )
+any of the issued equity share capital of the Company to a
+single buyer or to one or more buyers in one transaction
+which will result in the purchaser of those shares (or grantee
+of that right) and persons acting in concert with him together
+acquiring the beneficial ownership of more than 50% of the
+issued share capital of the Company or cause the direction of
+the management of the Company; or
+
+(b) the disposal by the Company of all or substantially all of its
+
+undertaking and assets (where disposal may include, without
+limitation, the grant by the Company of an exclusive licence
+of intellectual property not entered into in the ordinary course
+of business); or
+
+(c) . an initial public offering
+has the meaning given in Article 31.2;
+has the meaning given in Article 31.7;
+
+means the value of the consideration payable as the result of
+completion of a Sale;
+
+means, the price set out in a Subscription Document (if any) as being
+the second threshold price;
+
+means a person who is the holder of a Share;
+
+
+===== page 5 =====
+Shares
+
+Single Class
+
+Special Resolution
+
+Subscription Document
+
+Subsidiary
+Tag Along Notice
+Third Party
+Third Party Offer
+
+Third Threshold Price
+
+Threshold Prices
+
+Transmittee
+
+writing
+
+means shares in the Company;
+
+means more than one type and/or class of Share which are specified
+under Article 39.1.2.4, and which are treated as together forming one
+class of Shares for the purposes of any distributions made pursuant
+to that provision;
+
+has the meaning given in section 283 of the Companies Act 2006;
+
+means:
+
+(a) in relation to a subscription for A Ordinary Shares, an
+agreement or other document of subscription for those
+Shares executed and delivered to the Company from time to
+time by the subscriber for those A Ordinary Shares, setting
+out the Threshold Prices applicable to those A Ordinary
+Shares; or
+
+(b) where the relevant A Ordinary Shares are acquired pursuant
+to an option, the applicable option agreement setting out the
+Threshold Prices applicable to those A Ordinary Shares;
+
+has the meaning given in section 1159 of the Companies Act 2006;
+has the meaning given in Article 33.1;
+has the meaning given in Article 32.1;
+has the meaning given in Article 32.1;
+
+means, the price set out in a Subscription Document (if any) as being
+the third threshold price;
+
+means the First Threshold Price, Second Threshold Price and Third
+Threshold Prices to be set by the Board, with Founder Consent, in
+respect of each issue of an A Ordinary Share, which is set out in the
+Subscription Agreement relating to such Shares and which
+determines the extent to which that A Ordinary Shareholder may
+participate in any payments made in accordance with Article 39;
+
+means a person entitled to a Share by reason of the death or
+Bankruptcy of a Shareholder or otherwise by operation of law; and
+
+means the representation or reproduction of words, symbols or other
+information in a visible form by any method or combination of
+methods, whether sent or supplied in electronic form or otherwise.
+
+
+===== page 6 =====
+Unless the context otherwise requires, other words or expressions contained in these articles bear the
+same meaning as in the Companies Act 2006 as in force on the date when these articles become
+binding on the company.
+
+2.2
+
+2.3
+
+24
+
+2.5
+
+3.
+
+Objects of the Company
+The objects of the Company are to promote the success of the Company:
+2.1.1 for the benefit of its members as a whole; and
+
+2.1.2 through its business and operations, to have a material positive impact on (a) society
+and (b) the environment
+
+taken as a whole.
+
+A Director must act in the way he or she considers, in good faith, most likely to promote the
+success of the Company in achieving the objects set out in Article 2.1 above, and in doing so
+shall have regard (amongst other matters) to:
+
+2.2.1 the likely consequences of any decision of the Directors in the long term and the impact
+any such decision may have on any affected stakeholders;
+
+2.2.2 the interests of the Company’s employees;
+
+2.2.3 the need to foster the Company's business relationships with suppliers, customers and
+others;
+
+2.2.4 _ the impact of the Company's operations on the community and the environment and on
+affected stakeholders;
+
+2.2.5 the desirability of the Company maintaining a reputation for high standards of business
+conduct and the impact this has on affected stakeholders; and
+
+2.2.6 the need to act fairly as between members of the Company,
+
+(together, the matters referred to above shall be defined for the purposes of this Article as
+“Stakeholder Interests” and each a “Stakeholder Interest”).
+
+For the purposes of a Director's duty to act in the way he or she considers, in good faith, most
+likely to promote the success of the Company, a Director shall not be required to regard the
+benefit of any particular Stakeholder Interest or group of Stakeholder Interests as more
+important than any other.
+
+Nothing in this Article express or implied, is intended to or shall create or grant any right or any
+cause of action to, by or for any person (other than the Company).
+
+The Directors of the Company shall, for each financial year of the Company, prepare and
+circulate to its members an impact report. The impact report shall contain a balanced and
+comprehensive analysis of the impact the Company’s business has had, in a manner
+proportionate to the size and complexity of the business. The impact report shall contain such
+detail as is necessary to enable the members to have an understanding of the way in which the
+Company has promoted its success for the benefit of its members as a whole and, through its
+business and operations, sought to have a material positive impact on society and the
+environment, taken as a whole. If the Company is also required to prepare a strategic report
+under the Companies Act 2006, the Company may choose to publish the impact report as part
+of its strategic report and in accordance with the requirements applying to the strategic report.
+
+Liability of members
+
+The liability of the members is limited to the amount, if any, unpaid on the Shares held by them.
+
+
+===== page 7 =====
+4.
+
+PART 2: DIRECTORS
+Directors’ powers and responsi
+
+Directors’ general authority
+
+Subject to the Articles, the Directors are responsible for the management of the Company's business,
+for which purpose they may exercise all the powers of the Company.
+
+5.2
+
+6.2
+
+6.3
+
+7.2
+
+8.2
+
+Shareholders’ reserve power
+
+The Shareholders may, by Special Resolution, direct the Directors to take, or refrain from
+taking, specified action.
+
+No such Special Resolution invalidates anything which the Directors have done before the
+passing of the resolution.
+
+Directors may delegate
+
+Subject to the Articles, the Directors may delegate any of the powers which are conferred on
+them under the Articles:-
+
+6.1.1. to such person or committee;
+
+6.1.2 by such means (including by power of attorney);
+6.1.3. to such an extent;
+
+6.1.4 _ in relation to such matters or territories; and
+6.1.5 on such terms and conditions;
+
+as they think fit.
+
+If the Directors so specify, any such delegation may authorise further delegation of the
+Directors’ powers by any person to whom they are delegated.
+
+The Directors may revoke any delegation in whole or part, or alter its terms and conditions.
+
+Committees
+
+Committees to which the Directors delegate any of their powers must follow procedures which
+are based as far as they are applicable on those provisions of the articles which govern the
+taking of decisions by Directors.
+
+The Directors may make rules of procedure for all or any committees, which prevail over rules
+derived from the Articles if they are not consistent with them.
+
+Decision-making by Directors
+Directors to take decisions collectively
+
+The general rule about decision-making by Directors is that any decision of the Directors must
+be either a majority decision at a meeting or a decision taken in accordance with article 9.
+
+If.-
+8.2.1 the Company only has one Director; and
+8.2.2 no provision of the Articles requires it to have more than one Director;
+
+the general rule does not apply, and the Director may take decisions without regard to any of
+the provisions of the Articles relating to Directors’ decision-making.
+
+
+===== page 8 =====
+9.2
+
+9.3
+
+9.4
+
+10.
+10.1
+
+10.2
+
+10.3
+10.4
+
+11.
+11.1
+
+12.
+12.1
+
+12.2
+
+12.3
+
+Unanimous decisions
+
+A decision of the Directors is taken in accordance with this Article when all eligible Directors
+indicate to each other by any means that they share a common view on a matter.
+
+Such a decision may take the form of a resolution in writing, copies of which have been signed
+by each eligible Director or to which each eligible Director has otherwise indicated agreement
+in writing.
+
+References in this article to eligible Directors are to Directors who would have been entitled to
+vote on the matter had it been proposed as a resolution at a Directors’ meeting.
+
+A decision may not be taken in accordance with this article if the eligible Directors would not
+have formed a quorum at such a meeting.
+
+Calling a directors’ meeting
+
+Any Director may call a directors’ meeting by giving notice of the meeting to the Directors or by
+authorising the company secretary (if any) to give such notice.
+
+Notice of any Directors’ meeting must indicate:-
+10.2.1 its proposed date and time;
+10.2.2 where it is to take place; and
+
+10.2.3 if it is anticipated that Directors Participating in the meeting will not be in the same
+place, how it is proposed that they should communicate with each other during the
+meeting.
+
+Notice of a Directors’ meeting must be given to each Director, but need not be in writing.
+
+Notice of a Directors’ meeting need not be given to Directors who waive their entitlement to
+notice of that meeting, by giving notice to that effect to the Company not more than 7 days after
+the date on which the meeting is held. Where such notice is given after the meeting has been
+held, that does not affect the validity of the meeting, or of any business conducted at it.
+
+Participation in Directors’ meetings
+
+Subject to the Articles, Directors Participate in a Directors’ meeting, or part of a Directors’
+meeting, when:-
+
+11.1.1. the meeting has been called and takes place in accordance with the Articles; and
+
+11.1.2 they can each communicate to the others any information or opinions they have on any
+particular item of the business of the meeting.
+
+In determining whether Directors are Participating in a Directors’ meeting, it is irrelevant where
+any Director is or how they communicate with each other.
+
+If all the Directors Participating in a meeting are not in the same place, they may decide that
+the meeting is to be treated as taking place wherever any of them is.
+
+Quorum for Directors’ meetings
+
+At a Directors’ meeting, unless a quorum is Participating, no proposal is to be voted on, except
+a proposal to call another meeting.
+
+The quorum for Directors’ meetings may be fixed from time to time by a decision of the
+Directors, but it must never be less than two, and unless otherwise fixed it is two, one of whom
+must be the Founder.
+
+If the total number of Directors for the time being is less than the quorum required, the Directors
+must not take any decision other than a decision:-
+
+12.3.1 to appoint further Directors; or
+
+
+===== page 9 =====
+13.
+
+13.1
+13.2
+13.3
+13.4
+
+14.
+
+12.3.2 to calla general meeting so as to enable the Shareholders to appoint further Directors.
+
+Chairing of Directors’ meetings
+
+The Directors may appoint a Director to chair their meetings.
+
+The person so appointed for the time being is known as the Chairman.
+The Directors may terminate the Chairman’s appointment at any time.
+
+If the Chairman is not Participating in a Directors’ meeting within ten minutes of the time at
+which it was to start, the Participating Directors must appoint one of themselves to chair it.
+
+Casting vote
+
+If the numbers of votes for and against a proposal are equal, the Chairman or other Director chairing
+the meeting does not have a casting vote.
+
+15.
+15.1
+
+15.2
+
+15.3
+
+15.4
+
+15.5
+
+15.6
+
+15.7
+
+Conflicts of interest
+
+If a proposed decision of the Directors is concerned with an actual or proposed transaction or
+arrangement with the Company in which a Director is interested, that Director is not to be
+counted as Participating in the decision-making process for quorum or voting purposes.
+
+But if Article 15.3 applies, a Director who is interested in an actual or proposed transaction or
+arrangement with the Company is to be counted as Participating in the decision-making process
+for quorum and voting purposes.
+
+This paragraph applies when:-
+
+15.3.1. the Company by Ordinary Resolution disapplies the provision of the Articles which
+_ would otherwise prevent a Director from being counted as Participating in the decision-
+making process;
+
+15.3.2 the Director's interest cannot reasonably be regarded as likely to give rise to a conflict
+of interest; or
+
+15.3.3 the Director's conflict of interest arises from a permitted cause.
+For the purposes of this article, the following are permitted causes:-
+
+15.4.1 a guarantee given, or to be given, by or to a Director in respect of an obligation incurred
+by or on behalf of the Company or any of its Subsidiaries;
+
+15.4.2 subscription, or an agreement to subscribe, for shares or other securities of the
+Company or any of its Subsidiaries, or to underwrite, sub-underwrite, or guarantee
+subscription for any such shares or securities; and
+
+15.4.3 arrangements pursuant to which benefits are made available to employees and
+directors or former employees and Directors of the Company or any of its Subsidiaries
+which do not provide special benefits for Directors or former Directors.
+
+For the purposes of this Article, references to proposed decisions and decision-making
+processes include any Directors’ meeting or part of a Directors’ meeting.
+
+Subject to article 15.7, if a question arises at a meeting of Directors or of a committee of
+Directors as to the right of a Director to Participate in the meeting (or part of the meeting) for
+voting or quorum purposes, the question may, before the conclusion of the meeting, be referred
+to the Chairman whose ruling in relation to any Director other than the Chairman is to be final
+and conclusive.
+
+If any question as to the right to Participate in the meeting (or part of the meeting) should arise
+in respect of the Chairman, the question is to be decided by a decision of the Directors at that
+meeting, for which purpose the Chairman is not to be counted as Participating in the meeting
+(or that part of the meeting) for voting or quorum purposes.
+
+
+===== page 10 =====
+16. Records of decisions to be kept
+
+The Directors must ensure that the Company keeps a record, in writing, for at least 10 years from the
+date of the decision recorded, of every unanimous or majority decision taken by the Directors.
+
+17. Directors’ discretion to make further rules
+
+Subject to the Articles, the Directors may make any rule which they think fit about how they take
+decisions, and about how such rules are to be recorded or communicated to Directors.
+
+Appointment of Directors
+18. Methods of appointing Directors
+
+18.1. Any person who is willing to act as a Director, and is permitted by law to do so, may be
+appointed to be a Director:-
+
+18.1.1 by Ordinary Resolution; or
+18.1.2 by adecision of the Directors.
+
+18.2 In any case where, as a result of death, the Company has no Shareholders and no Directors,
+the personal representatives of the last Shareholder to have died have the right, by notice in
+writing, to appoint a person to be a Director.
+
+18.3 For the purposes of article 18.2, where 2 or more Shareholders die in circumstances rendering
+it uncertain who was the last to die, a younger Shareholder is deemed to have survived an older
+Shareholder.
+
+19. Termination of Director’s appointment
+A person ceases to be a Director as soon as:-
+
+19.1 that person ceases to be a Director by virtue of any provision of the Companies Act 2006 or is
+prohibited from being a Director by law;
+
+19.2 that person, being a Shareholder, ceases to be a Shareholder;
+19.3. a Bankruptcy order is made against that person;
+
+19.4 acomposition is made with that person's creditors generally in satisfaction of that person's
+debts;
+
+19.5 a registered medical practitioner who is treating that person gives a written opinion to the
+Company stating that that person has become physically or mentally incapable of acting as a
+director and may remain so for more than three months;
+
+19.6 by reason of that person's mental health, a court makes an order which wholly or partly prevents
+that person from personally exercising any powers or rights which that person would otherwise
+have;
+
+19.7 notification is received by the Company from the Director that the Director is resigning from
+office, and such resignation has taken effect in accordance with its terms.
+
+20. Directors’ remuneration
+20.1 Directors may undertake any services for the Company that the Directors decide.
+20.2 Directors are entitled to such remuneration as the Directors determine:-
+20.2.1 for their services to the Company as Directors; and
+20.2.2 for any other service which they undertake for the Company.
+20.3 Subject to the Articles, a Director's remuneration may:-
+
+
+===== page 11 =====
+20.3.1 take any form; and
+
+20.3.2 include any arrangements in connection with the payment of a pension, allowance or
+gratuity, or any death, sickness or disability benefits, to or in respect of that Director.
+
+20.4 —_ Unless the Directors decide otherwise, Directors’ remuneration accrues from day to day.
+
+20.5 _ Unless the Directors decide otherwise, Directors are not accountable to the Company for any
+remuneration which they receive as Directors or other officers or employees of the Company's
+Subsidiaries or of any other body corporate in which the Company is interested.
+
+21. Directors’ expenses
+
+The Company may pay any reasonable expenses which the Directors properly incur in connection with
+their attendance at:-
+
+21.1 meetings of Directors or committees of Directors;
+21.2 general meetings; or
+21.3. separate meetings of the holders of any class of shares or of debentures of the Company;
+
+or otherwise in connection with the exercise of their powers and the discharge of their responsibilities
+in relation to the Company.
+
+PART 3: SHARES AND DISTRIBUTIONS
+Shares
+22. Share Capital
+
+22.1 The issued share capital of the Company at the date of the adoption of these Articles is
+£241,744 divided into:
+
+22.1.1 229,000 Ordinary Shares; and
+22.1.2 12,744 A Ordinary Shares.
+
+22.2. The Ordinary Shares and the A Ordinary Shares shall constitute different classes of shares for
+the purposes of the Companies Act.
+
+22.3 Subject to these Articles, the holders of A Ordinary Shares shall not be entitled to receive any
+dividends or receive any share or any available profits in respect of the A Ordinary Shares that
+they hold and they shall not be entitled to receive notice of and to attend and vote at any general
+meeting.
+
+22.4 — Subject to these Articles, the holders of B Ordinary Shares shall not be entitled to receive any
+dividends or receive any share or any available profits in respect of the B Ordinary Shares that
+they hold and they shall not be entitled to receive notice of and to attend and vote at any general
+meeting.
+
+23. Variation of rights
+
+23.1 The rights attached to any class of Shares may from time to time, whether or not the Company
+is being wound up, be varied or abrogated with the consent in writing of the holders of not less
+than 75% in nominal value of the issued Shares of that class or with the sanction of a Special
+Resolution passed at a separate meeting of the holders of that class of Shares, but not
+otherwise.
+
+23.2 The provisions of these Articles relating to general meetings of the Company or to their
+proceedings (and adjournments) shall, with the necessary changes being made, apply to every
+separate meeting of the holders of any class of Share, except that:
+
+23.2.1. the necessary quorum shall be one person holding or representing by proxy at least
+one third in nominal amount of the issued Shares of that class;
+
+
+===== page 12 =====
+24,
+24.1
+
+24.2
+
+25.
+25.1
+
+25.2
+
+26.
+
+23.2.2 every holder of Shares of the class present in person or by proxy shall be entitled on a
+poll to one vote for every such Share held by it; and
+
+23.2.3 any holder of Shares of the class present in person or by proxy may demand a poll
+
+All shares to be fully paid up
+
+No Share is to be issued for less than the aggregate of its nominal value and any premium to
+be paid to the Company in consideration for its issue.
+
+This does not apply to Shares taken on the formation of the Company by the subscribers to the
+Company’s memorandum.
+
+Powers to issue different classes of share
+
+Subject to the Articles, but without prejudice to the rights attached to any existing Share, the
+Company may issue Shares with such rights or restrictions as may be determined by Ordinary
+Resolution.
+
+The Company may issue shares which are to be redeemed, or are liable to be redeemed at the
+option of the Company or the holder, and the Directors may determine the terms, conditions
+and manner of redemption of any such shares.
+
+Company not bound by less than absolute interests
+
+Except as required by law, no person is to be recognised by the Company as holding any Share upon
+any trust, and except as otherwise required by law or the Articles, the Company is not in any way to be
+bound by or recognise any interest in a Share other than the holder's absolute ownership of it and all
+the rights attaching to it.
+
+27.
+27.1
+
+27.2
+
+27.3
+27.4
+27.5
+
+28.
+28.1
+
+Share certificates
+
+The Company must issue each Shareholder, free of charge, with one or more certificates in
+respect of the Shares which that Shareholder holds.
+
+Every certificate must specify:-
+
+27.2.1 in respect of how many Shares, of what class, it is issued;
+
+27.2.2 the nominal value of those Shares;
+
+27.2.3 that the Shares are fully paid; and
+
+27.2.4 any distinguishing numbers assigned to them.
+
+No certificate may be issued in respect of Shares of more than one class.
+
+If more than one person holds a Share, only one certificate may be issued in respect of it.
+Certificates must:-
+
+27.5.1 have affixed to them the company’s common seal; or
+
+27.5.2 be otherwise executed in accordance with the Companies Acts.
+
+Replacement share certificates
+
+If a certificate issued in respect of a Shareholder's Shares is:-
+28.1.1 damaged or defaced; or
+
+28.1.2 said to be lost, stolen or destroyed;
+
+that Shareholder is entitled to be issued with a replacement certificate in respect of the same
+Shares.
+
+
+===== page 13 =====
+28.2
+
+29.
+29.1
+
+29.2
+
+29.3
+29.4
+
+29.5
+
+30.
+30.1
+
+30.2
+
+30.3
+
+31.
+31.1
+31.2
+
+A Shareholder exercising the right to be issued with such a replacement certificate:-
+
+28.2.1 may at the same time exercise the right to be issued with a single certificate or separate
+certificates;
+
+28.2.2 must return the certificate which is to be replaced to the Company if it is damaged or
+defaced; and
+
+28.2.3. must comply with such conditions as to evidence, indemnity and the payment of a
+reasonable fee as the Directors decide.
+
+Share transfers
+
+Shares may be transferred by means of an instrument of transfer in any usual form or any other
+form approved by the Directors, which is executed by or on behalf of the transferor.
+
+No fee may be charged for registering any instrument of transfer or other document relating to
+or affecting the title to any Share.
+
+The Company may retain any instrument of transfer which is registered.
+
+The transferor remains the holder of a Share until the transferee’s name is entered in the
+register of members as holder of it.
+
+The Directors may refuse to register the transfer of a Share, and if they do so, the instrument
+of transfer must be returned to the transferee with the notice of refusal unless they suspect that
+the proposed transfer may be fraudulent.
+
+Prohibited Share Transfers
+In these Articles, a reference to the transfer of a Share shall mean either or both:
+30.1.1 the transfer of either or both of the legal and beneficial ownership in the Share; and
+
+30.1.2 the grant of an option to acquire either or both of the legal and beneficial ownership in
+the Share.
+
+The following shall be deemed, without limitation, to be a transfer of a Share:
+
+30.2.1 any sale or other disposition of any legal or equitable interest in a Share (including any
+voting right attached thereto) and whether or not by the registered holder thereof and
+whether or not for consideration or otherwise and whether or not effected by an
+instrument in writing;
+
+30.2.2 any direction (by way of renunciation or otherwise) by a Shareholder entitled to an
+allotment or issue of any Share that such Share be allotted or issued to some person
+other than themself; and
+
+30.2.3 any grant of a legal or equitable mortgage or charge over any Share.
+
+Any person who holds, or becomes entitled to any Share shall not effect a transfer of such
+Shares except in accordance with Article 31 (Leavers), Article 32 (Drag Along) and Article 33
+(Tag Along). ¢
+
+Leavers ;
+The provisions of this Article shall apply to any Leaver and to any Leaver’s Shares.
+
+If a person, not being the Founder becomes a Leaver, then at any time within one year from
+the Leaving Date, the Company shall serve a notice on the Leaver notifying them whether they
+are a Good Leaver or confirming that they are a Bad Leaver and that, either:
+
+31.2.1 they are with immediate effect, deemed to have offered all their Leaver's Shares to
+such person(s) (including the Company) as may be specified by Founder Consent (if
+they are a Bad Leaver); or :
+
+
+===== page 14 =====
+31.3
+
+31.4
+
+31.5
+
+31.6
+
+31.2.2 they may retain their Shares until a Sale but from the Leaving Date they do not have
+the right to receive dividends, attend or vote at a general meeting, or agree to a
+proposed written resolution, in respect of those Shares and at such time such Shares
+shall be redesignated by the Company as B Ordinary Shares (if they are a Good
+Leaver).
+
+(Sale Notice).
+
+If the Leaver is the Founder, then at any time within one year from the Leaving Date, the
+Company shall serve a notice on the Founder notifying her whether she is a Good Leaver or
+confirming that she is a Bad Leaver and that, either:
+
+31.3.1 sheis with immediate effect, deemed to have offered such of her Leaver’s Shares equal
+to the number of Ordinary Shares held in the Company at the Leaving Date by the
+Shareholder holding the next highest number of Ordinary Shares to the Company at
+the Sale Price (commencing with the latest to be acquired by her). If the Company is
+not able to purchase such Shares, the offer shall be made to the other holders of
+Ordinary Shares pro rata their Shareholding at the Leaving Date at the Sale Price
+commencing again with the latest to be acquired by her.
+
+31.3.2 the Founder may retain the balance of the Founder's Leaver's Shares remaining after
+the sale referred to in Article 31.3.1 above until a Sale but from the Leaving Date she
+does not have the right to receive dividends, attend or vote at a general meeting or
+agree to a proposed written resolution, in respect of those Shares and at such time
+such Shares shall be redesignated by the Company as B Ordinary Shares; or
+
+31.3.3. if she is a Good Leaver she may retain her Shares until a Sale but from the Leaving
+Date she does not have the right to receive dividends, attend or vote at a general
+meeting or agree to a proposed written resolution, in respect of those Shares and at
+such time such Shares shall be redesignated by the Company as B Ordinary Shares
+
+(Founder Sale Notice).
+
+On receipt of a Sale Notice or Founder Sale Notice, unless Articles 31.2.2 or 31.3.3 apply, the
+Leaver shall be obliged to immediately transfer, at the Sale Price as determined in accordance
+with Article 31.7, such number of their Leaver’s Shares to the person(s) specified in the Sale
+Notice or Founder Sale Notice or as determined in accordance with Article 31.3. Completion of
+the sale and purchase of the Leaver's Shares in accordance with the Sale Notice or Founder
+Sale Notice shall take place within 20 Business Days of the date of the Sale Notice or Founder
+Sale Notice at which time the Leaver shall transfer the relevant Leaver'’s Shares to the person(s)
+specified in the Sale Notice or Founder Sale Notice or as determined in accordance with Article
+31.3 and deliver the relevant Share certificates against payment of the Sale Price for such
+Shares.
+
+If Articles 31.2.2, 31.3.2 or 31.3.3 apply, the Leaver shall be obliged to transfer, at the Sale
+Price, the B Ordinary Shares held by them to such person(s) as shall be notified to them by the
+Company. Completion of the sale and purchase of the Leaver's Shares shall take place at the
+same time as the Sale at which time the Leaver shall transfer their B Ordinary Shares to the
+person(s) notified to them by the Company and deliver the relevant Share certificates against
+payment of the Sale Price for such Shares.
+
+If the Leaver defaults in transferring any Leaver's Shares pursuant to Article 31.4 and/or 31.5
+in circumstances where the Company:
+
+31.6.1 does not acquire the Leaver’s Shares, the Company:
+31.6.1.1_ may receive the relevant purchase money;
+
+31.6.1.2 may nominate some person to execute an instrument of transfer of the
+Leaver'’s Shares in the name and on behalf of the Leaver;
+
+31.6.1.3 shall cause the name of the proposed transferee to be entered in the
+Company's register of members as the holder of such Leaver’s Shares when
+the instrument of transfer has been duly stamped (if required);
+
+
+===== page 15 =====
+31.7
+
+31.8
+
+“31.9
+
+31.6.1.4 shall hold the purchase money on trust (without interest) for the Leaver, the
+receipt by the Company of the purchase money being a good discharge to
+the proposed transferee (who shall not be bound to see to the application of
+the purchase money); or
+
+31.6.2 does acquire the Leaver's Shares, the Company:
+
+31.6.2.1_ may nominate some person to execute an instrument of transfer or other
+relevant documentation in respect of the Leaver’s Shares in the name and on
+behalf of the Leaver;
+
+31.6.2.2 shall cause such share capital to be cancelled in accordance with the
+Companies Act when such instrument has been duly stamped (if required);
+and
+
+31.6.2.3 shall hold the purchase money on trust (without interest) for the Leaver.
+
+In each case after the Leaver's Shares have been transferred on the register or
+cancelled, as the case may be, the validity of the proceedings shall not be questioned
+by any person.
+
+The Sale Price shall be, in the case of:
+
+31.7.1 a Good Leaver (including the Founder), the aggregate Fair Value of the Leaver’s
+Shares as at the Leaving Date; and
+
+31.7.2 a Bad Leaver (not being the Founder), the lower of the aggregate of the Issue Price
+paid by the Leaver for the Leaver’s Shares (commencing with the latest to be acquired
+by them) and the aggregate Fair Value of the Leaver's Shares as at the Leaving Date;
+and
+
+31.7.3. the Founder being a Bad Leaver, the Issue Price paid by the Founder for her Leaver’s
+Shares (commencing with the latest to be acquired by her).
+
+For the purposes of Article 31.7, Fair Value means such price as the transferor and (with
+Founder Consent) the Company shall agree within 10 Business Days of the date of the deemed
+Sale Notice or Founder Sale Notice or, failing such agreement, as determined by the
+Company's accountants, in which case:
+
+31.8.1 the Company shall immediately instruct the accountants to determine the Fair Value on
+the basis which, in their opinion, represents a fair price for the Leaver's Shares at the
+Leaving Date as between a willing seller and a willing buyer and shall take account of
+whether the Leaver's Shares comprise a majority or minority interest in the Company
+and the fact that their transferability is restricted by these Articles;
+
+31.8.2 the Company’s accountants shall act as an expert and not an arbitrator (and the
+Arbitration Act 1996 shall not apply);
+
+31.8.3. the Company’s accountants shall certify the Fair Value as soon as possible after being
+instructed to do so and such certificate shall be final and binding (in the absence of
+manifest error); and
+
+31.8.4 the costs and expenses of the Company's Accountants shall be borne by the Company.
+
+Where Article 31.1 applies, any Sale Notice issued in relation to any of the Leaver’s A Ordinary
+Shares may only deem the Leaver to have offered those Shares for sale to the Company, and
+not to any other person. If the Company (as the case may be) does not elect to purchase the
+relevant A Ordinary Shares during the period of 30 days following the date of the Sale Notice,
+the Company may offer the A Ordinary Shares at the Sale Price in such manner and in
+accordance with such timetable and procedure as the Board, with Founder Consent may from
+time to time determine. The Sale Price payable for the Leaver's A Ordinary Shares shall be
+determined in accordance with the provisions of Article 31.7, and the remaining provisions of
+this Article 31 shall apply.
+
+
+===== page 16 =====
+31.10
+
+32.
+32.1
+
+32.2
+
+32.3
+
+32.4
+
+32.5
+
+32.6
+
+32.7
+
+A Leaver shall not be entitled to any compensation or damages for any loss or potential loss
+which they may suffer by reason of the sale or transfer of any A Ordinary Shares in which they
+are interested in consequence of the loss or termination of their office, employment or
+engagement with any Group Company for any reason (including, without limitation, any breach
+of contract by a Group Company) or in any other circumstances whatsoever.
+
+Drag Along
+
+If any Shareholder receives an offer in writing from a bona fide third party (Third Party) to
+purchase the entire equity share capital in the Company not already owned by the Third Party
+(Third Party Offer) and the holders of at least 75% of the issued Ordinary Shares, including
+the Founder, accept the Third Party Offer (Accepting Shareholders), the Accepting
+Shareholders are entitled to issue to the remaining Shareholders (Other Shareholders) written
+notice (Drag Along Notice) requiring the Other Shareholders to sell to the Third Party all of the
+Other Shareholders’ Shares upon the terms and conditions specified in the Drag Along Notice.
+
+Subject to Article 32.6, the terms on which the Accepting Shareholders require the Other
+Shareholders to sell their Shares must be no less favourable than the terms on which the
+Accepting Shareholders are selling their Shares to the Third Party.
+
+Subject to the remainder of this Article 32, the Drag Along Notice must specify:
+32.3.1 the details of the Third Party;
+
+32.3.2 the price payable for each Share and other consideration (if any) to be received (directly
+or indirectly) by the Accepting Shareholders, and
+
+32.3.3 any other material terms upon which the Other Shareholders’ Shares shall be
+purchased pursuant to the Drag Along Notice (including, in relation to A Ordinary
+Shares, the price payable for each such Share as determined in accordance with Article
+32.6).
+
+lf any Other Shareholder shall not, within five Business Days of being required to do so, execute
+and deliver transfers in respect of the Shares held by them and deliver the certificate(s) in
+respect of the same (or a suitable indemnity in lieu thereof), then any Accepting Shareholder
+shall be entitled to execute, and shall be entitled to authorise and instruct such person as they
+think fit to execute, the necessary transfer(s) and indemnities on the Other Shareholder’s behalf
+and, against receipt by the Company (on trust for such Shareholder) of the consideration
+payable for the relevant Shares, deliver such transfer(s) and certificate(s) or indemnities to the
+Third Party (or their nominee) and register such Third Party (or their nominee) as the holder
+thereof and, after such registration, the validity of such proceedings shall not be questioned by
+any person
+
+The Other Shareholders are not obliged to sell their Shares in accordance with this Article 32 if
+the Accepting Shareholders do not complete the sale of all their Shares to the Third Party on
+the same terms and conditions set out in the Drag Along Notice.
+
+Under the terms of the Drag Along Notice, the consideration to be paid to any A Ordinary
+Shareholders shall be determined by the Third Party in discussion with the Board, subject to
+Founder Consent, and shall be applied in accordance with the provisions of Article 39.
+
+For the avoidance of doubt, the Third Party Offer shall not require any A Ordinary Shareholder
+or B Ordinary Shareholder to give any warranties, representations, indemnities, covenants or
+other assurances in respect of the A Ordinary Shares or B Ordinary Shares that Shareholder
+holds, other than those which relate to or are in respect of title to the number of A Ordinary
+Shares or B Ordinary Shares to which the Third Party Offer relates and that Shareholders
+capacity to enter into the relevant agreement for the sale of those A Ordinary Shares or B
+Ordinary Shares.
+
+
+===== page 17 =====
+32.8
+
+33.
+33.1
+
+33.2
+
+33.3
+
+33.4
+
+34.
+34.1
+
+34.2
+
+34.3
+
+35.
+35.1
+
+35.2
+
+Where any person becomes a Shareholder of the Company (a New Member) pursuant to the
+exercise of a pre-existing option or other right to acquire Shares after a Drag Along Notice has
+been served, the New Member shall be bound to sell and transfer all Shares acquired by it to
+the Third Party. The provisions of Articles 32.1 to 32.7 shall apply (with the necessary changes)
+to the New Member, save that if its Shares are acquired after the sale of the Other
+Shareholders’ Shares has been completed, completion of the sale of the New Member's Shares
+shall take place immediately after the New Member's acquisition of such Shares.
+
+Tag Along
+
+If at any time one or more Shareholders, including the Founder (Proposed Sellers) propose to
+sell to any person (Proposed Buyer), in one or a series of related transactions, such number
+of Shares which when registered would result in that person (together with persons connected
+or acting in concert with them) holding or increasing their holding to 50% or more of the issued
+equity share capital of the Company other than the A Ordinary Shares or the B Ordinary Shares
+(Proposed Sale), the Proposed Sellers shall give written notice (Tag Along Notice) to the
+other Shareholders of the Proposed Sale at least 10 Business Days prior to the proposed date
+of completion thereof.
+
+The Tag Along Notice must specify:
+33.2.1 the details of the Proposed Buyer;
+
+33.2.2 the sale price for each Share and other consideration (if any) to be received (directly or
+indirectly) by the Proposed Sellers; and
+
+33.2.3. any other material terms upon which the Shares are to be purchased.
+
+The Proposed Sale may not be completed unless the Proposed Buyer has unconditionally
+offered to buy all the other issued Ordinary Shares (other than any Shares already owned by
+the Proposed Buyer or persons connected or acting in concert with them) on the same terms
+and conditions as apply to the Proposed Sale. Such offer shall remain open for acceptance for
+not less than 21 days.
+
+The provisions of this Article 33 shall not apply to any Proposed Sale which is to take place
+pursuant to a Third Party Offer under Article 32.
+
+Transmission of shares
+
+If title to a Share passes to a Transmittee, the Company may only recognise the Transmittee
+as having any title to that Share.
+
+A Transmittee who produces such evidence of entitlement to Shares as the Directors may
+
+properly require:-
+
+34.2.1. may, subject to the Articles, choose either to become the holder of those Shares or to
+have them transferred to another person; and
+
+34.2.2 subject to the Articles, and pending any transfer of the Shares to another person, has
+the same rights as the holder had.
+
+But Transmittees do not have the right to attend or vote at a general meeting, or agree to a
+proposed written resolution, in respect of Shares to which they are entitled, by reason of the
+holder's death or Bankruptcy or otherwise, unless they become the holders of those Shares.
+
+Exercise of Transmittees’ rights
+
+Transmittees who wish to become the holders of Shares to which they have become entitled
+must notify the company in writing of that wish.
+
+If the Transmittee wishes to have a Share transferred to another person, the Transmittee must
+execute an instrument of transfer in respect of it.
+
+
+===== page 18 =====
+35.3
+
+36.
+
+Any transfer made or executed under this Article is to be treated as if it were made or executed
+by the person from whom the Transmittee has derived rights in respect of the Share, and as if
+the event which gave rise to the transmission had not occurred.
+
+Transmittees bound by prior notices
+
+If a notice is given to a Shareholder in respect of Shares and a Transmittee is entitled to those Shares,
+the Transmittee is bound by the notice if it was given to the Shareholder before the Transmittee’s name
+has been entered in the register of members.
+
+37.
+37.1
+
+37.2
+
+37.3
+
+37.4
+
+37.5
+
+37.6
+
+37.7
+
+38.
+38.1
+
+38.2
+
+Dividends and other distributions
+Procedure for declaring dividends
+
+The Company may by Ordinary Resolution declare dividends, and the Directors may decide to
+pay interim dividends.
+
+A dividend must not be declared unless the Directors have made a recommendation as to its
+amount. Such a dividend must not exceed the amount recommended by the Directors.
+
+No dividend may be declared or paid unless it is in accordance with Shareholders’ respective
+rights.
+
+Unless the Shareholders’ resolution to declare or Directors’ decision to pay a dividend, or the
+terms on which Shares are issued, specify otherwise, it must be paid by reference to each
+Shareholder’s holding of Shares on the date of the resolution or decision to declare or pay it.
+
+If the Company's Share capital is divided into different classes, no interim dividend may be paid
+on Shares carrying deferred or non-preferred rights if, at the time of payment, any preferential
+dividend is in arrear.
+
+The Directors may pay at intervals any dividend payable at a fixed rate if it appears to them that
+the profits available for distribution justify the payment.
+
+If the Directors act in good faith, they do not incur any liability to the holders of Shares conferring
+preferred rights for any loss they may suffer by the lawful payment of an interim dividend on
+Shares with deferred or non-preferred rights.
+
+Payment of dividends and other distributions
+
+Where a dividend or other sum which is a distribution is payable in respect of a Share, it must
+be paid by one or more of the following means:-
+
+38.1.1 transfer to a bank or building society account specified by the Distribution Recipient
+either in writing or as the Directors may otherwise decide;
+
+38.1.2 sending a cheque made payable to the Distribution Recipient by post to the Distribution
+Recipient at the Distribution Recipient's registered address (if the Distribution Recipient
+is a holder of the Share), or (in any other case) to an address specified by the
+Distribution Recipient either in writing or as the Directors may otherwise decide;
+
+38.1.3 sending a cheque made payable to such person by post to such person at such address
+as the Distribution Recipient has specified either in writing or as the Directors may
+otherwise decide; or
+
+38.1.4 any other means of payment as the Directors agree with the Distribution Recipient
+either in writing or by such other means as the Directors decide.
+
+In the articles, ‘the Distribution Recipient’ means, in respect of a Share in respect of which a
+dividend or other sum is payable:-
+
+38.2.1 the holder of the Share; or
+
+38.2.2 if the Share has two or more joint holders, whichever of them is named first in the
+register of members; or
+
+
+===== page 19 =====
+39.
+39.1
+
+39.2
+
+39.3
+
+38.2.3. if the holder is no longer entitled to the share by reason of death or Bankruptcy, or
+otherwise by operation of law, the Transmittee.
+
+Return of Capital
+
+On a return of capital on liquidation or otherwise (except on a redemption or purchase by the
+Company of any Shares) (a Capital Return), the surplus assets of the Company remaining
+after the payment of its liabilities shall be applied in the following order of priority:
+
+39.1.1. first, in paying to each holder of Ordinary Shares, A Ordinary Shares and B Ordinary
+Shares in respect of each Ordinary Share, A Ordinary Share or B Ordinary Share of
+which it is the holder, a sum equal to the Issue Price thereof; and
+
+39.1.2 subject to Article 39.3, the balance of such assets (if any) (the Balance) shall be
+distributed amongst the holders of the Ordinary Shares, the A Ordinary Shares and the
+B Ordinary Shares at the time of the Capital Return as follows:
+
+39.1.2.1 the Balance shall first be paid to the holders of Ordinary Shares and the B
+Ordinary Shares (up to the Sale Price for those Shares, but if such balance
+shall be insufficient then pro rata) pro rata to the number of Ordinary Shares
+or B Ordinary Shares held by each of them., until the earlier of:(a) an
+aggregate amount equal to the First Threshold Price being distributed from
+the Balance; and (b) the Balance being fully distributed;
+
+39.1.2.2 if any of the Balance remains unpaid following any payment pursuant to
+Article 39.1.2.1, then that part of the Balance will be paid to holders of A
+Ordinary Shares, until the earlier of: (a) an aggregate amount equal to the
+Second Threshold Price being distributed from the Balance (including
+amounts paid pursuant to Article 39.1.2.1); and (b) the Balance being fully
+distributed;
+
+39.1.2.3 if any of the Balance remains unpaid following any payment pursuant to
+- Article 39.1.2.2, then that part of the Balance will be paid to holders of the
+Ordinary Shares and B Ordinary Shares (up to the Sale Price for those
+Shares, but if such balance shall be insufficient then pro rata), pro rata to the
+number of Ordinary Shares or B Ordinary Shares held by each of them, until
+the earlier of: (a) an aggregate amount equal to the Third Threshold Price
+being distributed from the Balance (including amounts paid pursuant to
+Articles 39.1.2.1 and 39.1.2.2; and (b) the Balance being fully distributed;
+
+39.1.2.4 if any of the Balance remains unpaid following any payment pursuant to
+Article 39.1.2.3, the remaining Balance will be paid to the holders of the
+Ordinary Shares, the A Ordinary Shares which together shall be treated as a
+Single Class for the purposes of Article 39.1.2.4 pro rata to the number of
+Shares in that Single Class held by each of them and the B Ordinary Shares
+(up to the Sale Price for those Shares).
+
+Subject to Article 39.3, in the event of a Sale then, notwithstanding anything to the contrary in
+the terms and conditions governing such Sale, upon written notice being given to the selling
+Shareholders, the selling Shareholders immediately prior to such Sale shall procure that the
+Sale Proceeds (whenever received) shall be placed in a designated trustee account and shall
+be distributed amongst such selling Shareholders in such amounts and in such order of priority
+as would be applicable on a Capital Return (pursuant to Article 39.1).
+
+In the event of a Sale:
+
+
+===== page 20 =====
+40.
+
+39.3.1 if the payment of any part of the Sale Proceeds is deferred so that it is only due and
+payable on date(s) falling after the completion of the Sale and is also contingent on
+certain events or targets being met (a Deferred Contingent Instalment), the
+provisions of Article 39.1 shall be applied at the time of completion in respect of the
+Sale Proceeds to be paid on completion and repeated each time a Deferred Contingent
+Instalment becomes unconditionally due and payable. Each time the provisions of
+Article 39.1 are reapplied, when calculating the amount due to Shareholders, the Sale
+Proceeds shall include the sum of all consideration that has already been paid and the
+relevant Deferred Contingent Instalment being paid at that time, provided that account
+shall be taken of amounts already received by Shareholders, or not received (as the
+case may be), in respect of previous payments of consideration; and
+
+39.3.2 if the payment of any part of the Sale Proceeds is deferred such that it is only
+unconditionally due and payable on date(s) falling after completion of the Sale (a
+Deferred Instalment), the provisions of Article 39.1 shall be applied on completion in
+respect of the total amount of the Sale Proceeds. Shareholders shall be entitled to
+share in each payment of the Sale Proceeds (including the Deferred Instalments) pro-
+rata to their overall entitlement to the Sale Proceeds, as determined in accordance with
+Article 39.2 as and when they become payable.
+
+39.3.3 for the purposes of calculating the value of the Sale Proceeds when distributing these
+in accordance with Article 39.2, if any part of the Sale Proceeds comprises the issue of
+securities (not accompanied by a cash alternative):
+
+39.3.3.1 if the securities will rank pari passu with a class of securities already traded
+on a Recognised Investment Exchange, their value shall be treated as equal
+to the value of such securities traded on such exchange; and
+
+39.3.3.2 if the securities will not so rank, their value shall be determined by the
+Company's accountants at the time.
+
+‘No interest on distributions
+
+The Company may not pay interest on any dividend or other sum payable in respect of a Share unless
+otherwise provided by:-
+
+40.1
+40.2
+
+41.
+41.41
+
+41.2
+
+41.3
+
+the terms on which the Share was issued, or
+the provisions of another agreement between the holder of that Share and the Company.
+
+Unclaimed distributions
+
+All dividends or other sums which are:-
+
+41.1.1. payable in respect of Shares, and
+
+41.1.2 unclaimed after having been declared or become payable,
+
+may be invested or otherwise made use of by the Directors for the benefit of the Company until
+claimed.
+
+The payment of any such dividend or other sum into a separate account does not make the
+Company a trustee in respect of it.
+
+Ift-
+
+41.3.1 twelve years have passed from the date on which a dividend or other sum became due
+for payment, and
+
+41.3.2 the Distribution Recipient has not claimed it,
+
+the Distribution Recipient is no longer entitled to that dividend or other sum and it ceases to
+remain owing by the Company.
+
+
+===== page 21 =====
+42. Non-cash distributions
+
+42.1 Subject to the terms of issue of the share in question, the Company may, by Ordinary
+Resolution on the recommendation of the Directors, decide to pay all or part of a dividend or
+other distribution payable in respect of a Share by transferring non-cash assets of equivalent
+value (including, without limitation, shares or other securities in any Company).
+
+42.2 For the purposes of paying a non-cash distribution, the Directors may make whatever
+arrangements they think fit, including, where any difficulty arises regarding the distribution:-
+
+42.2.1 fixing the value of any assets;
+
+42.2.2 paying cash to any Distribution Recipient on the basis of that value in order to adjust
+the rights of recipients; and
+
+42.2.3 vesting any assets in trustees.
+
+43. Waiver of distributions
+
+Distribution Recipients may waive their entitlement to a dividend or other distribution payable in respect
+of a Share by giving the Company notice in writing to that effect, but if--
+
+43.1 the Share has more than one holder, or
+
+43.2 more than one person is entitled to the Share, whether by reason of the death or Bankruptcy of
+one or more joint holders, or otherwise,
+
+the notice is not effective unless it is expressed to be given, and signed, by all the holders or persons
+otherwise entitled to the Share.
+
+Capitalisation of profits
+44, Authority to capitalise and appropriation of capitalised sums
+44.1 Subject to the Articles, the Directors may, if they are so authorised by an Ordinary Resolution:-
+
+44.1.1 decide to capitalise any profits of the Company (whether or not they are available for
+distribution) which are not required for paying a preferential dividend, or any sum
+standing to the credit of the Company's share premium account or capital redemption
+reserve; and
+
+44.1.2 appropriate any sum which they so decide to capitalise (a capitalised sum) to the
+persons who would have been entitled to it if it were distributed by way of dividend (the
+persons entitled) and in the same proportions.
+
+44.2 Capitalised sums must be applied:-
+44.2.1 on behalf of the persons entitled, and
+44.2.2 in the same proportions as a dividend would have been distributed to them.
+
+44.3 Any capitalised sum may be applied in paying up new Shares of a nominal amount equal to the
+capitalised sum which are then allotted credited as fully paid to the persons entitled or as they
+may direct.
+
+44.4 Acapitalised sum which was appropriated from profits available for distribution may be applied
+in paying up new debentures of the Company which are then allotted credited as fully paid to
+the persons entitled or as they may direct.
+
+44.5 Subject to the Articles the Directors may:-
+
+44.5.1 apply capitalised sums in accordance with Articles 44.3 and 44.4 partly in one way and
+partly in another;
+
+44.5.2 make such arrangements as they think fit to deal with Shares or debentures becoming
+distributable in fractions under this article (including the issuing of fractional certificates
+or the making of cash payments); and
+
+
+===== page 22 =====
+45.
+45.1
+
+45.2
+
+45.3
+
+45.4
+
+45.5
+
+46.
+
+44.5.3 authorise any person to enter into an agreement with the Company on behalf of all the
+persons entitled which is binding on them in respect of the allotment of Shares and
+debentures to them under this Article.
+
+PART 4: DECISION-MAKING BY SHAREHOLDERS
+Organisation of general meetings
+Attendance and speaking at general meetings
+
+A person is able to exercise the right to speak at a general meeting when that person is in a
+position to communicate to all those attending the meeting, during the meeting, any information
+or opinions which that person has on the business of the meeting.
+
+A person is able to exercise the right to vote at a general meeting when:-
+
+45.2.1 that person is able to vote, during the meeting, on resolutions put to the vote at the
+meeting, and
+
+45.2.2 that person’s vote can be taken into account in determining whether or not such
+resolutions are passed at the same time as the votes of all the other persons attending
+the meeting.
+
+The Directors may make whatever arrangements they consider appropriate to enable those
+attending a general meeting to exercise their rights to speak or vote at it.
+
+In determining attendance at a general meeting, it is immaterial whether any two or more
+members attending it are in the same place as each other.
+
+Two or more persons who are not in the same place as each other attend a general meeting if
+their circumstances are such that if they have (or were to have) rights to speak and vote at that
+meeting, they are (or would be) able to exercise them.
+
+Quorum for general meetings
+
+No business other than the appointment of the Chairman of the meeting is to be transacted at a general
+meeting if the persons attending it do not constitute a quorum.
+
+47.
+47.1
+
+47.2
+
+47.3
+
+48.
+48.1
+48.2
+
+Chairing general meetings
+
+If the Directors have appointed a Chairman, the Chairman shall chair general meetings if
+present and willing to do so.
+
+If the Directors have not appointed a Chairman, or if the Chairman is unwilling to chair the
+meeting or is not present within ten minutes of the time at which a meeting was due to start:-
+
+47.2.1 the Directors present, or
+47.2.2 (if no Directors are present), the meeting,
+
+must appoint a Director or Shareholder to chair the meeting, and the appointment of the
+Chairman of the meeting must be the first business of the meeting.
+
+The person chairing a meeting in accordance with this article is referred to as ‘the Chairman of
+the meeting’.
+
+Attendance and speaking by directors and non-shareholders
+
+Directors may attend and speak at general meetings, whether or not they are Shareholders.
+The Chairman of the meeting may permit other persons who are not:-
+
+48.2.1 Shareholders of the Company, or
+
+48.2.2 otherwise entitled to exercise the rights of shareholders in relation to general meetings,
+
+
+===== page 23 =====
+49.
+49.1
+
+49.2
+
+49.3
+
+49.4
+
+49.5
+
+49.6
+
+50.
+
+to attend and speak at a general meeting.
+
+Adjournment
+
+If the persons attending a general meeting within half an hour of the time at which the meeting
+was due to start do not constitute a quorum, or if during a meeting a quorum ceases to be
+present, the Chairman of the meeting must adjourn it.
+
+The Chairman of the meeting may adjourn a general meeting at which a quorum is present if:-
+49.2.1 the meeting consents to an adjournment, or
+
+49.2.2 it appears to the Chairman of the meeting that an adjournment is necessary to protect
+the safety of any person attending the meeting or ensure that the business of the
+meeting is conducted in an orderly manner.
+
+The Chairman of the meeting must adjourn a general meeting if directed to do so by the
+meeting.
+
+When adjourning a general meeting, the Chairman of the meeting must:
+
+49.4.1 either specify the time and place to which it is adjourned or state that it is to continue at
+a time and place to be fixed by the Directors, and
+
+49.4.2 have regard to any directions as to the time and place of any adjournment which have
+been given by the meeting.
+
+If the continuation of an adjourned meeting is to take place more than 14 days after it was
+adjourned, the Company must give at least 7 clear days’ notice of it (that is, excluding the day
+of the adjourned meeting and the day on which the notice is given):-
+
+49.5.1 to the same persons to whom notice of the Company’s general meetings is required to
+be given, and
+
+49.5.2 containing the same information which such notice is required to contain.
+
+No business may be transacted at an adjourned general meeting which could not properly have
+been transacted at the meeting if the adjournment had not taken place.
+
+Voting at general meetings
+Voting: general
+
+A resolution put to the vote of a general meeting must be decided on a show of hands unless a poll is
+duly demanded in accordance with the Articles.
+
+51.
+51.1
+
+51.2
+
+52.
+52.1
+
+52.2
+
+Errors and disputes
+
+No objection may be raised to the qualification of any person voting at a general meeting except
+at the meeting or adjourned meeting at which the vote objected to is tendered, and every vote
+not disallowed at the meeting is valid.
+
+Any such objection must be referred to the Chairman of the meeting, whose decision is final.
+
+Poll votes
+A poll on a resolution may be demanded:-
+52.1.1. in advance of the general meeting where it is to be put to the vote, or
+
+52.1.2 at a general meeting, either before a show of hands on that resolution or immediately
+after the result of a show of hands on that resolution is declared.
+
+A poll may be demanded by:-
+52.2.1 the Chairman of the meeting;
+
+
+===== page 24 =====
+52.3
+
+52.4
+
+53.
+53.1
+
+53.2
+
+53.3
+
+53.4
+
+54.
+54.1
+
+54.2
+
+54.3
+
+54.4
+
+55.
+55.1
+
+52.2.2 the Directors;
+52.2.3 two or more persons having the right to vote on the resolution; or
+
+52.2.4 a person or persons representing not less than one tenth of the total voting rights of all
+the Shareholders having the right to vote on the resolution.
+
+A demand for a poll may be withdrawn if:-
+
+52.3.1 the poll has not yet been taken, and
+
+52.3.2 the Chairman of the meeting consents to the withdrawal.
+
+Polls must be taken immediately and in such manner as the Chairman of the meeting directs.
+
+Content of Proxy Notices
+Proxies may only validly be appointed by a notice in writing (a Proxy Notice) which:-
+53.1.1 states the name and address of the Shareholder appointing the proxy;
+
+53.1.2 identifies the person appointed to be that Shareholder's proxy and the general meeting
+in relation to which that person is appointed;
+
+53.1.3. is signed by or on behalf of the Shareholder appointing the proxy, or is authenticated
+in such manner as the Directors may determine; and
+
+53.1.4 is delivered to the Company in accordance with the Articles and any instructions
+contained in the notice of the general meeting to which they relate.
+
+The Company may require Proxy Notices to be delivered in a particular form, and may specify
+different forms for different purposes.
+
+Proxy Notices may specify how the proxy appointed under them is to vote (or that the proxy is
+to abstain from voting) on one or more resolutions.
+
+Unless a Proxy Notice indicates otherwise, it must be treated as:-
+
+53.4.1 allowing the person appointed under it as a proxy discretion as to how to vote on any
+ancillary or procedural resolutions put to the meeting, and
+
+53.4.2 appointing that person as a proxy in relation to any adjournment of the general meeting
+to which it relates as well as the meeting itself.
+
+Delivery of Proxy Notices
+
+A person who is entitled to attend, speak or vote (either on a show of hands or on a poll) ata
+general meeting remains so entitled in respect of that meeting or any adjournment of it, even
+though a valid Proxy Notice has been delivered to the Company by or on behalf of that person.
+
+An appointment under a Proxy Notice may be revoked by delivering to the Company a notice
+in writing given by or on behalf of the person by whom or on whose behalf the Proxy Notice
+was given.
+
+A notice revoking a proxy appointment only takes effect if it is delivered before the start of the
+meeting or adjourned meeting to which it relates.
+
+If a Proxy Notice is not executed by the person appointing the proxy, it must be accompanied
+by written evidence of the authority of the person who executed it to execute it on the appointor’s
+behalf.
+
+Amendments to resolutions
+
+An Ordinary Resolution to be proposed at a general meeting may be amended by Ordinary
+Resolution if:-
+
+
+===== page 25 =====
+55.2
+
+55.3
+
+56.
+56.1
+
+56.2
+
+56.3
+
+57.
+
+57.1
+57.2
+57.3
+
+57.4
+
+58.
+
+55.1.1 notice of the proposed amendment is given to the Company in writing by a person
+entitled to vote at the general meeting at which it is to be proposed not less than 48
+hours before the meeting is to take place (or such later time as the Chairman of the
+meeting may determine), and
+
+55.1.2 the proposed amendment does not, in the reasonable opinion of the Chairman of the
+meeting, materially alter the scope of the resolution.
+
+A Special Resolution to be proposed at a general meeting may be amended by Ordinary
+Resolution, if:-
+
+55.2.1 the Chairman of the meeting proposes the amendment at the general meeting at which
+the resolution is to be proposed, and
+
+55.2.2 the amendment does not go beyond what is necessary to correct a grammatical or
+other non-substantive error in the resolution.
+
+If the Chairman of the meeting, acting in good faith, wrongly decides that an amendment to a
+resolution is out of order, the Chairman’s error does not invalidate the vote on that resolution.
+
+PART 5: ADMINISTRATIVE ARRANGEMENTS
+Means of communication to be used
+
+Subject to the Articles, anything sent or supplied by or to the Company under the Articles may
+be sent or supplied in any way in which the Companies Act 2006 provides for documents or
+information which are authorised or required by any provision of that Act to be sent or supplied
+by or to the Company.
+
+Subject to the Articles, any notice or document to be sent or supplied to a Director in connection
+with the taking of decisions by Directors may also be sent or supplied by the means by which
+that Director has asked to be sent or supplied with such notices or documents for the time
+being.
+
+A Director may agree with the Company that notices or documents sent to that Director in a
+particular way are to be deemed to have been received within a specified time of their being
+sent, and for the specified time to be less than 48 hours.
+
+Company seals
+Any common seal may only be used by the authority of the Directors.
+The Directors may decide by what means and in what form any common seal is to be used.
+
+Unless otherwise decided by the Directors, if the Company has a common seal and it is affixed
+to a document, the document must also be signed by at least one authorised person in the
+presence of a witness who attests the signature.
+
+For the purposes of this Article, an authorised person is:-
+57.4.1 any Director of the Company;
+57.4.2 the company secretary (if any); or
+
+57.4.3 any person authorised by the Directors for the purpose of signing documents to which
+the common seal is applied.
+
+No right to inspect accounts and other records
+
+Except as provided by law or authorised by the Directors or an Ordinary Resolution of the Company,
+no person is entitled to inspect any of the Company's accounting or other records or documents merely
+by virtue of being a Shareholder.
+
+
+===== page 26 =====
+59.
+
+Provision for employees on cessation of business
+
+The Directors may decide to make provision for the benefit of persons employed or formerly employed
+by the Company or any of its Subsidiaries (other than a Director or former Director or shadow Director)
+in connection with the cessation or transfer to any person of the whole or part of the undertaking of the
+Company or that Subsidiary.
+
+60.
+60.1
+
+60.2
+
+60.3
+
+61.
+61.1
+
+61.2
+
+Directors’ indemnity and insurance
+Indemnity
+
+Subject to Article 60.1.3, a Relevant Director of the Company or an Associated Company may
+be indemnified out of the Company’s assets against:-
+
+60.1.1 any liability incurred by that Director in connection with any negligence, default, breach
+of duty or breach of trust in relation to the Company or an associated company,
+
+60.1.2 any liability incurred by that director in connection with the activities of the Company or
+an associated company in its capacity as a trustee of an occupational pension scheme
+(as defined in section 235(6) of the Companies Act 2006),
+
+60.1.3 any other liability incurred by that Director as an officer of the Company or an associated
+Company.
+
+This Article does not authorise any indemnity which would be prohibited or rendered void by
+any provision of the Companies Acts or by any other provision of law.
+
+In this article:-
+
+60.3.1 companies are Associated if one is a Subsidiary of the other or both are Subsidiaries
+of the same body corporate, and
+
+60.3.2 a ‘Relevant Director’ means any Director or former Director of the Company or an
+associated company.
+
+Insurance
+
+The Directors may decide to purchase and maintain insurance, at the expense of the company,
+for the benefit of any Relevant Director in respect of any relevant loss.
+
+In this article:-
+
+61.2.1 a Relevant Director means any Director or former Director of the Company or an
+Associated Company,
+
+61.2.2 a Relevant Loss means any loss or liability which has been or may be incurred by a
+Relevant Director in connection with that Director's duties or powers in relation to the
+Company, any associated company or any pension fund or employees’ share scheme
+of the Company or associated company, and
+
+61.2.3. companies are associated if one is a Subsidiary of the other or both are Subsidiaries of
+the same body corporate

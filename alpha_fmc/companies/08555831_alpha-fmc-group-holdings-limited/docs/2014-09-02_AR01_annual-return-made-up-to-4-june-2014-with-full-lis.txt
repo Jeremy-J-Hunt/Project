@@ -1,0 +1,2584 @@
+
+
+===== page 1 =====
+NF} 40
+
+In accordance with
+
+Section 854 of the form produced by
+sane, ARO1 y
+Annual Return .
+(For returns made up to a date on or after 1 October 2011) AlRIS | PTP PC Share Register Plus
+Ver.17.4
+A fee is payable with this form You can use the WebFiling service to file this form online.
+Please see ‘How to pay’ on the Please go to www.companiggparice naw vile
+last page.
+What this form is for X What this form is NOT for
+You may use this form to You cannot use this form to givaeg
+confirm that the company notice of changes to the compa
+information is correct as at Officers, registered office addreRy
+the date of this return. company type or information
+You must file an Annual Return relating to the company recordg
+at least once every year. zn #352
+COMPANIES HOUSE
+Part 1. Company details
+
+The section must be completed by all companies.
+
+> Filling in this form
+Please complete in typescript
+or in bold black capitals.
+
+All fields are mandatory unless
+specified or indicated by *
+
+aw
+
+Company number
+
+Company details
+
+fo fe [s [5 [5 [e [2 fo
+
+@ Company name change
+If your company has recently
+
+Company name in full
+o
+
+[ALPHA FMC GROUP HOLDINGS LIMITED
+
+changed its name, please
+provide the company name as
+
+it the date of this return.
+
+Date of this return @
+
+Return date
+
+Please give the annual return made up date. The return date must not
+
+be a future date. The annual return must be delivered within 28 days
+
+of the date given below.
+
+If you would like the company's made up date to be earlier than 1 October
+2011, please complete the ARO1 appropriate for earlier made up dates.
+
+fo fe [ole fe fo fr fa
+
+@ Date of this return
+
+Your company's return date is
+usually the anniversary of inc-
+orporation or the anniversary,
+of the last annual return filed at
+Companies House. You may
+choose an earlier return date
+but it must not be a later date.
+
+3]
+
+Classification code 1 code 1
+
+Classification code 2
+Classification code 3
+
+Classification code 4
+
+Principal business activity
+
+Please show the trade classification code number(s) for the
+principal activity or activities.©
+
+[7 [ofz[2[e
+
+© Principal business activity
+You must provide a trade
+classification code (SIC code
+2007) or a description of your
+company's main business in
+this section.
+
+A full list of the trade class-
+ification codes are available
+‘on our website:
+‘www.companieshouse.gov.uk
+
+If you cannot determine a code, please give a brief description of
+your business activity below:
+
+Principal activity
+description
+
+CHFP013,
+10/11 Version 5.0
+
+
+===== page 2 =====
+ARO1
+
+Annual Return
+(For returns made up to a date on or after 1 October 2011)
+
+Company type®
+
+Please confirm your company type by ticking the appropriate box below
+(only one box must be ticked):
+
+@ Company type
+If you are unsure of your
+company type, please check
+your latest certificate of incorp-
+oration or our website:
+www.companieshouse.gov.uk
+
+O Public limited company
+Private company limited by shares
+Q_~Private company limited by guarantee
+0 Private company limited by shares exempt under section 60
+0D Private company limited by guarantee exempt under section 60
+QO Private unlimited company with share capital
+O ‘Private unlimited company without share capital
+gs Registered office address ©
+Building name/number | 60 Gresham Street
+Street |
+Post town | London
+County/Region |
+Postcode refefe [v[ [7 [ele
+
+© Change of registered office
+This must agree with the
+address that is held on the
+Companies House record at the
+date of this return.
+
+If the registered office address
+has changed, you should
+complete form ADO1 and
+submit it together with
+
+this annual return.
+
+Single alternative inspection location (SAIL) of the
+
+company records (if applicable) ©
+
+Building name/number
+
+Street
+
+Post town
+
+County/Region
+
+|
+PLT Ti ttt
+
+Postcode
+
+© SAIL address
+This must agree with the
+address that is held on the
+Companies House record at the
+date of this return.
+
+If the address has changed,
+you should complete form
+
+ADO2 and submit it together
+with this annual return.
+
+Location of company records 0
+
+Please tick the appropriate box to indicate which records are kept at the
+SAIL address in Section A6:
+
+Register of members.
+
+Register of directors.
+
+Directors’ service contracts.
+
+Directors’ indemnities.
+
+Register of secretaries.
+
+Records of resolutions etc.
+
+Contracts relating to purchase of own shares.
+
+Documents relating to redemption or purchase of own share
+out of capital by private company.
+
+Register of debenture holders.
+
+Report to members of outcome of investigation by public
+company into interests in its shares.
+
+Register of interests in shares disclosed to public company.
+Instruments creating charges and register of charges: England
+and Wales or Northern Ireland.
+
+Instruments creating charges and register of charges: Scotland|
+
+O00 00 o0o000000
+
+Q
+
+@ Location of company
+records
+If the company records are
+held at the registered office
+address, do not tick any of the
+boxes in this section.
+
+Certain records must be kept by
+every company while other
+records are only kept by certain
+company types where
+appropriate.
+
+If the records are not kept at
+the SAIL address, they must be
+available at the registered office.
+
+If any of the company records
+have moved from the registered
+Office to the address in Section
+A6 since the fast annual return,
+you must complete form ADO3
+and submit it together with this
+annual return,
+
+Form AR01 dated 04/06/2014 for ALPHA FMC GROUP HOLDINGS LIMITED (Company No.08555831)
+
+CHFP013
+
+10/11 Version 5.0
+
+
+
+===== page 3 =====
+ve
+
+ARO1
+
+Annual Return
+(For returns made up to a date on or after 1 October 2011)
+
+— ———
+Part 2 Officers of the company
+This section should include details of the company at the date to which Continuation pages _
+this annual return is made up. Please use a continuation page
+. ae . if you need to enter more
++ For asecretary who is an individual, go to Section B1. officer details.
++  Foracorporate secretary, go to Section C1.
+2 For adirector who is an individual, go to Section D1.
+2% For acorporate director, go to Section E1.
+Secretary
+Secretary's details 0
+Please use this section to list all the secretaries of the company. @ Secretary appointments
+
+For a corporate secretary, complete Section C1-C4.
+
+Title *
+
+Full forename(s)
+
+Surname
+
+Former name(s) @
+
+You may not use this form to
+appoint a secretary. To do this,
+please complete form APO3
+and submit it together with this
+annual return.
+
+Corporate details
+Please use Section C1-C4
+to enter corporate secretary
+details.
+
+Secretary details
+All details must agree with
+those previously notified to
+Companies House. If you have
+made changes since the last
+annual return and have not
+Notified us, please complete
+form CHO3.
+
+© Former name(s)
+Please provide any previous
+names which have been used
+for business purposes during
+the period of this return
+Married women do not need
+
+to give former names unless
+previously used for business
+purposes.
+
+22)
+
+Secretary's service address ©
+
+Building name/number |
+
+Street
+
+Post town
+
+County/Region
+Postcode
+
+Country
+
+|
+|
+;
+Senne
+
+© Service address
+If you have previously
+notified Companies House that
+the service address is at ‘The
+Company's Registered Office’,
+please state ‘The Company's
+Registered Office’ in the
+address.
+
+This information will appear
+(on the public record.
+
+Form ARO1 dated 04/06/2014 for ALPHA FMC GROUP HOLDINGS LIMITED (Company No.08555831)
+
+CHFP013
+10/11 Version 5.0
+
+
+
+===== page 4 =====
+ARO1
+
+Annual Return
+(For returns made up to a date on or after 1 October 2011)
+
+Corporate secretary
+
+ci
+
+Corporate secretary's details ©
+
+Please use this section to list all the corporate secretaries of the
+company.
+
+Corporate body/firm
+name
+
+Building name/number
+
+Street
+
+Post town
+
+County/Region
+
+Postcode
+
+PTT tt rrr
+
+Country
+
+@ Corporate secretary
+appointments
+You cannot use this form to
+appoint a corporate secretary.
+To do this, please complete
+form APO4 and submit it
+together with this annual
+return.
+
+Corporate secretary details
+All details must agree with
+those previously notified to
+Companies House. If you have
+made changes since the last
+annual retum and have not
+notified us, please complete
+form CH04,
+
+This information will appear on
+the public record.
+
+fc
+
+Location of the registry of the corporate body or firm
+
+Is the corporate secretary registered within the European Economic Area
+(EEA)?
+
+> Yes Complete Section C3 only
+
++ No Complete Section C4 only
+
+EEA companies @
+
+Please give details of the register where the company file is kept (inc-
+luding the relevant state) and the registration number in that register.
+
+@EEA
+A {ull list of countries of the EEA
+can be found in our guidance:
+
+ica]
+
+Where the company/ | www.companieshouse.gov.uk
+firm is registered © @ This is the register mentioned
+| in Article 3 of the First Company
+Law Directive (68/151/EEC).
+Registration number |
+Non-EEA companies
+Please give details of the legal form of the corporate body or firm and OQ Non-EEA
+
+the law by which it is governed. If applicable, please also give details
+of the register in which it is entered (including the state) and its
+registration number in that register.
+
+Legal form of the
+corporate body
+or firm
+
+Governing law
+
+If applicable, where
+the company/firm is
+registered @
+
+If applicable, the
+registration number
+
+Where you have provided
+details of the register (including
+state) where the company or
+firm is registered, you must also
+provide its number in that
+register.
+
+Form AR01 dated 04/06/2014 for ALPHA FMC GROUP HOLDINGS LIMITED (Company No.08555831)
+
+CHFP013
+10/11 Version 5.0
+
+
+
+===== page 5 =====
+ARO1
+Annual Return
+(For returns made up to a date on or after 1 October 2011)
+
+Director
+Director's details ©
+Please use this section to list all the directors of the company. 0 Pirector appoints to
+For a corporate director, complete Section E1-E4. appoint a director, To do this,
+please complete form APO1
+Title * [ and submit it together with
+the annual return.
+Full forename(s) | NICHOLAS BENJAMIN Corporate details
+Please use Section E1-E4
+Surname | BAKER to enter corporate director
+details.
+Former name(s) @ | Director details
+
+Country/State of | England
+residence
+Nationality | BRITISH
+
+pacar Fe fo «fof? © a Pe [7 Fa
+
+Business occupation | CONSULTANT
+
+All details must agree with
+those previously notified to
+Companies House. If you have
+made changes since the last
+annual return and have not
+notified us, please complete
+form CHO1.
+
+@ Former name(s)
+Please provide any previous
+names which have been used
+
+. for business purposes during
+(if any) the period of this return.
+Married women do not need
+to give former names unless
+previously used for business
+Purposes.
+Director's service address ©
+Build ri , © Service address
+uilding name/number | The Company's Registered Office if you have previously notified
+Companies House that the
+Street service address is at ‘The
+Company's Registered Office’,
+| please state 'The Company's
+Registered Office’ in the
+Post town | address.
+This information will appear on
+County/Region | the public record.
+Postcode
+Country |
+Form ARO1 dated 04/06/2014 for ALPHA FMC GROUP HOLDINGS LIMITED (Company No.08555831) CHFPO13
+
+10/11 Version 5.0
+
+
+
+===== page 6 =====
+ARO1
+Annual Return
+(For returns made up to a date on or after 1 October 2011)
+
+Director
+Director's details ©
+Please use this section to list all the directors of the company. eo Lenin teed bo to
+For a corporate director, complete Section E1-E4. appoint a director. To do this,
+please complete form APO1
+Title * | and submit it together with
+the annual return.
+Full forename(s) | ANDREW Corporate details
+Please use Section E1-E4
+Surname FERGUSON to enter corporate director
+details.
+Former name(s) @ | Director details
+All details must agree with
+those previously notified to
+
+Country/State of | United Kingdom
+residence
+Nationality | British
+
+Business occupation | Director
+
+Companies House. If you have
+made changes since the last
+annual return and have not
+notified us, please complete
+form CHO1.
+
+@ Former name(s)
+Please provide any previous
+names which have been used
+for business purposes during
+
+(if any) the period of this return.
+Married women do not need
+to give former names unless
+previously used for business
+purposes.
+[D2] Director's service address ©
+Building name/number | Mint House 77 Mansell Street © Feu nave prevousty notified
+Companies House that the
+Street | service address is at The
+Company's Registered Office’,
+| please state 'The Company's
+Registered Office’ in the
+Post town | London address.
+- This information will appear on
+County/Region [ the public record.
+Postcode Ey1 BIA |F
+Country | United Kingdom
+
+Form AR01 dated 04/06/2014 for ALPHA FMC GROUP HOLDINGS LIMITED (Company No.08555831)
+
+CHFP013.
+10/11 Version 5.0
+
+
+
+===== page 7 =====
+AR01 - continuation page
+Annual Return
+(For returns made up to a date on or after 1 October 2011)
+
+Director
+Director's details ©
+Please use this section to list all the directors of the company. o aero to oie Toon to
+For a corporate director, complete Section E1-E4. appoint a director. To do this,
+please complete form APO1
+Title * MR and submit it together with
+‘the annual return.
+Full forename(s) | EUAN Corporate details
+Please use Section E1-E4
+Surname | FRASER to enter corporate director
+
+Former name(s) @ |
+
+Country/State of | England
+residence
+Nationality | BRITISH
+
+oweorom fife fof fifo fele
+
+Business occupation | COMPANY DIRECTOR
+
+details.
+
+Director details
+
+All details must agree with
+those previously notified to
+Companies House. If you have
+made changes since the last
+annual return and have not
+notified us, please complete
+form CHO1.
+
+@ Former name(s)
+Please provide any previous
+names which have been used
+for business purposes during
+
+(if any) the period of this return.
+| Married women do not need
+to give former names unless
+previously used for business
+purposes.
+[02m Director's service address ©
+Buildi | " A © Service address
+uilding name/number | The Company's Registered Office if you have previously notified
+Companies House that the
+Street | service address is at ‘The
+Company's Registered Office’,
+| please state 'The Company's.
+Registered Office’ in the
+Post town | address.
+~ This information will appear on
+County/Region | the public record.
+Postcode PreErt rere
+Country |
+Form AR01 dated 04/06/2014 for ALPHA FMC GROUP HOLDINGS LIMITED (Company No.08555831) CHFP013
+
+10/11 Version 5.0
+
+
+
+===== page 8 =====
+AR01 - continuation page
+Annual Return
+(For returns made up to a date on or after 1 October 2011)
+
+Director
+
+Director's details ©
+
+Please use this section to list all the directors of the company.
+For a corporate director, complete Section E1-E4.
+
+@ Director appointments
+You cannot use this form to
+appoint a director. To do this,
+please complete form APO1
+
+Title * | and submit it together with
+the annual return.
+Fullforename(s) | CHRISTOPHER Corporate details
+Please use Section E1-E4
+Surname | HARPER to enter corporate director
+details.
+Former name(s) @ | Director detaits
+All details must agree with
+| those previously notified to
+= - Companies House. If you have
+Country/State of | United Kingdom made changes since the last
+residence annual return and have not
+- - notified us, please complete
+Nationality | BRITISH form CHO.
+Fe ea v, ff.
+Date of birth 2/0 02 1[o]6]3 @Formername(s)
+Please provide any previous
+7 ; names which have been used
+Business occupation | PRIVATE EQUITY MANAGER for business purposes during
+(if any) the period of this return.
+| Married women do not need
+to give former names unless
+previously used for business
+purposes.
+Director's service address ©
+ildit Sh 5 a © Service address
+Building name/number | The Company's Registered Office if you have previously notified
+Companies House that the
+Street | service address is at ‘The
+Company's Registered Office’,
+| please state ‘The Company's
+Registered Office’ in the
+Post town | address.
+- This information will appear on
+County/Region | the public record.
+Postcode PrEEPT ET.
+Country |
+Form ARO1 dated 04/06/2014 for ALPHA FMC GROUP HOLDINGS LIMITED (Company No.08555831) CHFPO13
+
+10/11 Version 5.0
+
+
+
+===== page 9 =====
+AR01 - continuation page
+Annual Return
+(For returns made up to a date on or after 1 October 2011)
+
+Director
+[01 Director's details ©
+Please use this section to list all the directors of the company. o basen anda to
+For a corporate director, complete Section E1-E4. appoint a director. To do this,
+please complete form APO1
+Title * | MR and submit it together with
+the annual return.
+Fullforename(s) | NICHOLAS ROBIN Corporate details
+Please use Section E1-E4
+Surname | KENT to enter corporate director
+details.
+Former name(s) @ | Director details
+All details must agree with
+| those previously notified to
+
+Country/State of | England
+residence
+Nationality | BRITISH
+
+acorrin Fos [of fr fo fe fe
+
+Business occupation | CONSULTANT
+
+(if any) |
+
+Companies House. If you have
+made changes since the last
+annual return and have not
+notified us, please complete
+form CHO1.
+
+@ Former name(s)
+Please provide any previous
+names which have been used
+for business purposes during
+the period of this return.
+Married women do not need
+to give former names unless
+previously used for business
+purposes.
+
+Director's service address ©
+
+Building name/number | The Company's Registered Office
+
+Street |
+|
+Post town [
+County/Region [
+pose TL TLE UT LTT TT
+Country |
+
+@ Service address
+If you have previously notified
+‘Companies House that the
+service address is at ‘The
+Company's Registered Office’,
+please state 'The Company's
+Registered Office’ in the
+address.
+
+This information will appear on
+the public record.
+
+Form ARO1 dated 04/06/2014 for ALPHA FMC GROUP HOLDINGS LIMITED (Company No.08555831)
+
+CHFP013
+10/11 Version 5.0
+
+
+
+===== page 10 =====
+AR01 - continuation page
+Annual Return
+(For returns made up to a date on or after 1 October 2011)
+
+Director
+
+Director's details ®
+
+Please use this section to list all the directors of the company.
+
+For a corporate director, complete Section E1-E4.
+
+Title * |
+
+Full forename(s) | TIMOTHY HUGH SOUTHCOMBE
+
+Surname | TROTTER
+
+Former name(s) @ |
+
+@ Director appointments
+You cannot use this form to
+appoint a director. To do this,
+please complete form APO1
+and submit it together with
+the annual return.
+
+Corporate detaits
+Please use Section E1-E4
+to enter corporate director
+details.
+
+Director details
+
+All details must agree with
+those previously notified to
+Companies House. If you have
+
+Country/State of | United Kingdom made changes since the last
+residence annual return and have not
+r Notified us, please complete
+Nationality | BRITISH form CHOt.
+a id m ™ y y ry
+Date of birth of7 [ol% 1/9 |'s [9 @ Former name(s)
+Please provide any previous
+' - names which have been used
+Business occupation | DIRECTOR fates NS ein
+(if any) the period of this return.
+Married women do not need
+to give former names unless
+previously used for business
+purposes.
+D2] Director's service address ©
+Building name/number | The Company's Registered Office e Foe hnae preaously notified
+Companies House that the
+Street | service address is at ‘The
+Company's Registered Office’,
+| please state ‘The Company's
+Registered Office’ in the
+Post town | address.
+, This information will appear on
+County/Region [ the public record.
+Postcode PP Prr ert
+Country |
+
+Form AR01 dated 04/06/2014 for ALPHA FMC GROUP HOLDINGS LIMITED (Company No.08555831)
+
+CHFP013
+10/11 Version 5.0
+
+
+
+===== page 11 =====
+ARO1
+
+Annual Return
+(For returns made up to a date on or after 1 October 2011)
+
+Corporate director
+
+Corporate director's details ®
+Please use this section to list all the corporate directors of the @ Corporate director
+appointments
+company. You cannot use this form to
+appoint a corporate director.
+Corporate body/firm | He do this, please compicte
+form APO2 and submit it
+name | together with this annual
+return.
+Building name/number | Corporate director details
+All details must agree with
+Street | those previously notified to
+Companies House. If you have
+| made changes since the last
+annual return and have not
+Post town | notified us, please complete
+County/Region | This information will appear on
+——————— the public record.
+Postcode PPE L {tT {-
+Country
+Location of the registry of the corporate body or firm
+Is the corporate director registered within the European Economic Area
+(EEA)?
++ Yes Complete Section E3 only
++» No Complete Section E4 only
+EEA companies e
+Please give details of the register where the company file is kept (inc- @EEA
+i istratic i f A full list of countries of the EEA
+luding the relevant state) and the registration number in that register. ‘can be found in our guidance:
+Where the company/ www.companieshouse.gov.uk
+firm is registered © This is the register mentioned
+| in Article 3 of the First Company
+Law Directive (68/151/EEC).
+Registration number |
+Non-EEA companies
+Please give details of the legal form of the corporate body or firm and @ Non-EEA
+ich it i ' i f i i Where you have provided
+the law by which it is governed. If applicable, please also give details details of the register (including
+of the register in which it is entered (including the state) and its state) where the company or
+registration number in that register. firm is registered, you must also
+provide its number in that
+Legal form of the | register.
+corporate body
+or firm
+Governing law |
+If applicable, where |
+the company/firm is
+registered O |
+If applicable, the |
+registration number
+Form ARO1 dated 04/06/2014 for ALPHA FMC GROUP HOLDINGS LIMITED (Company No.08555831) CHFP013
+
+10/11 Version 5.0
+
+
+===== page 12 =====
+ARO1
+Annual Return
+(For returns made up to a date on or after 1 October 2011)
+
+—_ — —
+Part 3 Statement of Capital ©
+Does your company have share capital? @ This should reflect the atthe
+. . company's capital status
++ Yes Complete the sections below and the following Part 4. made up date of this annual
+3 No Go to Part 5 (Signature). retum.
+rio Share capital in pound sterling (£)
+Please complete the table below to show each class of shares held in pound sterling.
+If all your issued capital is in sterling, only complete Section F1 and then go to Section F4.
+Class of shares Amount paid up on Amount (if any) unpaid | Number of shares ® | Aggregate nominal
+(E.g. Ordinary/Preference etc.) each share @ on each share @ value @
+As per continuation sheet(s) [ [ | 1,495,323 £ 507,798
+| | | le
+| | le
+| £
+Totals | 1,495,323] ¢ 507,798
+Share capital in other currencies
+Please complete the table below to show any class of shares held in other currencies.
+Please complete a separate table for each currency.
+Currency
+Class of shares. Amount paid up on Amount (if any) unpaid | Number of shares ® | Aggregate nominal
+(E.g. Ordinary/Preference etc.) each share @ oneach share @ value @
+| Totals [
+Currency
+Class of shares Amount paid up on Amount (if any) unpaid | Number of shares ® | Aggregate nominal
+(E.g. Ordinary/Preference etc.) each share @ ‘on each share @ value @
+Totals
+Totals
+Please give the total number of shares and total aggregate © Total aggregate nominal
+nominal value of issued share capital. value
+Please list total aggregate values
+in different currencies
+Total number of shares | 1,495,323 separately. For example:
+Total aggregate GBP 507,798 GBP 100 + EUR 100
+nominal value @ + USD 10 etc.
+@ Including both the nominal value and any © Number of shares issued multiplied by Continuation Pages
+share premium nominal value of each share. Please use a Statement of Capital
+© Total number of issued shares in this class. Continuation page ifnecessary.
+Form ARO1 dated 04/06/2014 for ALPHA FMC GROUP HOLDINGS LIMITED (Company No.08555831) CHFPO13
+
+10/11 Version 5.0
+
+
+===== page 13 =====
+AR01 - continuation page
+Annual Return
+(For returns made up to a date on or after 1 October 2011)
+
+Statement of Capital ©
+
+Please complete the table below to show each class of shares held. | @ This should reflect the comp-
+
+Please complete a separate table for each currency. any's capital status at the made
+up date of this annual retum.
+
+Currency Pounds Sterling (GBP)
+Class of shares Amount paid up on Amount (if any) unpaid | Number of shares @ | Aggregate nominal
+(E.g. Ordinary/Preference etc.) each share @ on each share @ value @
+Ordinary A1 | 0.010000} 0.000000] 100 1
+Ordinary A1 | 0.410000] 0.000000] 461,452) 4,615
+‘Ordinary A2 0.410000} 0.000000} 45,948, 459
+Ordinary B 1.000000 0.000000} 497,823 497,823
+Ordinary C 0.010009] 0.000000] 490,000 4,900
+|
+| |
+|
+
+Totals 1,495,323) 507,798
+@ Including both the nominal value and any @ Number of shares issued multiplied by
+share premium. ‘nominal value of each share.
+© Total number of issued shares in this class.
+Form ARO1 dated 04/06/2014 for ALPHA FMC GROUP HOLDINGS LIMITED (Company No.08555831) CHFP013,
+
+10/11 Version 5.0
+
+
+===== page 14 =====
+ARO1
+Annual Return
+(For returns made up to a date on or after 1 October 2011)
+
+Fa | Statement of Capital (Voting rights)
+
+Please give the prescribéd particulars of rights attached to shares for each class
+of share shown in the statement of capital share tables in Section F1 and F2.
+
+Class of share
+
+Voting rights
+
+See continuations sheet(s)
+
+Class of share [
+
+Voting rights
+
+Class of share
+
+Voting rights
+
+Class of share
+
+Voting rights
+
+Form ARO1 dated 04/06/2014 for ALPHA FMC GROUP HOLDINGS LIMITED (Company No.08555831) CHFPO13
+10/11 Version 5.0
+
+
+===== page 15 =====
+AR01 - continuation page
+Annual Return
+(For returns made up to a date on or after 1 October 2011)
+
+a Statement of Capital (Voting rights)
+
+Class of share | Ordinary A1
+Voting rights PLEASE SEE CONTINUATION SHEETS
+Form ARO1 dated 04/06/2014 for ALPHA FMC GROUP HOLDINGS LIMITED (Company No.08555831) CHFPO13
+
+10/11 Version 5.0
+
+
+===== page 16 =====
+AR01 - continuation page
+Annual Return
+(For returns made up to a date on or after 1 October 2011)
+
+iF Statement of Capital (Voting rights)
+
+Class of share | Ordinary A2
+Voting rights PLEASE SEE CONTINUATION SHEETS
+Form ARO1 dated 04/06/2014 for ALPHA FMC GROUP HOLDINGS LIMITED (Company No.08555831) CHFP013
+
+10/11 Version 5.0
+
+
+
+===== page 17 =====
+AR01 - continuation page
+Annual Return
+(For returns made up to a date on or after 1 October 2011)
+
+[Fa | Statement of Capital (Voting rights)
+
+Class of share Ordinary B
+Voting rights PLEASE SEE CONTINUATION SHEETS.
+Form ARO1 dated 04/06/2014 for ALPHA FMC GROUP HOLDINGS LIMITED (Company No.08555831) CHFPO13
+
+10/11 Version 5.0
+
+
+
+===== page 18 =====
+ARO1 - continuation page
+Annual Return
+(For returns made up to a date on or after 1. October 2011)
+
+[Fe | Statement of Capital (Voting rights)
+
+Class of share | Ordinary C
+
+Voting rights PLEASE SEE CONTINUATION SHEETS
+
+Form AR01 dated 04/06/2014 for ALPHA FMC GROUP HOLDINGS LIMITED (Company No.08555831) CHFP013
+10/11 Version 5.0
+
+
+===== page 19 =====
+ARO1
+Annual Return
+(For returns made up to a date on or after 1 October 2011)
+
+Part 4
+
+Shareholders
+
+Does your company have share capital?
++ Yes goto Section G1 ‘Companies with share capital’.
++ No Goto Part 5 (Signature).
+
+cil
+
+Companies with share capital
+
+Question 1 Were any of the company's shares admitted to trading on a market at any
+time during this return period? Please tick the appropriate box below: @
+@ No goto Section G2 ‘Past and present shareholders’.
+O Yes goto Question 2.
+
+Question 2 Please only refer to Question 2 below if you have answered 'Yes' to
+
+Question 1. If you answered 'No’, please go to Section G2 'Past and
+present shareholders’.
+
+Did the company, throughout the return period, have any shares admitted
+to trading on a relevant market and was it, throughout the return period, an
+issuer to which DTRS5 applies? Please tick the appropriate box below: @
+
+QO No goto Section G4 ‘Shareholders who hold at least 5% of
+any class of shares of the company as at the made up
+date of the return’.
+
+QQ Yes goto Part 5 'Signature‘
+
+@ A market is one established
+under the rules of a UK recog-
+nised investment exchange or
+any other regulated markets
+in or outside of the UK, or any
+other market outside of the UK.
+The current UK recognised
+investment exchanges and
+regulated markets can be found
+at: www. fsa.gov.uk/
+register/exchanges.do
+
+@ OTRS refers to the Vote Holder
+and Issuer Notification Rules
+contained in Chapter 5 of the
+Disclosure and Transparency
+Rules source book issued by
+the Financial Services Authority.
+Notification is required when the
+percentage acquisition of a
+shareholder in the company has
+reached a certain threshold
+(starting at 3%).
+
+List of past and present shareholders ©
+
+The company is required to provide a full list of past and present
+shareholders if one was not included with either of the last two returns.
+Please tick the appropriate box below:
+
+(‘There were no shareholder changes in this period. Go to
+Part 5 (Signature).
+
+A full list of shareholders is enclosed.
+Q_ Alist of shareholder changes is enclosed.
+
+How is the list of shareholders enclosed. Please tick the appropriate
+box below:
+
+The list of shareholders is enclosed on paper. Goto Section G3.
+‘List of past and present shareholders’.
+
+C1 The list of shareholders is enclosed in another format.
+
+Go to Part 5 (Signature).
+
+© This section only applies to
+companies answering 'No' in
+Section G1.
+
+Form ARO1 dated 04/06/2014 for ALPHA FMC GROUP HOLDINGS LIMITED (Company No.08555831)
+
+CHFP013
+10/11 Version 5.0
+
+
+
+===== page 20 =====
+AR01 - continuation page
+Annual Return
+(For returns made up to a date on or after 1 October 2011)
+
+Full List
+& List of past and present shareholders
+Changes during this period to shareholders’ particulars or details of the oe rrease vst the heath an
+shareholders in alpha-
+amount of stock or shares transferred must be completed each year. betical order.
+You must provide a ‘full list’ of all company shareholders on: Joint shareholders should
+- the company's first annual return following incorporation; be listed consecutively.
+- every third annual retum after a full list has been provided. Further shareholders
+Please use a ‘List of past and
+present shareholders’ continu-
+ation page if necessary.
+This section only applies to
+‘companies answering 'No' to
+Question 1 in Section G1.
+‘Shares or stock Shares or stock transferred (if appropriate)
+currently held
+Shareholder's Name Class of share ‘Number of shares or Number of shares or Date of registration
+(Address not required) amount of stock amount of stock of transfer
+Alpha FMC Group Nominees Ltd Ordinary B 326,446
+CAMILLE ARNOULD Ordinary B 200
+MATTHEW BACON Ordinary B 7,936
+BAIRD CAPITAL PARTNERS Ordinary i)
+EUROPE II LP
+BAIRD CAPITAL PARTNERS. Ordinary A1 238,690
+EUROPE II LP
+BAIRD CAPITAL PARTNERS. Ordinary A1 85,017
+EUROPE I! SPECIAL AFFILIATES LP
+NICHOLAS BENJAMIN BAKER Ordinary B 18,127
+NICHOLAS BENJAMIN BAKER Ordinary C 50,000
+LUC BAQUE Ordinary B 20,296
+LUC BAQUE Ordinary C 50,000
+NICHOLAS BARBONE Ordinary B 1,159
+BEECHBROOK MEZZANINE II Ordinary A2 45,948
+JERSEY LIMITED
+KATY BROWN Ordinary B 1,159
+Form ARO1 dated 04/06/2014 for ALPHA FMC GROUP HOLDINGS LIMITED (Company No.08555831) CHFP013
+
+10/11 Version 5.0
+
+
+===== page 21 =====
+AR01 - continuation page
+Annual Return
+(For returns made up to a date on or after 1 October 2011)
+
+Full List
+& List of past and present shareholders
+Changes during this period to shareholders’ particulars or details of the 0 lease wene company
+shareholders in alpha-
+amount of stock or shares transferred must be completed each year. betical order.
+You must provide a ‘full list’ of all company shareholders on: Joint shareholders should
+= the company’s first annual return following incorporation; be listed consecutively.
+7 ir i i Further shareholders
+every third annual return after a full list has been provided. Please use a ‘List of past and
+present shareholders’ continu-
+ation page if necessary.
+This section only applies to
+companies answering 'No' to.
+Question 1 in Section G1.
+Shares or stock Shares or stock transferred (if appropriate)
+currently held
+Shareholder's Name Class of share Number of shares or Number of shares or Date of registration
+(Address not required) amount of stock amount of stock of transfer
+MICHAEL BURNS. Ordinary B 1,018
+CAMILLA BURROW Ordinary B 1,159
+PAUL CAME Ordinary B 1,511
+MISS STEPHANIE CLARKE Ordinary B 100 25/03/2014
+MISS STEPHANIE CLARKE Ordinary B 169 25/03/2014
+MISS STEPHANIE CLARKE Ordinary B 600 25/03/2014
+MISS STEPHANIE CLARKE Ordinary B ie)
+CHARLOTTE CLOSE-SMITH Ordinary B 1,018
+MS JANE CONWAY Ordinary B 1,269
+NEIL STEPHEN CURHAM Ordinary C 50,000
+VALENTIN DADURE Ordinary B 200
+CHARLES-ANTOINE DESJARDINS | Ordinary B 3,700
+PIERRE-HENRI DESJARDINS Ordinary B 200
+Form ARO1 dated 04/06/2014 for ALPHA FMC GROUP HOLDINGS LIMITED (Company No.08555831) CHFPO13
+
+10/11 Version 5.0
+
+
+===== page 22 =====
+AR01 - continuation page
+
+Annual Return
+(For returns made up to a date on or after 1 October 2011)
+
+Full List
+
+ico List of past and present shareholders ®
+
+Changes during this period to shareholders’ particulars or details of the
+amount of stock or shares transferred must be completed each year.
+
+You must provide a ‘full list’ of all company shareholders on:
+- the company's first annual return following incorporation;
+- every third annual return after a full list has been provided.
+
+@ Please list the company
+shareholders in alpha-
+betical order.
+Joint shareholders should
+be listed consecutively.
+Further shareholders
+Please use a ‘List of past and
+present shareholders’ continu-
+ation page if necessary.
+This section only applies to
+companies answering ‘No’ to
+Question 1 in Section G1.
+
+‘Shares or stock Shares or stock transferred (if appropriate)
+currently held
+Shareholder's Name Class of share Number of shares or Number of shares or Date of registration
+(Address not required) amount of stock amount of stock of transfer
+ANDREW FERGUSON Ordinary 1 24/10/2013
+ANDREW FERGUSON Ordinary i)
+BASTIEN FOLLAIN Ordinary B 200
+MR EUAN FRASER Ordinary B 21,973
+MR EUAN FRASER Ordinary C 50,000
+MS ALICE FYFE Ordinary B 1,018
+MR RICHARD GODDARD Ordinary B 2,582
+PAUL GUADAGNIN Ordinary B 200
+AMANDEEP KAUR Ordinary B 517
+MR NICHOLAS ROBIN KENT Ordinary B 50,000
+MR NICHOLAS ROBIN KENT Ordinary C 90,500
+BO LANTORP Ordinary C 50,000
+STUART MCNULTY Ordinary C 50,000
+
+Form ARO1 dated 04/06/2014 for ALPHA FMC GROUP HOLDINGS LIMITED (Company No.08555831)
+
+CHFP013
+10/11 Version 5.0
+
+
+
+===== page 23 =====
+AR01 - continuation page
+Annual Return
+(For returns made up to a date on or after 1 October 2011)
+
+Full List
+ic3| List of past and present shareholders 9
+Changes during this period to shareholders’ particulars or details of the e lease et the comer
+shareholders in alpha-
+amount of stock or shares transferred must be completed each year. betical order.
+You must provide a ‘full list’ of all company shareholders on: Joint shareholders should
+~ the company's first annual return following incorporation; be listed consecutively.
+. it i i Further shareholders
+every third annual return after a full list has been provided. Please use a ‘List of past and
+present shareholders’ continu-
+ation page if necessary.
+This section only applies to
+companies answering ‘No’ to
+Question 1 in Section G1.
+‘Shares or stock ‘Shares or stock transferred (if appropriate)
+currently held
+Shareholder's Name Class of share Number of shares or Number of shares or Date of registration
+(Address not required) amount of stock amount of stock of transfer
+GUILLAUME DE LA METTRIE Ordinary B 3,700
+VINCENT MIGNON Ordinary B 3,700
+SAM MORELL Ordinary B 1,018
+HUGO NEY Ordinary B 200
+MARK IAN NORCLIFFE Ordinary C 500 25/03/2014
+MARK IAN NORCLIFFE Ordinary C 49,500
+THOMAS PARISH Ordinary B 1,159
+SARAH PEACOCK Ordinary B 1,339
+RAPHAEL ROYERE Ordinary B 200
+BETH SCAYSBROOK Ordinary B 1,679
+OLGA SHAVERINA Ordinary B 200
+HARRY SHEARER Ordinary B 1,159
+THE GROWTH FUND LP Ordinary A1 137,845
+Form ARO1 dated 04/06/2014 for ALPHA FMC GROUP HOLDINGS LIMITED (Company No.08555831) CHFPO13
+
+10/11 Version 5.0
+
+
+
+===== page 24 =====
+AR01 - continuation page
+Annual Return
+(For returns made up to a date on or after 1 October 2011)
+
+Full List
+& List of past and present shareholders ®
+Changes during this period to shareholders’ particulars or details of the beta ne company
+shareholders in alpha-
+amount of stock or shares transferred must be completed each year. betical order.
+You must provide a ‘full list’ of all company shareholders on: Joint shareholders should
+- the company’s first annual return following incorporation; be listed consecutively.
+. i i i Further shareholders
+every third annual return after a full list has been provided. Please use a ‘List of past and
+present shareholders’ continu-
+ation page if necessary.
+This section only applies to
+companies answering ‘No’ to
+Question 1 in Section G1.
+Shares or stock Shares or stock transferred (if appropriate)
+currently held
+Shareholder's Name Class of share Number of shares or Number of shares or Date of registration
+(Address not required) amount of stock amount of stock of transfer
+GREG FRAGHER THOMAS Ordinary C 50,000
+CAMILLA TOBIAS Ordinary B 1,159
+TIMOTHY HUGH SOUTHCOMBE Ordinary B 15,000
+TROTTER
+MR NIKOLAOS XANTHOPOULOS, Ordinary B 4,263
+SHABEEB YUSUF Ordinary B 1,159
+Form ARO1 dated 04/06/2014 for ALPHA FMC GROUP HOLDINGS LIMITED (Company No.08555831) CHFPO13
+
+10/11 Version 5.0
+
+
+
+===== page 25 =====
+ARO1
+Annual Return
+(For returns made up to a date on or after 1 October 2011)
+
+Shareholders who hold at least 5% of any class of share(s) of
+the company as at the made up date of this return
+
+This section should show only the shareholders that hold at least 5% of
+any class of share(s) of the company at the date of this return.
+
+It should only be completed by companies that have answered ‘Yes' to
+Question 1 in Section G1, and 'No' to Question 2 in Section G1.
+
+If there were no shareholders holding at least 5% of any class of share(s)
+
+at the date of this return, this section may be left blank.
+Go to Part 5 (Signature)
+
+This section only applies to
+companies answering ‘No’ to
+Question 2 in Section G1.
+Please list the company share-
+holders in alphabetical order.
+Joint shareholders should be
+listed consecutively.
+
+Further shareholders
+
+Please use a ‘Shareholders who
+hold at least 5% of any class of
+‘share(s) of the company as at the
+made up date of this return’
+continuation page if necessary.
+
+Shares or stock currently held
+
+‘Shareholder's name
+
+Shareholder's address
+
+Class of share
+
+Number of shares or
+amount of stock
+
+Form AR01 dated 04/06/2014 for ALPHA FMC GROUP HOLDINGS LIMITED (Company No.08555831)
+
+CHFP013
+10/11 Version 5.0
+
+
+
+===== page 26 =====
+4
+
+ARO1
+Annual Return
+(For returns made up to a date on or after 1 October 2011)
+
+Part 5 Signature
+
+| This must be completed by all companies. @ Societas Europaea
+If the form is being filed on
+
+behalf of a Societas Europaea
+| 1am signing this form on behalf of the company. GD. please delete ‘director and
+
+insert details of which organ of
+
+Signature Signature the SE the person signing has
+x > 4 membership.
+| @ Person authorised
+Under either section 270 or 274
+of the Companies Act 2006.
+
+This form may be signed by:
+Director @ , Secretary, Person Authorised @ , Charity commission
+receiver and manager, CIC manager, Judicial factor.
+
+Form AR01 dated 04/06/2014 for ALPHA FMC GROUP HOLDINGS LIMITED (Company No.08555831) CHFP013
+10/11 Version 5.0
+
+
+===== page 27 =====
+ARO1
+
+Annual Return
+(For returns made up to a date on or after 1 October 2011)
+
+| Presenter information rt | Important information
+
+You do not have to give any contact information, but Please note that all information on this form will
+if you do it will help Companies House if there is a appear on the public record.
+
+query on the form. The contact information you give
+
+will be visible to searchers of the public record. How to pay
+
+| Contact name A fee of £40 is payable to Companies House in
+
+respect of an Annual Return.
+
+‘Company name
+| DICKINSONS Make cheques or postal orders payable to
+[ ‘Companies House’.
+
+“= ENTERPRISE HOUSE,
+[____BEESON'S YARD, BURY LANE — [2] Where to send
+| You may return this form to any Companies House!
+
+address, however for expediency we advise you to
+| Post town RICKMANSWORTH return it to the appropriate address below:
+
+Countynegion
+| HERTS For companies registered in England and Wales:
+Postcode The Registrar of Companies, Companies House,
+w fols[ [+ fos [ Crown Way, Cardiff, Wales, CF14 3UZ.
+| Sourny United Kingdom DX 33050 Cardiff.
+| x
+
+For companies registered in Scotland:
+
+| "ephone 01923 776818 The Registrar of Companies, Companies House,
+Fourth floor, Edinburgh Quay 2,
+" 139 Fountainbridge, Edinburgh, Scotland, EH3 9FF.
+Checklist DX ED235 Edinburgh 1
+We may return forms completed incorrectly or or LP - 4 Edinburgh 2 (Legal Post).
+
+with information missing.
+For companies registered in Northern Ireland:
+The Registrar of Companies, Companies House,
+Please make sure you have remembered the Second Floor, The Linenhall, 32-38 Linenhall Street,
+following: Belfast, Northern Ireland, BT2 8BG.
+
+(That if the made up date of the return is any earlier OX 481 N.R. Belfast 1.
+than 1 October 2011, you must complete the
+
+appropriate form ARO1.
+
+(2 The company name and number match the i | Further information
+information held on the public Register.
+
+(© You have completed your principal business For further information, please see the guidance notes
+activity. ‘on the website at www.companieshouse.gov.uk
+
+© You have not used this form to make changes to oF email enquiries@companieshouse.gov.uk
+the registered office address.
+
+© You have not used this form to make changes to . 7 .
+secretary and director details. This form is available in an
+
+© You have fully completed the Statement of capital alternative format. Please visit the
+(if applicable). +
+
+(You have signed the form. forms page on the website at
+
+© You have enclosed the correct fee. www.companieshouse.gov.uk
+
+Form ARO1 dated 04/06/2014 for ALPHA FMC GROUP HOLDINGS LIMITED (Company No.08555831) CHFP013
+
+10/11 Version 5.0
+
+
+
+===== page 28 =====
+In accordance with Section
+555 of the Companies Act
+
+2006
+
+SHO1 - continuation page
+Return of allotment of shares
+
+Statement of capital (Prescribed particulars attaching to shares)
+Class of Share A1 Ordinary
+
+Prescribed Particulars
+
+Where references to “Articles” are made, these are to the Articles of Association of the Company and
+defined terms used In these prescribed particulars shall have the same meaning as the defined terms In
+the Articles of Association of the Company.
+
+Voting
+
+1
+
+11
+
+1.2
+
+1.3
+
+Subject to any rights or restrictlons for the time being attached to any class or classes of
+Shares, and to Articles 13.3,3 to 13.3.10, each holder of Voting Ordinary Shares shall be
+entitled to receive notice of, and to attend and speak, at any general meeting and at any
+separate class meeting of the Company for Shares of the class they hold and:
+
+the holders of the A Ordinary Shares (as a class) shall be entitled to cast 100% of the voting
+rights that are not capable of being cast by the holders of the C Ordinary Shares pursuant to
+Article 13.3.1.2 and where there {s more than one holder of A Ordinary Shares each holder
+shall be entitled to cast that proportion of the voting rights capable of being cast by holders of
+A Ordinary Shares that his holding of A Ordinary Shares bears to the total number of A
+Ordinary Shares in Issue; and
+
+the holders of the C Ordinary Shares (as a class) shall subject to Articles 13.3.4 to 13.3.10
+(Inclusive) be entitled to cast 49% of the total number of voting nghts capable of being cast by
+all holders of Voting Ordinary Shares and where there Is more than one holder of C Ordinary
+Shares the voting rights capable of being cast by the holders of the C Ordinary Shares shall be
+divided equally amongst all holders of the C Ordinary Shares In Issue; and
+
+the holders of each of the B Ordinary Shares shall not be entitled to cast any vote at any
+general meeting of the Company.
+
+The holders of the 8 Ordinary Shares shall only be entitled to recelve notice of, and to attend and
+speak, at any separate class meeting of the Company for Shares of the class they hold but shall be
+entitled to receive notice of, to attend but not speak or vote at any general meeting of the Company.
+
+2
+
+Each holder shall be entitled to appoint more than one proxy to exercise all or any of his rights
+to attend and to speak and vote at a general meeting or at a separate class meeting of the
+Company provided that each proxy is appointed to exercise the rights attached to a different
+Voting Ordinary Share or Voting Ordinary Shares held by such holder,
+
+If more than one proxy is appointed In respect of a different Voting Ordinary Share or Voting
+Ordinary Shares by a holder in accordance with Article 213.3.2 but the document appointing
+the proxles does not specify to which Voting Ordinary Share or Voting Ordinary Shares the
+appointment relates, then the person first named as proxy in such document shall be the only
+
+
+
+===== page 29 =====
+4
+
+41
+
+4.2
+
+4.3
+
+5.1
+
+$.2
+
+7.
+
+71
+
+7.2
+
+proxy for such holder entitled to attend and vote at the relevant general meeting or separate
+class meeting. .
+
+The provisions of Article 13.3.5 shall apply If:
+
+the Company has failed to redeem any of the Loan Notes on the due date for redemption
+and/or pay Interest within 5 Business Days of the due date for payment In accordance with the
+Loan Note Instruments (for whatever reason Including any restrictlon Imposed by any
+Intercreditor or similar arrangement); or
+
+the Company Is In breach of any of the financial covenants under the Facility Documents; or
+
+the Company Is in the reasonable opinion of the Lead Investor (acting In good faith) likely to
+fail or breach (as appropriate) at any time during the following 12 months (based on the most
+recent monthly Information provided pursuant to clause 6 of the Investment Agreement) the
+financial covenants as set out In the Facility Documents; or
+
+there Is a material breach of the provisions of these Articles or the Investment Agreement by
+the Company or the Managers (or any of them) other than a breach of the warranties at
+paragraph 2 of Part 1 of Schedule 5 or paragraph 1 of Part 3 of Schedule 5 of the Investment
+Agreement.
+
+If any of the circumstances stated at Article 13.3.3 have occurred and a written notice has
+been served upon the Company by the Lead Investor, subject to the terms of the Investment
+Agreement:
+
+the holders of Management Shares (or any proxy or proxies of such holders) shall cease to be
+entitled to receive notice of, or to attend and vote at (whether on a show of hands or on a
+poll}, any general meeting of the Company or to be entitled to receive any further Shares
+issued by way of rights issue (or otherwise); and
+
+new Shares may be Issued, ranking ahead of or part passu with the Management Shares,
+without the consent of the holders of the Management Shares and the provisions of Article 17
+shall not apply.
+
+The provisions of Article 13.3.5 shall:
+
+tn the case of the circumstances at Article 13.3.4.1 existing, continue to apply until the Loan
+Notes required to be redeemed have been so redeemed or any interest due has been patd;
+
+In the case of the circumstances at Articles 13.3.4.2 to 13.3.4.4 (Inclusive) existing,
+
+- continue to apply for so long as such breach or failure subsists and has not been rectified to
+
+the reasonable satisfaction of the Lead Investor.
+
+For the avoidance of doubt, the provisions in Article 13.3.5 shall, where a written notice has
+been served upon the Company in accordance with Article 13.3.5, enable the holders of any
+Al Ordinary Shares and/or A2 Ordinary Shares in issue from time to time:
+
+to pass written resolutions of the Company pursuant to section 288 of the 2006 Act; and
+
+to consent to the holding of a general meeting of the Company on short notice pursuant to
+section 307(4) of the 2006 Act,
+
+
+
+===== page 30 =====
+81
+
+8.2
+
+8.3
+
+8.4
+
+9.2
+
+10.
+
+10.1
+
+10.2
+
+10.3
+
++ 1m elther case, on the basis that all such holders would constitute the only holders who would
+be entitled to attend and vote at a general meeting of the Company.
+
+The provisions of Article 13.3.9 shall apply:
+
+If, at any time without Investor Consent, any holder (other ‘than an Investor) or any former
+holder has transferred Shares In breach of the provisions of these Articles;
+
+if, at any time without Investor Consent, any holder (other than an Investor) Is In material
+breach of the provistons of these Articles and/or the Investment Agreement or any former
+holder (If stil! bound by the Investment Agreement) js in material breach of the provisions of
+the Investment Agreement other than a breach of the warranties at paragraph 2 of Part 1 or
+Paragraph 1 of Part 3 of Schedule 5 of the Investment Agreement;
+
+If any holder of Management Shares becomes a Leaver; or
+
+If any holder has served a Transfer Notice pursuant to Article 13.3.8 (Voluntary Transfers) In
+respect of any Management Shares.
+
+If any of the circumstances stated at Articie 13.3.8 have occurred:
+the Shares which such holder holds or to which he Is entitled; and
+
+any Shares formerly held by such holder which have been transferred elther In breach of the
+provisions of these Articles or In accordance with Article 19 (Permitted Transfers),
+
+shall cease to entitle the holder thereof (or any proxy) to receive notice of or to attend and vote
+(whether on a show of hands or on a poll) at any general meeting or at any separate class
+meeting of the Company or to be entitled to recelve any further Shares issued by way of rights
+Issue (or otherwise) from the date of any breach referred to at Articles 13.3,.8.1 and 13.3.8.2
+the date a Leaver becomes a Leaver In accordance with Article 22.3Error! Reference source
+not found, or the date upon which a Transfer Notice Is served pursuant to Article 19.2.3 (as
+the case may be).
+
+The provisions of Article 13.3.9 shall continue to apply:
+In the case of Articles 13.3.8.1 or 13.3.8.2 applying, for so long as such breach subsists;
+
+In the case of Article 13.3.8.3 or 13.3.8.4 applying, until such time as the relevant
+Management Shares have been transferred pursuant to the provisions of Articles 19.2.1
+and/or 22 (as the case may be); and
+
+notwithstanding any other provisions in these Articles, if any holder of Management Shares
+retalns any Management Shares after the operation In full of the provisions of Article 22
+whilst such holder (or any person who has acquired such Shares under a permitted transfer
+(directly or indirectly) under Article 19) continues to hold such Shares.
+
+Dividends
+
+Any profits which the Company determines to distribute in respect of a Financtal Year shall, with the
+approval of the holders In genera! meeting and Investor Consent, be applied In distnbuting the balance
+of such profits amongst the holders of the Al Ordinary Shares, the A2 Ordinary Shares and the B
+
+
+
+===== page 31 =====
+Ordinary Shares then in issue (but disregarding any Shares held by the Company in treasury) pari
+passu according to the number of such Shares held by them respectively as if they constituted one
+class of Share.
+
+Capital
+
+Subject to the provisions of Article 34, on a return of capital on a winding-up or liquidation of the
+Company or any other return of capital (each a “Relevant Event’), the assets of the Company
+available for distribution after payment of its debts and Silabilities and of the costs, charges and
+expenses incurred in connection with such Relevant Event will be distributed amongst the holders as
+follows:
+
+Firstly, In paying to the holders of the C Ordinary Shares, an amount equal to the Issue Price
+paid for such Shares; and
+
+Secondly, the balance to be paid to the holders of the Al Ordinary Shares, the A2 Ordinary Shares and
+the 6 Ordinary Shares in proportion to the number of Al Ordinary Shares, A2 Ordinary Shares and B
+Ordinary Shares held by them respectively (pari passu as If they constituted one class of Share).
+
+WATERFALL
+
+1. On an Exit which occurs on or before the sixth anniversary of the Adoption Date, the Exit
+Capitalisation shall be paid to the holders of Equity Shares In the following order of priority:
+
+Aa first, 1n paying to each of the holders of C Ordinary Shares an amount equal to the Issue Price
+pald for such Shares;
+
+1.2 second, the balance of the Exit Capitalisation shall be distributed so that: (1) an amount equal
+to 50.75% of the proceeds shall be paid to the holders of the A Ordinary Shares pro rata to
+the number of A Ordinary Shares outstanding; and (l1) the balance paid to the holders of the
+B Ordinary Shares (who are not Investors) pro rata to the number of 6B Ordinary Shares
+outstanding, until such time as the holders of A Ordinary Shares have recelved an amount
+equal to the Second Slice Return; and
+
+1.3 thereafter, the balance of the Exit Capitalisation shall be distributed so that: (1) an amount to
+equal to 30% of the proceeds shall be pald to the holders of the A Ordinary Shares pro rata to
+the number of A Ordinary Shares outstanding; and (1) the balance Is paid to the holders of the
+B Ordinary Shares (who are not Investors) pro rata to the number of B Ordinary Shares
+outstanding.
+
+1.4 The Board and the members of the Company shall put in place such arrangements as are
+necessary to give effect to the provisions of Article 34 Including should the Board (with the
+consent of the Lead Investor) deem it necessary to convert Equity Shares of any particular
+class Into Deferred Shares provided always that where there is more than one holder of Equity
+Shares of a class to be so converted then such conversion of that class shall take place pro
+rata as nearly as may be to each such holders holding of shares of that class,
+
+For the avoidance of doubt, the Relevant Cash Inflows and the Relevant Cash Outflows shall not
+include any amounts advanced by the A2 Investors pursuant to the Facility Agreement or any amounts
+pald to any A2 Investors pursuant to the Facility Agreement.
+
+
+
+===== page 32 =====
+Redemption - there are no rights of redemption attaching to these shares.
+
+
+
+===== page 33 =====
+SHO1 - continuation page
+
+Return of allotment of shares
+
+Statement of capital (Prescribed particulars attaching to shares) _
+
+Class of Share A2 Ordinary
+
+Prescribed Particulars
+
+Where references to “Articles” are made, these are to the Articles of Association of the Company and
+defined terms used In these prescribed particulars shall have the same méaning as the defined terms in
+the Articles of Assoclation of the Company.
+
+Vating
+
+1.
+
+la
+
+1.2
+
+1.3
+
+Subject to any rights or restrictions for the time being attached to any class or classes of
+Shares, and to Articles 13.3.3 to 13.3.10, each holder of Voting Ordinary Shares shall be
+entitled to recelve notice of, and to attend and speak, at any general meeting and at any
+separate class meeting of the Company for Shares of the class they hold and:
+
+the holders of the A Ordinary Shares (as a class) shall be entitled to cast 100% of the voting
+rights that are not capable of being cast by the holders of the C Ordinary Shares pursuant to
+Article 13.3.1.2 and where there 1s more than one holder of A Ordinary Shares each holder
+shall be entitled to cast that proportion of the voting nghts capable of being cast by holders of
+A Ordinary Shares that his holding of A Ordinary Shares bears to the total number of A
+Ordinary Shares In Issue; and
+
+the holders of the C Ordinary Shares (as a class) shall subject to Articles 13.3.4 to 13.3.10
+(Inclusive) be entitled to cast 49% of the total number of voting rights capable of being cast by
+all holders of Voting Ordinary Shares and where there ts more than one holder of C Ordinary
+Shares the voting rights capable of being cast by the holders of the C Ordinary Shares shall be
+divided equally amongst all holders of the C Ordinary Shares in issue; and
+
+the holders of each of the B Ordinary Shares shall not be entitled to cast any vote at any
+general meeting of the Company.
+
+The holders of the B Ordinary Shares shall only be entitled to recelve notice of, and to attend and
+speak, at any separate class meeting of the Company for Shares of the class they hold but shail be
+entitled to receive notice of, to attend but not speak or vote at any general meeting of the Company.
+
+2.
+
+Each holder shall be entitled to appomt more than one proxy to exercise all or any of his rights
+to attend and to speak and vote at a general meeting or at a separate class meeting of the
+Company provided that each proxy 1s appointed to exercise the rights attached to a different
+Voting Ordinary Share or Voting Ordinary Shares held by such holder,
+
+If more than one proxy is appointed In respect of a different Voting Ordinary Share or Voting
+Ordinary Shares by a holder in accordance with Article 213.3.2 but the document appointing
+the proxies does not specify to which Voting Ordinary Share or Voting Ordinary Shares the
+appointment relates, then the person first named as proxy In such document shall be the only
+proxy for such holder entitled to attend and vote at the relevant general meeting or separate
+class meeting.
+
+
+
+===== page 34 =====
+4.
+
+41
+
+4.2
+
+4.3
+
+Ss.
+
+5.1
+
+$.2
+
+6.
+
+6.1
+
+6.2
+
+7A
+
+7.2
+
+The provisions of Article 13.3.5 shail apply if:
+
+the Company has failed to redeem any of the Loan Notes on the due date for redemption
+and/or pay Interest within 5 Business Days of the due date for payment in accordance with the
+Loan Note Instruments (for whatever reason including any restriction imposed by any
+Intercreditor or similar arrangement); or
+
+the Company Is in breach of any of the finanaal covenants under the Facility Documents; or
+
+the Company Is In the reasonable opinion of the Lead Investor (acting in good faith) likely to
+fail or breach (as appropriate) at any time during the following 12 months (based on the most
+recent monthly Information provided pursuant to clause 6 of the Investment Agreement) the
+financial covenants as set out In the Facility Documents; or
+
+there Is a material breach of the provisions of these Articles or the Investment Agreement by
+the Company or the Managers (or any of them) other than a breach of the warrantles at
+paragraph 2 of Part 1 of Schedule 5 or paragraph 1 of Part 3 of Schedule 5 of the Investment
+Agreement,
+
+If any of the circumstances stated at Article 13.3.3 have occurred and a written notice has
+been served upon the Company by the Lead Investor, subject to the terms of the Investment
+Agreement:
+
+the holders of Management Shares (or any proxy or proxles of such holders) shall cease to be
+entitled to recelve notice of, or to attend and vote at (whether ona show of hands or on a
+poll), any general meeting of the Company or to be entitled to receive any further Shares
+Issued by way of rights Issue (or otherwise); and
+
+new Shares may be Issued, ranking ahead of or parl passu with the Management Shares,
+without the consent of the holders of the Management Shares and the provisions of Article 17
+shall not apply.
+
+The provisions of Articte 13.3.5 shall;
+
+In the case of the circumstances at Article 23.3.4,.2 existing, continue to apply until the Loan
+Notes required to be redeemed have been so redeemed or any Interest due has been paid;
+
+In the case of the ‘circumstances at Articles 13.3.4.2 to 13.3.4.4 (Inclusive) existing,
+continue to apply for so long as such breach or fallure subsists and has not been rectifled to
+the reasonable satisfaction of the Lead Investor.
+
+For the avoidance of doubt, the provisions In Article 13.3.5 shail, where a written notice has
+been served upon the Company In accordance with Article 13.3.5, enable the holders of any
+Al Ordinary Shares and/or A2 Ordinary Shares in Issue from time to time:
+
+to pass written resolutions of the Company pursuant to section 288 of the 2006 Act; and
+
+to consent to the holding of a general meeting of the Company on short notice pursuant to
+section 307(4) of the 2006 Act,
+
+In elther case, on the basis that all such holders would constitute the only holders who woutd
+be entitled to attend and vote at a general meeting of the Company.
+
+
+
+===== page 35 =====
+8.1
+
+8.2
+
+8.3
+
+8.4
+
+92
+
+9.2
+
+10.
+
+10.1
+
+20.2
+
+10.3
+
+The provisions of Article 13.3.9 shall apply:
+
+if, at any time without Investor Consent, any holder (other than an Investor) or any former
+holder has transferred Shares in breach of the provisions of these Articles;
+
+if, at any time without Investor Consent, any holder (other than an Investor) Is In material
+breach of the provisions of these Articles and/or the Investment Agreement or any former
+holder (If stil! bound by the Investment Agreement) Is in material breach of the provisions of
+the Investment Agreement other than a breach of the warrantles at paragraph 2 of Part 1 or
+paragraph 1 of Part 3 of Schedule 5 of the Investment Agreement;
+
+If any holder of Management Shares becomes a Leaver; or
+
+if any holder has served a Transfer Notice pursuant to Article 13.3.8 (Voluntary Transfers) In
+respect of any Management Shares.
+
+If any of the circumstances stated at Article 13.3.8 have occurred:
+the Shares which such holder holds or to which he Is entitled; and
+
+any Shares formerly hetd by such holder which have been transferred either in breach of the
+Provisions of these Articles or In accordance with Article 29 (Permitted Transfers),
+
+shall cease to entitle the holder thereof (or any proxy) to receive notice of or to attend and vote
+(whether on a show of hands or on a poll) at any general. meeting or at any separate class
+meeting of the Company or to be entitled to receive any further Shares Issued by way of rights
+Issue (or otherwise) from the date of any breach referred to at Articles 13.3.8.1 and 13.3.8.2
+the date a Leaver becomes a Leaver tn accordance with Article 22.3Error! Reference source
+not found. or the date upon which a Transfer Notice ts served pursuant to Article 19.2.1 (as
+the case may be).
+
+The provisions of Article 23.3.9 shall continue to apply:
+tn the case of Articles 13.3.8.1 or 13.3.8.2 applying, for so long as such breach subsists;
+
+In the case of Article 13.3.8.3 or 13,3.8.4 applying, until such time as the relevant
+Management Shares have been transferred pursuant to the provisions of Articles 19.2.1
+and/or 22 (as the case may be); and
+
+notwithstanding any other provisions in these Articles, if any holder of Management Shares
+retains any Management Shares after the operation in full of the provisions of Article 22
+whilst such holder (or any person who has acquired such Shares under a permitted transfer
+(directly or Indirectly) under Article 19) continues to hold such Shares.
+
+Dividends
+
+Any profits which the Company determines to distnbute in respect of a Financial Year shail, with the
+approval of the holders in genera! meeting and Investor Consent, be applied in distributing the balance
+of such profits amongst the holders of the Al Ordinary Shares, the A2 Ordinary Shares and the 8
+Ordinary Shares then In Issue (but disregarding any Shares held by the Company In treasury) pari
+Passu according to the number of such Shares held by them respectively as If they constituted one
+class of Share.
+
+
+
+===== page 36 =====
+Capital
+
+Subject to the provisions of Article 34, on a return of capital on a winding-up or fiquidation of the
+Company or any other return of capital (each a “Relevant Event”), the assets of the Company
+avallable for distribution after payment of Its debts and liabilities and of the costs, charges and
+expenses Incurred In connection with such Relevant Event will be distributed amongst the holders as
+follows:
+
+Firstly, In paying to the holders of the C Ordinary Shares, an amount equal to the Issue Price
+paid for such Shares; and
+
+Secondly, the balance to be paid to the holders of the Al Ordinary Shares, the A2 Ordinary Shares and
+the B Ordinary Shares In proportion to the number of Al Ordinary Shares, A2 Ordinary Shares and B
+Ordinary Shares held by them respectively (pari passu as if they constituted one class of Share).
+
+WATERFALL
+
+1, On an Exit which occurs on or before the sixth anniversary of the Adoption Date, the Exit
+Capitalisation shall be paid to the holders of Equity Shares in the following order of priority:
+
+11 first, In paying to each of the holders of C Ordinary Shares an amount equal to the Issue Price
+pald for such Shares;
+
+1.2 second, the balance of the Exit Capitalisation shall be distributed so that: (J) an amount equal
+to 50.75% of the proceeds shall be pald to the holders of the A Ordinary Shares pro rata to
+the number of A Ordinary Shares outstanding; and (Il) the balance paid to the holders of the
+B Ordinary Shares (who are not Investors) pro rata to the number of B Ordinary Shares
+outstanding, until such time as the holders of A Ordinary Shares have received an amount
+equal to the Second Slice Return; and
+
+1,3 thereafter, the balance of the Exit Capitalisation shall be distributed so that: (1) an amount to
+equal to 30% of the proceeds shall be patd to the holders of the A Ordinary Shares pro rata to
+the number of A Ordinary Shares outstanding; and (1) the balance Is pald to the holders of the
+8 Ordinary Shares (who ara not Investors) pro rata to the number of B Ordinary Shares
+outstanding.
+
+1.4 The Soard and the members of the Company shall put in place such arrangements as are
+necessary to give effect to the provisions of Article 34 Including should the Board (with the
+consent of the Lead Investor) deem it necessary to convert Equity Shares of any particular
+class into Deferred Shares provided always that where there Is more than one holder of Equity
+Shares of a class to be so converted then such conversion of that class shall take place pro
+rata as nearly as may be to each such holders holding of shares of that class.
+
+For the avoidance of doubt, the Relevant Cash Inflows and the Relevant Cash Outflows shall not
+Include any amounts advanced by the A2 Investors pursuant to the Facility Agreement or any amounts
+paid to any A2 Investors pursuant to the Facility Agreement.
+
+Redemption - there are no rights of redemption attaching to these shares.
+
+
+
+===== page 37 =====
+SHO1 - continuation page
+Return of allotment of shares
+
+Statement of capita! (Prescribed particulars attaching to shares)
+
+Class of Share 6 Ordinary
+
+Prescribed Particulars
+
+Where references to “Articles” are made, these are to the Articles of Association of the Company and
+defined terms used In these prescribed particulars shall have the same meaning as the defined terms in
+the Articles of Association of the Company.
+
+Voting
+
+1
+
+li
+
+1,2
+
+1.3
+
+Subject to any rights or restrictions for the time being attached to any class or classes of
+Shares, and to Articlas 13.3.3 to 13.3.10, each holder of Voting Ordinary Shares shall be
+entitied to recelve notice of, and to attend and speak, at any general meeting and at any
+separate class meeting of the Company for Shares of the class they hold and:
+
+the holders of the A Ordinary Shares (as a class) shail be entitled ta cast 100% of the voting
+rights that are not capable of being cast by the holders of the C Ordinary Shares pursuant to
+Article 13.3.1.2 and where there is more than one holder of A Ordinary Shares each holder
+shall be entitled to cast that proportion of the voting rights capable of being cast by holders of
+A Ordinary Shares that his holding of A Ordinary Shares bears to the total number of A
+Ordinary Shares In issue; and
+
+the holders of the C Ordinary Shares (as a class) shall subject to Articles 13.3.4 to 13.3.10
+(Inclusive) be entitled to cast 49% of the total number of voting rights capable of being cast by
+all holders of Voting Ordinary Shares and where there Is more than one holder of C Ordinary
+Shares the voting rights capable of being cast by the holders of the C Ordinary Shares shall be
+divided equally amongst all holders of the C Ordinary Shares In Issue; and
+
+the holders of each of the B Ordinary Shares shall not be entitled to cast any vote at any
+general meeting of the Company.
+
+The holders of the B Ordinary Shares shall only be entitled to receive notice of, and to attend and
+speak, at any separate class meeting of the Company for Shares of the class they hold but shall be
+entitled to recelve notice of, to attend but not speak or vote at any general meeting of the Company.
+
+2.
+
+Each holder shall be entitled to appoint more than one proxy to exercise all or any of his nghts
+to attend and to speak and vote at a general meeting or at a separate class meeting of the
+Company provided that each proxy !s appointed to exercise the nghts attached to a different
+Voting Ordinary Share or Voting Ordinary Shares held by such holder. )
+
+If more than one proxy 1s appointed in respect of a different Voting Ordinary Share or Voting
+Ordinary Shares by a holder In accordance with Article 213.3.2 but the document appointing
+the proxies does not specify to which Voting Ordinary Share or Voting Ordinary Shares the
+appointment relates, then the person first named as proxy in such document shall be the only
+proxy for such holder entitled to attend and vote at the relevant general meeting or separate
+class meeting.
+
+
+
+===== page 38 =====
+41
+
+4.2
+
+43
+
+44
+
+5.1
+
+5.2
+
+6.1
+
+6.2
+
+7A
+
+7.2
+
+The provisions of Article 13.3.5 shall apply if:
+
+the Company has falled to redeem any of the Loan Notes on the due date for redemption
+and/or pay Interest within 5 Business Days of the due date for payment in accordance with the
+Loan Note Instruments (for whatever reason Including any restriction imposed by any
+Intercreditor or similar arrangement); or
+
+the Company Is In breach of any of the financlal covenants under the Facility Documents; or
+
+the Company Is In the reasonable opinion of the Lead Investor (acting In good falth) likely to
+fall or breach (as appropriate) at any time during the following 12 months (based on the most
+recent monthly Informatton provided pursuant to clause 6 of the Investment Agreement) the
+financial covenants as set out In the Facility Documents; or
+
+there Is a materlal breach of the provisions of these Articles or the Investment Agreement by
+the Company or the Managers (or any of them) other than a breach of the warranties at
+paragraph 2 of Part 1 of Schedule S or paragraph 1 of Part 3 of Schedule 5 of the Investment
+Agreement.
+
+If any of the circumstances stated at Articla 13.3.3 have occurred and a written notice has
+been served upon the Company by the Lead Investor, subject to the terms of the Investment
+Agreement:
+
+the holders of Management Shares (or any proxy or proxies of such holders) shail cease to be
+entitled to receive notice of, or to attend and vote at (whether an a show of hands or on a
+poll), any general meeting of the Company or to be entitled to recelve any further Shares
+Issued by way of rights Issue (or otherwise); and
+
+new Shares may be Issued, ranking ahead of or pari passu with the Management Shares,
+without the consent of the holders of the Management Shares and the provisions of Article 17
+‘shall not apply.
+
+‘The provisions of Article 13.3.5 shall:
+
+in the case of the circumstances at Article 13.3.4.1 existing, continue to apply until the Loan
+Notes required to be redeemed have been so redeemed or any interest due has been pald;
+
+In the case of the circumstances at Articles 13.3.4.2 to 13.3.4.4 (inclusive) existing,
+continue to apply for so long as such breach or failure subsists and has not been rectifled to
+the reasonable satisfaction of the Lead Investor.
+
+For the avoldance of doubt, the provisions in Article 13.3.5 shall, where a written notice has
+been served upon the Company In accordance with Article 13.3.5, enable the holders of any
+Al Ordinary Shares and/or A2 Ordinary Shares In Issue from time to time:
+
+to pass written resolutions of the Company pursuant to section 288 of the 2006 Act; and
+
+to consent to the holding of a general meeting of the Company on short notice pursuant to
+section 307(4) of the 2006 Act,
+
+in either case, on the basis that aff such holders would constitute the only holders who would
+be entitled to attend and vote at a genera! meeting of the Company.
+
+
+
+===== page 39 =====
+91
+
+9.2
+
+10.
+
+10.4
+
+102
+
+10.3
+
+The provisions of Article 13.3.9 shall apply:
+
+if, at any time without Investor Consent, any holder (other than an Investor) or any former
+holder has transferred Shares in breach of the provisions of these Articles;
+
+if, at any teme without Investor Consent, any holder (other than an Investor) {s in material
+breach of the provisions of these Articles and/or the Investment Agreement or any former
+holder (if still bound by the Investment Agreement) Is in matenat breach of the provisions of
+the Investment Agreement other than a breach of the warranties at paragraph 2 of Part 1 or
+Paragraph 1 of Part 3 of Schedule 5 of the Investment Agreement;
+
+if any holder of Management Shares becomes a Leaver; or
+
+if any holder has served a Transfer Notice pursuant to Article 13.3.8 (Voluntary Transfers) in
+respect of any Management Shares,
+
+If any of the circumstances stated at Article 13.3.8 have occurred:
+the Shares which such holder holds or to which he is entitled; and
+
+any Shares formerly held by such holder which have been transferred either In breach of the
+Provisions of these Articles or In accordance with Article 19 (Permitted Transfers),
+
+Shall cease to entitle the holder thereof (or any proxy) to receive notice of or to attend and vote
+(whether on a show of hands or on a poll) at any general meeting or at any separate class
+meeting of the Company or to be entitled to receive any further Shares Issued by way of rights
+Issue (or otherwise) from the date of any breach referred to at Articles 13.3.8.1 and 13,3.8.2
+the date a Leaver becomes a Leaver In accordance with Article 22.3Error! Reference source
+not found. or the date upon which a Transfer Notice Is served pursuant to Article 19.2.2 (as
+the case may be).
+
+The provisions of Article 13.3.9 shall continue to apply:
+tn the case of Articlas 13.3,8.1 or 13.3.8.2 applying, for so long as such breach subsists;
+
+in the case of Article 13.3.8.3 or 13.3.8.4 applying, until such time as the relevant
+Management Shares have been transferred pursuant to the provisions of Articles 19.2.1
+and/or 22 (as the case may be); and
+
+notwithstanding any other provisions In these Articles, if any holder of Management Shares
+retains any Management Shares after the operation in full of the provisions of Article 22
+whilst such holder (or any person who has acquired such Shares under a permitted transfer
+(directly or indirectly) under Article 19) continues to hold such Shares.
+
+Dividends
+
+Any profits which the Company determines to distribute in respect of a Financial Year shall, with the
+approval of the holders in general meeting and Investor Consent, be apphed In distributing the balance
+of such profits amongst the holders of the Ai Ordinary Shares, the A2 Ordinary Shares and the &
+Ordinary Shares then In issue (but disregarding any Shares held by the Company In treasury) pan
+passu according to the number of such Shares held by them respectively as if they constituted one
+class of Share.
+
+
+
+===== page 40 =====
+Capital
+
+Subject to the provisions of Article 34, on a return of capital on a winding-up or liquidation of the
+Company or any other return of capital (each a “Relevant Event”), the assets of the Company
+available for distribution after payment of its debts and liabilities and of the costs, charges and
+
+expenses Incurred in connection with such Relevant Event will be distributed amongst the holders as
+follows:
+
+Firstly, In paying to the holders of the C Ordinary Shares, an amount equal to the Issue Price
+pald for such Shares; and
+
+Secondly, the balance to be paid to the holders of the Al Ordinary Shares, the A2 Ordinary Shares and
+the B Ordinary Shares In proportion to the number of Al Ordinary Shares, A2 Ordinary Shares and B
+Ordinary Shares held by them respectively (part passu as If they constituted one class of Share),
+
+WATERFALL
+
+1 On an Exit which occurs on or before the sixth anniversary of the Adoption Date, the Exit
+Capitalisation shail be paid to the holders of Equity Shares In the following order of priority:
+
+La first, In paying to each of the holders of C Ordinary Shares an amount equal to the Issue Price
+pald for such Shares;
+
+1.2 second, the balance of the Exit Capitalisation shall be distributed so that: (/) an amount equal
+to 50.75% of the proceeds shall be pald to the holders of the A Ordinary Shares pro rata to
+the number of A Ordinary Shares outstanding; and (li) the balance paid to the holders of the
+B Ordinary Shares (who are not Investors) pro rata to the number of B Ordinary Shares
+outstanding, until such time as the holders of A Ordinary Shares have recelved an amount
+equal to the Second Slice Return; and
+
+1.3 thereafter, the balance of the Exit Capitalisation shall be distributed so that: (1) an amount to
+equal to 30% of the proceeds shall be paid to the holders of the A Ordinary Shares pro rata to
+the number of A Ordinary Shares outstanding; and (iI) the balance Is pald to the holders of the
+B Ordinary Shares (who are not Investors) pro rata to the number of B Ordinary Shares
+outstanding.
+
+14 The Board and the members of the Company shal! put In place such arrangements as are
+necessary to give effect to the provisions of Article 34 Including should the Board (with the
+consent of the Lead Investor) deem It necessary to convert Equity Shares of any particular
+class into Deferred Shares provided always that where there Is more than one holder of Equity
+Shares of a class to be so converted then such conversion of that class shall take place pro
+rata as nearly as may be to each such holders holding of shares of that class,
+
+For the avoidance of doubt, the Relevant Cash Inflows and the Relevant Cash Outflows shall not
+Include any amounts advanced by the A2 Investors pursuant to the Facllity Agreement or any amounts
+pald to any A2 Investors pursuant to the Facility Agreement.
+
+Redemption - there are no rights of redemption attaching to these shares.
+
+
+
+===== page 41 =====
+SHO1 - continuation page
+Return of allotment of shares
+
+Statement of capital (Prescribed particulars attaching to shares)
+
+Class of Share C Ordinary
+
+Prescribed Particulars
+
+Where references to “Articles” are made, these are to the Articles of Association of the Company and
+defined terms used In these prescribed particulars shall have the same meaning as the defined terms In
+the Articles of Assoclatlon of the Company.
+
+Voting
+
+1,
+
+pre
+
+12
+
+1.3
+
+Subject to any rights or restrictions for the time being attached to any class or classes of
+Shares, and to Articles 13.3.3 to 13.3.10, each holder of Voting Ordinary Shares shall be
+entitled to receive notice of, and to attend and speak, at any general meeting and at any
+separate class meeting of the Company for Shares of the class they hold and:
+
+the holders of the A Ordinary Shares (as a class) shall be entitled to cast 100% of the voting
+rights that are not capable of being cast by the holders of the C Ordinary Shares pursuant to
+Article 13.3.2.2 and where there Is more than one holder of A Ordinary Shares each holder
+shall be entitled to cast that proportion of the voting rights capable of being cast by holders of
+A Ordinary Shares that his holding of A Ordinary Shares bears to the tota! number of A
+Ordinary Shares In Issue; and
+
+the holders of the C Ordinary Shares (as a class) shall subject to Articles 13.3.4 to 13.3.10
+(inclusive) be entitied to cast 49% of the total number of voting rights capable of betng cast by
+all holders of Voting Ordinary Shares and where there ts more than one holder of C Ordinary
+Shares the voting rights capable of being cast by the holders of the C Ordinary Shares shall be
+divided equally amongst all holders of the C Ordinary Shares in Issue; and
+
+the holders of each of the B Ordinary Shares shall not be entitled to cast any vote at any
+general meeting of the Company.
+
+The holders of the 8 Ordinary Shares shall only be entitled to recelve notice of, and to attend and
+speak, at any separate class meeting of the Company for Shares of the class they hold but shall be
+entitled to receive notice of, to attend but not speak or vote at any general meeting of the Company.
+
+2.
+
+3.
+
+Each holder shall be entitled to appoint more than one proxy to exercise all or any of his rights
+to attend and to speak and vote at a general meeting or at a separate class meeting of the
+Company provided that each proxy Is appointed to exercise the rights attached to a different
+Voting Ordinary Share or Voting Ordinary Shares held by such holder,
+
+If more than one proxy is appointed In respect of a different Voting Ordinary Share or Voting
+Ordinary Shares by a holder in accordance with Article 213.3.2 but the document appointing
+the proxies does not specify to which Voting Ordinary Share or Voting Ordinary Shares the
+appointment relates, then the person first named as proxy In such document shall be the only
+proxy for such holder entitled to attend and vote at the relevant general meeting or separate
+class meeting.
+
+
+
+===== page 42 =====
+8.3
+
+8.4
+
+91
+
+9.2
+
+10.
+10.1
+
+10.2
+
+10.3
+
+The provisions of Article 13.3.9 shall apply:
+
+if, at any time without Investor Consent, any holder (other than an Investor) or any former
+holder has transferred Shares In breach of the provisions of these Articles;
+
+\f, at any time without Investor Consent, any holder (other than an Investor) 1s in matenal
+breach of the provisions of these Articles and/or the Investment Agreement or any former
+holder (if still bound by the Investment Agreement) Is In material breach of the provisions of
+the Investment Agreement other than a breach of the warranties at paragraph 2 of Part 1 or
+Paragraph 1 of Part 3 of Schedule 5 of the Investment Agreement;
+
+If any holder of Management Shares becomes a Leaver; or
+
+if any holder has served a Transfer Notice pursuant to Article 13.3.8 (Voluntary Transfers) in
+respect of any Management Shares.
+
+If any of the circumstances stated at Article 13.3.8 have occurred:
+the Shares which such holder holds or to which he Is entitled; and
+
+any Shares formerly held by such holder which have been transferred either In breach of the
+provisions of these Articles or in accordance with Article 19 (Permitted Transfers),
+
+shail cease to entitle the holder thereof (or any proxy) to receive notice of or to attend and vote
+(whether on a show of hands or on a poll) at any general meeting or at any separate class
+meeting of the Company or to be entitled to receive any further Shares Issued by way of rights
+Issue (or otherwise) from the date of any breach referred to at Articles 13.3.8.2 and 23.3.8.2
+the date a Leaver becomes a Leaver in accordance with Article 22.3Error! Reference source
+not found. or the date upon which a Transfer Notice is served pursuant to Article 19.2.4 (as
+the case may be).
+
+The provisions of Article 13.3.9 shall continue to apply:
+in the case of Articles 13.3.8.1 or 13.3.8.2 applying, for so long as such breach subsists;
+
+in the case of Article 13.3.8.3 or 13.3.8.4 applying, until such time as the relevant
+Management Shares. have been transferred pursuant to the provisions of Articles 19.2.4
+and/or 22 (as the case may be); and
+
+notwithstanding any other provisions in these articles, if any holder of Management Shares
+retains any Management Shares after the operation in full of the provisions of Article 22
+whilst such hofder (or any person who has acquired such Shares under a permitted transfer
+(directly or indirectly) under Article 19) continues to hold such Shares.
+
+Dividends
+
+Any profits which the Company determines to distribute In respect of a Financial Year shall, with the
+approval of the holders in general meeting and Investor Consent, be applted in distnbuting the balance
+of such profits amongst the holders of the Al Ordinary Shares, the AZ Ordinary Shares and the B
+Ordinary Shares then In Issue (but disregarding any Shares held by the Company In treasury) pari
+passu according to the number of such Shares held by them respectively as If they constituted one
+class of Share.
+
+
+
+===== page 43 =====
+a
+
+Capital
+
+Subyect to the provisions of Article 34, on a retum of capital on a winding-up or liquidation of the
+Company or any other return of capital (each a “Relevant Event”), the assets of the Company
+available for distribution after payment of its debts and liabilities and of the costs, charges and
+expenses incurred in connection with such Relevant Event will be distributed amongst the holders as
+follows:
+
+Firstly, In paying to the holders of the C Ordinary Shares, an amount equal to the Issue Price
+pald for such Shares; and
+
+Secondly, the balance to be paid to the holders of the Al Ordinary Shares, the’A2 Ordinary Shares and
+the B Ordinary Shares In proportion to the number of Al Ordinary Shares, A2 Ordinary Shares and 8
+Ordinary Shares held by them respectively (pari passu as If they constituted one class of Share).
+
+WATERFALL
+
+1. On an Exit which occurs on or before the sixth anniversary of the Adoption Date, the Exit
+Capitalisation shall be pald to the holders of Equity Shares tn the following order of priority:
+
+1a first, in paying to each of the holders of C Ordinary Shares an amount equal to the Issue Price
+patd for such Shares;
+
+1,2 second, the balance of the Exit Capitailsation shall be distributed so that: (1) an amount equal
+to 50.75% of the proceeds shall be pald to the holders of the A Ordinary Shares pro rata to
+the number of A Ordinary Shares outstanding; and (i) the balance paid to the holders of the
+B Ordinary Shares (who are not Investors) pro rata to the number of B Ordinary Shares
+outstanding, until such time as the holders of A Ordinary Shares have received an amount
+equal to the Second Slice Return; and
+
+13 thereafter, the balance of the Exit Capitalisation shall be distnbuted so that: (I) an amount to
+equal to 30% of the proceeds shall be pald to the holders of the A Ordinary Shares pro rata to
+the number of A Ordinary Shares outstanding; and (il) the balance Is pald to the holders of the
+B Ordinary Shares (who are not Investors) pro rata to the number of B Ordinary Shares
+outstanding.
+
+1.4 The Board and the members of the Company shall put In place such arrangements as are
+necessary to give effect to the provisions of Article 34 Including should the Board (with the
+consent of the Lead Investor) deem It necessary to convert Equity Shares of any particular
+class Into Deferred Shares provided always that where there Is more than one holder of Equity
+Shares of a class to be so converted then such conversion of that class shall take place pro
+rata as nearly as may be to each such holders holding of shares of that class.
+
+For the avoidance of doubt, the Relevant Cash Inflows and the Relevant Cash Outflows shall not
+Include any amounts advanced by the A2 Investors pursuant to the Facility Agreement or any amounts
+paid to any A2 Investors pursuant to the Facility Agreement.
+
+Redemption - there are no rights of redemption attaching to these shares.
+

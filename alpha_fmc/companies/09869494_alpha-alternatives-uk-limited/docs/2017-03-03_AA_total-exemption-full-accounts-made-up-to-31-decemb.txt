@@ -1,0 +1,202 @@
+
+
+===== page 1 =====
+COMPANY REGISTRATION NUMBER: 09869494
+Lionpoint Group (UK) Limited
+
+Abbreviated Unaudited Financial Statements
+
+31 December 2016
+
+ODYSSEY ADVISERS LIMITED
+Chartered accountant
+
+3 Brindley Place
+
+Birmingham
+
+West Midlands
+
+B1 2JB
+
+
+
+===== page 2 =====
+Lionpoint Group (UK) Limited
+
+Abbreviated Financial Statements
+Period from 12 November 2015 to 31 December 2016
+
+Contents
+Abbreviated statement of financial position
+Notes to the abbreviated financial statements
+
+Page
+
+
+===== page 3 =====
+Lionpoint Group (UK) Limited
+Abbreviated Statement of Financial Position
+31 December 2016
+
+31 Dec 16
+Note £
+Fixed assets
+Tangible assets 3 3,782
+Current assets
+Debtors 34,004
+Cash at bank and in hand 14,148
+48,152
+Creditors: amounts falling due within one year (76,914)
+Net current liabilities { 28,762)
+Total assets less current liabil { 24,980)
+Net liabilities { 24,980)
+Capital and reserves
+Called up share capital 4 100
+Profit and loss account { 25,080)
+Members deficit { 24,980)
+
+For the period ending 31 December 2016 the company was entitled to exemption from audit under section 477 of
+the Companies Act 2006 relating to small companies.
+
+Director's responsibilities:
+
+- The members have not required the company to obtain an audit of its financial statements for the period in
+question in accordance with section 476 ;
+
+- The director acknowledges his responsibilities for complying with the requirements of the Act with respect to
+accounting records and the preparation of financial statements .
+
+These abbreviated financial statements have been prepared in accordance with the provisions applicable to
+companies subject to the small companies' regime.
+
+These abbreviated financial statements were approved by the director and authorised for issue on 2 March 2017 ,
+and are signed on behalf of the board by:
+
+Mr N A Moore
+
+Director
+
+Company registration number: 09869494
+
+
+===== page 4 =====
+Lionpoint Group (UK) Limited
+Notes to the Abbreviated Financial Statements
+Period from 12 November 2015 to 31 December 2016
+
+1. General information
+
+The company is a private company limited by shares, registered in England and Wales. The address of the
+registered office is Adam House, 7-10 Adam Street, London, WC2N 6AA.
+
+2. Accounting policies
+
+Basis of preparation
+
+The financial statements have been prepared on the historical cost basis, as modified by the revaluation of certain
+financial assets and liabilities and investment properties measured at fair value through profit or loss.
+
+The financial statements are prepared in sterling, which is the functional currency of the entity.
+
+Judgements and key sources of estimation uncertainty
+
+The preparation of the financial statements requires management to make judgements, estimates and assumptions
+that affect the amounts reported. These estimates and judgements are continually reviewed and are based on
+experience and other factors, including expectations of future events that are believed to be reasonable under the
+circumstances.
+
+Revenue recognition
+
+Turnover is measured at the fair value of the consideration received or receivable for goods supplied and services
+rendered, net of discounts and Value Added Tax. Revenue from the sale of goods is recognised when the
+significant risks and rewards of ownership have transferred to the buyer (usually on despatch of the goods); the
+amount of revenue can be measured reliably; it is probable that the associated economic benefits will flow to the
+entity; and the costs incurred or to be incurred in respect of the transactions can be measured reliably. Revenue
+from the rendering of services is measured by reference to the stage of completion of the service transaction at the
+end of the reporting period provided that the outcome can be reliably estimated. When the outcome cannot be
+reliably estimated, revenue is recognised only to the extent that expenses recognised are recoverable.
+
+Foreign currencies
+
+Foreign currency transactions are initially recorded in the functional currency, by applying the spot exchange rate
+as at the date of the transaction. Monetary assets and liabilities denominated in foreign currencies are translated at
+the exchange rate ruling at the reporting date, with any gains or losses being taken to the profit and loss account.
+Tangible assets
+
+Tangible assets are initially recorded at cost, and subsequently stated at cost less any accumulated depreciation
+and impairment losses. Any tangible assets carried at revalued amounts are recorded at the fair value at the date
+of revaluation less any subsequent accumulated depreciation and subsequent accumulated impairment losses. An
+increase in the carrying amount of an asset as a result of a revaluation, is recognised in other comprehensive
+income and accumulated in equity, except to the extent it reverses a revaluation decrease of the same asset
+previously recognised in profit or loss. A decrease in the carrying amount of an asset as a result of revaluation, is
+recognised in other comprehensive income to the extent of any previously recognised revaluation increase
+accumulated in equity in respect of that asset. Where a revaluation decrease exceeds the accumulated revaluation
+gains accumulated in equity in respect of that asset, the excess shall be recognised in profit or loss.
+
+
+
+===== page 5 =====
+Depreciation
+Depreciation is calculated so as to write off the cost or valuation of an asset, less its residual value, over the useful
+economic life of that asset as follows:
+
+Equipment - 33% straight line
+
+Financial instruments
+
+A financial asset or a financial liability is recognised only when the company becomes a party to the contractual
+provisions of the instrument. Basic financial instruments are initially recognised at the transaction price, unless the
+arrangement constitutes a financing transaction, where it is recognised at the present value of the future payments
+discounted at a market rate of interest for a similar debt instrument. Debt instruments are subsequently measured
+at amortised cost. Where investments in non-convertible preference shares and non-puttable ordinary shares or
+preference shares are publicly traded or their fair value can otherwise be measured reliably, the investment is
+subsequently measured at fair value with changes in fair value recognised in profit or loss. All other such
+investments are subsequently measured at cost less impairment. Other financial instruments, including derivatives,
+are initially recognised at fair value, unless payment for an asset is deferred beyond normal business terms or
+financed at a rate of interest that is not a market rate, in which case the asset is measured at the present value of
+the future payments discounted at a market rate of interest for a similar debt instrument. Other financial instruments.
+are subsequently measured at fair value, with any changes recognised in profit or loss, with the exception of
+hedging instruments in a designated hedging relationship.
+
+Financial assets that are measured at cost or amortised cost are reviewed for objective evidence of impairment at
+the end of each reporting date. If there is objective evidence of impairment, an impairment loss is recognised in
+profit or loss immediately. For all equity instruments regardless of significance, and other financial assets that are
+individually significant, these are assessed individually for impairment. Other financial assets are either assessed
+individually or grouped on the basis of similar credit risk characteristics. Any reversals of impairment are recognised
+in profit or loss immediately, to the extent that the reversal does not result in a carrying amount of the financial
+asset that exceeds what the carrying amount would have been had the impairment not previously been recognised.
+
+
+===== page 6 =====
+3. Tangible assets
+
+£
+Cost
+Additions 4,564
+At 31 December 2016 4,564
+Depreciation
+Charge for the period 782
+At 31 December 2016 782
+Carrying amount
+At 31 December 2016 3,782
+4. Called up share capital
+Issued, called up and fully paid
+31 Dec 16
+
+No. £
+Ordinary shares of £ 1 each 100 100
+Share movements
+
+No. £
+Ordinary
+At 12 November 2015 - -
+Issue of shares 100 1
+
+At 31 December 2016 100 1
+
+
+===== page 7 =====
+This document was delivered using electronic communications and authenticated in accordance with the
+registrar's rules relating to electronic form, authentication and manner of delivery under section 1072 of
+the Companies Act 2006.

@@ -1,0 +1,957 @@
+
+
+===== page 1 =====
+Docusign Envelope ID: 3FO66EBD-891F-8220-80C4-D1906247B86B
+
+Registration number: $C332267
+
+Bridgepoint Europe (SGP) Ltd
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2025
+
+J oenun
+
+H pray #145
+
+COMPANIES HOUSE j
+
+
+===== page 2 =====
+Docusign Envelope ID: 3F066EBD-891F-8220-80C4-D1906247B86B
+
+Bridgepoint Europe (SGP) Ltd
+Strategic Report for the Year Ended 31 December 2025
+
+The Directors present their strategic report for the year ended 31 December 2025.
+Principal activity
+
+The principal activity of Bridgepoint Europe (SGP) Ltd (the "Company") is to act as a General Partner to a number of Bridgepoint
+limited partnerships (the “Limited Partnerships") and Designated Member for a number of Bridgepoint limited liability partnerships
+(the "Limited Liability Partnerships") (together the "Partnerships"). There have not been any significant changes in the Company's
+principal activities during the year under review.
+
+The Company forms part of the Bridgepoint group of companies (together, the "Group" or the "Bridgepoint Group").
+Results
+
+The loss for the financial year is £0.2m (2024: profit of £26.7m) and at the year end the Company has net assets of £66.5m (2024:
+£66.8m).
+
+Principal risks and uncertainties
+
+The Company's main income is generated from profit sharing of the Limited Liability Partnerships. The business is subject to risks
+associated with the performance of the funds managed by the Group and also the tax and regulatory regimes within which its business
+operate.
+
+Fundraising risk
+
+The alternative investment management sector is intensely competitive, with the Group competing with a number of others for
+investor capital, including sponsors of public and private investment funds. Fundraising markets remained competitive during 2025,
+with a high volume of managers returning to market and extended fundraising timetables across private markets. Investor allocation
+cycles have also lengthened, with increased diligence around performance, fee structures, and alignment.
+
+The inability to raise additional or successor funds (or raise successor funds of a comparable size to predecessor funds), or a change in
+the terms on which investors are willing to invest, could have a material adverse impact on the Company's business, revenue, net
+income, cash flows or the ability to retain employees.
+
+The Group's capital raising efforts are supported by an in-house global investor services team, which utilises the Group's data and
+technology capabilities.
+
+As a leading middle market alternative asset manager, the Group offers investors a differentiated approach arising from its global
+reach and ability to deploy capital across middle market strategies. This differentiation insulates the Group, to some extent, against
+the competitive pressures arising in respect of attracting fund investors.
+
+Regulatory risk
+
+The international nature of the Group’s business, with corporate and fund entities located in multiple jurisdictions and a diverse
+investor base, makes it subject to a wide range of laws and regulations. It is supervised by a number of regulators, including the
+Financial Conduct Authority in the UK. Failure to comply with applicable law and regulations may put the Group at risk of fines,
+lawsuits or reputational damage. The Group has a dedicated Legal and Compliance function that provides guidance to the business on
+its regulatory and legal obligations. The Group monitors regulatory and legislative changes in the jurisdictions in which it operates
+and interacts with regulators and industry bodies to stay informed of regulatory changes. It also proactively takes actions to comply
+with any changes in law or regulation.
+
+Employees of the Group are provided with periodic training on the laws and regulations relevant to the Group.
+Market and economic risk
+
+Macroeconomic events may contribute to volatility in financial and global markets which can adversely impact the Group’s business
+by reducing the value or performance of the investments made by the funds managed or advised by the Group as well as the
+availability of financial resources to the Group. Adverse economic scenarios may reduce exit opportunities, prolong holding periods,
+and impact the performance of funds across the platform. Market conditi may also influence investor appetite for private market
+strategies, indirectly affecting fundraising performance. For example, rising interest rates may adversely impact multiples and
+discount rates used for investment valuations. Higher interest rates may also reduce the Group’s ability to secure favourable
+financing, both for the Group itself and for the funds it manages or advises.
+
+The Group’s senior management and strategy leadership regularly update the business on economic trends and outlooks to aid
+investment teams and corporate functions in anticipating and proactively addressing macroeconomic risks.
+
+Page 1
+
+
+===== page 3 =====
+Docusign Envelope ID: 3F066EBD-891F-8220-80C4-D1906247B86B
+
+Bridgepoint Europe (SGP) Ltd
+Strategic Report for the Year Ended 31 December 2025
+
+Loss of key personnel
+
+The Company relies on the expertise and knowledge of investment executives of the Group. Unexpected loss of one or more key
+employees could adversely affect the Company's business. The Group places an emphasis on active engagement with its people to
+better understand their needs, and to focus on progression and professional development. The Group also has competitive incentive
+schemes designed to attract and retain its people and is committed to providing competitive remuneration packages.
+
+Technology risk
+
+Cybersecurity threats remain a significant risk for all global financial and investment institutions. Cybersecurity incidents and cyber
+attacks continue to be a feature of the global economy and as an increasingly global business, the Group faces various cybersecurity
+threats on a regular basis. Cybersecurity failures, technology failures or data security breaches could result in the confidentiality,
+integrity or availability of data being negatively affected, causing disruption and/or damage to the Group's business, The Group has in
+place an internal vulnerability management programme, as well as critical asset processes to patch critical vulnerabilities. Phishing
+testing is performed at least quarterly, and penctration testing is undertaken annually. The Group has a disaster recovery plan in place,
+and all key systems are hosted in the cloud, providing an inherent level of resilience.
+
+Financial risks
+Credit and liquidity risk
+
+Credit risk is the risk of financial loss to the Company as a result of a counterparty failing to meet its contractual obligations. This risk
+is principally in connection with the Company's trade and other receivables from the shareholders, receivables from funds, and other
+Group entities. The Directors consider the Company's credit exposure to trade and other receivables to be low. The Company's credit
+exposure to the Group entities is linked to the liquidity risk of the Group.
+
+Key performance indicators
+
+The Company considers income from the Limited Liability Partnerships and profit before tax as the key performance indicators of the
+business. Given the straightforward nature of the business, the Directors are of the opinion that analysis using key performance
+indicators ("KPIs") is not necessary for an understanding of the development, performance, or position of the business.
+
+Page 2
+
+
+===== page 4 =====
+Docusign Envelope ID; 3FO66EBD-891F-8220-80C4-D1906247B86B
+
+Bridgepoint Europe (SGP) Ltd
+Strategic Report for the Year Ended 31 December 2025
+
+Statement by the Directors in performance of their statutory duties in accordance with 5172(1) Companies Act 2006
+
+The Directors of the Company, as those of all UK companies, must act in accordance with a set of general duties, which are detailed
+in Section 172 of the UK Companies Act 2006.
+
+‘A director of a company must act in the way they consider, in good faith, would be most likely to promote the success of the company
+for the benefit of its shareholders as a whole and, in doing so have regard (among other matters) to:
+
++ the likely consequences of any decision in the long-term;
++ the interest of the company's employees;
+
++ the need to foster the company's relationships with suppliers, customers and others;
+
++ the impact of the company's operations on the community and environment,
+
++ the desirability of the company maintaining a reputation for high standards of business conduct; and
++ the need to act fairly as between shareholders of the company.
+
+The ultimate parent entity, Bridgepoint Group plc, has a Group Board (consisting of the Directors of Bridgepoint Group plc) which
+takes executive responsibility for the strategic direction of Bridgepoint Group ple and its controlled entities including the Company. It
+bas executive responsibility for setting the Group's strategy and ensuring that the shared values and business objectives are upheld and
+met.
+
+The Directors of the’ Company are involved in decisions that impact the Company as required under the Companies Act 2006. Such
+matters include making a decision to pay a dividend
+
+An explanation of how the Group Board has considered the matters of Section 172 (for the Group, including the Company) is set out
+in the annual report and accounts of Bridgepoint Group ple. This includes details of the development, performance and position of the
+Group, as well as how the Group undertakes business conduct, employee and fund investor engagement, risk management and
+community engagement.
+
+Approved by the Board on 21 August 2026 and signed on its behalf by:
+
+‘Signed by:
+
+fort bX
+
+ADBC34BF A2144DF..
+P Koziarski
+
+Director
+
+Page 3
+
+
+===== page 5 =====
+Docusign Envelope ID: 3FO66EBD-891F-8220-80C4-D1906247B86B
+
+Bridgepoint Europe (SGP) Ltd
+Directors’ Report for the Year Ended 31 December 2025
+
+The Directors present their annual report together with the audited financial statements (the "financial statements") of the Company
+for the year ended 31 December 2025.
+
+Results and dividends
+
+The results for the financial year are shown on page 9.
+
+No dividend was proposed by the Directors in respect of the year ended 31 December 2025 (2024: nil).
+Future developments
+
+The Directors do not anticipate any significant change in the business of the Company.
+
+Directors of the Company
+
+The Directors who held office during the year and up to the date of this report were as follows:
+
+JR Hughes (resigned 1 June 2026)
+P Koziarski
+
+B J Marten (appointed 1 June 2026)
+D S Plant (resigned | June 2026)
+
+X J Robert
+
+R C Thompson
+
+E G Woods (appointed 2 June 2026)
+
+Directors’ indemnity
+During the period and at the time of signing, a Bridgepoint Group entity maintains liability insurance for Directors and Officers of
+
+Bridgepoint Group ple and associated companies, which includes the Company. This is a qualifying third party indemnity provision
+for the purpose of the Companies Act 2006.
+
+Statement of Directors’ Responsibilities
+The Directors acknowledge their responsibilities for preparing the annual report and the financial statements in accordance with
+
+applicable law and regulations.
+
+Company law requires the Directors to prepare financial statements for each financial year. Under that law the Directors have elected
+to prepare the financial statements in accordance with United Kingdom Generally Accepted Accounting Practice (United Kingdom
+Accounting Standards), comprising FRS 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland", and
+applicable law.
+
+Under company law the Directors must not approve the financial statements unless they are satisfied that they give a true and fair
+view of the state of affairs of the Company and of the profit or loss of the Company for that period. In preparing these financial
+statements, the Directors are required to:
+
++ select suitable accounting policies and apply them consistently;
+
++ make judgements and accounting estimates that are reasonable and prudent;
+
++ state whether applicable United Kingdom Accounting Standards, comprising FRS 102, have been followed, subject to any
+material departures disclosed and explained in the financial statements; and
+
++ prepare the financial statements on the going concem basis unless they either intend to liquidate the Company or to cease
+operations, or have no realistic alternative but to do so.
+
+The Directors are responsible for keeping adequate accounting records that are sufficient to show and explain the Company's
+
+transactions and disclose with reasonable accuracy at any time the financial position of the Company and enable them to ensure that
+
+the financial statements comply with the Companies Act 2006. They are also responsible for safeguarding the assets of the Company
+
+and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+
+Statement of engagement with suppliers, customers and others in a business relationship with the Company
+
+From the perspective of the Directors of the Company, as a result of the Group governance structure, the Group Board has primary
+responsibility for carrying out the duties of the Company in respect of its shareholders, employees, fund investors and community
+engagement. An-explanation of how the Group Board has carried out these responsibilities (for the Group and for the Company) is set
+out in the annual report and results of Bridgepoint Group ple.
+
+Page 4
+
+
+===== page 6 =====
+Docusign Envelope ID: 3FO66EBD-891F-8220-80C4-D1906247B86B
+
+Bridgepoint Europe (SGP) Ltd
+Directors’ Report for the Year Ended 31 December 2025
+
+Post balance sheet events
+There have been no material events after the reporting period that would require adjusting or disclosing within these accounts.
+Disclosure of information to the auditor
+
+Each Director at the time when the Directors’ Report is approved has confirmed that:
+
++ so far as the Director is aware, there is no relevant audit information needed by the Company's auditor in connection with
+preparing their report of which the Company's auditor is unaware; and
+
++ the Director has taken all the steps that ought to have been taken as a Director in order to be aware of any relevant audit
+information and to establish that the Company's auditor is aware of that information.
+
+Appointment of auditor
+
+At the Annual General Meeting of the ultimate parent company held on 12 May 2026, KPMG LLP was appointed as auditor of the
+Company with effect from the conclusion of the current year audit by Forvis Mazars LLP.
+
+Approved by the Board on 21 August 2026 and signed on its behalf by:
+
+‘Signed by:
+ADBC348FA21440F.
+
+P Koziarski
+
+Director
+
+Page 5
+
+
+===== page 7 =====
+Docusign Envelope ID: 3FO66EBD-891F-8220-80C4-D1906247B86B
+
+Bridgepoint Europe (SGP) Ltd
+Independent auditor’s report to the members of Bridgepoint Europe (SGP) Ltd
+
+Opinion
+We have audited the financial statements of Bridgepoint Europe (SGP) Ltd (the ‘company’) for the year ended 31 December
+2025 which comprise the Profit and Loss Account, the Statement of Comprehensive Income. the Balance Sheet, the Statement
+of Changes in Equity and notes to the financial statements, including a summary of significant accounting policies,
+The financial reporting framework that has been applied in their preparation is applicable law and United Kingdom Accounting
+Standards, including FRS 102 “The Financial Reporting Standard applicable in the UK and Republic of Ireland” (United
+Kingdom Generally Accepted Accounting Practice).
+Tn our opinion, the financial statements:
+© givea true and fair view of the state of the company’s affairs as at 31 December 2025 and of its loss for the year then ended;
+* have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice; and
+
+have been prepared in accordance with the requirements of the Companies Act 2006.
+
+Basis for opinion
+
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. Our
+responsibilities under those standards are further described in the “Auditor's responsibilities for the audit of the financial
+statements” section of our report. We are independent of the company in accordance with the ethical requirements that are
+relevant to our audit of the financial statements in the UK, including the FRC’s Ethical Standard, and we have fulfilled our other
+ethical responsibilities in accordance with these requirements. We believe that the audit evidence we have obtained is sufficient
+and appropriate to provide a basis for our opinion.
+
+Conclusions relating to going concern
+
+In auditing the financial statements, we have concluded that the directors’ use of the going concern basis of accounting in the
+preparation of the financial statements is appropriate.
+
+Based on the work we have performed, we have not identified any material uncertainties relating to events or conditions that,
+individually or collectively, may cast significant doubt on the company’s ability to continue as a going concem for a period of at
+least twelve months from when the financial statements are authorised for issue.
+
+Our responsibilities and the responsibilities of the directors with respect to going concem are described in the relevant sections
+of this report.
+
+Other information
+
+The other information comprises the information included in the annual report other than the financial statements and our
+auditor’s report thereon. The directors are responsible for the other information contained within the annual report. Our opinion
+on the financial statements does not cover the other information and, except to the extent otherwise explicitly stated in our report,
+we do not express any form of assurance conclusion thereon.
+
+Our responsibility is to read the other information and, in doing so, consider whether the other information is materially
+inconsistent with the financial statements or our knowledge obtained in the course of the audit, or otherwise appears to be
+materially misstated. If we identify such material inconsistencies or apparent material misstatements, we are required to
+determine whether this gives rise to a material misstatement in the financial statements themselves. If, based on the work we
+have performed, we conclude that there is a material misstatement of this other information, we are required to report that fact.
+
+We have nothing to report in this regard.
+
+Page 6
+
+
+===== page 8 =====
+Docusign Envelope ID: 3F066EBD-891F-8220-80C4-D1906247B86B
+
+Bridgepoint Europe (SGP) Ltd
+Independent auditor’s report to the members of Bridgepoint Europe (SGP) Ltd (continued)
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+
+the information given in the strategic report and the directors’ report for the financial year for which the financial statements
+are prepared is consistent with the financial statements; and .
+
+«the strategic report and the directors’ report have been prepared in accordance with applicable legal requirements.
+
+Matters on which we are required to report by exception
+
+In light of the knowledge and understanding of the company and its environment obtained in the course of the audit, we have
+not identified material misstatements in the strategic report or the directors’ report.
+
+We have nothing to report in respect of the following matters in relation to which the Companies Act 2006 requires us to report
+to you if, in our opinion:
+* adequate accounting records have not been kept, or returns adequate for our audit have not been received from branches
+not visited by us; or
+«the financial statements are not in agreement with the accounting records and returns; or
+© certain disclosures of directors’ remuneration specified by law are not made; or
+
+© we have not received all the information and explanations we require for our audit
+
+Responsibilities of Directors
+
+As explained more fully in the statement of directors’ responsibilities set out on pages 4, the directors are responsible for the
+preparation of the financial statements and for being satisfied that they give a true and fair view, and for such internal control as.
+the directors determine is necessary to enable the preparation of financial statements that are free from material misstatement,
+
+whether due to fraud or error.
+
+In preparing the financial statements, the directors are responsible for assessing the company’s ability to continue as a going
+concern, disclosing, as applicable, matters related to going concern and using the going concem basis of accounting unless the
+directors either intend to liquidate the company or to cease operations, or bave no realistic alternative but to do so.
+
+Auditor’s responsibilities for the audit of the financial statements
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material
+misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our opinion. Reasonable assurance is
+a high level of assurance but is not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect a
+material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or
+in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of the
+financial statements.
+
+The extent to which our procedures are capable of detecting irregularities, including fraud is detailed below.
+
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. We design procedures in line with our
+responsibilities, outlined above, to detect material misstatements in respect of irregularities, including fraud.
+
+Based on our understanding of the company and its industry, we considered that non-compliance with the following laws and
+regulations might have a material effect on the financial statements: tax legislation and the Companies Act 2006.
+
+Page 7
+
+
+===== page 9 =====
+Docusign Envelope ID: 3FO66EBD-891F-8220-80C4-D1906247B86B
+
+Bridgepoint Europe (SGP) Ltd
+Independent auditor’s report to the members of Bridgepoint Europe (SGP) Ltd (continued)
+
+To help us identify instances of non-compliance with these laws and regulations, and in identifying and assessing the risks of
+material misstatement in respect to non-compliance, our procedures included, but were not limited to:
+
+Inquiring of management and, where appropriate, those charged with governance, as to whether the company is in
+compliance with laws and regulations, and discussing their policies and procedures regarding compliance with laws and
+regulations;
+
+© Inspecting correspondence, if any, with relevant licensing or regulatory authorities;
+
+Communicating identified laws and regulations to the engagement team and remaining alert to any indications of non-
+compliance throughout our audit; and
+
+* Considering the risk of acts by the company which were contrary to applicable laws and regulations, including fraud.
+
+We also considered those laws and regulations that have a direct effect on the preparation of the financial statements, such as the
+Companies Act 2006
+
+In addition, we evaluated the directors’ and management’s incentives and opportunities for fraudulent manipulation of the
+financial statements, including the risk of management override of controls, and determined that the principal risks related to
+manipulating accounting records and preparing fraudulent financial statements by overriding controls that otherwise appear to
+be operating effectively. Due to the unpredictable way in which such override could occur, there is a risk of material misstatement
+due to fraud on all audits.
+
+Our audit procedures in relation to fraud included but were not limited to:
+
+© Making enquiries of the directors and management on whether they had knowledge of any actual, suspected or alleged
+frau
+
+* Gaining an understanding of the internal controls established to mitigate risks related to fraud;
+* Discussing amongst the engagement team the risks of fraud; and
+
+© Addressing the risks of fraud through management override of controls by performing journal entry testing.
+
+There are inherent limitations in the audit procedures described above and the primary responsibility for the prevention and
+detection of irregularities including fraud rests with management. As with any audit, there remained a risk of non-detection of
+irregularities, as these may involve collusion, forgery, intentional omissions, misrepresentations or the override of internal
+controls.
+
+A further description of our responsibilities for the audit of the financial statements is located on the Financial Reporting
+Council's website at www.fre.org.uk/auditorsresponsibilities. This description forms part of our auditor's report.
+
+Use of the audit report
+
+This report is made solely to the company’s members as a body in accordance with Chapter 3 of Part 16 of the Companies Act
+2006. Our audit work has been undertaken so that we might state to the company’s members those matters we are required to
+state to them in an auditor’s report and for no other purpose. To the fullest extent permitted by law, we do not accept or assume
+responsibility to anyone other than the company and the company's members as a body for our audit work, for this report. or for
+the opinions we have formed.
+
+Signed by:
+[up Feranden
+
+|CESOBC7C7COAAG..
+Diego Fernandez (Senior Statutory Auditor)
+for and on behalf of Forvis Mazars LLP
+
+Chartered Accountants and Statutory Auditor
+
+30 Old Bailey, London, EC4M 7AU
+04 September 2026
+
+Page 8
+
+
+===== page 10 =====
+Docusign Envelope ID: 3FO66EBD-891F-8220-80C4-D1906247B86B
+
+Bridgepoint Europe (SGP) Ltd
+Profit and Loss Account for the Year Ended 31 December 2025
+
+Note 2025 2024
+
+£000 £000
+
+Income from Partnerships 5 . 139,519 158,219
+Management fees expense (139,519) (158,219)
+Gross result = _
+Net foreign exchange gains/ (losses) 871 (234)
+Profit/ (Loss) before tax 871 (234)
+Taxation 6 (1,084) 26,887
+(Loss)/ Profit for the financial year 213) 26,653
+
+The results above relate to continuing operations.
+
+The notes on pages 13 to 18 form an integral part of these financial statements.
+
+Page 9
+
+
+===== page 11 =====
+Docusign Envelope ID: 3FO66EBD-891F-8220-80C4-D1906247B86B
+
+Bridgepoint Europe (SGP) Ltd
+Statement of Comprehensive Income for the Year Ended 31 December 2025
+
+Note 2025 2024
+
+£000 £'000
+
+(Loss)/ Profit for the year (213) ° 26,653
+Other comprehensive income:
+
+Other comprehensive income for the year, net of tax - as
+
+Total comprehensive (loss)/ income for the year @13) 26,653
+
+‘The results above relate to continuing operations.
+
+The notes on pages 13 to 18 form an integral part of these financial statements.
+Page 10
+
+
+===== page 12 =====
+Docusign Envelope ID: 3FO66EBD-891F-8220-80C4-D1906247B886B
+
+Bridgepoint Europe (SGP) Ltd
+
+(Registration number: SC332267 )
+Balance Sheet as at 31 December 2025
+
+Note 2025 2024
+£°000 £000
+Non-current assets
+Investments 9 1 1
+Current assets
+Debtors: amounts falling due within one year 10 89,523 83,943
+Cash and cash equivalents = =
+89,523 83,943
+Current liabilities
+Creditors: amounts falling due within one year u qa =
+Net current assets 89,522 83,943
+Total assets less current liabilities 89,523, 83,944
+Non-current liabilities
+Deferred tax liabilities 12 (22,980) (17,188)
+Net assets 66,543 66,756
+Capital and reserves
+Called up share capital 13 - _
+
+Retained earnings
+Total equity
+
+66,543
+
+66,543
+
+66,756
+66,756
+
+ee OO
+
+The financial statements of Bridgepoint Europe (SGP) Ltd were approved and authorised by the Board of Directors on 21 August
+
+2026 and signed on its behalf by:
+
+Signed by:
+
+PKoatarskr °F
+
+Director
+
+The notes on pages 13 to 18 form an integral part of these financial statements.
+
+Page 11
+
+
+===== page 13 =====
+Docusign Envelope !D: 3F066EBD-891F-8220-80C4-D1906247B86B
+
+Bridgepoint Europe (SGP) Ltd
+Statement of Changes in Equity for the Year Ended 31 December 2025
+
+Called up Retained
+
+share capital earnings Total equity
+
+£000 £000 £'000
+
+At I January 2024 a 40,103 40,103
+Profit for the year — 26,653 26,653
+Other comprehensive income -_ a a
+Total comprehensive income for the year = 26,653 26,653
+At 31 December 2024 _ 66,756 66,756
+At I January 2025 _ 66,756 66,756
+Loss for the year = (213) (213)
+Other comprehensive income = = =
+Total comprehensive loss for the year = (213) (213)
+
+At 3] December 2025 66,543 66,543
+
+Sas SSS
+
+The notes on pages 13 to 18 form an integral part of these financial statements.
+
+Page 12
+
+
+===== page 14 =====
+Docusign Envelope !D: 3FO66EBD-891F-8220-80C4-D1906247B86B
+
+Bridgepoint Europe (SGP) Ltd
+Statement of Changes in Equity for the Year Ended 31 December 2025
+
+1 General information
+
+The Company is a private company limited by shares and domiciled in the United Kingdom. The Company of incorporation is
+Scotland. The address of its registered office and principal place of business is 50 Lothian Road, Festival Square, Edinburgh, EH3
+9WIJ, Scotland, United Kingdom.
+
+2 Statement of compliance
+
+The individual financial statements of the Company have been prepared in compliance with United Kingdom Accounting Standards,
+including Financial Reporting Standard 102, "The Financial Reporting Standard applicable in the United Kingdom and Republic of
+Ireland" ("FRS 102") and the Companies Act 2006.
+
+The Financial Reporting Council (FRC) issued Amendments to FRS 102 The Financial Reporting Standard applicable in the UK and
+Republic of Ireland and other FRSs — Periodic Review 2024, with a principal effective date for accounting periods beginning on or
+after | January 2026. The amendments introduce a number of changes to the recognition, measurement, presentation and disclosure
+requirements of FRS 102, including revised requirements in relation to revenue recognition and lease accounting.
+
+The Company is currently assessing the impact of these amendments on its financial statements. Based on the assessment performed
+to date, the Directors do not expect any material impact from the revised requirements. The Company will apply the amendments
+from the date they become effective.
+
+At the date of approval of these financial statements, the full financial effect of first-time application has not yet been quantified. The
+Company will provide the disclosures required by FRS 102 in the period in which the amended requirements are first applied.
+
+3 Summary of significant accounting policies
+
+The principal accounting policies applied in the preparation of these financial statements are set out below. These policies have been
+consistently applied to all the years presented, unless otherwise stated,
+
+(a) Basis of preparation
+
+These financial statements have been prepared under the historical cost convention, as modified by certain financial assets and
+liabilities measured at fair value through profit or loss, when it is required by FRS 102.
+
+(b) Consolidation
+
+Under section 400 of the Companies Act 2006, the Company is exempt from the requirement to prepare consolidated accounts as it is
+itself a subsidiary undertaking and it is a wholly-owned subsidiary of Bridgepoint Group ple, a company incorporated within the
+United Kingdom, which prepares consolidated accounts that include the Company and its subsidiaries.
+
+(©) Going concern
+
+The financial statements have been prepared on a going concem basis as the Directors have a reasonable expectation that the
+Company has adequate resources to continue in operational existence for a period of at least 12 months from the date of signing of the
+annual report and financial statements having assessed the Company's business risks, financial position and resources.
+
+Specifically, the Company has in place a long-term contract with the Partnerships which gives it good visibility of income. The
+expenses incurred by the Company are predictable due to the nature of operations. Taken in combination the Directors are therefore
+satisfied that the Company is a going concern.
+
+(@) Exemption under Financial Reporting Standards
+
+FRS 102 allows a qualifying entity certain disclosure exemptions, subject to certain conditions, which have been complied with,
+including notification of, and no objection to, the use of the exemptions by the Company's shareholders. The Company has taken
+advantage of the following exemptions:
+
+Cash Flow Statement - The Company has taken advantage of the exemption, under FRS 102 paragraph 1.12 (b), from preparing a
+statement of cash flows, on the basis that it is a qualifying entity and its ultimate parent company, Bridgepoint Group plc, includes the
+Company's cash flows in their own consolidated financial statements.
+
+The notes on pages 13 to 18 form an integral part of these financial statements.
+
+Page 13
+
+
+===== page 15 =====
+Docusign Envelope ID: 3FO66EBD-891F-8220-80C4-D1906247B86B
+
+Bridgepoint Europe (SGP) Ltd
+Notes to the Financial Statements for the Year Ended 31 December 2025
+
+3. Summary of significant accounting policies (continued)
+(@)_ Exemption under Financial Reporting Standards (continued)
+
+Related Party Transactions - The Company has taken advantage of the exemption, under FRS 102 paragraph 33,1A, from the
+requirement to disclose related party transactions within the Bridgepoint Group on the grounds that 100% of the voting rights are
+controlled within the Group. Transactions with the Bridgepoint Group funds and the sharcholders of the Bridgepoint Group are not
+exempt and are disclosed where applicable.
+
+(©) Income
+
+The Company, as General Partner to the Limited Partnerships and Member of the Limited Liability Partnerships does not receive a
+fee, but participates in the profit or loss of the Partnerships, the income from the Partnerships. This income eared by the Company is
+recorded as revenue through Profit and Loss Account and is recognised in accordance with the Limited Partnership Agreements
+("LPA") and Limited Liability Partnership Agreements ("LLPA")
+
+(Expenses
+
+Expenses incurred have been recognised on an accruals basis.
+
+(g) Management fees expense
+
+Management fees expense are recognised in accordance with the management deed.
+(h) Taxation
+
+Taxation expense for the period comprises current and deferred tax recognised in the reporting period. Tax is recognised in the profit
+and loss account, except to the extent that it relates to items recognised in other comprehensive income or directly in equity. In this
+case tax is also recognised in other comprehensive income or directly in equity respectively.
+
+Current tax is the amount of income tax payable in respect of the taxable profit for the year or prior year. Tax is calculated on the
+basis of tax rates and laws that have been enacted or substantively enacted by the period end.
+
+Deferred tax arises from timing differences that are differences between taxable profits and total comprehensive income as stated in
+the financial statements. These timing differences arise from the inclusion of income and expenses in tax assessments in periods
+different from those in which they are recognised in financial statements. Deferred tax is recognised on all timing differences at the
+reporting date except for certain exceptions.
+
+Unrelieved tax losses and other deferred tax assets are only recognised when it is probable that they will be recovered against the
+reversal of deferred tax liabilities or other future taxable profits. Deferred tax is measured using tax rates and laws that have been
+enacted or substantively enacted by the period end and that are expected to apply to the reversal of the timing difference.
+
+Deferred taxation assets and liabilities are not discounted.-
+@ Debtors
+Short term debtors are measured at the transaction price, less any impairment.
+
+@ Creditors
+
+Short term creditors are measured at the transaction price. Other financial liabilities are measured initially at fair value, and are
+measured subsequently at amortised cost using the effective interest method, except where repayable on demand.
+
+(k) Financial instruments
+Financial assets
+
+Financial assets and liabilities are recognised when the Company becomes a party to the contractual provisions of the instrument. The
+Company has chosen to adopt Sections |] and 12 of FRS 102 in respect of financial instruments.
+
+Investments
+
+Investments in subsidiary undertakings, that are not investment vehicles, are stated at cost less provision for any impairment.
+Provisions are only made where in the opinion of the Directors there is an impairment in value.
+
+Page 14
+
+
+===== page 16 =====
+Docusign Envelope !D: 3FO66EBD-891F-8220-80C4-D1906247B86B
+
+Bridgepoint Europe (SGP) Ltd
+Notes to the Financial Statements for the Year Ended 31 December 2025
+
+3 Summary of significant accounting policies (continued)
+@ Foreign currency transactions and balances
+
+The Company's functional and presentation currency is the pound sterling. These financial statements are presented in pound sterling
+and rounded to thousands.
+
+Foreign currency transactions are translated into the functional currency using the actual rate at the date of the transaction. Monetary
+assets and liabilities denominated in foreign currencies are translated to pound sterling using the closing rate at the year-end. Non-
+monetary items measured at historical cost are translated using the exchange rate at the date of the transaction and non-monetary
+items measured at fair value are measured using the exchange rate when fair value was determined.
+
+Foreign currency gains and losses are recognised in the Profit and Loss Account.
+
+4 Judgements in applying accounting policies and key sources of estimation uncertainty
+
+In applying the Company's accounting policies, the Directors may be required to make judgements, estimates and assumptions that
+could impact the amounts reported for assets and liabilities as at the reporting date and the amounts reported for revenues and
+expenses during the year. The Directors’ judgements, estimates and assumptions are based on the best and most reliable evidence
+available at the time when the decisions are made, and are based on historical experience and other factors that are considered to be
+applicable. Due to the inherent subjectivity involved in making such judgements, estimates and assumptions, the actual results and
+outcomes may differ.
+
+The judgements, estimates and assumptions are reviewed on an ongoing basis. The Directors do not consider the financial statements
+to have any critical estimates or matters requiring significant judgement.
+
+5 Operating profit
+Audit fees of £5,769 (2024: £5,800) are borne by fellow subsidiary undertaking.
+
+6 Taxation
+
+(a) Tax expense included in the Profit and Loss Account
+
+2025 2024
+£'000 £'000
+Current taxation:
+UK corporation tax (11,762) (27,802)
+UK corporation tax adjustment to prior periods 7,055 4,167
+Total current tax (4,707) (23,635)
+Deferred taxation:
+Arising from origination and reversal of timing differences 5,420 (3,663)
+Deferred tax adjustment to prior periods 371 41
+Total deferred tax 5,791 (3,252)
+Tax charge/ (credit) on profit/ (loss) 1,084 (26,887)
+
+Page 15
+
+
+===== page 17 =====
+Docusign Envelope ID: 3FO66EBD-891F-8220-80C4-D1906247B86B
+
+Bridgepoint Europe (SGP) Ltd
+Notes to the Financial Statements for the Year Ended 31 December 2025
+
+6 Taxation (continued)
+
+(b) Reconciliation of tax charge
+
+The tax on profit before tax for the year is different to the standard rate of corporation tax in the UK of 25% (2024: different to the
+standard rate of corporation tax in the UK of 25%).
+
+The differences are reconciled below:
+
+2025 2024
+£000 £000
+
+Profit/ (loss) before tax 234)
+Corporation tax at the standard rate in the UK of 25% (2024: 25%) 218 (58)
+Income not charged to UK corporation tax (27,155) (39,555)
+Income and expenses allocated by Partnership — 9,736
+* Adjustment in respect of prior periods 7,426 4,579
+Deferred tax not recognised 17,245 5,738
+Priority profit share loan in lieu _ (7,327)
+Group relief for nil consideration 3,350 =
+. 866 (26,829)
+
+Total tax charge/ (credits) for the year 1,084 (26,887)
+
+7 Employees
+
+The Company did not employ any personnel during the year (2024: none).
+
+8 Directors' remuneration
+
+None of the Directors received any remuneration directly from the Company during the year (2024: nil). Remuneration received by
+individual Directors who are employed and paid by another Group entity cannot be sensibly attributed across the entities for which
+each Director is a Director of.
+
+Page 16
+
+
+===== page 18 =====
+Docusign Envelope ID: 3F066EBD-891F-8220-80C4-D1906247B86B
+
+Bridgepoint Europe (SGP) Ltd
+Notes to the Financial Statements for the Year Ended 31 December 2025
+
+9 Investments
+
+The Company has investments directly and indirectly in the following subsidiaries:
+
+Company
+proportion of
+ownership
+Name Ref Principal activity interest
+BE VI GP LLP 2, General Partner to UK Limited Partnerships 99.9%
+BEP IV GP LLP 2 General Partner to UK Limited Partnerships 99.9%
+BEV GP LLP 1 General Partner to UK Limited Partnerships 99.9%
+BEVII GP SCSp 3 General Partner to Luxembourg Limited 99.9%
+Partnerships
+
+Bridgepoint Advantage GP LLP 2 General Partner to UK Limited Partnerships 99.9%
+Bridgepoint Europe VI Bridge GP LLP 1 General Partner to UK Limited Partnerships 99.9%
+Bridgepoint Europe VI Bridge GP 2 LLP 1 General Partner to UK Limited Partnerships 99.9%
+Bridgepoint Europe VI Bridge GP 3 LLP 1 General Partner to UK Limited Parmerships 99.9%
+Bridgepoint Europe VI Bridge Holding GP LLP 1 General Partner to UK Limited Partnerships 99.9%
+Bridgepoint Europe VI Finance GP LLP 1 General Partner to UK Limited Parmerships 99.9%
+Bridgepoint Europe VII GP LLP 1 General Partner to UK Limited Partnerships 99.9%
+Bridgepoint Private Equity (Spain) GP LLP 1 General Partner to UK Limited Partnerships 99.9%
+Wigeavenmore GP LLP 1 General Partner to UK Limited Partnerships 99.9%
+Ref Registered office
+1 5 Marble Arch, London, WIH 7EJ, United Kingdom
+2 50 Lothian Road, Festival Square, Edinburgh, EH3 9WJ, Scotland, United Kingdom
+3 6B Rue du Fort Niedergriinewald, L-2226, Luxembourg
+The value of its investments is £1,095 (2024: £695)
+10 Debtors: amounts falling due within one year
+
+2025 2024
+
+£°000 £000
+Amounts owed by Group undertakings : 61,178 60,309
+Group relief receivable 28,345 23,634
+
+89,523 83,943
+
+Amounts owed from Group undertakings represent short term receivables due from the shareholders and other Group entities. These
+amounts are unsecured, interest free, have no fixed date of repayments and are payable on demand.
+
+11 Creditors: amounts falling due within one year
+
+2025 2024
+£000 £1000
+Amounts owed to Group undertakings 1 _
+
+Amounts owed to Group undertakings comprise amounts due to other Group entities. These amounts are unsecured, interest free,
+have no fixed date of repayments and are payable on demand.
+
+Page 17
+
+
+===== page 19 =====
+Docusign Envelope ID: 3FO66EBD-891F-8220-80C4-D1906247B86B
+
+Bridgepoint Europe (SGP) Ltd
+Notes tothe Financial Statements for the Year Ended 31 December 2025
+
+12 Deferred tax li:
+
+2025 2024
+
+£000 £'000
+Deferred tax liability 22,980 17,188
+13 Called up share capital
+Authorised
+
+2025 2024
+No. £ No. £
+
+Ordinary Shares of £1 each 100 100 100 100
+
+Allotted, called up and fully paid shares
+
+2025 2024
+No. £ No. £
+
+Ordinary Shares of £1 each 1 1 1 1
+
+The shares have the rights and restrictions as set out in the Articles of Association of the Company.
+
+14 Parent and ultimate parent undertaking
+
+The Company's immediate parent is Bridgepoint Advisers Holdings, incorporated in England and Wales, United Kingdom. The address
+of Bridgepoint Europe (SGP) Ltd registered office is 5 Marble Arch, London, WIH 7EJ, United Kingdom.
+
+The parent of the largest group in which these financial statements are consolidated is Bridgepoint Group ple, incorporated in England
+and Wales, United Kingdom. The parent of the smallest group in which these financial statements are consolidated is Bridgepoint OP
+LP, incorporated in England and Wales, United Kingdom. The address of the registered office of Bridgepoint Group ple and
+Bridgepoint OP LP is 5 Marble Arch, London, W1H 7EJ.
+
+The financial statements of Bridgepoint Group plc are available from Companies House, Crown Way, Cardiff, CF14 3UZ.
+
+15. Events after the end of the reporting period
+
+There have been no material events after the reporting period that would require adjusting or disclosing within these accounts.
+
+Page 18

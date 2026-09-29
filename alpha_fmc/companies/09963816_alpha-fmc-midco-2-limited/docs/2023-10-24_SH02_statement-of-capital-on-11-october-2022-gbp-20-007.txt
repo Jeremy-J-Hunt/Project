@@ -1,0 +1,449 @@
+
+
+===== page 1 =====
+In accordance with Section 619, 621 & 689 of the Companies Act 2006.
+
+ey SHO02
+
+Og woe :
+2 RY Notice of consolidation, sub-division, redemption
+of shares or re-conversion of stock into shares
+
+é BD ois House
+
+of What this form is for What this form is NOT for For further information, please
+You may use this form to give You cannot use this form to give refer to our guidance at
+notice of consolidation, notice of a conversion of shares www.gov.uk/companieshouse
+
+sub-division, redemption of into stock.
+
+shares or re-conversion of stock
+
+into shares,
+
+Company details
+
+Company ‘number
+
+runber_[o [9 [9 [6 Ts Is [1 fo
+
+> Filling in this form
+Please complete in typescript or in
+
+Company name in full [ALPHA FMC MIDCO 2 LIMITED
+
+bold black capitals.
+
+All fields are mandatory unless
+specified or indicated by *
+
+Date of resolutio!
+
+Date of resolution
+
+Darectresoution FP AP fo
+
+Peps
+
+Consolidation
+
+| Please show the amendments to each class of share.
+
+Previous share structure
+
+New share structure
+
+Class of shares
+(Eg. Ordinary/Preference etc.)
+
+Nominal value of each
+share
+
+Number of issued shares
+
+Nominal value of each
+share
+
+Number of issued shares
+
+Sub-division
+
+-
+|
+4 |
+
+| Please show the amendments to each class of share.
+
+Previous share structure
+
+New share structure
+
+Class of shares
+(Eg. Ordinary/Preference etc.)
+
+‘Nominal value of each
+share
+
+‘Number of issued shares
+
+‘Nominal value of each |
+share
+
+‘Number of issued shares
+
+|
+|
++
+
+Redemption
+
+[ *Please show the class
+redeemed. Only redee
+
+mable shares can be redeemed.
+
+Class of shares Number of issued shares [Nominal value of each
+(€.g. Ordinary/Preterence etc) share
+| PREFERENCE [1,322,044
+
+| £6.61022
+
+I
+
++
+
+; number and nominal value of shares that have been
+
+04/22 Version 6.0
+
+
+
+===== page 2 =====
+SHO2
+Notice of consolidation, sub-division, redemption of shares or re-conversion
+of stock into shares
+
+Re-conversion
+
+Please show the class number and nominal value of shares following re-conversion from stock.
+
+New share structure
+
+‘Value of stock
+
+Nominal value of each
+share
+
+Class of shares Number of issued shares
+
+(E.g. Ordinary/Preference etc.)
+
+i
+
+|
+| |
+|
+
+|
+
+|
+YI
+
+Statement of capital
+
+Complete the table(s) below to show the issued share capital. {t should reflect Continuation page
+
+the company's issued capital following the changes made in this form. Use a Statement of Capital
+continuation page if necessary.
+
+Complete a separate table for each currency (if appropriate). For example,
+add pound sterling in ‘Currency table A’ and Euros in ‘Currency table B’.
+
+Currency
+
+‘Complete a separate
+table for each currency
+
+i¢
+GBP
+GBP
+
+~ [Class of shares ‘Number of shares ‘Aggregate nominal _| Total aggregate amount
+
+urrency table A — _ a _
+| ORDINARY [ 20,000 | 20,000.00
+
+value (£, €, $, etc) | unpaid, if any (£, €, $, etc)
+
+Number of shares issued | Including both the nominal
+multiplied by nominal valve! value and any share premium
+
+E.g. Ordinary/Preference etc
+
+| B ORDINARY : | 1,400,000 | £7.00
+
+Currency table 8 [il
+
+Totals | 1,420,000 £20,007.00
+
+| [-
+
+/
+po
+[
+
+— re
+
+|
+
+|
+[
+|
+
+Total issued share capital table _ a
+
+Complete this table to show your total issued share capital. Add the totals from | Total number of shares Total aggregate nominal |Total aggregate amount
+all currency tables, including continuation pages |
+
+Totals |
+
+value © unpaid@ ©
+
+|
+Grand total |
+1,420,000 £20,007.00
+
+@ Show different currencies separately. For example: £100 + €100 + $10
+
+© Total aggregate amount unpaid
+Enter 0 oF ‘il if the shares are fully paid. We'll assume the shares are fully paid if
+you leave this blank.
+
+04/22 Version 6.0
+
+
+
+===== page 3 =====
+SHO2
+
+Notice of consolidation, sub-division, redemption of shares or re-conversion
+
+of stock into shares
+
+a
+
+Statement of capital (prescribed particulars of rights attached to shares)®
+
+Please give the prescribed particulars of rights attached to shares for each class
+of share shown in the share capital tables in Section 7.
+
+Class of share
+
+| ORDINARY
+
+Frescribed particulars
+
+(A) ON A SHOW OF HANDS EACH MEMBER HOLDING ORDINARY SHARES HAS ONE VOTE AND ON A
+POLL EACH MEMBER HOLDING ORDINARY SHARES HAS ONE VOTE FOR EACH ORDINARY SHARE
+HELD, (8) ANY PROFITS WHICH THE DIRECTORS MAY LAWFULLY DETERMINE TO DISTRIBUTE IN
+RESPECT OF ANY FINANCIAL YEAR SHALL BE DISTRIBUTED AMONGST THE HOLDERS OF THE
+ORDINARY SHARES PRO RATA AND PARI PASSU ACCORDING TO THE NUMBER OF ORDINARY
+SHARES HELD BY EACH OF THEM. (C) THE ORDINARY SHARES HAVE THE RIGHT. AS RESPECTS
+CAPITAL, TO PARTICIPATE IN A DISTRIBUTION (INCLUDING ON WINDING UP} AND SHALL BE
+DISTRIBUTED AMONGST THE ORDINARY SHAREHOLDERS PRO RATA ACCORDING TO THE NUMBER
+‘OF ORDINARY SHARES HELD, SUBJECT TO THE PROVISIONS IN RESPECT OF PREFERENCE SHARES
+NOTED IN THE COMPANY'S ARTICLES OF ASSOCIATION. (D) THE ORDINARY SHARES MAY BE ISSUED
+‘ON THE TERMS THAT THEY ARE, OR AT THE OPTION OF THE COMPANY OR THE HOLDER ARE LIABLE
+TO BE REDEEMED AND THE COMPANYS BOARD (SUBJECT TO THE TERMS OF THE INVESTMENT
+AGREEMENT AND THE FACILITY DOCUMENTS (EACH AS DEFINED IN THE COMPANY'S ARTICLES OF
+‘ASSOGIATION)) SHALL BE AUTHORISED TO DETERMINE THE TERMS, CONDITIONS AND MANNER OF
+REDEMPTION OF SUCH SHARES:
+
+Class of share
+
+[BORDINARY _
+
+Brescribed particulars
+
+(A) ON A SHOW OF HANDS EACH MEMBER HOLDING ORDINARY SHARES HAS ONE VOTE AND ON A
+POLL EACH MEMBER HOLDING ORDINARY SHARES KAS ONE VOTE FOR EACH ORDINARY SHARE HELD.
+(8) ANY PROFITS WHICH THE DIRECTORS MAY LAWFULLY DETERMINE TO DISTRIBUTE IN RESPECT OF
+‘ANY FINANCIAL YEAR SHALL BE DISTRIBUTED AMONGST THE HOLDERS OF THE ORDINARY SHARES
+PRO RATA AND PAR! PASSU ACCORDING TO THE NUMBER OF ORDINARY SHARES HELD BY EACH OF
+‘THEM. (C) THE ORDINARY SHARES HAVE THE RIGHT, AS RESPECTS CAPITAL, TO PARTICIPATE IN A
+DISTRIBUTION (INCLUDING ON WINDING UP) AND SHALL BE DISTRIBUTED AMONGST THE ORDINARY |
+‘SHAREHOLDERS PRO RATA ACCORDING TO THE NUMBER OF ORDINARY SHARES HELD, SUBJECT TO
+THE PROVISIONS IN RESPECT OF PREFERENCE SHARES NOTED IN THE COMPANY'S ARTICLES OF
+ASSOCIATION (0) THE ORDINARY SHARES MAY BE ISSUED ON THE TERMS THAT THEY ARE, OR AT
+THE OPTION OF THE COMPANY OR THE HOLDER ARE LIABLE, TO BE REDEEMED AND THE COMPANY'S
+BOARD (SUBJECT TO THE TERMS OF THE INVESTMENT AGREEMENT AND THE FACILITY DOCUMENTS
+(EACH AS DEFINED IN THE COMPANYS ARTICLES OF ASSOCIATION)) SHALL BE AUTHORISED TO
+DETERMINE THE TERMS, CONDITIONS AND MANNER OF REDEMPTION OF SUCH SHARES
+
+Class of share
+
+Prescribed particulars
+e
+
+‘@Prescribed particulars of right
+attached to shares
+
+The particulars are:
+
+a, particulars of any voting rights,
+including rights that arise only in
+certain circumstances;
+particulars of any rights, as
+respects dividends, to participate
+ina distribution;
+
+. particulars of any rights, as
+respects capital, to participate in a
+distribution (including on winding
+up); and
+
+whether the shares are to be
+redeemed of are liable to be
+redeemed at the option of the
+‘company or the shareholder,
+
+a
+
+o
+
+A separate table must be used for
+each class of share.
+
+Please use a Statement of capital
+continuation page if necessary.
+
+a
+
+Signature
+
+Signature
+
+Tam signing this form on behalf of the company.
+
+" § qh *
+
+This form may be signed by:
+Director @ Secretary, Person authorised®, Administrator , Administrative
+Receiver, Receiver, Receiver manager, CIC manager.
+
+© Societas Europaea
+If the form is being filed on behalf
+of a Societas Europaea (SE) please
+delete ‘director’ and insert details
+of which organ of the SE the person
+signing has membership.
+
+© Person authorised
+
+Under either section 270 or 274 of
+the Companies Act 2006.
+
+04/22 Version 6.0
+
+
+
+===== page 4 =====
+SHO2
+
+Notice of consolidation, sub-division, redemption of shares or re-conversion
+
+of stock into shares
+
+in| Presenter information
+
+i! | Important information
+
+You do not have to give any contact information, but if
+you do it will help Companies House if there is a query
+‘on the form. The contact information you give will be
+visible to searchers of the public record.
+
+RACHEL FAULCONBRIDGE
+[“r""" ADDLESHAW GODDARD LLP
+
+|
+
+| ‘Contact name
+
+|" "3 SOVEREIGN SQUARE
+_
+|
+[LEEDS
+CountyiRegion ~
+fee fe fs [i [Ts telat
+[@"" UNITED KINGDOM
+[ ~
+=
+Checklist
+‘We
+
+y
+with information missing.
+
+Please make sure you have remembered the
+
+following:
+
+© The company name and number match the
+information held on the public Register.
+
+© You have entered the date of resolution in
+Section 2.
+
+© Where applicable, you have completed Section 3, 4,
+Sor6.
+
+© You have completed the statement of capital.
+
+© You have signed the form.
+
+Please note that all information on this form will
+appear on the public record.
+
+| Where to send
+
+You may return this form to any Companies House
+address, however for expediency we advise you to |
+return it to the appropriate address below: |
+
+For companies registered in England and Wales:
+The Registrar of Companies, Companies House,
+Crown Way, Cardiff, Wales, CF14 3UZ.
+
+Dx 33050 Cardiff.
+
+For companies registered in Scotland:
+
+The Registrar of Companies, Companies House,
+Fourth floor, Edinburgh Quay 2,
+
+139 Fountainbridge, Edinburgh, Scotland, EH3 OFF.
+DX ED235 Edinburgh 1
+
+For companies registered in Northern Ireland:
+The Registrar of Companies, Companies House,
+Second Floor, The Linenhall, 32-38 Linenhall Street,
+Belfast, Northern Ireland, BT2 8BG.
+
+DX 481 N.R, Belfast 1.
+
+ii] Further information
+
+For further information, please see the guidance notes
+on the website at www.gov.uk/companieshouse or
+email enquiries@companieshouse.gov.uk
+
+This form is available in an
+alternative format. Please visit the
+forms page on the website at
+www.gov.uk/companieshouse
+
+This form has been provided free of charge by Companies House.
+
+04/22 Version 6.0
+

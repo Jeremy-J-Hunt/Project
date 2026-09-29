@@ -1,0 +1,349 @@
+
+
+===== page 1 =====
+In accordance with Section 619, 621 & 689 of the Companies Act 2006.
+
+SHO2
+
+Notice of consolidation, sub-division, redemption
+of shares or re-conversion of stock into shares
+
+a
+
+Companies House
+
+J What this form is for
+You may use this form to give
+notice of consolidation,
+sub-division, redemption of
+shares or re-conversion of stock
+into shares.
+
+What this form is NOT for
+You cannot use this form to give
+notice of a conversion of shares
+into stock.
+
+For further information, please
+refer to our guidance at
+www.gov.uk/companieshouse
+
+Company number
+
+Company details
+
+fv Ts Tr Ts fs Te fe fo
+
+Company name in full | Actium Bidco (UK) Limited
+
+> Filling in this form
+Please complete in typescript or in
+bold black capitals.
+
+All fields are mandatory unless
+specified or indicated by *
+
+Date of resolution
+
+Date of resolution b [6 [0 | % - | 0
+
+fe [a
+
+Consolidation
+
+Please show the amendments to each class of share.
+
+Previous share structure
+
+New share structure
+
+Class of shares
+(E.g. Ordinary/Preference etc.)
+
+Number of issued shares
+
+Nominal value of each
+share
+
+Number of issued shares
+
+Nominal value of each
+share
+
+Sub-division
+
+Please show the amendments to each class of share.
+
+Previous share structure
+
+New share structure
+
+Class of shares
+(Eg, Ordinary/Preference etc.)
+
+Number of issued shares
+
+Nominal value of each
+share
+
+Number of issued shares
+
+Nominal value of each
+share
+
+Redemption
+
+Please show the class number and nominal value of shares that have been
+redeemed. Only redeemable shares can be redeemed.
+
+Class of shares Number of issued shares Nominal value of each
+(E.g. Ordinary/Preference etc.) share
+| Redeemable preference 267991844 | 0.01
+
+04/22 Version 6.0
+
+
+
+===== page 2 =====
+SHO2
+
+Notice of consolidation, sub-division, redemption of shares or re-conversion
+of stock into shares
+
+6 | Re-conversion
+
+Please show the class number and nominal value of shares following re-conversion from stock.
+
+New share structure
+
+Value of stock Class of shares Number of issued shares Nominal value of each
+(E.g. Ordinary/Preference etc.) share
+Statement of capital
+Complete the table(s) below to show the issued share capital. It should reflect Continuation page ;
+the company’s issued capital following the changes made in this form. Use a Statement of Capital
+
+continuation page if necessary.
+Complete a separate table for each currency (if appropriate). For example,
+
+add pound sterling in ‘Currency table A’ and Euros in ‘Currency table B’.
+
+Currency Class of shares Number of shares Aggregate nominal Total aggregate amount
+Complete a separate E.g. Ordinary/Preference etc. value (£, € $, etc) unpaid, if any (£, €, $, etc)
+table for each currency Number of shares issued | Including both the nominal
+
+multiplied by nominal value! value and any share premium
+
+Currency table A
+GBP Ordinary 113778523 1137785.23
+
+Totals | 113778523 1137785.23 0
+Totals
+
+Currency table C
+Totals
+
+Total issued share capital table
+
+Complete this table to show your total issued share capital. Add the totals from [Total number of shares [Total aggregate nominal | Total aggregate amount
+all currency tables, including continuation pages. value © unpaid® @
+
+Grand total
+113778523 1137785.23 0
+
+@ Show different currencies separately. For example: £100 + €100 + $10
+
+@ Total aggregate amount unpaid
+Enter 0 or ‘nil’ ifthe shares are fully paid, We'll assume the shares are fully paid if
+you leave this blank.
+
+04/22 Version 6.0
+
+
+===== page 3 =====
+SHO2
+
+Notice of consolidation, sub-division, redemption of shares or re-conversion
+
+of stock into shares
+
+Statement of capital (prescribed particulars of rights attached to shares)®
+
+Please give the prescribed particulars of rights attached to shares for each class
+of share shown in the share capital tables in Section 7.
+
+Class of share
+
+Ordinary
+
+Frescribed particulars
+
+THE ORDINARY SHARES HAVE ATTACHED TO THEM FULL
+VOTING, DIVIDEND AND CAPITAL DISTRIBUTION (INCLUDING
+WINDING UP) RIGHTS.
+
+Class of share
+
+Prescribed particulars
+
+Class of share
+
+Prescribed particulars
+
+© Prescribed particulars of rights
+attached to shares
+
+The particulars are:
+
+a. particulars of any voting rights,
+including rights that arise only in
+certain circumstances;
+particulars of any rights, as
+respects dividends, to participate
+in a distribution;
+
+, particulars of any rights, as
+respects capital, to participate in a
+distribution (including on winding
+up); and
+
+whether the shares are to be
+redeemed or are liable to be
+redeemed at the option of the
+company or the shareholder.
+
+a
+
+2
+
+A separate table must be used for
+each class of share.
+
+Please use a Statement of capital
+continuation page if necessary.
+
+Signature
+
+1am signing this form on behalf of the company.
+
+Signature
+
+Signature
+
+x Conor Cunningham x
+
+This form may be signed by:
+Director ® Secretary, Person authorised®, Administrator , Administrative
+Receiver, Receiver, Receiver manager, CIC manager.
+
+@ Societas Europaea
+If the form is being filed on behalf
+of a Societas Europaea (SE) please
+delete ‘director’ and insert details
+of which organ of the SE the person
+signing has membership.
+
+© Person authorised
+Under either section 270 or 274 of
+the Companies Act 2006.
+
+04/22 Version 6.0
+
+
+
+===== page 4 =====
+SHO2
+
+Notice of consolidation, sub-division, redemption of shares or re-conversion
+
+of stock into shares
+
+A Presenter information
+
+it | Important information
+
+You do not have to give any contact information, but if
+you do it will help Companies House if there is a query
+on the form. The contact information you give will be
+visible to searchers of the public record.
+
+Contact name :
+Conor Cunningham
+
+Company name
+
+Allen Overy Shearman Sterling LLP
+
+Aedhess One Bishops Square
+Taio
+‘County/Region London
+wer fet fs fa fet TT
+Country England
+m
+Wertone 444 203 088 4123
+Checklist
+
+We may return forms completed incorrectly or
+with information missing.
+
+Please make sure you have remembered the
+
+following:
+
+CO The company name and number match the
+information held on the public Register.
+
+0 You have entered the date of resolution in
+Section 2.
+
+Where applicable, you have completed Section 3, 4,
+5 or 6.
+
+C You have completed the statement of capital.
+
+© You have signed the form.
+
+Please note that all information on this form will
+appear on the public record.
+
+| Where to send
+
+You may return this form to any Companies House
+address, however for expediency we advise you to
+return it to the appropriate address below:
+
+For companies registered in England and Wales:
+The Registrar of Companies, Companies House,
+Crown Way, Cardiff, Wales, CF14 3UZ.
+
+DX 33050 Cardiff.
+
+For companies registered in Scotland:
+
+The Registrar of Companies, Companies House,
+Fourth floor, Edinburgh Quay 2,
+
+139 Fountainbridge, Edinburgh, Scotland, EH3 9FF.
+DX ED235 Edinburgh 1
+
+For companies registered in Northern Ireland:
+The Registrar of Companies, Companies House,
+Second Floor, The Linenhall, 32-38 Linenhall Street,
+Belfast, Northern Ireland, BT2 8BG.
+
+DX 481 NLR. Belfast 1.
+
+i Further information
+
+For further information, please see the guidance notes
+on the website at www.gov.uk/companieshouse or
+email enquiries@companieshouse.gov.uk
+
+This form is available in an
+alternative format. Please visit the
+forms page on the website at
+www.gov.uk/companieshouse
+
+This form has been provided free of charge by Companies House.
+
+04/22 Version 6.0
+

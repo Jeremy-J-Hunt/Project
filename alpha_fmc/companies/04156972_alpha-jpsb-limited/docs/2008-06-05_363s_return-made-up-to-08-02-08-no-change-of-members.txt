@@ -1,0 +1,373 @@
+
+
+===== page 1 =====
+aoc079/ 340
+
+oA
+Company Name
+
+JPSB LIMITED 363s Annual Return
+Company Type > Please check the details printed in the
+
+Private Company Limited by Shares> If any details are wrong, strike them 1
+in the “Amended details" column
+
+Company Number > Please complete in black ink and us¢
+
+4156972
+
+tnformation extracted from
+
+Companies House records on Section 1: Company details
+
+8th May 2008
+
+Aa
+Ss 93/06/2003
+COMPANIES House
+*AoXavzv9+
+Asa 20/05/2008
+COMPANIES HOUSE
+
+25
+
+Ref 4156972/09/28 rrent details Amended details
+
+> Registered Office 1 Saint Quentin Road Address
+Address Welling
+Hany of the details are Kent A
+wrong, stnke them through DA16 2EJ
+and fil in the correct details
+
+in the "Amended detais"
+column UK Postcode WEEE LULU
+
+> Register of Members Address where the Register is held | Address
+if any of the details are
+wrong, strike them through At Registered Office
+and fill in the correct details L
+mn the “Amended details"
+column
+
+UK Postcode eeee eee
+
+> Register of Debenture Address
+Holders Not Applicable
+
+Hf any of the details are
+wrong, sinke them through n
+and fill in the correct details tl
+in the "Amended details"
+
+column UK Postcode Ge OG LL
+> Principal Business $IC Code Description SIC CODE Description
+
+Activities
+
+if any of the details are 7220 Software consultancy | —-- uu |
+
+wrong, sinke them through and supply
+
+and ill in the correct details
+
+in the "Amended details” beer +
+
+column
+
+been
+
+weee
+
+> Please enter additional
+principal activity code(s) in
+"Amended details" column
+See notes for guidance for
+list of activity codes
+
+
+
+===== page 2 =====
+Company Number - 4156972
+
+Section 2: Details of Officers of the Company
+
+Current details
+
+> Company Secretary Name Name
+Hf any of the details for this Jasdeep Kaur BHOGAL
+person are wrong, strike
+them through and fil in the
+correct details in the Address Tick this box if this address ts a service
+“Amended details" column 4 Saint Quentin Road address for the beneficiary of a
+Welling Confidentiality Order granted under section 723B
+Kent of the Companies Act 1985
+DA16 2EJ
+2E Address
+Particulars of anew u
+Company Secretary must
+be notified on form 288a
+UK Postcode Dee Eek
+Dateofchange. oe / oe fee ee
+Date Jasdeep Kaur BHOGAL
+ceased to be secretary (if applicable)
+eee fecce
+> Director Name Name
+
+Hany of the details for this
+person are wrong, strike
+them through and fill in the
+correct details in the
+“Amended details” column
+
+Particulars of a new Director
+must be notified on form
+288a
+
+Keiron Singh BHOGAL
+
+Address
+
+1 Saint Quentin Road
+Welling
+
+Kent
+
+DA16 2EJ
+
+Date of birth 03/12/1969
+Nationality British
+
+Occupation Computer Consultant
+
+Tick this box if this address ts a service
+address for the beneficiary of a
+Confidentiality Order granted under section 723B
+of the Compantes Act 1985
+
+Address
+
+UK Postcode Gee Lue
+Dateofbirth Ceo sfoOL feeen
+Nationality esses
+Occupation
+
+Date ofchange - f OL Jee
+
+Date Keiron Singh BHOGAL ceased to
+be director (if applicable)
+
+bepee peueur
+
+
+===== page 3 =====
+Company Number - 4156972 Section 3: Share Capital (c)
+
+‘ “4
+
+> Please fill in the Class of Share Number of shares issued
+~ + details of total share
+capital by class (eg ORD 1 moe) RS \000
+
+ordinary, preference
+
+etc) that has been Aggregate Nominal Value of issued shares
+
+issued to the \D00
+company's
+shareholders
+
+Class of Share Number of shares issued
+
+Aggregate Nominal Value of issued shares
+
+Class of Share Number of shares issued
+
+Aggregate Nominal Value of issued shares
+
+Class of Share Number of shares issued
+
+Aggregate Nominal Value of issued shares
+
+ee
+
+> Please fill in the total Number of shares issued
+number of issued se \000
+shares and their total
+
+nominal value Aggregate Nominal Value of issued shares
+
+Bloso
+
+List of past and present members (Tick appropriate box)
+
+> Please complete the OW There were no changes during the period
+required information on O Alst of changes is enclosed
+the attached schedules C1 A full list of members is enclosed
+or in another format
+agreed by Companies
+House The last full list of members was received on: 08/02/2007
+
+> REMEMBER:
+Changes to shareholder particulars or details of shares transferred to be completed each year
+A full hist of shareholders 1s required with the first and every third Annual Return thereafter
+List shareholders in alphabetical order or provide an index
+List joint shareholders consecutively
+
+
+===== page 4 =====
+Company Number - 4156972 Section 4: Details of New Shareholders and Transfers (A) (ii)
+
+> Please fill in details of any persons or corporate bodies who have becom’
+shareholders since the last annual return .
+
+> Please fill in details of any persons or corporate bodies that have transferred
+shares since the last annual return’
+
+> Please use Section 4B to give details of any persons or corporate bodtes who
+have ceased to be shareholders since the last annual return or, in the case of a
+first return, since the incorporation of the company
+
+> Please copy this page if there ts not enough space to enter all the company's
+current shareholders
+
+Class and number of Date of
+. Class and number shares or amount of registration
+Shareholders details of shares or stock transferred of transfer
+
+amount of stockheld = (i appropriate) __(lf appropriate)
+
+Name
+
+Address .
+
+UK Postcode beee een
+
+Name
+
+Address
+
+UK Postcode beer eee
+
+Name
+
+Address
+
+UK Postcode eee eee
+
+Name
+
+Address
+
+UK Postcode beer eee
+
+
+
+===== page 5 =====
+Company Number - 4156972 Section 4B: Details of Former Shareholders
+t ya
+> Please fill in details of any persons or corporate bodies who have ceased
+’ . to be shareholders at the date of this return Also, please give the dates
+that their shares were transferred
+
+> Please copy this page rf there ts not enough space to enter all the
+, company's former shareholders
+
+Class and number of Date of
+
+Former shareholders details shares or amount of registration
+stock transferred of transfer
+
+Name
+Address
+
+UK Postcode Beee bee
+Name
+Address
+
+UK Posicode Ree e von
+Name
+Address
+
+UK Postcode beee eee
+Name
+Address
+
+UK Postcode bee e bee
+Name
+Address
+
+UK Postcode Ree e vee
+
+
+
+===== page 6 =====
+Company Number - 4156972 363s Annual Return Declaration
+
+> When you have checked all the sections of this form, please
+complete this page and sign the declaration below
+
+> If you want to change the made up date of this annual return,
+please complete 2 below
+
+14. Declaration
+
+CI confirm that the details in this annual return are correct as at the made-up-date
+(shown at 2 below) | enclose the filing fee of £30
+
+Signature Date
+2 Lb; oS; tows
+(Director / Secretary’
+} This date must not be earlier than the
+return date at 2 below
+What to do now
+
+Complete this page then send the whole of the Annual Return and the
+declaration to the address shown at 4 below
+
+2..Qatedfthisretun |
+
+O This AR 1s made up to If you are making this return up to an earlier date,
+8/2/2008 please give the date here
+
+ee see feeee
+
+Note The form must be delivered to CH within 28 days of this date
+
+3. Date of next return
+
+© Ifyou wish to change your next return to a date earlier than 8th February 2009
+please give the new date here
+
+Before fever
+
+4. Where to send this form
+C1 Please return this form to
+
+Registrar of Companies For members of the Hays Document
+Companies House oR Exchange service
+Crown Way DX 33050 Cardiff
+
+Cardiff CF14 3UZ
+
+Have you enclosed the filing fee with the company number written on the
+reverse of the cheque?
+
+Contact Address
+
+You do not have to give any contact information below, but if you do, it will help
+Companies House to contact you if there is a query onthe form The contact
+information that you give will be visible to searchers of the public record
+
+Contact Name . Telephone number inc code
+
+t eee eee eee
+
+Address . DX number #f applicable
+
+beeen
+
+DX exchange
+
+Postcode eee eee
+
+wie D

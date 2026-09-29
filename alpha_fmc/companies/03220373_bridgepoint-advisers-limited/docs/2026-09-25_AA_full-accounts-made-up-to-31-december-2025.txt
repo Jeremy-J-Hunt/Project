@@ -1,0 +1,1421 @@
+
+
+===== page 1 =====
+Docusign Envelope 1D: 0B133A9B-E973-8906-804B-34EF 56018AFC
+
+Registration number: 03220373
+
+Bridgepoint Advisers Limited
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 3] DECEMBER 2025
+
+22/09/2026 #195
+COMPANIES HOUSE ]
+an SE
+
+ee |) wan)
+
+
+===== page 2 =====
+Docusign Envelope ID: 0B133A9B-E973-8906-804B-34EF56018AFC
+
+Bridgepoint Advisers Limited
+Strategic Report for the Year Ended 31 December 2025
+
+The Directors present their strategic report for the year ended 31 December 2025.
+Principal activity
+
+The principal activity of Bridgepoint Advisers Limited (the "Company") is to act as a fund manager. The Company is regulated by the
+Financial Conduct Authority ("FCA") to conduct business under the requirements of the Financial Services and Markets Act 2000.
+There have not been any significant changes in the Company's principal activities during the year under review.
+
+The Company forms part of the Bridgepoint group of companies (together, the "Group" or the "Bridgepoint Group").
+Results
+
+The profit for the financial year is £11.8m (2024: £23.2m) and at the year end the Company has net assets of £62.6m (2024:
+£103.6m).
+
+Principal risks and uncertainties
+
+The business is subject to risks associated with the performance of the funds managed, the tax and regulatory regimes within which
+the Company's business operates and attracting and retaining the services of key investment professionals and operational risks.
+
+Fundraising risk
+
+The alternative investment management sector is intensely competitive, with the Group competing with a number of others for
+investor capital, including sponsors of public and private investment funds. Fundraising markets remained competitive during 2025,
+with a high volume of managers returning to market and extended fundraising timetables across private markets. Investor allocation
+cycles have also lengthened, with increased diligence around performance, fee structures, and alignment.
+
+The inability to raise additional or successor funds (or raise successor funds of a comparable size to predecessor funds), or a change in
+the terms on which investors are willing to invest, could have a material adverse impact on the Company's business, revenue, net
+income, cash flows or the ability to retain employees.
+
+The Group's capital raising efforts are supported by an in-house global investor services team, which utilises the Group's data and
+technology capabilities.
+
+As a leading middle market alternative asset manager, the Group offers investors a differentiated approach arising from its global
+reach and ability to deploy capital across middle market strategies. This differentiation insulates the Group, to some extent, against
+the competitive pressures arising in respect of attracting fund investors.
+
+Regulatory risk
+
+The international nature of the Group’s business, with corporate and fund entities located in multiple jurisdictions and a diverse
+investor base, makes it subject to a wide range of laws and regulations. It is supervised by a number of regulators, including the
+Financial Conduct Authority in the UK. Failure to comply with applicable law and regulations may put the Group at risk of fines,
+lawsuits or reputational damage. The Group has a dedicated Legal and Compliance function that provides guidance to the business on
+its regulatory and legal obligations. The Group monitors regulatory and legislative changes in the jurisdictions in which it operates
+and interacts with regulators and industry bodies to stay informed of regulatory changes. It also proactively takes actions to comply
+with any changes in law or regulation.
+
+Employees of the Group are provided with periodic training on the laws and regulations relevant to the Group.
+Market and economic risk
+
+Macroeconomic events may contribute to volatility in financial and global markets which can adversely impact the Group’s business
+by reducing the value or performance of the investments made by the funds managed or advised by the Group as well as the
+availability of financial resources to the Group. Adverse economic scenarios may reduce exit opportunities, prolong holding periods,
+and impact the performance of funds across the platform. Market conditions may also influence investor appetite for private market
+strategies, indirectly affecting fundraising performance. For example, rising interest rates may adversely impact multiples and
+discount rates used for investment valuations. Higher interest rates may also reduce the Group’s ability to secure favourable
+financing, both for the Group itself and for the funds it manages or advises.
+
+The Group’s senior management and strategy leadership regularly update the business on economic trends and outlooks to aid
+investment teams and corporate functions in anticipating and proactively addressing macroeconomic risks.
+
+Page 1
+
+
+===== page 3 =====
+Docusign Envelope ID: 0B133A9B-E973-8906-804B-34EF56018AFC
+
+Bridgepoint Advisers Limited
+Strategic Report for the Year Ended 31 December 2025
+
+Loss of key personnel
+
+The Company relies on the expertise and knowledge of investment executives of the Group. Unexpected loss of one or more key
+employees could adversely affect the Company's business. The Group places an emphasis on active engagement with its people to
+better understand their needs, and to focus on progression and professional development. The Group also has competitive incentive
+schemes designed to attract and retain its people and is committed to providing competitive remuneration packages.
+
+Technology risk
+
+Cybersecurity threats remain a significant risk for all global financial and investment institutions. Cybersecurity incidents and cyber
+attacks continue to be a feature of the global economy and as an increasingly global business, the Group faces various cybersecurity
+threats on a regular basis. Cybersecurity failures, technology failures or data security breaches could result in the confidentiality,
+integrity or availability of data being negatively affected, causing disruption and/or damage to the Group's business. The Group has in
+place an internal vulnerability management programme, as well as critical asset processes to patch critical vulnerabilities. Phishing
+testing is performed at least quarterly, and penetration testing is undertaken annually. The Group has a disaster recovery plan in place,
+and all key systems are hosted in the cloud, providing an inherent level of resilierice.
+
+isks
+
+Financi:
+
+Foreign exchange risk
+
+The Company is subject to foreign exchange risk arising from its income earned. Further details of the exposure is included in notes
+to these financial statements.
+
+Credit and liquidity risk
+
+Credit risk is the risk of financial loss to the Company as a result of a counterparty failing to meet its contractual obligations. This risk
+is principally in connection with the Company's trade and other receivables from the shareholders, receivables from funds, and other
+Group entities. The Directors consider the Company's credit exposure to trade and other receivables to be low. The Company's credit
+exposure to the Group entities is linked to the liquidity risk of the Group.
+
+Key performance indicators
+
+The Directors consider the Company's performance in the context of the broader performance of the Group, and the life cycle of the
+funds to which it acts as a manager. As such an analysis of its performance by reference to key performance indicators is not
+straightforward.
+
+To the extent that the Company has key performance indicators these are Assets under management ("AUM"), management fee
+income and profit before tax. The current and prior year performance is shown in the table below. All three metrics are trending in
+line with expectations considering the performance and life cycle of the funds that the Company manages.
+
+2025 2024
+Assets under management ("AUM") (Em) 21,255 24,589
+Profit before tax ("PBT") (£'000s) 15,444 32,354
+Management fee income (£'000s) (note 5) 154,436 184,636
+
+Page 2
+
+
+===== page 4 =====
+Docusign Envelope ID: 0B133A9B-E973-8906-804B-34EF56018AFC
+
+Bridgepoint Advisers Limited
+Strategic Report for the Year Ended 31 December 2025
+
+Statement by the Directors in performance of their statutory duties in accordance with s172(1) Companies Act 2006
+The Directors of the Company, as those of all UK companies, must act in accordance with a set of general duties, which are detailed
+in Section 172 of the UK Companies Act 2006.
+
+A director of a company must act in the way they consider, in good faith, would be most likely to promote the success of the company
+for the benefit of its shareholders as a whole and, in doing so have regard (among other matters) to:
+
++ the likely consequences of any decision in the long-term;
+
++ the interest of the company's employees;
+
++ the need to foster the company’s relationships with suppliers, customers and others;
+
++ the impact of the company's operations on the community and environment;
+
++ the desirability of the company maintaining a reputation for high standards of business conduct; and
++ the need to act fairly as between shareholders of the company.
+
+The parent entity, Bridgepoint Group plc, has a Group Board (consisting of the Directors of Bridgepoint Group plc) which takes
+executive responsibility for the strategic direction of Bridgepoint Group plc and its controlled entities including the Company. It has
+executive responsibility for setting the Group's strategy and ensuring that the shared values and business objectives are upheld and
+met.
+
+The Directors of the Company are involved in decisions that impact the Company as required under the Companies Act 2006. Such
+matters include making a decision to pay a dividend.
+
+An explanation of how the Group Board has considered the matters of Section 172 (for the Group, including the Company) is set out
+in the annual report and accounts of Bridgepoint Group plc. This includes details of the development, performance and position of the
+Group, as well as how the Group undertakes business conduct, employee and fund investor engagement, risk management and
+community engagement.
+
+Approved by the Board and signed on its behalf on 27 April 2026 by:
+
+Kok e (a
+
+RC Prior
+
+Director
+
+Page 3
+
+
+===== page 5 =====
+Docusign Envelope ID: 0B133A9B-E973-8906-804B-34EF56018AFC
+
+Bridgepoint Advisers Limited
+Directors' Report for the Year Ended 31 December 2025
+
+The Directors present their annual report together with the audited financial statements (the "Financial Statements") of the Company
+for the year ended 31 December 2025.
+
+Results and dividends
+
+The results for the financial year are shown on page 9.
+
+In the financial year of 2025 the Directors declared and paid dividends of £48.0m (2024: £60.0m).
+Future developments
+
+The Directors do not anticipate any significant change in the business of the Company.
+
+Directors of the Company
+
+The Directors who held office during the year and up to the date of this report were as follows:
+CJ Busby
+
+JR Hughes
+
+WN Jackson (resigned 28 May 2025)
+
+RC Prior
+
+X J Robert
+
+EG Woods (appointed 1 August 2025)
+
+RC Thompson
+
+D Wagener
+
+G P Weldon (resigned 31 March 2026)
+
+Directors' indemnity
+
+During the period and at the time of signing, a Bridgepoint Group entity maintains liability insurance for Directors and Officers of the
+Bridgepoint Group ple and associated companies, which includes the Company. This is a qualifying third party indemnity provision
+for the purpose of the Companies Act 2006.
+
+Statement of Directors’ Responsibilities
+
+The Directors acknowledge their responsibilities for preparing the annual report and the financial statements in accordance with
+applicable law and regulations.
+
+Company law requires the Directors to prepare financial statements for each financial year. Under that law the Directors have elected
+to prepare the financial statements in accordance with United Kingdom Generally Accepted Accounting Practice (United Kingdom
+Accounting Standards), comprising FRS 102 “The Financial Reporting Standard applicable in the UK and Republic of Ireland", and
+applicable law.
+
+Under company law the Directors must not approve the financial statements unless they are satisfied that they give a true and fair
+
+view of the state of affairs of the Company and of the profit or loss of the Company for that period. In preparing these financial
+
+statements, the Directors are required to:
+
+* select suitable accounting policies and apply them consistently;
+
++ make judgements and accounting estimates that are reasonable and prudent;
+
+* state whether applicable United Kingdom Accounting Standards, comprising FRS 102, have been followed, subject to any
+material departures disclosed and explained in the financial statements; and
+
+* prepare the financial statements on the going concern basis unless they either intend to liquidate the Company or to cease
+operations, or have no realistic alternative but to do so.
+
+The Directors are responsible for keeping adequate accounting records that are sufficient to show and explain the Company's
+transactions and disclose with reasonable accuracy at any time the financial position of the Company and enable them to ensure that
+the financial statements comply with the Companies Act 2006. They are also responsible for safeguarding the assets of the Company
+and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+
+Statement of engagement with suppliers, customers and others in a business relationship with the Company
+
+From the perspective of the Directors of the Company, as a result of the Group governance structure, the Group Board has primary
+responsibility for carrying out the duties of the Company in respect of its shareholders, employees, fund investors and community
+engagement. An explanation of how the Group Board has carried out these responsibilities (for the Group and for the Company) is set
+out in the annual report and results of Bridgepoint Group plc.
+
+Page 4
+
+
+===== page 6 =====
+Docusign Envelope ID: 0B133A9B-E973-8906-8048-34EF56018AFC
+
+Bridgepoint Advisers Limited
+Directors’ Report for the Year Ended 31 December 2025
+
+Post balance sheet events
+There have been no material events after the reporting period that would require adjusting or disclosing within these accounts.
+Disclosure of information to the auditor
+
+Each Director at the time when the Directors’ Report is approved has confirmed that:
+
+4 so far as the Director is aware, there is no relevant audit information needed by the Company's auditor in connection with
+preparing their report of which the Company's auditor is unaware; and
+
++ the Director has taken all the steps that ought to have been taken as a Director in order to be aware of any relevant audit
+information and to establish that the Company's auditor is aware of that information.
+
+Approved by the Board and signed on its behalf on 27 April 2026 by:
+
+Kathe OH
+
+RC Prior
+
+Director
+
+Page 5
+
+
+===== page 7 =====
+Docusign Envelope ID: 08133A9B-E973-8906-804B-34EF56018AFC
+
+Bridgepoint Advisers Limited
+
+Independent auditor’s report to the members of Bridgepoint Advisers Limited
+
+Opinion
+We have audited the financial statements of Bridgepoint Advisers Limited (the ‘company’) for the year ended 31 December 2025
+
+which comprise the Profit and Loss Account, the Statement of Comprehensive Income, the Balance Sheet, the Statement of Changes
+in Equity and notes to the financial statements, including a summary of significant accounting policies.
+
+The financial reporting framework that has been applied in their preparation is applicable law and United Kingdom Accounting
+Standards, including FRS 102 “The Financial Reporting Standard applicable in the UK and Republic of Ireland” (United Kingdom
+Generally Accepted Accounting Practice).
+
+In our opinion, the financial statements:
+
++ give a true and fair view of the state of the company’s affairs as at 31 December 2025 and of its profit for the year then ended;
++ have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice; and
++ have been prepared in accordance with the requirements of the Companies Act 2006.
+
+Basis for opinion
+
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. Our
+responsibilities under those standards are further described in the “Auditor’s responsibilities for the audit of the financial statements”
+section of our report. We are independent of the company in accordance with the ethical requirements that are relevant to our audit of
+the financial statements in the UK, including the FRC’s Ethical Standard, and we have fulfilled our other ethical responsibilities in
+accordance with these requirements. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a
+basis for our opinion.
+
+Conclusions relating to going concern
+
+In auditing the financial statements, we have concluded that the directors’ use of the going concern basis of accounting in the
+preparation of the financial statements is appropriate.
+
+Based on the work we have performed, we have not identified any material uncertainties relating to events or conditions that,
+individually or collectively, may cast significant doubt on the company's ability to continue as a going concer for a period of at least
+twelve months from when the financial statements are authorised for issue.
+
+Our responsi
+report.
+
+ities and the responsibilities of the directors with respect to going concern are described in the relevant sections of this
+
+Other information
+
+The other information comprises the information included in the annual report, other than the financial statements and our auditor’s
+report thereon. The directors are responsible for the other information contained within the annual report. Our opinion on the
+financial statements does not cover the other information and, except to the extent otherwise explicitly stated in our report, we do not
+‘express any form of assurance conclusion thereon.
+
+Our responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent
+with the financial statements or our knowledge obtained in the course of the audit, or otherwise appears to be materially misstated. If
+we identify such material inconsistencies or apparent material misstatements, we are required to determine whether this gives rise to a
+material misstatement in the financial statements themselves. If, based on the work we have performed, we conclude that there is a
+material misstatement of this other information, we are required to report that fact.
+
+We have nothing to report in this regard.
+
+Opinions on other matters prescribed by the Companies Act 2006
+
+In our opinion, based on the work undertaken in the course of the audit:
+
++ the information given in the strategic report and the directors’ report for the financial year for which the financial statements are
+prepared is consistent with the financial statements; and
+
++ the strategic report and the directors' report have been prepared in accordance with applicable legal requirements.
+
+Page 6
+
+
+===== page 8 =====
+Docusign Envelope ID: 0B133A9B-E973-8906-804B-34EF56018AFC
+
+Bridgepoint Advisers Limited
+
+Independent auditor’s report to the members of Bridgepoint Advisers Limited
+
+Matters on which we are required to report by exception
+
+In light of the knowledge and understanding of the company and its environment obtained in the course of the audit, we have not
+identified material misstatements in the strategic report or the directors’ report.
+
+We have nothing to report in respect of the following matters in relation to which the Companies Act 2006 requires us to report to you
+
+if, in our opinion:
+
++ adequate accounting records have not been kept, or returns adequate for our audit have not been received from branches not
+visited by us; or
+
++ the financial statements are not in agreement with the accounting records and returns; or
+
+* certain disclosures of directors' remuneration specified by law are not made; or
+
+* we have not received all the information and explanations we require for our audit.
+
+Responsibilities of Directors
+
+As explained more fully in the statement of directors’ responsibilities set out on page 4, the directors are responsible for the
+preparation of the financial statements and for being satisfied that they give a true and fair view, and for such internal control as the
+directors determine is necessary to enable the preparation of financial statements that are free from material misstatement, whether
+due to fraud or error.
+
+In preparing the financial statements, the directors are responsible for assessing the company’s ability to continue as a going concern,
+disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the directors either
+intend to liquidate the company or to cease operations, or have no realistic alternative but to do so.
+
+Auditor's responsibilities for the audit of the financial statements
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material
+misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our opinion. Reasonable assurance is a high
+level of assurance but is not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material
+misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the
+aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of the financial
+statements.
+
+The extent to which our procedures are capable of detecting irregularities, including fraud is detailed below.
+
+including fraud, are instances of non-compliance with laws and regulations. We design procedures in line with our
+ies, outlined above, to detect material misstatements in respect of irregularities, including fraud.
+
+Based on our understanding of the company and its industry, we considered that non-compliance with the following laws and
+regulations might have a material effect on the financial statements: tax legislation, the UK Bribery Act, the Financial Conduct
+Authority regulations, and anti-money laundering regulation.
+
+To help us identify instances of non-compliance with these laws and regulations, and in identifying and assessing the risks of material
+
+misstatement in respect to non-compliance, our procedures included, but were not limited to:
+
++ Inquiring of management and, where appropriate, those charged with governance, as to whether the company is in compliance
+with laws and regulations, and discussing their policies and procedures regarding compliance with laws and regulations;
+
++ Inspecting correspondence, if any, with relevant licensing or regulatory authorities; ,
+
++ Communicating identified laws and regulations to the engagement team and remaining alert to any indications of non-compliance
+throughout our audit; and
+
++ Considering the risk of acts by the company which were contrary to applicable laws and regulations, including fraud.
+
+Page 7
+
+
+===== page 9 =====
+Docusign Envelope ID: 0B133A9B-E973-8906-804B-34EF56018AFC
+
+Bridgepoint Advisers Limited
+
+Independent auditor’s report to the members of Bridgepoint Advisers Limited
+
+We also considered those laws and regulations that have a direct effect on the preparation of the financial statements, such as the
+Companies Act 2006.
+
+In addition, we evaluated the directors’ and management’s incentives and opportunities for fraudulent manipulation of the financial
+statements, including the risk of management override of controls, and determined that the principal risks related to manipulating
+accounting records and preparing fraudulent financial statements by overriding controls that otherwise appear to be operating
+effectively, and the inappropriate recognition of turnover due to the manual nature of the calculation process, with a focus on fees
+from funds in the fundraising stage.
+
+Our audit procedures in relation to fraud included but were not limited to:
+
+* Making enquiries of the directors and management on whether they had knowledge of any actual, suspected or alleged fraud;
+
+* Gaining an understanding of the internal controls established to mitigate risks related to fraud;
+
++ Discussing amongst the engagement team the risks of fraud; and
+
++ Addressing the risks of fraud through management override of controls by performing journal entry testing.
+
+There are inherent limitations in the audit procedures described above and the primary responsibility for the prevention and detection
+of irregularities including fraud rests with management. As with any audit, there remained a risk of non-detection of irregularities, as
+these may involve collusion, forgery, intentional omissions, misrepresentations or the override of internal controls.
+
+A further description of our responsibilities for the audit of the financial statements is located on the Financial Reporting Council's
+website at www.frc.org.uk/auditorsresponsibilities, This description forms part of our auditor's report.
+
+Use of the audit report
+
+This report is made solely to the company's members as a body in accordance with Chapter 3 of Part 16 of the Companies Act 2006. ~
+Our-audit work has been undertaken so that we might state to the company's members those matters we are required to state to them
+
+in an auditor's report and for no other purpose. To the fullest extent permitted by law, we do not accept or assume responsibility to
+anyone other than the company and the company's members as a body for our audit work, for this report, or for the opinions we have
+formed.
+
+Duge Fusnandles
+
+Diego Fernandez (Senior Statutory Auditor)
+for and on behalf of Forvis Mazars LLP
+Chartered Accountants and Statutory Auditor
+
+30 Old Bailey, London, EC4M 7AU
+27 April 2026
+
+Page 8
+
+
+===== page 10 =====
+Docusign Envelope ID: 0B133A9B-E973-8906-804B-34EF56018AFC
+
+Bridgepoint Advisers Limited
+Profit and Loss Account for the Year Ended 31 December 2025
+
+Note 2025 2024
+
+£1000 £000
+
+Turnover 5 154,858 185,082
+Management fees expense (56,359) (72,262)
+Gross profit 98.499 112,820
+Administrative expenses 6 (84,522) (82,185),
+Net foreign exchange losses (2,529) (1,233)
+Other income 2,159 2,159
+Operating profit 13,607 31,561
+Interest receivable and similar income 1,837 793
+Profit before tax 15,444 32,354
+Taxation 9 (3,685) (9,124)
+
+Profit for the financial year
+
+The results above relate to continuing operations.
+
+The notes on pages 13 to 22 form an integral part of these financial statements.
+
+Page 9
+
+
+===== page 11 =====
+Docusign Envelope ID: 0B133A9B-E973-8906-804B-34EF56018AFC
+
+Bridgepoint Advisers Limited
+
+Statement of Comprehensive Income for the Year Ended 31 December 2025
+
+Profit for the year
+
+Other comprehensive income:
+
+Unrealised (loss)/ gain on cash flow hedges before tax
+Reclassifications to Profit and Loss Account
+
+Total tax on components of other comprehensive income
+Other comprehensive (loss)/ income for the year, net of tax
+Total comprehensive income for the year
+
+The results above relate to continuing operations.
+
+The notes on pages 13 to 22 form an integral part of these financial statements.
+
+Page 10
+
+Note
+
+2025
+£000
+11,759
+
+(13,228)
+4,401
+2,207
+
+(6,620)
+
+5,139
+
+2024
+£000
+23,230
+
+8,285
+255
+
+(2,135)
+
+6,405
+
+29,635
+
+
+===== page 12 =====
+Docusign Envelope ID: 08133A9B-E973-8906-804B-34EF 56018AFC
+
+Non-current assets
+Tangible assets
+Other receivables
+
+Deferred tax assets
+
+Current assets
+
+Bridgepoint Advisers Limited
+
+(Registration number: 03220373)
+Balance Sheet as at 31 December 2025
+
+Debtors: amounts falling due within one year
+
+Financial assets at fair value
+Cash and cash equivalents
+
+Current liabilities
+Financial li
+
+ies at fair value
+
+Creditors: amounts falling due within one year*
+
+Net current assets
+
+Total assets less current liabilities
+
+Non-current liabilities
+Deferred tax liabilities
+
+Net assets
+
+Capital and reserves
+Called up share capital
+
+Cash flow hedge reserve
+Retained earnings
+Share-based payment reserve
+Total equity
+
+Note
+
+ul
+14
+
+BT
+12
+
+12
+
+2025 2024
+£000 £000
+20,304 21,844
+183 1,776
+
+121 =
+
+. 20,608 23,620.
+138,666 244,734
+2,211 11,051
+84,487 14,563
+225,364 270,348
+(2,444) (2,456)
+(180,904) (184,760)
+42,016 83,132
+62,624 106,752
+= (3,158)
+62,624 103,594
+
+ee O00 NO
+
+5 5
+361 9,188
+
+59,895 92,841
+
+2,363 1,560
+82,624 __103,594.
+
+* Accruals and deferred income are presented within 'Creditors: amounts falling due within one year' and analysed in the related note.
+Comparative amounts have been re-presented on the same basis. This is a presentational change and has no effect on profit or net
+
+assets.
+
+The financial statements of Bridgepoint Advisers Limited were approved and authorised by the Board of Directors and signed on its
+
+behalf on 27 April 2026 by:
+
+elk oan ¢ aaa
+RC Prior
+
+Director
+
+The notes on pages 13 to 22 form an integral part of these financial statements.
+
+Page 11
+
+
+===== page 13 =====
+Docusign Envelope ID: 0B133A9B-E973-8906-804B-34EF5601BAFC
+
+Bridgepoint Advisers Limited
+
+Statement of Changes in Equity for the Year Ended 31 December 2025
+
+Atl January 2024
+Profit for the year
+Cash flow hedges
+
+Dividends
+Share based payment transactions
+‘Vested share based payment
+
+At 31 December 2024
+
+At 1 January 2025
+Profit for the year
+Cash flow hedges
+
+Dividends
+Share based payment transactions
+Vested share based payment
+
+Note Called up Share-based Cash flow Retained Total equity
+
+share capital payment hedge reserve earnings
+
+reserve
+
+£1000 £000 £000 £000 £000
+5 735 648 130,896 132,284
+= = = 23,230 23,230
+R = = 8,540 2,135) 6.405
+Total comprehensive income for the year = = 8540 21.095 9,035
+- - - (60,000) (60,000)
+—— 1,675 - - 1.675
+= (850) = 850 =
+3 7,360 3,188 92,841 103,598
+5 1,560 9,188 92,841 103,594
+_ - = 11,759 11,739
+2 = = (8,827) 2,207 (6.620)
+Total comprehensive income for the year = = (8827) 13,966 3139
+- = = (48,000) (48,000)
+= 1891 = ~ 1,891
+= (1,088) - 1,088 -
+3 2368 361 39,895 C2624
+
+At31 December 2025
+
+‘The notes on pages 13 to 22 form an integral part of these financial statements.
+Page 12
+
+
+===== page 14 =====
+Docusign Envelope ID: 0B133A9B-E973-8906-804B-34EF56018AFC
+
+Bridgepoint Advisers Limited
+Notes to the Financial Statements for the Year Ended 31 December 2025
+
+1 General information
+
+The Company is a private company limited by shares and domiciled in the United Kingdom. The Company was incorporated in
+England and Wales. The address of its registered office and principal place of business is 5 Marble Arch, London, WIH 7EJ, United
+Kingdom.
+
+2. Statement of compliance
+
+The individual financial statements of the Company have been prepared in compliance with United Kingdom Accounting Standards,
+including Financial Reporting Standard 102, "The Financial Reporting Standard applicable in the United Kingdom and Republic of
+Ireland" ("FRS 102") and the Companies Act 2006.
+
+The Financial Reporting Council (FRC) issued Amendments to FRS 102 The Financial Reporting Standard applicable in the UK and
+Republic of Ireland and other FRSs — Periodic Review 2024, with a principal effective date for accounting periods beginning on or
+after 1 January 2026. The amendments introduce a number of changes to the recognition, measurement, presentation and disclosure
+requirements of FRS 102, including revised requirements in relation to revenue recognition and lease accounting.
+
+The Company is currently assessing the impact of these amendments on its financial statements. Based on the assessment performed
+to date, the Directors expect that the most significant effects may arise from the revised requirements for tease accounting and
+revenue recognition. The company will apply the amendments from the date they become effective.
+
+At the date of approval of these financial statements, the full financial effect of first-time application has not yet been quantified. The
+company will provide the disclosures required by FRS 102 in the period in which the amended requirements are first applied.
+
+3 Summary of significant accounting policies
+
+The principal accounting policies applied in the preparation of these financial statements are set out below. These policies have been
+consistently applied to all the years presented, unless otherwise stated.
+
+(a) Basis of preparation
+
+istorical cost convention; as modified by certain financial assets and
+s required by FRS 102.
+
+These financial statements have been prepared under the hi
+liabilities measured at fair value through profit or loss, when it
+
+(b) Going concern
+
+The Company is a regulated entity. As such, the Company is required to maintain sufficient capital under the regulations of the
+Financial Conduct Authority, which it continues to do. The financial statements have been prepared on a going concern basis as the
+Directors have a reasonable expectation that the Company has adequate resources to continue in operational existence for a period of
+at least 12 months from the date of signing the annual report and financial statements having assessed the business risks, financial
+position and resources of the Company. It is the intention to continue to run the business as such, there are short term and medium
+term financial plans that indicate the Company will continue to operate as a going concern and a reasonable expectation that those
+plans can be implemented.
+
+(c) Exemption under Financial Reporting Standards
+
+FRS 102 allows a qualifying entity certain disclosure exemptions, subject to certain conditions, which have been complied with,
+including notification of, and no objection to, the use of the exemptions by the Company's shareholders. The Company has taken
+advantage of the following exemptions.
+
+Cash Flow Statement - The Company has taken advantage of the exemption, under FRS 102 paragraph 1.12 (b), from preparing a
+statement of cash flows, on the basis that it is a qualifying entity and its ultimate parent company, Bridgepoint Group plc, includes the
+Company's cash flows in their own consolidated financial statements.
+
+Related Party Transactions - The Company has taken advantage of the exemption, under FRS 102 paragraph 33.1A, from the
+requirement to disclose related party transactions within the Bridgepoint Group on the grounds that 100% of the voting rights are
+controlled within the Group. Transactions with the Bridgepoint Group funds and the shareholders of the Bridgepoint Group are not
+exempt and are disclosed where applicable.
+
+Key Management Personnel Compensation - The Company has taken advantage of the exemption, under FRS 102 paragraph 33.7A,
+from disclosing key. management personnel compensation.
+
+Share-Based Payment - The Company has taken advantage of the exemption, under FRS 102 paragraph 1.12 (d), from disclosing
+share-based payment arrangements as they are presented in its ultimate parent's, Bridgepoint Group ple, consolidated financial
+statements and the relevant disclosures are included therein.
+
+Page 13
+
+
+===== page 15 =====
+Docusign Envelope ID: 0B133A9B-E973-8906-804B-34EF56018AFC
+
+Bridgepoint Advisers Limited
+Notes to the Financial Statements for the Year Ended 31 December 2025
+
+3 Summary of significant accounting poli (continued)
+(d) Revenue recognition
+Income is recognised in the Profit and Loss Account and the Statement of Comprehensive Income on an accruals basis.
+
+Turnover comprises mainly management fees earned from the management of various private equity funds. Management fees are
+recognised over the life of each fund based on an agreed percentage of either committed or invested capital, depending on the fund
+and its life stage. Fees are billed in accordance with the Limited Partnership Agreement ("LPA").
+
+Management fees accrued for the management of the funds which at the balance sheet date have not been billed have been recognised
+as revenue and are included in debtors as accrued income.
+
+Turnover also comprises fees and commissions relating to provision of services to the Group affiliates and third parties.
+All revenues are generated within the UK and Luxembourg.
+(©) Other income
+
+Other income consists of lease income from operating leases where the Company acts as an intermediate lessor by entering into a
+subletting agreement. Such contracts represent subleases of office premises.
+
+(f) Management fees expense
+
+Management fees expense are amounts paid to fellow Group entities for advisory services received. These are recognised on an
+accruals basis.
+
+(g) Expenses
+Expenses incurred have been recognised on an accruals basis.
+(h) Deferred acquisition costs
+
+Professional costs, particularly legal and other adviser costs, are incurred when raising a new fund. The limited partnership agreement
+of each fund dictates the aggregate expense that can be recharged to the fund investors on the close of a new fund. Costs in excess of
+the cap and any fees paid to placement agents are capitalised as a current or non-current asset.
+
+The benefit of the incurred costs for private equity funds is primarily considered to be attributable to the period when the primary
+fund investment activity is carried out. Therefore, the useful life of the asset is aligned to the investment period of the fund which is
+between three and five years for private equity funds.
+
+(i) Taxation
+
+Taxation expense for the period comprises current and deferred tax recognised in the reporting period. Tax is recognised in the profit
+and loss account, except to the extent that it relates to items recognised in other comprehensive income or directly in equity. In this
+case tax is also recognised in other comprehensive income or directly in equity respectively.
+
+Current tax is the amount of income tax payable in respect of the taxable profit for the year or prior year. Tax is calculated on the
+basis of tax rates and laws that have been enacted or substantively enacted by the period end.
+
+Deferred tax arises from timing differences that are differences between taxable profits and total comprehensive income as stated in
+the financial statements. These timing differences arise from the inclusion of income and expenses in tax assessments in periods
+different from those in which they are recognised in financial statements. Deferred tax is recognised on all timing differences at the
+reporting date except for certain exceptions.
+
+Unrelieved tax losses and other deferred tax assets are only recognised when it is probable that they will be recovered against the
+reversal of deferred tax liabilities or other future taxable profits. Deferred tax is measured using tax rates and laws that have been
+enacted or substantively enacted by the period end and that are expected to apply to the reversal of the timing difference.
+
+Current or deferred taxation assets and liabilities are not discounted.
+(j) Foreign currency transactions and balances
+
+The Company's functional and presentation currency is the pound sterling. These financial statements are presented in pound sterling
+and rounded to thousands.
+
+Page 14
+
+
+===== page 16 =====
+Docusign Envelope ID: 0B133A9B-E973-8906-804B-34EF56018AFC
+
+Bridgepoint Advisers Limited
+Notes to the Financial Statements for the Year Ended 31 December 2025
+
+3° Summary of significant accounting policies (continued)
+(j)_ Foreign currency transactions and balances (continued)
+
+Foreign currency transactions are translated into the functional currency using the actual rate at the date of the transaction. Monetary
+assets and liabilities denominated in foreign currencies are translated to pound sterling using the closing rate at the year-end. Non-
+monetary items measured at historical cost are translated using the exchange rate at the date of the transaction and non-monetary
+items measured at fair value are measured using the exchange rate when fair value was determined.
+
+Foreign currency exchange differences arising on translation of monetary assets and liabilities, and on settlement of foreign currency
+transactions, are recognised in the Profit and Loss Account, except where hedge accounting is applied in accordance with note 3(0).
+
+(k) Tangible fixed assets and depreciation
+
+Tangible fixed assets are stated at historic cost less accumulated depreciation and any accumulated impairment losses. Historical cost
+includes expenditure that is directly attributable to bringing the asset to the location and condition necessary for it to be capable of
+operating in the manner intended by management.
+
+Repairs and maintenance are charged to profit and loss during the period in which they are incurred. Depreciation is charged as to
+allocate the cost of the asset less their residual value over their estimated useful lives, using the straight-line method:
+
+Asset Class Useful economic life
+Computers, furniture and other 3 to 5 years
+Leasehold improvements Over the lease term
+
+(Cash and cash equivalents
+
+Cash and cash equivalents comprise cash in hand and call deposits, held at call with banks with an original maturity of three months
+or less,
+
+(m) Operating lease rentals
+
+Operating leases are those leases where the Company has use of an asset but where significantly all risks and rewards of ownership
+remain with the lessor and the lease term is not expected to be a significant portion of the useful life of the asset.
+
+Rentals under operating leases are charged to the Profit and Loss Account on a straight-line basis over the lease term. Any incentives
+to enter into an operating lease are credited to the Profit and Loss Account as a reduction of the rental expense on a straight line basis
+over the lease term.
+
+(n)_ Reserves
+
+The Company's reserves are as follows:
+
++ Called up share capital reserve represents the nominal value of the shares issued
+
++ Retained earnings represents cumulative profits or losses, net of dividends paid and other adjustments
+
++ Cash flow hedge reserve represents the cumulative portion of gains and losses on hedging instruments deemed effective
+
++ Share-based payment reserve relates to the accumulated expense from the recognition of equity-settled share-based payments to
+employees that have not yet vested
+
+(0) Derivative financial instruments and hedging
+The Company enters derivative instruments to manage its exposure to foreign exchange rate risk, namely foreign currency forwards
+
+and swaps. Derivative financial instruments are initially measured at fair value on the date on which the derivative contract is entered
+into and are subsequently measured at fair value at each year end.
+
+The resulting gain or loss is recognised in profit or loss in the respective period, unless the derivative is designated in an effective
+hedging relationship, in which event the timing of the recognition in profit or loss depends on the nature of the hedge relationshi
+
+Derivatives are carried as assets when the fair value is positive and as a liability when the fair value is negative. The fair value of the
+forward currency contracts is calculated by reference to the market for forward contracts with similar maturities.
+
+Where the Company has designated the derivatives as cash flow hedges, the effective portion of the gain or loss on the hedging
+instrument is recognised in other comprehensive income in the cash flow hedge reserve while any ineffective portion is recognised
+immediately in the Profit and Loss Account as a gain or loss on cash flow hedges within operating expenses.
+
+Page 15
+
+
+===== page 17 =====
+Docusign Envelope ID: 0B133A9B-E973-8906-8048-34EF56018AFC
+
+Bridgepoint Advisers Limited
+Notes to the Financial Statements for the Year Ended 31 December 2025
+
+3. Summary of significant accounting policies (continued)
+(0) Derivative financial instruments and hedging (continued)
+
+Amounts previously recognised in other comprehensive income and accumulated in equity are transferred to profit or loss in the
+period when the hedged transaction affects profit or loss, such as when the hedged cash flow matures.
+
+(p) Financial instruments
+Financial assets
+
+Basic financial assets, including trade and other debtors, and cash and cash equivalents, are initially recognised at transaction price,
+unless the arrangement constitutes a financing transaction, where the transaction is measured at the present value of the future receipts
+discounted at a market rate of interest net of transaction costs. Such assets are subsequently carried at amortised cost using the
+effective interest method.
+
+Financial liabilities
+
+Basic financial liabilities, including trade and other creditors, and loans from related parties, are initially recognised at transaction
+price, unless the arrangement constitutes a financing transaction, where the debt instrument is measured at the present value of the
+future payments discounted at a market rate of interest.
+
+Financial assets and liabilities are recognised when the Company becomes a party to the contractual provisions of the instrument. The
+Company has chosen to adopt Sections 11 and 12 of FRS 102 in respect of financial instruments.
+
+(q) Pensions
+
+Amounts payable in respect of employer's contributions to the Company's defined contribution pension scheme are recognised in
+administrative expenses on an accruals basis. The assets of the scheme are held separately from those of the Company in an
+independently administered fund.
+
+(r) Dividends
+
+Dividends and other distributions to the Company's shareholder are recognised in the period in which the dividends and other
+distributions are approved by the shareholder. These amounts are recognised in the Statement of Changes in Equity.
+
+4 Judgements in applying accounting policies and key sources of estimation uncertainty
+
+In applying the Company's accounting policies, the Directors may be required to make judgements, estimates and assumptions that
+could impact the amounts reported for assets and liabilities as at the reporting date and the amounts reported for revenues and
+expenses during the year. The Directors' judgements, estimates and assumptions are based on the best and most reliable evidence
+available at the time when the decisions are made, and are based on historical experience and other factors that are considered to be
+applicable. Due to the inherent subjectivity involved in making such judgements, estimates and assumptions, the actual results and
+outcomes may differ.
+
+The judgements, estimates and assumptions are reviewed on an on-going basis. The Directors do not consider the financial statements
+to have any critical estimates or matters requiring significant judgement.
+
+5 Turnover
+
+2025 2024
+
+£000 £1000
+
+Management and other fee income 154,436 184,636
+Other income. 422 446
+154,858 185,082
+
+ee OS NOB
+
+Page 16
+
+
+===== page 18 =====
+Docusign Envelope ID: 0B133A9B-E973-8906-804B-34EF56018AFC
+
+Bridgepoint Advisers Limited
+
+Notes to the Financial Statements for the Year Ended 31 December 2025
+
+6 Profit before tax and interest
+
+This is stated after charging:
+
+2025 2024
+£'000 £'000
+Foreign exchange losses 2,529 1,233
+Depreciation expense ~ 4,533 4,800
+Operating lease expense - property 6,832 1,575
+
+Auditors remuneration paid to Forvis Mazars for the audit of the Company is £49,235 (2024: £49,500). The Company paid auditors’
+
+remuneration of £75,196 (2024: £68,800) on behalf of other Bridgepoint Group entities.
+
+In accordance with SI 2008/489 the Company has not disclosed the fees payable to the Company's auditor for ‘Other services’ as this
+
+information is included in the consolidated financial statements of Bridgepoint Group plc.
+
+7 Employees
+
+The monthly average number of persons employed by the Company (including Directors) during the year, was as follows:
+
+2025 2024
+
+. No. No.
+
+Average employed people 143, 130
+The aggregate payroll costs (including Directors’ remuneration) were as follows:
+
+2025 2024
+
+£000 £1000
+
+‘Wages and bonuses 31,230 27,344
+
+Social security costs 4,545 3,609
+
+Pension costs 1,185 976
+
+Other employee costs 3,103 1,676
+
+Share-based payment expenses 1,961 1,674
+
+35,279
+
+42,024
+
+8 Directors' remuneration
+
+The Directors’ remuneration for the year was as follows:
+
+2025 2024
+
+£'000 £'000
+
+Aggregate emoluments 6,934 5,184
+Pension contributions . 20 HW
+
+The remuneration shown above reflects remuneration: paid directly by the Company. .It does not include any attribution of
+remuneration paid to any Director who is employed and paid by another Group entity as remuneration received by individual
+Directors cannot be sensibly attributed across the entities for which each Director is a Director of.
+
+‘The emoluments of the highest paid Director were £2,782,000 (2024: £2,712,000) and employer contributions to defined contribution
+pensions schemes were nil (2024: nil).
+
+There were no compensation payments outside the normal remuneration process paid to Directors of the Company (2024: nil).
+
+Pagel7
+
+
+===== page 19 =====
+Docusign Envelope ID: 0B133A9B-E973-8906-804B-34EF56018AFC
+
+Bridgepoint Advisers Limited
+Notes to the Financial Statements for the Year Ended 31 December 2025
+
+9 Taxation
+
+(a) Tax expense included in the Profit and Loss Account
+
+2025
+£1000
+Current taxation:
+UK corporation tax 5,298
+UK corporation tax adjustment to prior periods (540)
+Total current tax 4,758
+Deferred taxation:
+Arising from origination and reversal of timing differences (1,099)
+Deferred tax adjustment to prior periods 26
+Total deferred tax (1,073)
+
+Tax charge on profit
+
+(b) Reconciliation of tax charge
+
+2024
+
+£000
+
+9,703
+
+(21)
+
+9,582
+
+(623)
+165
+(458)
+
+The tax on profit before tax for the year is lower than the standard rate of corporation tax in the UK of 25.0% (2024: higher than the
+
+standard rate of corporation tax in the UK of 25.0%).
+
+The differences are reconciled below:
+
+2025 2024
+
+£1000 £'000
+
+Profit before tax 15,444 32,354
+Tax on profit before taxation TO
+
+at the standard rate of corporation tax in the UK of 25.0% (2024: 25.0%) 3,861 8,089
+
+Effect of expenses not deductible in determining taxable profit 338 991
+
+Adjustment in respect of prior periods (514) 44
+
+(176) 1,035
+
+Total tax charges for the year 685 9,124
+
+Page 18
+
+
+===== page 20 =====
+Docusign Envelope ID: 0B133A9B-E973-8906-804B-34EF56018AFC
+
+Bridgepoint Advisers Limited
+Notes to the Financial Statements for the Year Ended 31 December 2025
+
+10 Tangible assets
+
+Computers,
+Leasehold furniture and .
+improvements other Total
+£'000 £000 £'000
+Cost
+At I January 2025 26,762 7,906 34,668
+Additions 1,820 1,173 2,993
+Disposals = (2,010) (2,010)
+At31 December 2025 28,582 7,069 35,651
+Accumulated depreciation
+At | January 2025 (7,400) (5,424) (12,824)
+Charge for the year (3,078) (1,455) (4,533)
+Disposals = 2,010 2,010
+At31 December 2025 (10,478) (4,869) (15,347)
+Net book value at
+At31 December 2024 19,362 2,482 21,844
+At31 December 2025 18,104 2,200 20,304
+11 Debtors
+2025 2024
+£000 £'000
+Amounts due in more than one year:
+Other non-current debtors . 183 1,776
+
+—eee
+
+Other non-current debtors include the deferred cost of acquisition and consist of expenditure in excess of the cap within the LPA and
+fees paid to placement agents. Such costs are capitalised as prepayments and amortised to align with the investment period of the
+fund, which is between three and five years.
+
+2025 2024
+£000 £'000
+Amounts due within one year:
+Trade receivables* 6,931 6,702
+Amounts owed by Group undertakings 83,461 193,970
+Other debtors* 42,266 39,278
+Prepayments and accrued income 6,008 4,784
+138,666, 244,734
+
+* Presentation of prior year has changed to align with current year. There has been no change to the total presented.
+
+Amounts owed by Group undertakings represent short term receivables due from the shareholders and other Group entities. These
+amounts are unsecured, interest free, have no fixed date of repayments and are payable on demand. The decrease in the year is due to
+an exercise undertaken to offset and clear down intercompany balances among Group entities.
+
+Other debtors includes amounts to be invoiced to funds and portfolio companies managed by the Company in relation to expenses
+incurred on their behalf, and amounts invoiced to portfolio companies for services provided by the Company. Such costs include deal
+and fundraising expenditure and professional fees. Amounts invoiced for services include monitoring fees. At the end of the year, _
+within other debtors, amounts receivable from these parties was £16.9m (2024: £19.8m).
+
+Page 19
+
+
+===== page 21 =====
+Docusign Envelope 1D: 0B133A9B-E973-8906-804B-34EF 5601 8AFC
+
+Bridgepoint Advisers Limited
+Notes to the Financial Statements for the Year Ended 31 December 2025
+
+11 Debtors (continued)
+
+Further details on related party transactions with funds is given in note 17. The balance also includes £8.1m of expenses receivable
+from Carried Interest Partnerships and £3.4m VAT receivable. Other debtors also include the current deferred cost of acquisition
+£2.2m (2024: £2.7m).
+
+12 Finance derivative instrument
+
+The Company has entered into a series of forward trades and swap agreements to sell EUR and buy GBP at various dates in the future
+to reduce the currency exposure of EUR denominated income to future spot rate volatility. At 3] December 2025, the Company had
+£438.5m (2024: £313.3m) of forward trades maturing through 2026-2028 (2024: 2025-2027) to match certain expected future cash
+flows.
+
+The net aggregate mark-to-market value of these hedges at 31 December 2025 was a liability of £0.2m (2024: asset £8.6m).
+
+These hedges are in place to match known future cash flows, and the Company has decided to use cash flow hedge accounting as
+allowed and determined under FRS 102.
+
+The change in value that has been recognised through Profit and Loss (ineffective portion) is nil (2024: nil) and the amount
+recognised in the cash flow hedge reserve during the year (effective portion) is a loss of £13.2m (2024: gain of £8.3m). The value of
+the forward trades is recognised through the Profit and Loss Account at the point of maturity of each trade which will match the
+recognition of certain of the underlying cash flows of the business which the hedges relate to. During 2025 hedges with a gain value
+of £4.4m at the prior year end were released to the Profit and Loss (2024: gain of £0.3m). There was no hedge ineffectiveness.
+
+Fair value hierarchy
+
+Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market
+participants at the measurement date in the principal, or in its absence, the most advantageous market to which the Company has
+access to at that date. The fair value of a liability reflects its non-performance risk.
+
+The Group discloses fair values using the following fair value hierarchy that reflects the significance of the inputs used in making the
+measurements:
+
+= Level 1: Quoted prices (unadjusted) in active markets for identical assets or liabilities;
+
+- Level 2: Inputs other than quoted prices included within level 1 that are observable for assets or liabilities, either directly (i.e. as
+prices) or indirectly (i.e. derived from prices); and
+
+- Level 3: Inputs for assets or liabilities that are not based on observable market data (i.e. unobservable inputs).
+
+The following table summarises the valuation of the Company's financial assets and liabilities by fair value hierarchy:
+
+2025 2024
+£°000 £'000
+Financial Assets
+Level 1 - -
+Level 2 2,211 11,051
+Level 3 =
+ee LOS
+2025 2024
+Financial Liabilities £°000 £000
+Level 1 _ _
+Level 2 (2,444) (2,456)
+Level 3 = =
+2,444 2,456
+
+Page 20
+
+
+===== page 22 =====
+Docusign Envelope ID: 0B133A9B-E973-8906-804B-34EF56018AFC
+
+Bridgepoint Advisers Limited
+
+Notes to the Financial Statements for the Year Ended 31 December 2025
+
+13 Creditors: amounts falling due within one year
+
+Trade creditors
+
+Amounts owed to Group undertakings
+Accruals and deferred income
+
+Other creditors
+
+Group relief payable
+
+2025 2024
+£'000 £'000
+1,599 2,101
+
+111,637 133,824
+51,406 37,585
+1,923 1,668
+14,339 9,582
+
+180,904 184,760
+
+Amounts owed to Group undertakings represent short term payables that are unsecured, interest free, have no fixed date of
+
+repayments and are payable on demand.
+
+14 Deferred tax assets / (liabilities)
+
+Accelerated capital allowances
+Other
+Management fee hedging
+
+15 Called up share capital
+Authorised
+
+2025
+
+Ordinary Shares of £ 1 each 50,000
+
+Allotted, called up and fully paid shares
+2025
+
+Ordinary Shares of £ 1 each
+
+2025 2024
+£°000 £'000
+(237) (1,279)
+300 270
+38 (2,149)
+
+3,158
+
+The shares have the rights and restrictions as set out in the Articles of Association of the Company.
+
+16 Operating lease commitments
+
+By due date:
+
+- within one year
+
+- between two and five years
+«after five years
+
+Page 21
+
+2024
+£000 No. £'000
+50 50,000 50
+2024
+£000 No. £'000
+5 5,000 3
+2025 2024
+£'000 £'000
+9,527 9,617
+38,108 38,236
+
+4,763 14,538
+
+52,398 62,391
+
+
+===== page 23 =====
+Docusign Envelope ID: 0B133A9B-E973-8906-804B-34EF56018AFC
+
+Bridgepoint Advisers Limited
+Notes to the Financial Statements for the Year Ended 31 December 2025
+
+17 Related party transactions
+The funds are related parties of the Company. Amounts received as fees from, and reimbursement of expenses paid on behalf of the
+funds during the year are shown in the table below, along with the amounts receivable at year end.
+
+2025 2024
+£'000 £000
+Amounts received from funds : 151,615 205,489
+Amounts paid on behalf of the funds 6,803 13,731
+Amounts receivable from funds 3,216 8,501
+
+18 Parent and ultimate parent undertaking
+
+The Company's immediate parent is Bridgepoint Advisers Holdings, incorporated in England and Wales, United Kingdom. The
+address of Bridgepoint Advisers Holdings’ registered office is 5 Marble Arch, London, WIH 7EJ, United Kingdom.
+
+The parent of the largest group in which these financial statements are consolidated is Bridgepoint Group ple, incorporated in England
+and Wales, United Kingdom. The parent of the smallest group in which these financial statements are consolidated is Bridgepoint OP
+LP, incorporated in England and Wales, United Kingdom. The address of the registered office of Bridgepoint Group ple and
+Bridgepoint OP LP is 5 Marble Arch, London, W1H 7EJ.
+
+The financial statements of Bridgepoint Group plc are available from Companies House, Crown Way, Cardiff, CF14 3UZ.
+
+19 Events after the end of the reporting period
+There have been no material events after the reporting period that would require adjusting or disclosing within these accounts.
+
+Page 22
