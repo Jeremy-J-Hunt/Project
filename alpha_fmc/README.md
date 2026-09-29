@@ -7,6 +7,7 @@ Companies House filings and structure mapping for Alpha FMC, which Bridgepoint E
 | Path | Contents |
 |---|---|
 | `STRUCTURE_ANALYSIS.md` | Written analysis of the structure (hand-written, with sources cited) |
+| `org_chart.html` | Org chart diagram (regenerate with `python3 org_chart_build.py`) |
 | `structure.md` | Auto-generated ownership tree from the PSC registers, plus charges, directors and latest accounts |
 | `document_index.csv` | One row per PDF: company, date, filing type, PDF path and OCR text path |
 | `companies/<number>_<name>/` | `profile.json`, `officers.json`, `psc.json`, `charges.json` and `filing_history.json` |
